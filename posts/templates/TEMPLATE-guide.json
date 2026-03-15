@@ -1,0 +1,68 @@
+{
+  "_info": {
+    "item_type": "guide",
+    "total_posts": 6,
+    "campaign_length": "14 days",
+    "platforms": "LinkedIn + Facebook + Instagram",
+    "schedule": [
+      "Post 1 — Day 0  — pain_hook           — LK + FB + IG",
+      "Post 2 — Day 2  — framework_breakdown — LK + FB + IG",
+      "Post 3 — Day 4  — who_this_is_for     — LK + FB + IG",
+      "Post 4 — Day 6  — case_scenario       — LK + FB",
+      "Post 5 — Day 9  — objection_killer    — LK + FB + IG",
+      "Post 6 — Day 12 — scarcity_push       — LK + FB + IG"
+    ]
+  },
+  "id": "guide-id-here",
+  "title": "Guide Title Here",
+  "item_type": "guide",
+  "priority": 1,
+  "publish_date": "YYYY-MM-DD",
+  "url": "https://publixion.com/guides/guide-id-here",
+  "image_url": "images/guides/guide-id-here.jpg",
+  "carousel_images": [],
+  "posts": [
+    {
+      "_type": "pain_hook",
+      "_note": "Talk about the problem. No link in first 3-5 lines. Make them feel the frustration. Then reveal the guide.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Open with the pain. No link until the end.\n\n#Hashtag1 #Hashtag2 #Publixion",
+      "facebook": "WRITE FACEBOOK POST HERE.\n\n#Hashtag1 #Hashtag2",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE.\n\nLink in bio.\n\n#Hashtag1 #Hashtag2 #Publixion"
+    },
+    {
+      "_type": "framework_breakdown",
+      "_note": "Show 1 key model or system inside the guide. Build authority. Teach something real.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Teach the framework.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "who_this_is_for",
+      "_note": "Call out specific types of people this guide is for. Be precise — specificity sells.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Name the exact reader.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "case_scenario",
+      "_note": "Show how a specific person would use this guide step by step. LinkedIn + Facebook only.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Walk through a real use case.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": ""
+    },
+    {
+      "_type": "objection_killer",
+      "_note": "Handle the top doubts: price, time, skill level, whether it will work for them.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Address objections directly.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "scarcity_push",
+      "_note": "Price going up, bonus expiring, or limited window. Create a real reason to act now.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Make the urgency real and specific.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    }
+  ]
+}

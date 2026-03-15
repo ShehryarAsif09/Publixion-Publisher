@@ -1,0 +1,122 @@
+{
+  "_info": {
+    "item_type": "magazine",
+    "total_posts": 12,
+    "campaign_length": "32 days (7 days pre-launch + 25 days post-launch)",
+    "platforms": "LinkedIn + Facebook + Instagram",
+    "schedule": [
+      "Post 1  — Day -7 — edition_tease       — LK + FB + IG  (7 days before launch)",
+      "Post 2  — Day -5 — cover_reveal        — LK + FB + IG  (5 days before launch)",
+      "Post 3  — Day -3 — table_of_contents   — LK + IG       (3 days before launch)",
+      "Post 4  — Day 0  — article_spotlight_1 — LK + FB + IG  (launch day)",
+      "Post 5  — Day 2  — article_spotlight_2 — LK + FB + IG",
+      "Post 6  — Day 4  — article_spotlight_3 — LK + FB",
+      "Post 7  — Day 6  — article_quote_1     — LK + FB + IG",
+      "Post 8  — Day 8  — article_quote_2     — FB + IG",
+      "Post 9  — Day 10 — behind_the_scenes   — LK + FB + IG",
+      "Post 10 — Day 0  — launch_announcement — LK + FB + IG  (launch day, different slot)",
+      "Post 11 — Day 14 — mid_month_reminder  — LK + FB + IG",
+      "Post 12 — Day 25 — last_call           — LK + FB + IG"
+    ],
+    "note": "publish_date = the edition launch date. Pre-launch posts (Day -7, -5, -3) fire automatically before that date."
+  },
+  "id": "magazine-edition-id",
+  "title": "Magazine Edition Title — e.g. Publixion Vol. 1 Issue 3",
+  "item_type": "magazine",
+  "priority": 1,
+  "publish_date": "YYYY-MM-DD",
+  "url": "https://publixion.com/magazines/edition-id",
+  "image_url": "images/magazines/edition-id-cover.jpg",
+  "carousel_images": [
+    "images/magazines/edition-id-cover.jpg",
+    "images/magazines/edition-id-toc.jpg",
+    "images/magazines/edition-id-preview-1.jpg",
+    "images/magazines/edition-id-preview-2.jpg"
+  ],
+  "posts": [
+    {
+      "_type": "edition_tease",
+      "_note": "7 days before launch. Tease what is coming. Build anticipation. Do not reveal the cover yet.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Build excitement without showing everything.\n\n#Publixion #Magazine #ComingSoon",
+      "facebook": "WRITE FACEBOOK POST HERE.\n\n#Publixion #Magazine",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE.\n\nLink in bio.\n\n#Publixion #Magazine #ComingSoon"
+    },
+    {
+      "_type": "cover_reveal",
+      "_note": "5 days before launch. Reveal the cover. Show the edition name, theme, key topics.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Reveal the cover. Announce the theme.\n\n#Publixion #Magazine",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE. Use carousel_images for a multi-image reveal."
+    },
+    {
+      "_type": "table_of_contents",
+      "_note": "3 days before launch. Show what is inside. LinkedIn + Instagram only.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Walk through the table of contents. Make every section sound essential.",
+      "facebook": "",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE. Use carousel to show TOC visually."
+    },
+    {
+      "_type": "article_spotlight_1",
+      "_note": "Launch day. Spotlight the first featured article. Pull the best insight from it.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Spotlight Article 1 — title, key insight, why it matters.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "article_spotlight_2",
+      "_note": "Day 2. Spotlight the second featured article.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Spotlight Article 2.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "article_spotlight_3",
+      "_note": "Day 4. Spotlight the third featured article. LinkedIn + Facebook only.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Spotlight Article 3.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": ""
+    },
+    {
+      "_type": "article_quote_1",
+      "_note": "Day 6. Pull a powerful quote or stat from one article. Short and punchy.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Single quote or stat. Let it breathe.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "article_quote_2",
+      "_note": "Day 8. Second quote pull. Facebook + Instagram only.",
+      "linkedin": "",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "behind_the_scenes",
+      "_note": "Day 10. How this edition was created. Writers, research, editorial process. Builds brand depth.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Show the work behind the edition.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "launch_announcement",
+      "_note": "Launch day (same day as article_spotlight_1 but different time slot). Direct CTA. Link front and centre.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Direct announcement. This edition is live. Here is where to get it.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE. Link in bio."
+    },
+    {
+      "_type": "mid_month_reminder",
+      "_note": "Day 14. Simple reminder. Still available. Show what they are missing.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Mid-month nudge.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "last_call",
+      "_note": "Day 25. Final push. This edition closes soon or next edition is coming. Create finality.",
+      "linkedin": "WRITE LINKEDIN POST HERE. Last call. Make it feel final.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    }
+  ]
+}

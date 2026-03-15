@@ -1,0 +1,89 @@
+{
+  "_instructions": {
+    "publish_date": "Set this to the exact date the item goes live on Amazon/Publixion. YYYY-MM-DD format.",
+    "image_url": "Either a full https:// URL OR a repo-relative path like 'images/books/your-item-id.jpg'",
+    "carousel_images": "Repo-relative paths or full URLs for Instagram carousel slides (cover first, then slides)",
+    "priority": "1 = new release (posts first), 2 = standard, 3 = backlist/evergreen",
+    "post_text": "Leave platform text empty string if that platform is disabled for that post type"
+  },
+  "id": "your-item-id",
+  "title": "Your Book / Guide / Report Title",
+  "item_type": "book",
+  "priority": 1,
+  "publish_date": "YYYY-MM-DD",
+  "url": "https://publixion.com/books/your-item-id",
+  "image_url": "images/books/your-item-id.jpg",
+  "carousel_images": [
+    "images/books/your-item-id.jpg",
+    "images/social/your-item-id-slide-2.jpg",
+    "images/social/your-item-id-slide-3.jpg",
+    "images/social/your-item-id-slide-4.jpg",
+    "images/social/your-item-id-slide-5.jpg"
+  ],
+  "posts": [
+    {
+      "_type": "identity_hook",
+      "_platforms": "LinkedIn + Facebook + Instagram",
+      "_scheduled": "Day 0 — launch day",
+      "linkedin": "WRITE LINKEDIN POST HERE.\n\n#Hashtag1 #Hashtag2",
+      "facebook": "WRITE FACEBOOK POST HERE (shorter than LK).\n\n#Hashtag1 #Hashtag2",
+      "instagram": "WRITE SHORT INSTAGRAM CAPTION HERE.\n\n#Hashtag1 #Hashtag2"
+    },
+    {
+      "_type": "author_positioning",
+      "_platforms": "LinkedIn + Facebook only",
+      "_scheduled": "Day 3",
+      "linkedin": "WRITE LINKEDIN POST HERE.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": ""
+    },
+    {
+      "_type": "chapter_carousel",
+      "_platforms": "Instagram only",
+      "_scheduled": "Day 6",
+      "linkedin": "",
+      "facebook": "",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE. Include 'Swipe to see what is inside 👉'\n\n#Hashtag1"
+    },
+    {
+      "_type": "controversial_take",
+      "_platforms": "LinkedIn + Facebook + Instagram",
+      "_scheduled": "Day 9",
+      "linkedin": "WRITE LINKEDIN POST HERE.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "excerpt",
+      "_platforms": "LinkedIn + Facebook + Instagram",
+      "_scheduled": "Day 13",
+      "linkedin": "WRITE LINKEDIN POST HERE.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "comparison",
+      "_platforms": "LinkedIn + Facebook only",
+      "_scheduled": "Day 17",
+      "linkedin": "WRITE LINKEDIN POST HERE.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": ""
+    },
+    {
+      "_type": "faq",
+      "_platforms": "LinkedIn + Facebook + Instagram",
+      "_scheduled": "Day 22",
+      "linkedin": "WRITE LINKEDIN POST HERE. Q&A format.",
+      "facebook": "WRITE FACEBOOK POST HERE. Shorter Q&A.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    },
+    {
+      "_type": "final_push",
+      "_platforms": "LinkedIn + Facebook + Instagram",
+      "_scheduled": "Day 28",
+      "linkedin": "WRITE LINKEDIN POST HERE.",
+      "facebook": "WRITE FACEBOOK POST HERE.",
+      "instagram": "WRITE INSTAGRAM CAPTION HERE."
+    }
+  ]
+}

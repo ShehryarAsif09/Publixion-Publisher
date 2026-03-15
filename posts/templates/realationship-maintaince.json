@@ -1,0 +1,90 @@
+{
+  "_info": {
+    "item_type": "book",
+    "total_posts": 8,
+    "campaign_length": "30 days",
+    "platforms": "LinkedIn + Facebook + Instagram",
+    "schedule": [
+      "Post 1 — Day 0  — identity_hook       — LK + FB + IG",
+      "Post 2 — Day 3  — author_positioning  — LK + FB",
+      "Post 3 — Day 6  — chapter_carousel    — IG only",
+      "Post 4 — Day 9  — controversial_take  — LK + FB + IG",
+      "Post 5 — Day 13 — excerpt             — LK + FB + IG",
+      "Post 6 — Day 17 — comparison          — LK + FB",
+      "Post 7 — Day 22 — faq                 — LK + FB + IG",
+      "Post 8 — Day 28 — final_push          — LK + FB + IG"
+    ]
+  },
+  "id": "relationship-maintenance",
+  "title": "Relationship Maintenance",
+  "item_type": "book",
+  "priority": 1,
+  "publish_date": "2026-03-17",
+  "url": "https://publixion.com/book/relationship-maintenance",
+  "image_url": "images/books/relationship-maintaince.png",
+  "carousel_images": [
+    "images/books/relationship-maintaince.png",
+    "images/social/relationship-maintenance-slide-2.jpg",
+    "images/social/relationship-maintenance-slide-3.jpg",
+    "images/social/relationship-maintenance-slide-4.jpg",
+    "images/social/relationship-maintenance-slide-5.jpg"
+  ],
+  "posts": [
+    {
+      "_type": "identity_hook",
+      "_note": "Hook: This book is for people who want to become X. Stop the scroll. Claim the reader's identity.",
+      "linkedin": "This book is for the couple who still loves each other.\n\nAnd is quietly terrified that love might not be enough.\n\nYou are not in a bad relationship.\nYou are in an unmaintained one.\n\nAnd there is a difference.\n\nA bad relationship needs to end.\nAn unmaintained one needs a system.\n\nRelationship Maintenance gives you that system.\n\nNot a list of tips.\nNot another conversation about communication styles.\nNot a retreat or a therapist's waitlist.\n\nA 45-minute weekly protocol that keeps two people genuinely known to each other — through careers, children, financial pressure, grief, and the relentless ordinary weight of a shared life.\n\nBuilt around the W.E.E.K. Framework.\nBacked by four decades of relationship science.\nWritten for couples who are serious about what they are building.\n\nIf you have ever looked across the table at the person you chose and felt the distance without being able to name it —\n\nThis book was written for that moment.\n\nGet it now at publixion.com\n\n#RelationshipMaintenance #MarriageAdvice #CouplesGoals #Relationships #Publixion",
+      "facebook": "This book is not for couples in crisis.\n\nIt is for couples who are fine — and know that fine is not what they signed up for.\n\nRelationship Maintenance is the weekly system that keeps love strong, conflict low, and connection real — without therapy, retreats, or grand gestures.\n\nJust 45 intentional minutes, every week, with the person you chose.\n\nGet it at publixion.com\n\n#RelationshipMaintenance #CouplesGoals #Publixion",
+      "instagram": "For the couple who still loves each other and is quietly worried that love alone might not be enough.\n\nThis is the system that makes it enough.\n\nRelationship Maintenance. Now available at Publixion.\n\nLink in bio.\n\n#RelationshipMaintenance #CouplesGoals #MarriageAdvice #LongTermRelationship #Publixion"
+    },
+    {
+      "_type": "author_positioning",
+      "_note": "Why Publixion built this. The origin story. What the system solves. LinkedIn + Facebook only.",
+      "linkedin": "We built this book because the relationship self-help genre has a problem.\n\nIt is enormous, well-intentioned, and almost entirely built for couples who are already in crisis.\n\nWalk into any bookshelf and you will find titles about surviving affairs, recovering from betrayal, rebuilding after deception.\n\nThese books are necessary. For the couples who need them, they are lifelines.\n\nBut they are emergency rooms.\n\nNot gyms.\n\nThey treat the wound after it has opened rather than building the strength that might have prevented it.\n\nWe wanted to build the gym.\n\nA system — not a sentiment.\nA protocol — not a principle.\nSomething with the same reliable logic as a workout program, where a couple can look at week three and know exactly what to do, why it matters, and what measurable change to expect.\n\nSo we spent months researching four decades of relationship science — Gottman, Johnson, Fisher, Perel, Aron — and built the W.E.E.K. Framework around what the data actually shows keeps couples strong.\n\nNot passion. Not compatibility. Not luck.\n\nIntentionality made structural.\n\nThat is Relationship Maintenance.\nAnd it is available now at publixion.com\n\n#RelationshipMaintenance #Publixion #CouplesSystem #MarriageSystem #RelationshipScience",
+      "facebook": "Most relationship books are written for couples who are already broken.\n\nWe built Relationship Maintenance for couples who are not broken — and want to make sure they never get there.\n\nIt is a weekly system. Research-backed. Immediately applicable. Built around a 45-minute protocol that keeps love strong and conflict low in the ordinary weeks, the pressured weeks, and every week in between.\n\nNot therapy. Not a retreat. A system.\n\nRead more at publixion.com\n\n#RelationshipMaintenance #MarriageAdvice #Publixion",
+      "instagram": ""
+    },
+    {
+      "_type": "chapter_carousel",
+      "_note": "Instagram only. Show value per chapter. Use carousel_images defined above. Include swipe prompt.",
+      "linkedin": "",
+      "facebook": "",
+      "instagram": "11 chapters. One complete system for the relationship you are choosing to build.\n\nSwipe to see what is inside. 👉\n\nSlide 1: The Drift Effect — why couples grow apart without a single dramatic reason, and the five-stage model that maps exactly where you are.\n\nSlide 2: The W.E.E.K. Check-In — the 45-minute weekly protocol that functions as your relationship's heartbeat.\n\nSlide 3: Communication Scripts — the Soft Startup Formula, the L.E.A.N. listening model, and a ready-to-use script library for every hard conversation.\n\nSlide 4: Conflict Without Casualties — the C.A.L.M. framework that structures every fight so it ends in resolution rather than damage.\n\nSlide 5: The Maintenance Mindset — how to make this a permanent identity rather than a temporary project.\n\nPlus: The Emotional Debt Audit. The Repair Ritual Framework. The Five-Year Shared Vision. The 30-Day Implementation Plan.\n\nEverything you need. Nothing you do not.\n\nLink in bio.\n\n#RelationshipMaintenance #CouplesGoals #MarriageAdvice #Publixion #RelationshipSystem"
+    },
+    {
+      "_type": "controversial_take",
+      "_note": "Bold contrarian statement from the book. Designed to spike engagement and challenge assumptions.",
+      "linkedin": "Hot take: Date nights do not save marriages.\n\nI know. It is the advice everyone gives.\n\nStruggling with your partner? Book a babysitter. Go to dinner. Reconnect.\n\nAnd yes — dinner is lovely. But dinner once a month is a gesture, not a system. It addresses the symptom without touching the structure.\n\nHere is what the research actually shows:\n\nCouples who schedule regular, structured check-in conversations — not dates, not activities, not passive time together — report relationship satisfaction scores 3.5 times higher than couples who rely on spontaneous connection.\n\n3.5 times.\n\nNot because the conversation is magic. Because it is consistent. Because it makes both people's emotional reality visible to each other week by week, before the invisible distance becomes the kind of distance that requires a crisis to name.\n\nDate nights are a deposit.\nWeekly check-ins are the account.\n\nYou need both. But one of them is keeping the relationship alive. And it is not the one with the reservation.\n\nRelationship Maintenance is built around the practice that actually works. Get it at publixion.com\n\n#RelationshipMaintenance #MarriageTruths #CouplesAdvice #RelationshipScience #Publixion",
+      "facebook": "Unpopular opinion: Date nights do not save marriages.\n\nThey are a gesture. Not a system.\n\nResearch shows that couples who have structured weekly check-in conversations — not fancy dinners, not activities — report 3.5x higher relationship satisfaction than those who rely on spontaneous connection.\n\nThe weekly conversation is the account. The date night is a deposit. You need both — but one of them is what keeps the relationship alive.\n\nRelationship Maintenance is built around the practice that the research actually supports.\n\npublixion.com\n\n#RelationshipMaintenance #MarriageAdvice #Publixion",
+      "instagram": "Date nights do not save marriages.\n\nStructured weekly connection does.\n\nThe research on this is unambiguous. We built a whole system around it.\n\nRelationship Maintenance. Link in bio.\n\n#RelationshipTruths #MarriageAdvice #CouplesGoals #Publixion"
+    },
+    {
+      "_type": "excerpt",
+      "_note": "A powerful passage or story from the book. Give free value. Build reciprocity.",
+      "linkedin": "This is a real passage from Chapter 1 of Relationship Maintenance.\n\nRead it slowly.\n\n---\n\nDrift is not the loud enemy of love. It is the quiet one. It does not arrive with warning signs or ultimatums. It arrives dressed as routine, as busyness, as 'we'll make time for that later.' It arrives looking exactly like a normal life. And by the time most couples recognize it, they are already standing in a house that feels like it belongs to two polite strangers who used to know each other very well.\n\nMost couples do not fail from explosive crises. They fail from slow drift. And the difference between the couples who reverse it and those who do not is not passion, compatibility, or the absence of hard circumstances. It is intentionality made structural.\n\n---\n\nIf that sentence landed somewhere real for you, the book is at publixion.com\n\nThe Drift Diagnostic in Chapter 1 takes ten minutes and will tell you exactly where you are standing right now.\n\n#RelationshipMaintenance #DriftEffect #LongTermRelationship #MarriageAdvice #Publixion",
+      "facebook": "From Chapter 1 of Relationship Maintenance:\n\n\"Drift is not the loud enemy of love. It is the quiet one. It does not arrive with warning signs or ultimatums. It arrives dressed as routine, as busyness, as 'we'll make time for that later.' It arrives looking exactly like a normal life.\"\n\nIf that resonates — the book has a system for exactly this.\n\nThe Drift Diagnostic in Chapter 1 takes ten minutes and will show you exactly where your relationship currently stands.\n\nGet it at publixion.com\n\n#RelationshipMaintenance #Publixion",
+      "instagram": "From Chapter 1 of Relationship Maintenance:\n\n\"Drift is not the loud enemy of love. It is the quiet one.\"\n\nIf you felt that — the book has a complete system for reversing it.\n\nLink in bio.\n\n#RelationshipMaintenance #LongTermLove #MarriageAdvice #CouplesGoals #Publixion"
+    },
+    {
+      "_type": "comparison",
+      "_note": "Why this is different from everything else in the category. LinkedIn + Facebook only.",
+      "linkedin": "Here is every relationship book on the market right now:\n\nCategory 1: Crisis rescue books.\nFor couples surviving betrayal, addiction, or serious rupture. Necessary and important. Not what most couples need.\n\nCategory 2: Theory-heavy academic translations.\nRigorously researched. Written like a graduate textbook. Puts down the principles and leaves the reader to figure out application.\n\nCategory 3: The date-night list.\nGentle, optimistic, forgettable by Tuesday. Long on suggestion, short on structure.\n\nNone of these categories gives a couple what they actually need: a system.\n\nNot inspiration. Not information. A repeatable, structured, weekly operating protocol that works in ordinary life — under work pressure, with small children, in the weeks where love feels like a logistical partnership more than a chosen intimacy.\n\nRelationship Maintenance is that system.\n\nIt is built around the W.E.E.K. Framework — a four-component 45-minute weekly protocol grounded in four decades of relationship science. It includes communication scripts, conflict resolution templates, an intimacy planning framework, an emotional debt audit, a repair ritual design guide, and a 30-day implementation plan.\n\nNot principles. Protocols.\nNot insight. Tools.\nNot a better version of what already exists. Something the category has been missing.\n\nGet it at publixion.com\n\n#RelationshipMaintenance #MarriageSystem #CouplesTools #Publixion #RelationshipBooks",
+      "facebook": "Most relationship books are either for couples in crisis or so abstract they forget to tell you what to actually do on Tuesday evening.\n\nRelationship Maintenance is neither.\n\nIt is a weekly system. Built on research. Designed for real life. Complete with scripts, templates, and a 30-day plan that begins the morning after you finish reading.\n\nNot principles. Protocols.\n\npublixion.com\n\n#RelationshipMaintenance #Publixion #MarriageAdvice",
+      "instagram": ""
+    },
+    {
+      "_type": "faq",
+      "_note": "Answer 5 buying hesitations directly and honestly. Q&A format.",
+      "linkedin": "Five questions we get about Relationship Maintenance. Answered honestly.\n\nQ: Our relationship is not in crisis. Is this book for us?\nA: It was written specifically for you. The majority of readers describe their relationship as good or fine — and privately feel that fine is not what they signed up for. This is a maintenance system, not a rescue kit. It is most powerful before the damage is visible.\n\nQ: My partner is resistant to relationship books. What do I do?\nA: Start with Chapter 2. Ask your partner to agree to 45 minutes of structured conversation — not a book club, a conversation. Most resistant partners are engaged participants by week three, when the results speak for themselves.\n\nQ: How much time does this actually require each week?\nA: 45 minutes for the weekly check-in. 5 to 8 minutes of daily micro-practices. Under two hours total across a full week. Most couples spend more time than that on a single episode of television they watch together.\n\nQ: We already argue a lot. Will this make it worse?\nA: The first four weeks can surface tensions that have been building without a container. This is not the system making things worse — it is the system giving existing issues somewhere to go. Chapter 4's C.A.L.M. framework is built specifically for this transition period.\n\nQ: How long before we see a real difference?\nA: Most couples report a measurable shift in emotional connection within three to four weeks of consistent practice. The Drift Diagnostic, retaken at Day 30, typically shows a 15 to 30 point improvement.\n\nGet the book at publixion.com\n\n#RelationshipMaintenance #CouplesAdvice #MarriageSystem #Publixion",
+      "facebook": "The five questions we hear most about Relationship Maintenance:\n\nQ: Our relationship is fine. Is this for us?\nA: Fine is exactly who this is for. Maintenance works best before the crisis.\n\nQ: My partner will not read relationship books.\nA: Do not frame it as a book. Frame it as a 45-minute weekly conversation you want to try for a month.\n\nQ: How much time does it take?\nA: 45 minutes per week for the core practice. Less time than one episode of most shows you are currently watching.\n\nQ: Will it make our arguments worse at first?\nA: It may surface things that have been sitting unaddressed. The book includes a specific protocol for exactly this.\n\nQ: How fast will we see results?\nA: Most couples report feeling genuinely closer within three to four weeks of consistent practice.\n\nGet it at publixion.com\n\n#RelationshipMaintenance #Publixion #CouplesGoals",
+      "instagram": "The question we hear most:\n\n\"Our relationship is fine. Do we really need this?\"\n\nFine is exactly who this is for.\n\nMaintenance is most powerful before the crisis — not after it.\n\nRelationship Maintenance. Link in bio.\n\n#RelationshipMaintenance #CouplesGoals #MarriageAdvice #Publixion"
+    },
+    {
+      "_type": "final_push",
+      "_note": "Urgency + outcome reminder. Hard close. Use cover image.",
+      "linkedin": "One month from today, you could have:\n\nA weekly check-in practice that keeps you and your partner genuinely known to each other.\n\nA communication script that turns the conversation you have been avoiding into the one that finally changes things.\n\nA conflict protocol that ends arguments without the damage that used to linger for days.\n\nA repair ritual with a name that both of you know how to use.\n\nA shared five-year vision written in both your handwriting.\n\nA Drift Diagnostic score 20 points higher than where you started.\n\nOr you could have exactly what you have right now.\n\nThe gap between those two outcomes is not luck, compatibility, or circumstance.\n\nIt is 45 minutes a week and the decision to spend them intentionally.\n\nRelationship Maintenance is available now at publixion.com\n\nThe 30-Day Implementation Plan begins the morning after you finish reading.\n\nStart on Sunday.\n\n#RelationshipMaintenance #MarriageGoals #CouplesSystem #Publixion #StartOnSunday",
+      "facebook": "One month from today, you could have a weekly system that keeps your relationship strong — not by luck, not by grand gestures, but by 45 intentional minutes every week with the person you chose.\n\nOr you could have exactly what you have right now.\n\nRelationship Maintenance is available now at publixion.com\n\nThe 30-Day Plan starts the morning after you finish reading.\n\nStart on Sunday.\n\n#RelationshipMaintenance #Publixion #StartOnSunday",
+      "instagram": "One month from today.\n\nYou could have a system.\nOr you could have the same Sunday you had last week.\n\nRelationship Maintenance. The choice is simple.\n\nLink in bio.\n\nStart on Sunday.\n\n#RelationshipMaintenance #CouplesGoals #MarriageAdvice #Publixion #StartOnSunday"
+    }
+  ]
+}
