@@ -49,14 +49,17 @@ function getCurrentSlot() {
   return { date, slot };
 }
 
-// Pick posts due for this exact date + time slot
+// Pick posts due for this slot — includes overdue past-dated posts
 function pickPostsForSlot(queue, date, slot) {
   return queue.filter(post => {
     if (post.status === 'done') return false;
-    if (post.scheduled_date !== date) return false;
-    if (post.scheduled_time !== slot) return false;
+    if (post.scheduled_date > date) return false;
+    if (post.scheduled_date === date && post.scheduled_time !== slot) return false;
     return Object.values(post.platforms).some(p => p.enabled && p.status === 'pending');
-  }).sort((a, b) => a.priority - b.priority || a.post_number - b.post_number);
+  }).sort((a, b) => {
+    if (a.scheduled_date !== b.scheduled_date) return a.scheduled_date.localeCompare(b.scheduled_date);
+    return a.priority - b.priority || a.post_number - b.post_number;
+  }).slice(0, 2);
 }
 
 // ── LINKEDIN ──────────────────────────────────────────────────────────
