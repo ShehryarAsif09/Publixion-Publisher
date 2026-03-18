@@ -19,7 +19,7 @@ const TEMPLATES_DIR = path.join(__dirname, '../posts/templates');
 const QUEUE_PATH    = path.join(__dirname, '../posts/queue.json');
 
 const REPO_OWNER = process.env.GITHUB_REPOSITORY_OWNER || 'YOUR-ORG';
-const REPO_NAME  = process.env.GITHUB_REPOSITORY_NAME  || 'publixion-social';
+const REPO_NAME  = process.env.GITHUB_REPOSITORY_NAME  || 'Publixion-Publisher';
 
 // ── SCHEDULES (identical to generate_posts.js) ────────────────────────
 const SCHEDULES = {
