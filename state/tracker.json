@@ -1,8 +1,50 @@
 {
-  "last_run": "2026-03-18T11:48:41.223Z",
+  "last_run": "2026-03-18T14:58:44.964Z",
   "total_posted": 0,
-  "total_failed": 10,
+  "total_failed": 12,
   "run_log": [
+    {
+      "started_at": "2026-03-18T14:58:32.640Z",
+      "date": "2026-03-18",
+      "slot": "14:00",
+      "posts": [
+        {
+          "id": "DWRR-003",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "skipped": true
+            },
+            "facebook": {
+              "success": false,
+              "skipped": true
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Tuesday, 17-Mar-26 13:00:00 PDT. The current time is Wednesday, 18-Mar-26 07:58:36 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"Asmh60PpJVT-cNPnoN1jZxu\"}}"
+            }
+          }
+        },
+        {
+          "id": "ES-003",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "skipped": true
+            },
+            "facebook": {
+              "success": false,
+              "skipped": true
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Tuesday, 17-Mar-26 13:00:00 PDT. The current time is Wednesday, 18-Mar-26 07:58:42 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A2preYq7x-ir8CCvPfOyAVl\"}}"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-18T14:58:44.964Z"
+    },
     {
       "started_at": "2026-03-18T11:48:28.255Z",
       "date": "2026-03-18",
