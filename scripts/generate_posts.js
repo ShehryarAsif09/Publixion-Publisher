@@ -113,7 +113,7 @@ function generatePostId(itemId, postNum) {
 }
 
 const REPO_OWNER = process.env.GITHUB_REPOSITORY_OWNER || 'YOUR-ORG';
-const REPO_NAME  = process.env.GITHUB_REPOSITORY_NAME  || 'publixion-social';
+const REPO_NAME  = process.env.GITHUB_REPOSITORY_NAME  || 'Publixion-Publisher';
 
 function resolveUrl(p) {
   if (!p) return null;
