@@ -4320,32 +4320,35 @@
     "scheduled_date": "2026-01-29",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-29",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T20:29:00.832Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "30 days from now, one of two things will be true.\n\nEither you will still be ending your days the same way you end them now — busy, behind, and aware that the work that actually matters did not get the time it deserved.\n\nOr you will have a documented Deep Work Protocol running in your life. A Focus Defense System that holds without effort. An Energy Architecture that makes your focused hours count. A Decision Filter that stopped three commitments this month that would have consumed the time you just protected.\n\nAnd a 30-Day Transformation Scorecard with your own before-and-after output numbers proving the change.\n\nThe difference between those two outcomes is not talent. It is not luck. It is not access.\n\nIt is a single decision made today.\n\nDeep Work. Real Results. is available now at publixion.com/book/deep-work-real-results\n\n$9.99. One read. One month of daily actions. A permanent shift in how you work.\n\nThis is the book for the professional who is done being busy and ready to start being effective.\n\nGet your copy now. The only thing between you and your best work is the architecture to protect it.\n\npublixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #HighPerformance #KnowledgeWorker #Publixion #GetItDone #WorkSmart #30DayChallenge #TimeManagement",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "30 days from now, your output numbers are either the same or they are not.\n\nDeep Work. Real Results. gives you the system that changes them — six frameworks, a daily protocol, and a 30-Day Plan that installs everything into your actual life starting today.\n\n$9.99. Published by Publixion.\n\nGet your copy now: publixion.com/book/deep-work-real-results\n\nThe only thing between you and your best work is the architecture to protect it.\n\n#DeepWork #Productivity #Focus #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ATvppjN_eUiKhlDxGZYYtRZ\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "30 days from now.\n\nSame output. Same fragmented days. Same feeling that the work that matters never got the time it deserved.\n\nOr:\n\nA system running in your life. Measurable results in your own numbers. The work you kept putting off — done.\n\nOne decision today.\n\nDeep Work. Real Results. — link in bio. $9.99.\n\nYour best work is not waiting for more time. It is waiting for the architecture to protect what you already have.\n\n#DeepWork #Productivity #Focus #Publixion #HighPerformance #WorkSmart #KnowledgeWorker #TimeManagement #Mindset #GetItDone",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Apu-FEv571C9npgjnXs7H5z\"}}"
       }
     }
   },
@@ -5798,32 +5801,35 @@
     "scheduled_date": "2026-01-29",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-29",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T20:29:08.166Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "In thirty days from now, one of two things will be true.\n\nYou will still be reacting in the same ways to the same triggers.\nReplaying the same conversations. Carrying the same activation into the same relationships.\n\nOr you will be holding a Trigger Map that finally names what is actually firing.\nA Resilient Identity Statement written in your own hand.\nA Daily Practice that maintains your regulation even on the days that demand the most.\nA Field Guide with fifteen frameworks available the moment you need them.\n\nEmotional Strength does not ask you to feel more or feel less.\nIt asks you to finally have a system.\n\nFourteen chapters. Fifteen frameworks. A 30-Day Implementation Plan.\nBuilt on neuroscience, CBT, and attachment science.\nWritten for the person who is done understanding the problem and ready to solve it.\n\nYour emotional history is not your emotional destiny.\n\nThe system that changes one is at the link below.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #SelfDevelopment #Publixion #NervousSystem #TriggerMapping #ResilientIdentity #30DayPlan #EmotionalMastery",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Thirty days from now, you could still be reacting in the same ways to the same triggers.\n\nOr you could be holding a Trigger Map, a Resilient Identity Statement, a Daily Practice, and a Field Guide with fifteen frameworks ready for every difficult moment life produces.\n\nEmotional Strength is the system that closes the gap between understanding your patterns and actually changing them.\n\n14 chapters. 15 frameworks. 30-Day Plan. Permanent Field Guide.\n\nYour emotional history is not your emotional destiny.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AvHemD5uWZ1FCve9fEwvDWP\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Thirty days from now.\n\nSame reactions. Same triggers. Same cost.\n\nOr — a Trigger Map. A Resilient Identity. A Daily Practice. A Field Guide for every difficult moment.\n\nEmotional Strength is the system that makes the second version possible.\n\n14 chapters. 15 frameworks. 30 days.\n\nYour emotional history is not your emotional destiny.\n\nLink in bio.\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #TriggerMapping #ResilientIdentity #30DayChallenge #Publixion #SelfDevelopment #NervousSystemHealing #EmotionalMastery",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AyJIrcU1JN8m86HwL-kxTcd\"}}"
       }
     }
   },
