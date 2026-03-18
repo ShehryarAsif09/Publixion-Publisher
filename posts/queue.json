@@ -4059,24 +4059,26 @@
     "scheduled_date": "2026-01-04",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-04",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T11:48:30.850Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "At Publixion, we build books the way engineers build systems.\n\nNot collections of motivational ideas. Not curated tip lists. Operational frameworks with a single measurable outcome: your life works better after reading than it did before.\n\nDeep Work. Real Results. started from one question we kept hearing from professionals across every industry:\n\n'I know I need to focus more. I just cannot figure out how to actually do it inside my real schedule.'\n\nNot a theory problem. A design problem.\n\nSo we built the solution from the ground up — anchored in chronobiology, behavioral psychology, cognitive neuroscience, and the actual habits of documented high performers. Then we ran it through the same editorial standard we apply to every Publixion title: if it does not produce a measurable result in the reader's real life, it does not go in the book.\n\nWhat came out is a six-component system:\n\nThe Time Audit — so you see exactly where your hours are going before you try to change anything.\n\nThe Focus Defense System — four environmental layers that eliminate distraction before the session begins.\n\nThe Deep Work Protocol — a chronobiology-aligned daily schedule that protects two to four hours of real output every day.\n\nEnergy Architecture — because unfueled focus is not focus.\n\nThe Decision Filter — four questions that stop low-value commitments from colonizing the time you just protected.\n\nSystems Over Willpower — the layer that makes all five of the above run automatically, even on your worst days.\n\nPlus a complete 30-Day Implementation Plan. Day by day. Specific. Measurable.\n\nThis is what Publixion builds. Books that work.\n\nGet your copy at publixion.com/book/deep-work-real-results\n\n#Publixion #DeepWork #ProductivitySystem #KnowledgeWorker #Focus #HighPerformance",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most productivity books give you ideas.\n\nThis one gives you a system.\n\nAt Publixion, we built Deep Work. Real Results. from one observation: professionals are not failing to focus because they lack motivation. They are failing because no one gave them the architecture to protect it.\n\nSix frameworks. A daily protocol. A 30-Day Plan. All built on current research and designed to run inside a real schedule with real constraints.\n\nThis is not inspiration. This is infrastructure.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#Publixion #DeepWork #Productivity #Focus",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Tuesday, 17-Mar-26 13:00:00 PDT. The current time is Wednesday, 18-Mar-26 04:48:30 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A0Aetvhve9uieX_qMGqRt9f\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -5523,24 +5525,26 @@
     "scheduled_date": "2026-01-04",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-04",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T11:48:37.219Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built Emotional Strength because the existing books in this category were failing their readers in a specific, measurable way.\n\nMost emotional intelligence books do one of two things.\n\nThey explain the neuroscience brilliantly and leave you with no tools.\nOr they give you breathing exercises and call it a system.\n\nNeither is sufficient for the person sitting in their car after a difficult conversation, knowing exactly why they reacted the way they did and having no idea how to change it next time.\n\nThat gap — between understanding and actual behaviour change — is where Emotional Strength was built.\n\nThe research base draws from:\n— Daniel Goleman's work on amygdala hijack and emotional intelligence\n— Bessel van der Kolk's findings on somatic emotion storage\n— The Yale Center for Emotional Intelligence's outcomes data\n— Polyvagal Theory and nervous system hierarchy\n— CBT's ABC reframing model\n— Gottman's relational repair research\n— Bonanno's longitudinal resilience studies\n— Stanford's physiological sigh research\n\nThe system we built from that research is called E.S.T.R. — Expose, Slow, Think, Respond.\n\nFour phases. One framework. The operational layer that converts insight into a different choice in the moment that matters.\n\nAround it, fourteen chapters build every supporting tool: the Trigger Map, the Anger Protocol, the anxiety toolkit, the stress regulation system, the attachment repair sequence, the Resilient Identity framework, the Family Emotional Intelligence system, and the Extreme Conditions protocol for when ordinary tools stop working.\n\nThis is not a book about feeling better.\nIt is a book about functioning differently.\n\nAnd the difference is everything.\n\n📖 publixion.com/book/emotional-strength",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most emotional intelligence books give you the theory and leave you holding it.\n\nEmotional Strength was built to close the gap between understanding your patterns and actually changing them.\n\nWe drew from neuroscience, CBT, Polyvagal Theory, Gottman's repair research, and Stanford's stress studies to build one complete system — the E.S.T.R. Framework — and fourteen chapters of tools that make it operational in real life.\n\nTrigger Mapping. The Anger Protocol. Cognitive reframing. Attachment repair. The Resilient Identity. Extreme conditions regulation. Emotionally intelligent parenting.\n\nNot theory. Not inspiration. A system.\n\nBecause the person who already understands why they react the way they do deserves more than another explanation.\n\n🔗 Read more at the link in comments.\n\n#EmotionalStrength #EmotionalIntelligence #Publixion #SelfDevelopment",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Tuesday, 17-Mar-26 13:00:00 PDT. The current time is Wednesday, 18-Mar-26 04:48:37 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AwJs98UkjMwYZl9IJiF6G3m\"}}"
       },
       "instagram": {
         "enabled": false,
