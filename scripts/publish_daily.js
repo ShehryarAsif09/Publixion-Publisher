@@ -44,7 +44,7 @@ function getCurrentSlot() {
   // Slots: 04:00, 07:00, 11:00, 14:00
   // Each cron run fires AT the slot time, so we match exactly
   const slotMap = { 4: '04:00', 7: '07:00', 11: '11:00', 14: '14:00' };
-  const slot    = slotMap[hour] || null;
+  const slot    = slotMap[hour] || '04:00';
 
   return { date, slot };
 }
