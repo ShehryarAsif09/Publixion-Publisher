@@ -4277,32 +4277,35 @@
     "scheduled_date": "2026-01-23",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-23",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T20:26:52.776Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The five questions I hear most before people buy Deep Work. Real Results. — answered honestly.\n\nQ: I have tried productivity systems before and they always fall apart after two weeks. Why would this be different?\n\nA: Because this system is built on environment and structure, not motivation. Every previous system you tried required you to feel like doing it. This one is designed to run even when you do not. The Failure Protocol alone — a pre-written plan for returning after disruption — eliminates the guilt spiral that kills most systems on their worst day.\n\nQ: My job is full of meetings. I have almost no control over my schedule. Will this still work?\n\nA: Yes. The Deep Work Protocol includes a Meeting Perimeter strategy, a process for auditing which recurring meetings are actually necessary, and a communication framework for protecting your Anchor Block even in high-coordination roles. Most professionals discover after the Time Audit that they have far more calendar flexibility than they assumed — it was just never intentionally claimed.\n\nQ: I already wake up early, exercise, and have a morning routine. Is there still value here?\n\nA: Almost certainly. Having a morning routine and having a deep work system are different things. This book is specifically about what happens inside your working hours — how you structure cognitive output time, protect it from fragmentation, fuel it correctly, and filter the commitments that compete with it. Most high performers have strong routines and still produce a fraction of what they are capable of during actual work hours.\n\nQ: How is this different from Cal Newport's Deep Work?\n\nA: Newport's book makes the philosophical and research case for deep work powerfully and is worth reading. This book starts where his ends — it assumes you already believe focus matters and gives you the complete operational system for implementing it. Different purpose, different outcome, complementary reads.\n\nQ: How long does it take to read and implement?\n\nA: Four to six hours to read. Thirty days to install fully, at fifteen to thirty minutes of system maintenance per day in addition to your Anchor Block. Measurable before-and-after output data in your own numbers by Day 30.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\nAny other questions — drop them below and I will answer every one.\n\n#DeepWork #Productivity #Focus #ProductivitySystem #KnowledgeWorker #FAQ #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Five honest answers to the questions people ask before buying Deep Work. Real Results.\n\nQ: Will this fall apart in two weeks like every other system?\nA: No — because it is built on environment design, not motivation. The Failure Protocol alone changes everything about how you recover from a disrupted week.\n\nQ: My schedule is full of meetings. Will this work?\nA: Yes. The book includes a Meeting Perimeter strategy and a protocol for reclaiming calendar flexibility most professionals do not realize they have.\n\nQ: I already have a morning routine. Is there still value?\nA: Your morning routine and your deep work system are different things. This book covers what happens inside your working hours — where most professionals produce far less than their capability allows.\n\nQ: How is this different from Cal Newport's book?\nA: Newport makes the case for deep work. This book gives you the operational system to implement it in a real schedule. Different purpose, complementary reads.\n\nQ: How long to read and implement?\nA: Four to six hours to read. Thirty days to fully install. Measurable results in your own numbers by Day 30.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AlAb5PIziTHOrQNsFrIZv6o\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 real questions. 5 honest answers.\n\n'Will it fall apart in two weeks?'\nNo. It is built on systems, not motivation. The Failure Protocol keeps you returning faster than any resolve ever could.\n\n'My schedule is full of meetings.'\nThe book includes a Meeting Perimeter strategy. You have more calendar flexibility than you think.\n\n'I already have a morning routine.'\nA routine and a deep work system are different things. This is about your working hours — not your 6 AM habits.\n\n'How is it different from Newport's book?'\nNewport makes the case. This book gives you the operational system.\n\n'How long to see results?'\nMeasurable output data in your own numbers by Day 30.\n\nLink in bio.\n\n#DeepWork #Productivity #Focus #Publixion #HighPerformance #WorkSmart #FAQ #KnowledgeWorker #TimeManagement #Mindset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Awmn_CLIDnl7jDKOSuruFFu\"}}"
       }
     }
   },
@@ -5752,32 +5755,35 @@
     "scheduled_date": "2026-01-23",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-23",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T20:27:00.104Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 questions people ask before buying Emotional Strength. Answered honestly.\n\n─\n\nQ: Is this just another mindfulness book?\n\nA: No. Breathwork is two tools among fifteen. The core of the system is structural — Trigger Mapping, the ABC reframing model, attachment pattern recognition, the Resilient Identity framework. Readers who found mindfulness insufficient find here the analytical scaffolding that makes regulation techniques actually stick.\n\n─\n\nQ: I already understand why I react the way I do. Will this help?\n\nA: Understanding a pattern and having a system for changing it are two entirely different things. This book is built precisely for that gap — the person who has the insight and lacks the operational layer that converts it into different behaviour.\n\n─\n\nQ: Does it address grief and trauma or only everyday stress?\n\nA: Chapter Thirteen is dedicated entirely to extreme conditions — grief, acute trauma, sustained crisis, regulatory depletion. It includes the T.E.R.A. emergency framework, the Polyvagal state diagnostic table, and clear markers for when professional support is required. It is the most honest chapter in the book.\n\n─\n\nQ: I have read books like this and never followed through. Why would this be different?\n\nA: Because it produces deliverables rather than insights. Every chapter ends with specific tools to build, not reflection questions to consider. The 30-Day Plan gives you a day-by-day schedule. The Field Guide keeps every framework accessible permanently. The architecture of follow-through is built into the book itself.\n\n─\n\nQ: Is this relevant if I do not have a significant anger or anxiety problem?\n\nA: The majority of readers do not. They are functional, often high-performing adults who react in ways that cost them in relationships and at work — not dramatically, but consistently. The book was written for that specific, quiet frustration as much as for acute dysregulation.\n\n─\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #FAQ #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Questions people ask before buying Emotional Strength:\n\nQ: Is this just a mindfulness book?\nA: No. Breathwork is two tools among fifteen. The core is structural — Trigger Mapping, cognitive reframing, attachment repair, the Resilient Identity. The scaffolding that makes any regulation technique actually stick.\n\nQ: I already understand my patterns. Will this help?\nA: Understanding and changing are two different things. This book is the operational layer between them.\n\nQ: Does it cover grief and trauma?\nA: Chapter Thirteen is built entirely for extreme conditions — grief, acute trauma, crisis, regulatory depletion. With a tiered emergency framework and clear referral markers for when professional support is necessary.\n\nQ: I never follow through on books like this.\nA: The 30-Day Plan gives you a day-by-day schedule. The Field Guide keeps every framework accessible permanently. Follow-through is built into the architecture.\n\nQ: I do not have a serious anger or anxiety problem. Is it still for me?\nA: Most readers do not. They are high-functioning adults who react in ways that cost them quietly. That specific experience is exactly what this book was built for.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #Publixion #MentalHealth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AYhizj8_3sMGZLcCR8fgcrW\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 honest answers to the questions people ask before buying Emotional Strength.\n\n1. Is this just mindfulness? No. Breathwork is 2 tools of 15. The core is Trigger Mapping, cognitive reframing, and the Resilient Identity framework.\n\n2. I understand my patterns already. Will it help? Understanding and changing are different things. This book is the bridge.\n\n3. Does it cover trauma and grief? Yes. Chapter 13 is built entirely for extreme conditions with a tiered emergency framework.\n\n4. I never follow through on books. The 30-Day Plan is day-by-day. The Field Guide is permanent. Follow-through is designed in.\n\n5. I am not severely dysregulated. Is it for me? Most readers are not. They are high-performing adults reacting in ways that cost them quietly. That is exactly who this was written for.\n\nLink in bio.\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #FAQ #Publixion #SelfDevelopment #AngerManagement #AnxietyRelief #NervousSystem #PersonalGrowth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AEvzk_GhIIo41HmZJPTlzMp\"}}"
       }
     }
   },
