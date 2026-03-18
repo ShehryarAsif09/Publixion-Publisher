@@ -3217,32 +3217,35 @@
     "scheduled_date": "2026-01-01",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-01",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T20:43:46.112Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This post is not for people who want to be more productive.\n\nIt is for people who are done pretending that being busy is the same thing as building something.\n\nIf you end most days having answered every message, attended every meeting, and responded to every request — and still feel like the work that actually matters never got touched — this is for you.\n\nYou are not lazy. You are not undisciplined. You are operating inside a system that was specifically engineered to consume your attention and sell it to someone else.\n\nEvery notification. Every ping. Every open tab. Designed by teams of behavioral scientists whose job is to make it as difficult as possible for you to look away.\n\nAnd the result? The average knowledge worker produces less than 45 minutes of meaningful output per day.\n\nNot because they lack effort. Because no one ever taught them that attention — not time — is the resource.\n\nDeep Work. Real Results. is the system that changes that.\n\nSix research-backed frameworks. A complete daily architecture. A 30-Day Implementation Plan that installs the whole thing into your life starting today.\n\nThis is the book for the professional who already works hard and is ready to work right.\n\nPublished by Publixion. Link in the comments.\n\n#DeepWork #Productivity #Focus #HighPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Be honest with yourself for a second.\n\nHow many hours did you work this week?\n\nNow — how much of that time was spent on the work that will actually matter six months from now?\n\nFor most professionals, the honest answer is uncomfortable. Not because they lack effort. Because their attention is being consumed faster than they can protect it.\n\nDeep Work. Real Results. is a complete productivity system — six frameworks, a daily protocol, and a 30-day plan — built for people who are done being busy and ready to start being effective.\n\nLink in comments. Published by Publixion.\n\n#DeepWork #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AT104jbWuLS4T0DhS0k_0wM\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You do not have a discipline problem.\n\nYou have an attention problem.\n\nAnd there are billion-dollar systems built specifically to make sure you never solve it.\n\nDeep Work. Real Results. is the blueprint that takes your focus back — and turns your best hours into your best work.\n\nLink in bio.\n\n#DeepWork #Productivity #Focus #HighPerformance #Publixion #KnowledgeWorker #WorkSmart",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AXvvcjvP5_SGDZM3-aJaESJ\"}}"
       }
     }
   },
@@ -4678,32 +4681,35 @@
     "scheduled_date": "2026-01-01",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-01",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T20:43:53.499Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This book is not for people who want to feel better.\n\nIt is for people who are tired of reacting in ways they immediately regret.\n\nThe person who says the sharp thing and spends the next three hours replaying it.\nThe one who shuts down in exactly the moments that require them to stay open.\nThe one who handles everything at work with composure and falls apart at home with the people they love most.\n\nYou are not volatile. You are not broken. You were never taught how your emotional brain actually works.\n\nNo one sat you down and said:\nHere is what happens in your nervous system when you feel threatened.\nHere is why your reaction is bigger than the situation warrants.\nHere is what to do in the four seconds before you say the thing you cannot unsay.\n\nEmotional Strength fills that gap.\n\nNot with mindfulness platitudes. Not with breathing exercises dressed up as transformation.\nWith a complete, research-backed system — 14 chapters, 15 frameworks, a 30-Day Implementation Plan, and a permanent Field Guide — built on neuroscience, cognitive behavioral therapy, and attachment science.\n\nThe E.S.T.R. Framework. The Trigger Map. The Anger Protocol. The Resilient Identity.\n\nTools that work the day you use them.\n\nIf you have ever thought: I know why I react this way. I just cannot seem to stop it.\n\nThis book was written for exactly that person.\n\n👉 Link in bio. Read the first chapter free.\n\n#EmotionalIntelligence #EmotionalStrength #MentalResilience #SelfDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most people who struggle emotionally are not struggling because they are weak.\n\nThey are struggling because no one ever gave them the system.\n\nEmotional Strength is that system.\n\n14 chapters. 15 frameworks. A 30-Day Plan that builds your regulation toolkit from scratch — Trigger Mapping, cognitive reframing, the Anger Protocol, the Resilient Identity Statement, and a Daily Practice that takes 15 minutes and changes everything.\n\nBuilt on neuroscience and cognitive behavioral therapy. Written for people who are done understanding their patterns and ready to actually change them.\n\n🔗 Link in comments.\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AWYInWI4YSer6ORfmHAlSVs\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You are not too emotional.\n\nYou were never taught how your emotional brain works.\n\nEmotional Strength is the complete system that changes that — trigger mapping, cognitive reframing, the anger protocol, the resilient identity.\n\n14 chapters. 15 frameworks. One book that finally gives you the tools, not just the insight.\n\nLink in bio.\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #SelfDevelopment #Publixion #NervousSystemRegulation #TriggerMapping #AngerManagement #AnxietyRelief #MindsetShift",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A_tidUC4AJVJW0Y-Pl4wUVx\"}}"
       }
     }
   },
