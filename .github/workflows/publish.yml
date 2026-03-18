@@ -34,7 +34,7 @@ jobs:
       - name: Generate Queue (run once)
         if: github.event.inputs.generate == 'true'
         run: |
-          node scripts/generate_all.js
+          node scripts/generate_all.js --force
           git config user.name "Publixion Bot"
           git config user.email "bot@publixion.com"
           git add posts/queue.json
