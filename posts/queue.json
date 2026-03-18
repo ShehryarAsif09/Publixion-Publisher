@@ -4235,24 +4235,26 @@
     "scheduled_date": "2026-01-18",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T20:24:19.659Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are hundreds of productivity books. Here is why this one is different — and why it matters for you specifically.\n\nMost productivity books do one of two things.\n\nThey make the philosophical case for why deep focus matters (Cal Newport's Deep Work is the gold standard for this — essential reading), or they give you a list of tactics: wake up earlier, use time-blocking, build a morning routine, batch your email.\n\nNeither approach solves the actual problem.\n\nThe first gives you conviction without a system. The second gives you tactics without an architecture to hold them together. Both collapse when your schedule gets disrupted, your motivation dips, or a project demands everything you have for two weeks.\n\nDeep Work. Real Results. starts where both leave off.\n\nIt assumes you already believe focus matters. It gives you the complete operational system for implementing it inside a real professional life with real constraints.\n\nHere is what that means concretely:\n\nNot just 'protect your mornings' but a four-component Deep Work Protocol aligned to your specific chronotype with a model week template and a meeting perimeter strategy.\n\nNot just 'manage your energy' but a four-dimension Energy Architecture covering sleep science, movement protocols, emotional regulation, and purpose alignment — each with specific daily implementation steps.\n\nNot just 'learn to say no' but a Decision Filter with four sequential questions applied to every new request, a Subtraction Practice for existing commitments, and scripts for saying no effectively without damaging relationships.\n\nNot just 'build habits' but a Systems Architecture Model with habit stacks written as if-then implementation intentions, a Progress Architecture with visual tracking, and a pre-written Failure Protocol for when the system breaks.\n\nAnd a 30-Day Implementation Plan that puts every piece of this in sequence, day by day, with specific actions and measurable outputs.\n\nThis is not the book that inspires you. This is the book that changes your output numbers.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #ProductivitySystem #Focus #KnowledgeWorker #HighPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most productivity books either make the case for deep work (inspiring, not actionable) or give you a tip list (actionable, falls apart in week two).\n\nDeep Work. Real Results. is neither.\n\nIt is the operational system that starts where inspiration ends — six integrated frameworks, a chronotype-aligned daily schedule, and a 30-Day Plan that installs everything into your real life with daily specific actions.\n\nNot a philosophy. Not a tip list. A complete architecture.\n\nThe difference shows up in your output numbers by Day 30.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #ProductivitySystem #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Unsupported post request. Object with ID '1077959932064460 ' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"ApERJKkLVJoFZHeAMhy-ArF\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -5708,24 +5710,26 @@
     "scheduled_date": "2026-01-18",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-18T20:24:26.298Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are three kinds of emotional intelligence books.\n\nThe first explains the neuroscience beautifully and leaves you with no tools.\nYou finish it smarter about your brain and no different in your behaviour.\n\nThe second gives you breathing exercises and calls it a system.\nUseful in moderate stress. Completely insufficient when things actually break.\n\nThe third asks you to be more mindful, more present, more grateful.\nThis is advice dressed as methodology. It works for people who were already mostly regulated.\n\nEmotional Strength is none of these.\n\nIt is a complete operational system — fourteen chapters, fifteen named frameworks, a 30-Day Implementation Plan, and a permanent Field Guide — built for people who already understand their patterns and need the bridge to actual behaviour change.\n\nHere is what makes it structurally different:\n\n→ It addresses extreme conditions. Chapter Thirteen is built specifically for grief, acute trauma, regulatory depletion, and crisis — the moments when ordinary tools stop working and most books go silent.\n\n→ It addresses the family system. Chapter Fourteen gives parents and partners the specific tools to transmit emotional intelligence to the next generation, with age-calibrated protocols and intergenerational pattern interruption.\n\n→ It produces deliverables. By the end of the 30-Day Plan, you hold a living Trigger Map, a written Resilient Identity Statement, a personalised Daily Practice, and an Annual Development Roadmap. Not inspiration. Instruments.\n\n→ It is honest about its limits. The book tells you clearly and specifically when self-directed work is insufficient and professional support is necessary. That honesty is itself a form of respect most books in this category do not offer.\n\nIf you have read Emotional Intelligence by Goleman and wanted more tools.\nIf you have read The Body Keeps the Score and wanted a practical next step.\nIf you have done the therapy and want the daily operational system to maintain what you built there.\n\nThis is that book.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #SelfDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most emotional intelligence books do one of three things:\n\n1. Explain the neuroscience brilliantly. Leave you with no tools.\n2. Give you breathing exercises and call it a system.\n3. Tell you to be more mindful. Not a methodology. Advice.\n\nEmotional Strength does something different.\n\nIt gives you fifteen named frameworks, a 30-Day Implementation Plan that builds your toolkit from scratch, a chapter on extreme conditions (grief, trauma, crisis) that most books skip entirely, and a Field Guide you use for the rest of your life.\n\nAnd it produces deliverables — a Trigger Map, a Resilient Identity Statement, a Daily Practice, an Annual Roadmap — not just insights.\n\nIf you have read the theory and are ready for the system, this is that book.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #SelfDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/publixion-social/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Unsupported post request. Object with ID '1077959932064460 ' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AsR-OYWTmW2sukAKvtuR7pZ\"}}"
       },
       "instagram": {
         "enabled": false,
