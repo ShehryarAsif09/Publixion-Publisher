@@ -1,8 +1,50 @@
 {
-  "last_run": "2026-03-18T19:49:15.584Z",
+  "last_run": "2026-03-18T20:19:26.058Z",
   "total_posted": 0,
-  "total_failed": 18,
+  "total_failed": 24,
   "run_log": [
+    {
+      "started_at": "2026-03-18T20:19:07.728Z",
+      "date": "2026-03-18",
+      "slot": "04:00",
+      "posts": [
+        {
+          "id": "DWRR-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Unsupported post request. Object with ID 'EAAR2quwwUA0BQ74xYJbA1kkpG1kaprjCthigOMHwlYrBJbnEJ6BZCQTFcbNhs1j9Ayh0NaN96JWXH63oVD6J3Pfa8keqFZAOl47pATGnqIyZABevXwEjYonIUBeJxlKan7miRsTwP98EDD4Umq3L1zEVaZAKkqEu5mtytL1S5vd8XtZB0XHJhywCCvLT0dmmEU1z6rt8vT2MnW0ZCl04jIad459NCdgZBobEpfJbwteExjgodyjUlD9czAZD' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A8Njmkb4-IR39xRCXVm7X9Q\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AcYHNhpCpXOw5e0xdPxvLua\"}}"
+            }
+          }
+        },
+        {
+          "id": "ES-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Unsupported post request. Object with ID 'EAAR2quwwUA0BQ74xYJbA1kkpG1kaprjCthigOMHwlYrBJbnEJ6BZCQTFcbNhs1j9Ayh0NaN96JWXH63oVD6J3Pfa8keqFZAOl47pATGnqIyZABevXwEjYonIUBeJxlKan7miRsTwP98EDD4Umq3L1zEVaZAKkqEu5mtytL1S5vd8XtZB0XHJhywCCvLT0dmmEU1z6rt8vT2MnW0ZCl04jIad459NCdgZBobEpfJbwteExjgodyjUlD9czAZD' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AmtaGVNv-iMTzIXKVUz97us\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AislgiiGu39dcBBbUyLYyA5\"}}"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-18T20:19:26.058Z"
+    },
     {
       "started_at": "2026-03-18T19:49:00.849Z",
       "date": "2026-03-18",
