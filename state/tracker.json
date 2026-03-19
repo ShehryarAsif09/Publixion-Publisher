@@ -1,94 +1,10 @@
 {
-  "last_run": "2026-03-19T11:37:30.410Z",
+  "last_run": "2026-03-19T12:25:50.042Z",
   "total_posted": 4,
-  "total_failed": 84,
+  "total_failed": 76,
   "run_log": [
     {
-      "started_at": "2026-03-19T11:37:16.889Z",
-      "date": "2026-03-19",
-      "slot": "11:00",
-      "posts": [
-        {
-          "id": "DWRR-004",
-          "platforms": {
-            "linkedin": {
-              "success": false,
-              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
-            },
-            "facebook": {
-              "success": false,
-              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 04:37:19 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"Ai3CRaH9ym8IFKYa-MQUtM-\"}}"
-            },
-            "instagram": {
-              "success": false,
-              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 04:37:21 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"ACvp8dGfZX93RFdKHy4DZfz\"}}"
-            }
-          }
-        },
-        {
-          "id": "ES-004",
-          "platforms": {
-            "linkedin": {
-              "success": false,
-              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
-            },
-            "facebook": {
-              "success": false,
-              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 04:37:26 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A77-y2uV9vMSBRtxyGsA9MQ\"}}"
-            },
-            "instagram": {
-              "success": false,
-              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 04:37:28 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AANjwW_xlUGb4Z-xDutTmBO\"}}"
-            }
-          }
-        }
-      ],
-      "completed_at": "2026-03-19T11:37:30.410Z"
-    },
-    {
-      "started_at": "2026-03-19T07:50:43.747Z",
-      "date": "2026-03-19",
-      "slot": "07:00",
-      "posts": [
-        {
-          "id": "DWRR-003",
-          "platforms": {
-            "linkedin": {
-              "success": false,
-              "skipped": true
-            },
-            "facebook": {
-              "success": false,
-              "skipped": true
-            },
-            "instagram": {
-              "success": false,
-              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 00:50:48 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AQKUSsGqZDh_xFUCUwoFEzr\"}}"
-            }
-          }
-        },
-        {
-          "id": "ES-003",
-          "platforms": {
-            "linkedin": {
-              "success": false,
-              "skipped": true
-            },
-            "facebook": {
-              "success": false,
-              "skipped": true
-            },
-            "instagram": {
-              "success": false,
-              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 00:50:54 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"Ab3Jm_4dVcEylZEHFy_IkwL\"}}"
-            }
-          }
-        }
-      ],
-      "completed_at": "2026-03-19T07:50:56.422Z"
-    },
-    {
-      "started_at": "2026-03-19T05:20:44.062Z",
+      "started_at": "2026-03-19T12:25:36.513Z",
       "date": "2026-03-19",
       "slot": "04:00",
       "posts": [
@@ -101,7 +17,7 @@
             },
             "facebook": {
               "success": false,
-              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Wednesday, 18-Mar-26 22:20:47 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AsZiraIOBjy_APkJqIOuZWQ\"}}"
+              "error": "{\"error\":{\"message\":\"(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"ARGtssvWBxWNBS2MadW08Kp\"}}"
             },
             "instagram": {
               "success": false,
@@ -118,7 +34,7 @@
             },
             "facebook": {
               "success": false,
-              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Wednesday, 18-Mar-26 22:20:53 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A1n-wZVThxLEI9mx_wo0edC\"}}"
+              "error": "{\"error\":{\"message\":\"(#200) The permission(s) publish_actions are not available. It has been deprecated. If you want to provide a way for your app users to share content to Facebook, we encourage you to use our Sharing products instead.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AFIRmiJqdXytfgO0J8wUHAR\"}}"
             },
             "instagram": {
               "success": false,
@@ -127,7 +43,7 @@
           }
         }
       ],
-      "completed_at": "2026-03-19T05:20:57.624Z"
+      "completed_at": "2026-03-19T12:25:50.042Z"
     },
     {
       "started_at": "2026-03-18T21:36:09.913Z",
