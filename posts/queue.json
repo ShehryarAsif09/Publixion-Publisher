@@ -3348,32 +3348,35 @@
     "scheduled_date": "2026-01-10",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-10",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-19T11:37:21.828Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion: your productivity system is failing you not because you lack discipline — but because it was designed to require it.\n\nEvery habit tracker, time-blocking template, and morning routine you have ever tried was built on the same broken assumption: that if you want it badly enough, you will do it consistently.\n\nYou will not.\n\nNot because you are weak. Because willpower is a finite cognitive resource that depletes with every decision you make. The research on ego depletion is unambiguous. Your ability to resist distraction at 3 PM is categorically smaller than it was at 8 AM — regardless of how motivated you felt when you woke up.\n\nThe professionals who consistently out-produce their peers are not more disciplined. They have better environments.\n\nThey removed the phone from the room instead of resisting the urge to check it. They blocked the distracting sites before the session began instead of relying on willpower not to open them. They designed their day around their cognitive peak window instead of hoping to find focus in the scraps of time between meetings.\n\nHere is the question that actually matters:\n\nNot 'how do I become more disciplined?' but 'how do I design my environment so that the behavior I want is the path of least resistance?'\n\nThat is an answerable question. And the answers are specific, structural, and lasting in a way that motivational resolve never is.\n\nDeep Work. Real Results. is built entirely on this principle. Six systems. Zero dependence on how you feel.\n\nGet the book: publixion.com/book/deep-work-real-results\n\nDo you agree — or do you think willpower is the answer? Tell me below.\n\n#DeepWork #Productivity #Willpower #BehavioralScience #Focus #HighPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Hot take: the reason your productivity habits keep failing has nothing to do with discipline.\n\nIt has everything to do with design.\n\nWillpower is a finite resource. It depletes by afternoon regardless of your intentions. The people who consistently produce exceptional work are not fighting harder — they have arranged their environments so the fight rarely happens.\n\nDeep Work. Real Results. is built on this principle. Systems over willpower. Environment over effort.\n\nDo you think discipline is the answer — or is it all about design? Comment below.\n\nGet the book: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Willpower #Focus #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 04:37:19 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"Ai3CRaH9ym8IFKYa-MQUtM-\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You do not need more discipline.\n\nYou need a better environment.\n\nWillpower depletes by afternoon. Every single day. Regardless of how motivated you felt at 7 AM.\n\nThe highest producers you know are not grinding through resistance. They designed their day so the resistance rarely shows up.\n\nThat is the entire game.\n\nDeep Work. Real Results. — link in bio.\n\n#DeepWork #Productivity #Discipline #MindsetShift #Focus #Publixion #HighPerformance #WorkSmart #HabitBuilding #SystemsThinking",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 04:37:21 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"ACvp8dGfZX93RFdKHy4DZfz\"}}"
       }
     }
   },
@@ -4815,32 +4818,35 @@
     "scheduled_date": "2026-01-10",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-10",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-19T11:37:28.408Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Anger is not your problem.\n\nIt is the solution your nervous system reached for because it could not access the real emotion.\n\nBeneath every explosion — every sharp word, every cold silence, every wall that went up in a conversation that needed you to stay open — is something more honest.\n\nFear. Grief. Shame. The specific ache of a wound that never fully healed and just got touched again by someone who had no idea it was there.\n\nAnger is faster. Anger feels safer. Anger gives you the physiological surge of adrenaline and the cognitive certainty of being right.\n\nFear makes you vulnerable. Grief requires you to acknowledge a loss. Shame asks you to see yourself clearly.\n\nSo the brain chooses anger. Every time. Because anger is the emotion that puts the wall up instead of the one that lowers it.\n\nHere is what that costs you.\n\nThe argument that never resolved because both people were arguing from their anger instead of their actual experience.\nThe relationship that cooled because one person kept getting the explosion when they needed the honest conversation underneath it.\nThe reputation at work shaped by a pattern you could not see because you were always inside it.\n\nReal anger work does not start at the explosion.\nIt starts at the question beneath it: what was I actually feeling before the anger arrived?\n\nThat is the question the Anger Protocol in Emotional Strength is built to answer.\n\nAnd the answer changes everything.\n\n#EmotionalIntelligence #AngerManagement #EmotionalStrength #MentalHealth #SelfAwareness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion:\n\nYou do not have an anger problem.\n\nYou have a primary emotion — fear, grief, shame, hurt — that never got a voice, so anger showed up to speak for it.\n\nAnger is faster. It feels stronger. It protects the thing underneath.\n\nBut the thing underneath is where the real conversation lives. And the real relationship. And the real you.\n\nThe Anger Protocol in Emotional Strength is a five-step excavation that finds what is actually beneath the explosion — and gives you a way to speak from that place instead.\n\nBecause the people in your life deserve the honest emotion. Not its loudest substitute.\n\n#AngerManagement #EmotionalIntelligence #EmotionalStrength #MentalHealth #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 04:37:26 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A77-y2uV9vMSBRtxyGsA9MQ\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You do not have an anger problem.\n\nYou have a primary emotion that anger showed up to protect.\n\nFear. Grief. Shame. The wound beneath the explosion.\n\nReal anger work starts there — not at the surface.\n\nThe Anger Protocol in Emotional Strength teaches you exactly how to find it.\n\nLink in bio.\n\n#AngerManagement #EmotionalIntelligence #EmotionalStrength #MentalHealth #SelfAwareness #HealingJourney #Publixion #NervousSystem #TriggerHealing #EmotionalRegulation",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.png",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Wednesday, 18-Mar-26 15:00:00 PDT. The current time is Thursday, 19-Mar-26 04:37:28 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AANjwW_xlUGb4Z-xDutTmBO\"}}"
       }
     }
   },
