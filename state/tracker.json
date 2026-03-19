@@ -1,8 +1,50 @@
 {
-  "last_run": "2026-03-19T12:48:12.073Z",
+  "last_run": "2026-03-19T14:43:21.915Z",
   "total_posted": 10,
-  "total_failed": 84,
+  "total_failed": 88,
   "run_log": [
+    {
+      "started_at": "2026-03-19T14:43:06.910Z",
+      "date": "2026-03-19",
+      "slot": "14:00",
+      "posts": [
+        {
+          "id": "DWRR-002",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Thursday, 19-Mar-26 07:43:10 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A8vdtS5TpyERSHKw9UQi-q-\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "skipped": true
+            }
+          }
+        },
+        {
+          "id": "ES-002",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Thursday, 19-Mar-26 07:43:17 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AFkkWXiqXHw5JDZN-7mZFbs\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "skipped": true
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-19T14:43:21.915Z"
+    },
     {
       "started_at": "2026-03-19T12:47:36.117Z",
       "date": "2026-03-19",
