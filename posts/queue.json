@@ -3391,32 +3391,35 @@
     "scheduled_date": "2026-01-14",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-14",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-20T11:33:46.463Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is from Chapter 2 of Deep Work. Real Results. — sharing it because it changed how I think about distraction entirely.\n\n---\n\nJames is writing the most important proposal of his career.\n\nHe has cleared two hours in his calendar. The proposal, if accepted, could bring his firm the largest contract they have ever landed. He has the data, the structure, and the expertise. All he needs is to sit down and write it.\n\nHe opens his laptop at 9 AM.\n\nBy 9:04, he has checked his email. Nothing urgent, but he reads three threads anyway. At 9:11, a Slack notification arrives. He mutes it but notices the preview. At 9:17, he remembers a document he needs to send before noon. At 9:22, his phone vibrates. He glances without picking it up. At 9:33, his browser has fourteen tabs open and he is reading a LinkedIn article about strategic communication.\n\nAt 10 AM, James closes his laptop and tells his manager the proposal is almost done.\n\nHe will finish it tomorrow. He says this every day.\n\n---\n\nJames is not lazy. James is not poorly skilled.\n\nJames is operating inside a distraction architecture that is more powerful than his intentions.\n\nAnd until he changes the architecture, no amount of effort will change the outcome.\n\nThat is the insight most productivity systems miss entirely. This is not a motivation problem. It is a design problem.\n\nDeep Work. Real Results. is the design solution.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #Distraction #KnowledgeWorker #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Does this sound like your morning?\n\nYou sit down to do your most important work. Within four minutes you have checked email. Within eleven, a Slack preview pulled your attention. By 9:33 you have fourteen browser tabs open.\n\nBy 10 AM, nothing is done.\n\nThis is James. From Chapter 2 of Deep Work. Real Results.\n\nJames is not lazy. He is operating inside a distraction system more powerful than his intentions. Until he changes the architecture, the result never changes.\n\nThis book teaches you to change the architecture.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 04:33:44 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AT4Hn9xaQ2QHiAUJQ6-pptN\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "He cleared two hours to write the most important proposal of his career.\n\nBy 9:33 AM he had fourteen browser tabs open.\n\nBy 10 AM, nothing was done.\n\nThis is not a discipline story. It is a design story.\n\nAnd the design is fixable.\n\nDeep Work. Real Results. — the full system is in the link in bio.\n\n#DeepWork #Productivity #Distraction #Focus #Publixion #KnowledgeWorker #WorkSmart #HighPerformance #TimeManagement #Mindset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 04:33:46 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A5Lpt3Vx1382DnXPvXhstor\"}}"
       }
     }
   },
@@ -4859,32 +4862,35 @@
     "scheduled_date": "2026-01-14",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-14",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-20T11:33:53.593Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "From Chapter 2 of Emotional Strength — Trigger Mapping:\n\n---\n\nPriya had been to three therapists in five years. Each one told her she was stressed. Each one recommended better sleep, less caffeine, and mindfulness. The advice was not wrong. But it was not landing.\n\nShe still snapped at her partner after long workdays. She still froze when her mother called. She still felt a particular, sharp irritation around her colleague James that she could not explain.\n\nThe fourth therapist asked her to do something different. She asked Priya to keep a trigger journal for two weeks. Not a feelings journal. Not a gratitude journal. A specific log: what happened, what she felt in her body, what story her mind told her, and how she responded.\n\nAt the end of two weeks, Priya saw something she had never seen before. A pattern.\n\nJames did not irritate her because of his personality. He irritated her because he interrupted her in meetings — exactly as her older brother had interrupted her growing up, dismissing everything she said. The pattern was not about James at all. It was about a child who had learned that speaking up was futile.\n\nThe trigger was not the person. The trigger was the story.\n\n---\n\nThis is what Trigger Mapping does. It does not ask you to be less reactive. It shows you exactly what you are reacting to — underneath the surface event, underneath the person, underneath the situation.\n\nBecause you cannot change a pattern you cannot see.\n\nAnd the moment you can name it — this specific thing activates this specific belief, which produces this specific physical response — you have already broken the automatic nature of the cycle.\n\nAwareness is not the cure. But it is where every cure begins.\n\n📖 Full system at publixion.com/book/emotional-strength\n\n#EmotionalStrength #TriggerMapping #EmotionalIntelligence #SelfAwareness #Publixion #MentalResilience",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "From Chapter 2 of Emotional Strength:\n\n\"Priya had been to three therapists in five years. Each one told her she was stressed.\n\nShe still snapped at her partner. Still froze when her mother called. Still felt that sharp, unexplainable irritation around her colleague James.\n\nTwo weeks of trigger journalling later, she saw it. James did not irritate her because of his personality. He irritated her because he interrupted her in meetings — exactly as her older brother had dismissed her growing up.\n\nThe trigger was not the person. The trigger was the story.\"\n\nTrigger Mapping is the diagnostic that changes everything. Not because it asks you to react less — but because it shows you exactly what you are reacting to, underneath the surface.\n\nYou cannot change a pattern you cannot see.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #TriggerMapping #EmotionalIntelligence #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 04:33:51 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A5_B_BKxu1yhW_3q9GQ7Bij\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"The trigger was not the person. The trigger was the story.\"\n\nFrom Chapter 2 of Emotional Strength — Trigger Mapping.\n\nYou cannot change a pattern you cannot see. The Trigger Map is the tool that finally makes it visible.\n\nLink in bio.\n\n#EmotionalStrength #TriggerMapping #EmotionalIntelligence #SelfAwareness #Publixion #HealingJourney #MentalHealth #TherapyTools #NervousSystemRegulation #PatternBreaking",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg",
+        "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 04:33:53 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AnbZGhzZKQ6QnvFmGHai7RQ\"}}"
       }
     }
   },
