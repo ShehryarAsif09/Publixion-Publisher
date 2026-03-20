@@ -1,12 +1,54 @@
 {
-  "last_run": "2026-03-20T19:05:10.056Z",
+  "last_run": "2026-03-20T19:05:24.374Z",
   "total_posted": 14,
-  "total_failed": 92,
+  "total_failed": 98,
   "run_log": [
     {
-      "started_at": "2026-03-20T19:04:26.254Z",
+      "started_at": "2026-03-20T19:04:21.523Z",
       "date": "2026-03-20",
       "slot": "04:00",
+      "posts": [
+        {
+          "id": "DWRR-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122096991278948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18080442113596189"
+            }
+          }
+        },
+        {
+          "id": "ES-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122096992214948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18050180288720835"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-20T19:05:24.374Z"
+    },
+    {
+      "started_at": "2026-03-20T07:49:15.380Z",
+      "date": "2026-03-20",
+      "slot": "07:00",
       "posts": [
         {
           "id": "DWRR-004",
@@ -16,12 +58,12 @@
               "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
             },
             "facebook": {
-              "success": true,
-              "post_id": "122096991428948582"
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 00:49:18 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A2ra-D-zWu3x9PSdvMz0T6x\"}}"
             },
             "instagram": {
-              "success": true,
-              "post_id": "17919211413288996"
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 00:49:20 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"Apl2beMKYPAepRRbQkk--kS\"}}"
             }
           }
         },
@@ -33,17 +75,17 @@
               "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
             },
             "facebook": {
-              "success": true,
-              "post_id": "122096992124948582"
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 00:49:25 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"Af_ZH-o2dkYyGXMkkCLhUIC\"}}"
             },
             "instagram": {
-              "success": true,
-              "post_id": "17852862906637032"
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 00:49:27 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"ArEtyBmGQmCEmSg5usO5nsD\"}}"
             }
           }
         }
       ],
-      "completed_at": "2026-03-20T19:05:10.056Z"
+      "completed_at": "2026-03-20T07:49:29.722Z"
     },
     {
       "started_at": "2026-03-20T05:13:48.484Z",
