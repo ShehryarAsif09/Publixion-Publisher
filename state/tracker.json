@@ -1,8 +1,50 @@
 {
-  "last_run": "2026-03-20T07:49:29.722Z",
+  "last_run": "2026-03-20T11:33:55.596Z",
   "total_posted": 10,
-  "total_failed": 96,
+  "total_failed": 102,
   "run_log": [
+    {
+      "started_at": "2026-03-20T11:33:41.336Z",
+      "date": "2026-03-20",
+      "slot": "11:00",
+      "posts": [
+        {
+          "id": "DWRR-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 04:33:44 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AT4Hn9xaQ2QHiAUJQ6-pptN\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 04:33:46 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A5Lpt3Vx1382DnXPvXhstor\"}}"
+            }
+          }
+        },
+        {
+          "id": "ES-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 04:33:51 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"A5_B_BKxu1yhW_3q9GQ7Bij\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Error validating access token: Session has expired on Thursday, 19-Mar-26 07:00:00 PDT. The current time is Friday, 20-Mar-26 04:33:53 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AnbZGhzZKQ6QnvFmGHai7RQ\"}}"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-20T11:33:55.596Z"
+    },
     {
       "started_at": "2026-03-20T07:49:15.380Z",
       "date": "2026-03-20",
