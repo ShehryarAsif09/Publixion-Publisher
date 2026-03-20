@@ -59,7 +59,7 @@ function pickPostsForSlot(queue, date, slot) {
   }).sort((a, b) => {
     if (a.scheduled_date !== b.scheduled_date) return a.scheduled_date.localeCompare(b.scheduled_date);
     return a.priority - b.priority || a.post_number - b.post_number;
-  }).slice(0, 2);
+  }).slice(0, 5);
 }
 
 // ── LINKEDIN ──────────────────────────────────────────────────────────
