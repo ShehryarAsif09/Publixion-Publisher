@@ -419,30 +419,31 @@
     "scheduled_date": "2026-03-11",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-11",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T11:26:08.973Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"$45 for a guide feels like a lot.\"\n\nIf this guide saves you 10 hours a week — and your time is worth even $25/hour — that's $250 in recovered capacity per week. The guide pays for itself in under 5 hours of recovered time.\n\n\"I'm not technical enough to set up automations.\"\nThe guide uses tools with visual interfaces (Zapier, Make, Notion). No code. The guide includes step-by-step setup walkthroughs with screenshots. If you can drag and drop, you can build these workflows.\n\n\"I've already tried AI tools and they didn't save me time.\"\nBecause you used tools — not a system. The A.U.T.O.M.A.T.E.™ Framework starts with an audit of what to automate first, which is what most people skip. Wrong automation = more complexity, not less.\n\n\"My business is too specific for generic automation advice.\"\nThe framework is a methodology, not a rigid script. The Audit phase helps you identify your specific automation opportunities. The tool recommendations are proven — but adaptable.\n\n\"What if my workflow changes?\"\nThe guide includes a tiered approach. Basic automations first. You build up layers as your confidence grows.\n\n👉 https://publixion.com/guides/ai-automation-solopreneurs\n\n#AI #Automation #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T11:25:58.480Z",
+        "post_id": "122097498662948582",
         "text": "Objections to the AI Automation guide — answered:\n\n\"$45 is expensive\" — 10 hrs/week saved at $25/hr = $250/week recovered. The guide pays for itself in 5 hours.\n\n\"I'm not technical\" — Visual tools only (Zapier, Make, Notion). No code. Step-by-step walkthroughs included.\n\n\"AI tools haven't saved me time before\" — Because you used tools, not a system. The Audit phase shows you what to automate first — the step most people skip.\n\n\"My business is too specific\" — The Audit phase adapts the framework to your exact workflow.\n\n\"What if it gets complicated?\" — The Tier phase builds basic automations first. You scale complexity only when you're ready.\n\n👉 https://publixion.com/guides/ai-automation-solopreneurs\n\n#AI #Automation #Solopreneur",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T11:26:08.973Z",
+        "post_id": "18111530647685083",
         "text": "\"I'm not technical enough for AI automation.\"\n\nThe guide uses Zapier, Make, and Notion — all drag-and-drop, no code.\n\nThe setup walkthroughs have screenshots. The prompt templates are copy-paste ready.\n\nIf you can set up a calendar event, you can build these workflows.\n\n$45. Link in bio.\n\n#AIAutomation #NoCode #Solopreneur #ProductivityTools #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
       }
@@ -1074,32 +1075,35 @@
     "scheduled_date": "2026-03-11",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-11",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T11:25:41.098Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This free guide is not for everyone.\n\nIt's specifically for you if:\n\n→ You've been thinking about freelancing for months (or years) but haven't taken a real first step\n→ You have skills from your job — writing, design, marketing, ops, video, tech — that you've never monetized independently\n→ You're stuck in a 9-5 that no longer excites you and you want an exit strategy that doesn't require quitting cold turkey\n→ You've set up a Fiverr or Upwork profile, got zero clients, and wondered why\n→ You don't know how to price your work, find clients, or explain what you do in a way people understand\n\nThis guide will not help you if you're looking for passive income shortcuts, dropshipping hacks, or get-rich schemes.\n\nIt's a real execution system for people who are serious about building a freelance income — starting in the next 30 days.\n\nFree. 10 pages. No email required.\n\n👉 https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #CareerChange #SideHustle #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Who is the Freelance Launch Guide actually for?\n\n✅ You have a skill from work (writing, design, marketing, tech, ops, video) you've never sold independently\n✅ You've thought about freelancing but always found a reason to delay\n✅ You tried Fiverr or Upwork, got no clients, and don't know what went wrong\n✅ You want to exit your 9-5 but need income proof first\n✅ You don't know how to price yourself or explain what you do\n\n❌ Not for people looking for quick passive income schemes\n❌ Not for people who aren't willing to send outreach messages daily\n\nIf the first list is you — this is your system.\n\nFree guide, 10 pages, immediate download.\n\n👉 https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #SideHustle #CareerTransition",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AVKHRLtDheJuxvDSQ-zQY9Q\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide was built for one specific person:\n\nSomeone who has real skills, wants location freedom, but has no idea how to turn what they know into what someone pays for.\n\nIf that's you — welcome.\n\nIf you're a marketer, designer, writer, VA, video editor, developer, or ops person who's been sitting on the fence — this is the guide that gets you off it.\n\n30-day system. 6 phases. First client.\n\nFree. Link in bio.\n\n#FreelancerLife #SideHustle #SkillsToIncome #WorkFromAnywhere #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Aob_DmHbkDqigB1-VP_Rad0\"}}"
       }
     }
   },
@@ -1316,30 +1320,31 @@
     "scheduled_date": "2026-03-12",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-12",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T11:26:48.408Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is for a very specific type of LinkedIn user.\n\nNot beginners who've never posted before.\nNot people who've never thought about personal branding.\n\nThis is for you if:\n\n→ You post consistently — 3–5 times per week — and still average under 1,000 impressions\n→ You've read articles about \"LinkedIn tips\" and implemented them, and still nothing changed\n→ You get likes from the same 5 people every time but never new followers or profile visits\n→ You're a consultant, coach, freelancer, founder, or professional trying to generate inbound leads from LinkedIn — and it's just not happening\n→ You suspect the problem is your hooks but don't know how to fix them\n→ You've had one or two posts do well by accident and have no idea why\n\nIf this is you — the guide directly solves your problem.\n\nIt's not about posting more. It's about posting with structure.\n\nFree. 10 pages. Immediate download.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #PersonalBrand #B2BMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T11:26:37.007Z",
+        "post_id": "122097498980948582",
         "text": "Who exactly is the LinkedIn Engagement Guide built for?\n\n✅ Professionals posting 3–5x per week and still under 1,000 impressions\n✅ Consultants, coaches, and founders trying to generate leads from LinkedIn\n✅ Freelancers who want inbound clients but can't break through the noise\n✅ Anyone who's had a post randomly perform well and had zero idea why\n✅ People who've tried \"LinkedIn tips\" and gotten no meaningful results\n\n❌ Not for people who've never posted before (start with the basics first)\n❌ Not for brands running paid ads (this is an organic content guide)\n\nIf you're in the first group, this guide is your missing piece.\n\nFree download.\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #ContentMarketing #Freelancer",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T11:26:48.408Z",
+        "post_id": "18004490546891222",
         "text": "This guide is for the LinkedIn creator who's doing everything \"right\" — and getting nothing back.\n\nPosting regularly. Writing genuinely. Showing up consistently.\n\nAnd still: 200 impressions, 2 likes, zero leads.\n\nIf that's you — this is exactly what you need.\n\nThe V.I.S.I.B.L.E.™ Framework will show you why your posts are being buried and how to fix it — post by post — in 30 days.\n\nFree. Link in bio.\n\n#LinkedIn #PersonalBranding #ContentCreator #SocialMediaTips #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       }
@@ -1519,32 +1524,35 @@
     "scheduled_date": "2026-03-11",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-11",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T11:25:27.399Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's the system that converts a course library into real results.\n\nIt's called the C.C.A.S.™ Framework — 5 steps, run as a loop for every course you commit to completing.\n\n→ Step 1 — Audit & Prioritize: List every course you own. Score each 1–10 on ROI potential. Does completing it earn income, save time, or build a billable skill? Archive anything below 6. Pick exactly one to start.\n\n→ Step 2 — Goal-Oriented Learning: Replace vague intent with a concrete output goal. Not \"learn SEO\" — \"publish 3 SEO-optimized articles that rank within 60 days.\" No output goal = no start.\n\n→ Step 3 — Micro-Session Scheduling: Break the course into 25-minute blocks. Schedule them in your calendar 4× per week at the same time. Treat them like client calls.\n\n→ Step 4 — Immediate Application (24h Rule): Within 24 hours of every module, produce one real-world output derived from that lesson. A draft. A build. A post. A test. If you can't apply it in 24 hours, the lesson isn't connected to a real goal.\n\n→ Step 5 — Track & Reward: Log every completed module and its applied action. Weekly review. When the course is fully done and the output goal is met — only then are you allowed to start the next one.\n\nThe framework is free. The guide is 10 pages.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #Productivity #SkillBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The C.C.A.S.™ Framework — the system inside our free guide for finally finishing what you start:\n\nStep 1 — Audit: Score every course on ROI potential. Archive the low-value ones. Commit to exactly one.\n\nStep 2 — Goals: Set a concrete output goal before module 1 plays. \"Build a 5-email welcome sequence\" beats \"learn email marketing\" every time.\n\nStep 3 — Schedule: 25-minute blocks, 4× per week, in your calendar like meetings. Not when you \"have time.\"\n\nStep 4 — Apply (24h Rule): Every module produces a real output within 24 hours. Not notes. A built thing, a sent thing, a published thing.\n\nStep 5 — Track & Reward: Log completions weekly. Reward yourself on full course completion. Then — and only then — start the next course.\n\nFree guide. 10 pages.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#Productivity #OnlineLearning #SelfDevelopment",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A7kEAkjMCP8qjggPWf-ijH8\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 steps to stop collecting courses and start completing them:\n\n1️⃣ Audit your library — score each course on ROI potential. Keep only what directly earns or saves.\n\n2️⃣ Set an output goal — not \"learn X\" but \"build Y by [date].\"\n\n3️⃣ Schedule micro-sessions — 25 min blocks, 4x/week, in your calendar like meetings.\n\n4️⃣ Apply within 24 hours — every lesson produces a real output within a day. No exceptions.\n\n5️⃣ Track and reward — log it. Review weekly. Celebrate completion. Then earn the next course.\n\nThis is the C.C.A.S.™ Framework. Full breakdown in the free guide.\n\nLink in bio.\n\n#OnlineCourses #ProductivityTips #LearningHabits #SkillBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AAfnngZdg5540d6VdUsO1G_\"}}"
       }
     }
   },
@@ -1960,30 +1968,31 @@
     "scheduled_date": "2026-03-12",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-12",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T11:26:28.859Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You've seen it. Someone posts their Notion template on Gumroad.\n\nWithin 72 hours: 300 sales. $8,700 in revenue. From a digital file.\n\nYou open Notion. You stare at a blank page.\n\nYou think: \"I use Notion every day. I know it better than most people. Why can't I figure out how to turn that into money?\"\n\nThe problem isn't your Notion skills.\n\nIt's that nobody showed you the gap between building a template and building a template that sells.\n\nThe difference is not design. It's not complexity. It's market intelligence — knowing which problems people are already spending money to solve, and engineering a template that solves exactly that.\n\nThat's what the Build & Sell Notion Templates guide teaches.\n\nThe T.E.M.P.L.A.T.E™ Framework — an 8-stage system that takes you from market research to validated idea to priced Gumroad listing generating $1,000–$5,000/month in passive income.\n\nNo audience required. No design background needed. Just a system.\n\n→ Get the guide: https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Gumroad #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T11:26:18.427Z",
+        "post_id": "122097498776948582",
         "text": "People are making $5,000–$20,000/month selling Notion templates on Gumroad.\n\nNot because they're design geniuses. Not because they have massive audiences.\n\nBecause they understood one thing you probably haven't yet:\n\nThe template is not the product. The solved problem is the product.\n\nMost people build templates they personally love and then wonder why nobody buys them. The creators making real money build templates that solve specific, painful, documented problems people are already searching for solutions to.\n\nThe Build & Sell Notion Templates guide shows you exactly how to find those problems, build the right template, price it correctly, and set up a Gumroad funnel that generates sales — even while you sleep.\n\n$1,000–$5,000/month. From a digital file. Using a system.\n\n👉 https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Gumroad #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T11:26:28.859Z",
+        "post_id": "18405496561182668",
         "text": "Someone posted a Notion template on Gumroad last week.\n\n$8,700 in 72 hours. 💀\n\nYou use Notion every day.\nYou're good at it.\nYou've made $0 from it.\n\nThe gap isn't skill.\nIt's the system that turns a template into a product that sells.\n\nThat system exists. Link in bio. 🔗\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Gumroad #Notion #SideHustle #MakeMoneyOnline #Publixion #DigitalDownloads #OnlineBusiness",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       }
@@ -2920,32 +2929,35 @@
     "scheduled_date": "2026-03-11",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-11",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T11:25:20.106Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You are not indecisive.\n\nYou are unarchitected.\n\nThere is a specific kind of person who reads every article, consults every trusted friend, builds every pros-and-cons list — and still cannot move.\n\nNot because they are weak.\nNot because they are confused.\nBecause nobody ever gave them a reliable system.\n\nDecision Clarity was written for that person.\n\nThe professional sitting on a career decision for four months who cannot explain why they are still sitting.\n\nThe high achiever whose analytical mind has become the most sophisticated avoidance engine they have ever owned.\n\nThe person who knows what they should do and cannot make themselves do it.\n\nIf you have ever finished a major decision and felt relief that it was over rather than confidence that it was right — this book is for you.\n\nIt is built around the CLEAR Framework: a five-stage decision architecture that moves any high-stakes choice from paralyzing complexity to structured, values-aligned, committed action.\n\nNot in theory. In writing. On your actual decision. Within 24 hours of engaging the system.\n\nThe decision sitting with you right now deserves a better process than the one you have been using.\n\nDecision Clarity is available now at publixion.com\n\n#DecisionMaking #PersonalDevelopment #CLEARFramework #Publixion #Leadership",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You are not indecisive. You are unarchitected.\n\nThere is a specific kind of person who does all the research, asks all the right people, writes all the lists — and still cannot decide.\n\nNot because they are weak. Because they were never given a system.\n\nDecision Clarity changes that.\n\nBuilt around the CLEAR Framework, it is a complete decision operating system for the choices that define careers, relationships, finances, and identity.\n\nIf you have been sitting on a decision that deserves better than another pros-and-cons list — this is what you have been waiting for.\n\nAvailable now at publixion.com\n\n#DecisionMaking #DecisionClarity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Af7zeSJ_YPd6Su2Xzb3kPuY\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You are not indecisive.\nYou are unarchitected.\n\nDecision Clarity gives you the system that moves you from paralysis to purposeful action on any high-stakes choice — within 24 hours.\n\nCareer. Relationships. Finances. Identity.\n\nOne framework. Every decision. For life.\n\nLink in bio.\n\n#DecisionMaking #CLEARFramework #PersonalDevelopment #DecisionClarity #Publixion #LifeStrategy #MindsetShift #CareerGrowth #SelfDevelopment #Leadership",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AUPgC6kdi5x8byi3KN6I2d-\"}}"
       }
     }
   },
@@ -5136,8 +5148,8 @@
     "scheduled_date": "2026-03-11",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-11",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T11:25:47.585Z",
     "platforms": {
       "linkedin": {
         "enabled": false,
@@ -5157,7 +5169,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "13 chapters. 16 tools. One project you finish.\n\nSwipe to see what is inside 👉\n\nSlide 1 — The book that replaces motivation with a system.\n\nSlide 2 — Ch. 1-3: Why motivated people rarely finish. The autopsy of your last 3 failures. The identity of an executor.\n\nSlide 3 — Ch. 4-6: Scope your project for completion, not aspiration. Design constraints that accelerate output. Build an environment that works before you do.\n\nSlide 4 — Ch. 7-10: Accountability with real stakes. A daily protocol that runs without willpower. Weekly reviews that catch drift before it becomes abandonment. Progress tracking that creates its own momentum.\n\nSlide 5 — Ch. 11-13 + 30-Day Plan: The three resistance walls every project hits and the pre-designed responses. The completion checklist that ends perfectionism. The life operating system that makes finishing permanent.\n\nOne project. You choose it on page one. You ship it by Day 30.\n\nLink in bio.\n\n#Productivity #Execution #DeepWork #ProjectCompletion #Finish #Publixion #HabitScience #Accountability #EXEC #GetItDone",
@@ -5168,7 +5180,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/execution-over-motivation-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/execution-over-motivation-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/execution-over-motivation-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AmFkWoz1DuLzGidRb-g2DRJ\"}}"
       }
     }
   },
@@ -9797,24 +9810,26 @@
     "scheduled_date": "2026-03-11",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-11",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T11:25:31.946Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here is the problem with most side income advice:\n\nIt starts with the product.\n\nFind a niche. Build the thing. Launch it. Market it.\n\nWhat that sequence produces, in most cases, is a finished product that nobody asked for. Weeks of work. Zero buyers. And a growing suspicion that you were not cut out for this.\n\nAt Publixion, we spent months studying why intelligent, capable people fail to generate side income — not because they lacked motivation, but because they were executing the right activities in the wrong order.\n\nThe pattern was consistent:\n→ They built before they validated.\n→ They invested before they earned.\n→ They tried to scale before they had launched.\n\nThe Side Income System reverses that sequence entirely.\n\nValidate. Launch. Scale.\n\nIn that order. Always.\n\nAvailable now on Amazon and Publixion 👇\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncomeSystem #Publixion #OnlineBusiness #DigitalIncome #Entrepreneurship #SideHustle",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here is the problem with most side income advice:\n\nIt starts with the product.\n\nFind a niche. Build the thing. Launch it. Market it.\n\nWhat that sequence produces, in most cases, is a finished product that nobody asked for. Weeks of work. Zero buyers.\n\nAt Publixion, we spent months studying why intelligent, capable people fail to generate side income — not because they lacked motivation, but because they were executing the right activities in the wrong order.\n\nThe Side Income System reverses that entirely.\n\nValidate. Launch. Scale. In that order.\n\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncomeSystem #Publixion #OnlineBusiness #SideHustle",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AIASMhmFmYtfJueLarMUZuS\"}}"
       },
       "instagram": {
         "enabled": false,
