@@ -3347,30 +3347,31 @@
     "scheduled_date": "2026-01-10",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-10",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:45:04.434Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion: your productivity system is failing you not because you lack discipline — but because it was designed to require it.\n\nEvery habit tracker, time-blocking template, and morning routine you have ever tried was built on the same broken assumption: that if you want it badly enough, you will do it consistently.\n\nYou will not.\n\nNot because you are weak. Because willpower is a finite cognitive resource that depletes with every decision you make. The research on ego depletion is unambiguous. Your ability to resist distraction at 3 PM is categorically smaller than it was at 8 AM — regardless of how motivated you felt when you woke up.\n\nThe professionals who consistently out-produce their peers are not more disciplined. They have better environments.\n\nThey removed the phone from the room instead of resisting the urge to check it. They blocked the distracting sites before the session began instead of relying on willpower not to open them. They designed their day around their cognitive peak window instead of hoping to find focus in the scraps of time between meetings.\n\nHere is the question that actually matters:\n\nNot 'how do I become more disciplined?' but 'how do I design my environment so that the behavior I want is the path of least resistance?'\n\nThat is an answerable question. And the answers are specific, structural, and lasting in a way that motivational resolve never is.\n\nDeep Work. Real Results. is built entirely on this principle. Six systems. Zero dependence on how you feel.\n\nGet the book: publixion.com/book/deep-work-real-results\n\nDo you agree — or do you think willpower is the answer? Tell me below.\n\n#DeepWork #Productivity #Willpower #BehavioralScience #Focus #HighPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:44:49.037Z",
+        "post_id": "122097286472948582",
         "text": "Hot take: the reason your productivity habits keep failing has nothing to do with discipline.\n\nIt has everything to do with design.\n\nWillpower is a finite resource. It depletes by afternoon regardless of your intentions. The people who consistently produce exceptional work are not fighting harder — they have arranged their environments so the fight rarely happens.\n\nDeep Work. Real Results. is built on this principle. Systems over willpower. Environment over effort.\n\nDo you think discipline is the answer — or is it all about design? Comment below.\n\nGet the book: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Willpower #Focus #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:45:04.434Z",
+        "post_id": "18042461279751086",
         "text": "You do not need more discipline.\n\nYou need a better environment.\n\nWillpower depletes by afternoon. Every single day. Regardless of how motivated you felt at 7 AM.\n\nThe highest producers you know are not grinding through resistance. They designed their day so the resistance rarely shows up.\n\nThat is the entire game.\n\nDeep Work. Real Results. — link in bio.\n\n#DeepWork #Productivity #Discipline #MindsetShift #Focus #Publixion #HighPerformance #WorkSmart #HabitBuilding #SystemsThinking",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       }
@@ -3387,30 +3388,31 @@
     "scheduled_date": "2026-01-14",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-14",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:45:46.187Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is from Chapter 2 of Deep Work. Real Results. — sharing it because it changed how I think about distraction entirely.\n\n---\n\nJames is writing the most important proposal of his career.\n\nHe has cleared two hours in his calendar. The proposal, if accepted, could bring his firm the largest contract they have ever landed. He has the data, the structure, and the expertise. All he needs is to sit down and write it.\n\nHe opens his laptop at 9 AM.\n\nBy 9:04, he has checked his email. Nothing urgent, but he reads three threads anyway. At 9:11, a Slack notification arrives. He mutes it but notices the preview. At 9:17, he remembers a document he needs to send before noon. At 9:22, his phone vibrates. He glances without picking it up. At 9:33, his browser has fourteen tabs open and he is reading a LinkedIn article about strategic communication.\n\nAt 10 AM, James closes his laptop and tells his manager the proposal is almost done.\n\nHe will finish it tomorrow. He says this every day.\n\n---\n\nJames is not lazy. James is not poorly skilled.\n\nJames is operating inside a distraction architecture that is more powerful than his intentions.\n\nAnd until he changes the architecture, no amount of effort will change the outcome.\n\nThat is the insight most productivity systems miss entirely. This is not a motivation problem. It is a design problem.\n\nDeep Work. Real Results. is the design solution.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #Distraction #KnowledgeWorker #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:45:33.814Z",
+        "post_id": "122097286982948582",
         "text": "Does this sound like your morning?\n\nYou sit down to do your most important work. Within four minutes you have checked email. Within eleven, a Slack preview pulled your attention. By 9:33 you have fourteen browser tabs open.\n\nBy 10 AM, nothing is done.\n\nThis is James. From Chapter 2 of Deep Work. Real Results.\n\nJames is not lazy. He is operating inside a distraction system more powerful than his intentions. Until he changes the architecture, the result never changes.\n\nThis book teaches you to change the architecture.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:45:46.187Z",
+        "post_id": "17844987336695712",
         "text": "He cleared two hours to write the most important proposal of his career.\n\nBy 9:33 AM he had fourteen browser tabs open.\n\nBy 10 AM, nothing was done.\n\nThis is not a discipline story. It is a design story.\n\nAnd the design is fixable.\n\nDeep Work. Real Results. — the full system is in the link in bio.\n\n#DeepWork #Productivity #Distraction #Focus #Publixion #KnowledgeWorker #WorkSmart #HighPerformance #TimeManagement #Mindset",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       }
@@ -3427,22 +3429,23 @@
     "scheduled_date": "2026-01-18",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:46:14.741Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are hundreds of productivity books. Here is why this one is different — and why it matters for you specifically.\n\nMost productivity books do one of two things.\n\nThey make the philosophical case for why deep focus matters (Cal Newport's Deep Work is the gold standard for this — essential reading), or they give you a list of tactics: wake up earlier, use time-blocking, build a morning routine, batch your email.\n\nNeither approach solves the actual problem.\n\nThe first gives you conviction without a system. The second gives you tactics without an architecture to hold them together. Both collapse when your schedule gets disrupted, your motivation dips, or a project demands everything you have for two weeks.\n\nDeep Work. Real Results. starts where both leave off.\n\nIt assumes you already believe focus matters. It gives you the complete operational system for implementing it inside a real professional life with real constraints.\n\nHere is what that means concretely:\n\nNot just 'protect your mornings' but a four-component Deep Work Protocol aligned to your specific chronotype with a model week template and a meeting perimeter strategy.\n\nNot just 'manage your energy' but a four-dimension Energy Architecture covering sleep science, movement protocols, emotional regulation, and purpose alignment — each with specific daily implementation steps.\n\nNot just 'learn to say no' but a Decision Filter with four sequential questions applied to every new request, a Subtraction Practice for existing commitments, and scripts for saying no effectively without damaging relationships.\n\nNot just 'build habits' but a Systems Architecture Model with habit stacks written as if-then implementation intentions, a Progress Architecture with visual tracking, and a pre-written Failure Protocol for when the system breaks.\n\nAnd a 30-Day Implementation Plan that puts every piece of this in sequence, day by day, with specific actions and measurable outputs.\n\nThis is not the book that inspires you. This is the book that changes your output numbers.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #ProductivitySystem #Focus #KnowledgeWorker #HighPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:46:14.741Z",
+        "post_id": "122097287786948582",
         "text": "Most productivity books either make the case for deep work (inspiring, not actionable) or give you a tip list (actionable, falls apart in week two).\n\nDeep Work. Real Results. is neither.\n\nIt is the operational system that starts where inspiration ends — six integrated frameworks, a chronotype-aligned daily schedule, and a 30-Day Plan that installs everything into your real life with daily specific actions.\n\nNot a philosophy. Not a tip list. A complete architecture.\n\nThe difference shows up in your output numbers by Day 30.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #ProductivitySystem #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       },
@@ -3467,30 +3470,31 @@
     "scheduled_date": "2026-01-23",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-23",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:46:46.142Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The five questions I hear most before people buy Deep Work. Real Results. — answered honestly.\n\nQ: I have tried productivity systems before and they always fall apart after two weeks. Why would this be different?\n\nA: Because this system is built on environment and structure, not motivation. Every previous system you tried required you to feel like doing it. This one is designed to run even when you do not. The Failure Protocol alone — a pre-written plan for returning after disruption — eliminates the guilt spiral that kills most systems on their worst day.\n\nQ: My job is full of meetings. I have almost no control over my schedule. Will this still work?\n\nA: Yes. The Deep Work Protocol includes a Meeting Perimeter strategy, a process for auditing which recurring meetings are actually necessary, and a communication framework for protecting your Anchor Block even in high-coordination roles. Most professionals discover after the Time Audit that they have far more calendar flexibility than they assumed — it was just never intentionally claimed.\n\nQ: I already wake up early, exercise, and have a morning routine. Is there still value here?\n\nA: Almost certainly. Having a morning routine and having a deep work system are different things. This book is specifically about what happens inside your working hours — how you structure cognitive output time, protect it from fragmentation, fuel it correctly, and filter the commitments that compete with it. Most high performers have strong routines and still produce a fraction of what they are capable of during actual work hours.\n\nQ: How is this different from Cal Newport's Deep Work?\n\nA: Newport's book makes the philosophical and research case for deep work powerfully and is worth reading. This book starts where his ends — it assumes you already believe focus matters and gives you the complete operational system for implementing it. Different purpose, different outcome, complementary reads.\n\nQ: How long does it take to read and implement?\n\nA: Four to six hours to read. Thirty days to install fully, at fifteen to thirty minutes of system maintenance per day in addition to your Anchor Block. Measurable before-and-after output data in your own numbers by Day 30.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\nAny other questions — drop them below and I will answer every one.\n\n#DeepWork #Productivity #Focus #ProductivitySystem #KnowledgeWorker #FAQ #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:46:34.832Z",
+        "post_id": "122097288350948582",
         "text": "Five honest answers to the questions people ask before buying Deep Work. Real Results.\n\nQ: Will this fall apart in two weeks like every other system?\nA: No — because it is built on environment design, not motivation. The Failure Protocol alone changes everything about how you recover from a disrupted week.\n\nQ: My schedule is full of meetings. Will this work?\nA: Yes. The book includes a Meeting Perimeter strategy and a protocol for reclaiming calendar flexibility most professionals do not realize they have.\n\nQ: I already have a morning routine. Is there still value?\nA: Your morning routine and your deep work system are different things. This book covers what happens inside your working hours — where most professionals produce far less than their capability allows.\n\nQ: How is this different from Cal Newport's book?\nA: Newport makes the case for deep work. This book gives you the operational system to implement it in a real schedule. Different purpose, complementary reads.\n\nQ: How long to read and implement?\nA: Four to six hours to read. Thirty days to fully install. Measurable results in your own numbers by Day 30.\n\nGet your copy: publixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:46:46.142Z",
+        "post_id": "18101498326927601",
         "text": "5 real questions. 5 honest answers.\n\n'Will it fall apart in two weeks?'\nNo. It is built on systems, not motivation. The Failure Protocol keeps you returning faster than any resolve ever could.\n\n'My schedule is full of meetings.'\nThe book includes a Meeting Perimeter strategy. You have more calendar flexibility than you think.\n\n'I already have a morning routine.'\nA routine and a deep work system are different things. This is about your working hours — not your 6 AM habits.\n\n'How is it different from Newport's book?'\nNewport makes the case. This book gives you the operational system.\n\n'How long to see results?'\nMeasurable output data in your own numbers by Day 30.\n\nLink in bio.\n\n#DeepWork #Productivity #Focus #Publixion #HighPerformance #WorkSmart #FAQ #KnowledgeWorker #TimeManagement #Mindset",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       }
@@ -4811,30 +4815,31 @@
     "scheduled_date": "2026-01-10",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-10",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:45:26.477Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Anger is not your problem.\n\nIt is the solution your nervous system reached for because it could not access the real emotion.\n\nBeneath every explosion — every sharp word, every cold silence, every wall that went up in a conversation that needed you to stay open — is something more honest.\n\nFear. Grief. Shame. The specific ache of a wound that never fully healed and just got touched again by someone who had no idea it was there.\n\nAnger is faster. Anger feels safer. Anger gives you the physiological surge of adrenaline and the cognitive certainty of being right.\n\nFear makes you vulnerable. Grief requires you to acknowledge a loss. Shame asks you to see yourself clearly.\n\nSo the brain chooses anger. Every time. Because anger is the emotion that puts the wall up instead of the one that lowers it.\n\nHere is what that costs you.\n\nThe argument that never resolved because both people were arguing from their anger instead of their actual experience.\nThe relationship that cooled because one person kept getting the explosion when they needed the honest conversation underneath it.\nThe reputation at work shaped by a pattern you could not see because you were always inside it.\n\nReal anger work does not start at the explosion.\nIt starts at the question beneath it: what was I actually feeling before the anger arrived?\n\nThat is the question the Anger Protocol in Emotional Strength is built to answer.\n\nAnd the answer changes everything.\n\n#EmotionalIntelligence #AngerManagement #EmotionalStrength #MentalHealth #SelfAwareness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:45:12.254Z",
+        "post_id": "122097286736948582",
         "text": "Unpopular opinion:\n\nYou do not have an anger problem.\n\nYou have a primary emotion — fear, grief, shame, hurt — that never got a voice, so anger showed up to speak for it.\n\nAnger is faster. It feels stronger. It protects the thing underneath.\n\nBut the thing underneath is where the real conversation lives. And the real relationship. And the real you.\n\nThe Anger Protocol in Emotional Strength is a five-step excavation that finds what is actually beneath the explosion — and gives you a way to speak from that place instead.\n\nBecause the people in your life deserve the honest emotion. Not its loudest substitute.\n\n#AngerManagement #EmotionalIntelligence #EmotionalStrength #MentalHealth #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:45:26.477Z",
+        "post_id": "18176373937390002",
         "text": "You do not have an anger problem.\n\nYou have a primary emotion that anger showed up to protect.\n\nFear. Grief. Shame. The wound beneath the explosion.\n\nReal anger work starts there — not at the surface.\n\nThe Anger Protocol in Emotional Strength teaches you exactly how to find it.\n\nLink in bio.\n\n#AngerManagement #EmotionalIntelligence #EmotionalStrength #MentalHealth #SelfAwareness #HealingJourney #Publixion #NervousSystem #TriggerHealing #EmotionalRegulation",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       }
@@ -4851,30 +4856,31 @@
     "scheduled_date": "2026-01-14",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-14",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:46:06.968Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "From Chapter 2 of Emotional Strength — Trigger Mapping:\n\n---\n\nPriya had been to three therapists in five years. Each one told her she was stressed. Each one recommended better sleep, less caffeine, and mindfulness. The advice was not wrong. But it was not landing.\n\nShe still snapped at her partner after long workdays. She still froze when her mother called. She still felt a particular, sharp irritation around her colleague James that she could not explain.\n\nThe fourth therapist asked her to do something different. She asked Priya to keep a trigger journal for two weeks. Not a feelings journal. Not a gratitude journal. A specific log: what happened, what she felt in her body, what story her mind told her, and how she responded.\n\nAt the end of two weeks, Priya saw something she had never seen before. A pattern.\n\nJames did not irritate her because of his personality. He irritated her because he interrupted her in meetings — exactly as her older brother had interrupted her growing up, dismissing everything she said. The pattern was not about James at all. It was about a child who had learned that speaking up was futile.\n\nThe trigger was not the person. The trigger was the story.\n\n---\n\nThis is what Trigger Mapping does. It does not ask you to be less reactive. It shows you exactly what you are reacting to — underneath the surface event, underneath the person, underneath the situation.\n\nBecause you cannot change a pattern you cannot see.\n\nAnd the moment you can name it — this specific thing activates this specific belief, which produces this specific physical response — you have already broken the automatic nature of the cycle.\n\nAwareness is not the cure. But it is where every cure begins.\n\n📖 Full system at publixion.com/book/emotional-strength\n\n#EmotionalStrength #TriggerMapping #EmotionalIntelligence #SelfAwareness #Publixion #MentalResilience",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:45:53.649Z",
+        "post_id": "122097287360948582",
         "text": "From Chapter 2 of Emotional Strength:\n\n\"Priya had been to three therapists in five years. Each one told her she was stressed.\n\nShe still snapped at her partner. Still froze when her mother called. Still felt that sharp, unexplainable irritation around her colleague James.\n\nTwo weeks of trigger journalling later, she saw it. James did not irritate her because of his personality. He irritated her because he interrupted her in meetings — exactly as her older brother had dismissed her growing up.\n\nThe trigger was not the person. The trigger was the story.\"\n\nTrigger Mapping is the diagnostic that changes everything. Not because it asks you to react less — but because it shows you exactly what you are reacting to, underneath the surface.\n\nYou cannot change a pattern you cannot see.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #TriggerMapping #EmotionalIntelligence #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:46:06.968Z",
+        "post_id": "17974929650846926",
         "text": "\"The trigger was not the person. The trigger was the story.\"\n\nFrom Chapter 2 of Emotional Strength — Trigger Mapping.\n\nYou cannot change a pattern you cannot see. The Trigger Map is the tool that finally makes it visible.\n\nLink in bio.\n\n#EmotionalStrength #TriggerMapping #EmotionalIntelligence #SelfAwareness #Publixion #HealingJourney #MentalHealth #TherapyTools #NervousSystemRegulation #PatternBreaking",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       }
@@ -4891,22 +4897,23 @@
     "scheduled_date": "2026-01-18",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:46:25.489Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are three kinds of emotional intelligence books.\n\nThe first explains the neuroscience beautifully and leaves you with no tools.\nYou finish it smarter about your brain and no different in your behaviour.\n\nThe second gives you breathing exercises and calls it a system.\nUseful in moderate stress. Completely insufficient when things actually break.\n\nThe third asks you to be more mindful, more present, more grateful.\nThis is advice dressed as methodology. It works for people who were already mostly regulated.\n\nEmotional Strength is none of these.\n\nIt is a complete operational system — fourteen chapters, fifteen named frameworks, a 30-Day Implementation Plan, and a permanent Field Guide — built for people who already understand their patterns and need the bridge to actual behaviour change.\n\nHere is what makes it structurally different:\n\n→ It addresses extreme conditions. Chapter Thirteen is built specifically for grief, acute trauma, regulatory depletion, and crisis — the moments when ordinary tools stop working and most books go silent.\n\n→ It addresses the family system. Chapter Fourteen gives parents and partners the specific tools to transmit emotional intelligence to the next generation, with age-calibrated protocols and intergenerational pattern interruption.\n\n→ It produces deliverables. By the end of the 30-Day Plan, you hold a living Trigger Map, a written Resilient Identity Statement, a personalised Daily Practice, and an Annual Development Roadmap. Not inspiration. Instruments.\n\n→ It is honest about its limits. The book tells you clearly and specifically when self-directed work is insufficient and professional support is necessary. That honesty is itself a form of respect most books in this category do not offer.\n\nIf you have read Emotional Intelligence by Goleman and wanted more tools.\nIf you have read The Body Keeps the Score and wanted a practical next step.\nIf you have done the therapy and want the daily operational system to maintain what you built there.\n\nThis is that book.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #SelfDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:46:25.489Z",
+        "post_id": "122097287906948582",
         "text": "Most emotional intelligence books do one of three things:\n\n1. Explain the neuroscience brilliantly. Leave you with no tools.\n2. Give you breathing exercises and call it a system.\n3. Tell you to be more mindful. Not a methodology. Advice.\n\nEmotional Strength does something different.\n\nIt gives you fifteen named frameworks, a 30-Day Implementation Plan that builds your toolkit from scratch, a chapter on extreme conditions (grief, trauma, crisis) that most books skip entirely, and a Field Guide you use for the rest of your life.\n\nAnd it produces deliverables — a Trigger Map, a Resilient Identity Statement, a Daily Practice, an Annual Roadmap — not just insights.\n\nIf you have read the theory and are ready for the system, this is that book.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #SelfDevelopment #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       },
@@ -4931,30 +4938,31 @@
     "scheduled_date": "2026-01-23",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-23",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:47:06.337Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 questions people ask before buying Emotional Strength. Answered honestly.\n\n─\n\nQ: Is this just another mindfulness book?\n\nA: No. Breathwork is two tools among fifteen. The core of the system is structural — Trigger Mapping, the ABC reframing model, attachment pattern recognition, the Resilient Identity framework. Readers who found mindfulness insufficient find here the analytical scaffolding that makes regulation techniques actually stick.\n\n─\n\nQ: I already understand why I react the way I do. Will this help?\n\nA: Understanding a pattern and having a system for changing it are two entirely different things. This book is built precisely for that gap — the person who has the insight and lacks the operational layer that converts it into different behaviour.\n\n─\n\nQ: Does it address grief and trauma or only everyday stress?\n\nA: Chapter Thirteen is dedicated entirely to extreme conditions — grief, acute trauma, sustained crisis, regulatory depletion. It includes the T.E.R.A. emergency framework, the Polyvagal state diagnostic table, and clear markers for when professional support is required. It is the most honest chapter in the book.\n\n─\n\nQ: I have read books like this and never followed through. Why would this be different?\n\nA: Because it produces deliverables rather than insights. Every chapter ends with specific tools to build, not reflection questions to consider. The 30-Day Plan gives you a day-by-day schedule. The Field Guide keeps every framework accessible permanently. The architecture of follow-through is built into the book itself.\n\n─\n\nQ: Is this relevant if I do not have a significant anger or anxiety problem?\n\nA: The majority of readers do not. They are functional, often high-performing adults who react in ways that cost them in relationships and at work — not dramatically, but consistently. The book was written for that specific, quiet frustration as much as for acute dysregulation.\n\n─\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #FAQ #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:46:53.418Z",
+        "post_id": "122097288668948582",
         "text": "Questions people ask before buying Emotional Strength:\n\nQ: Is this just a mindfulness book?\nA: No. Breathwork is two tools among fifteen. The core is structural — Trigger Mapping, cognitive reframing, attachment repair, the Resilient Identity. The scaffolding that makes any regulation technique actually stick.\n\nQ: I already understand my patterns. Will this help?\nA: Understanding and changing are two different things. This book is the operational layer between them.\n\nQ: Does it cover grief and trauma?\nA: Chapter Thirteen is built entirely for extreme conditions — grief, acute trauma, crisis, regulatory depletion. With a tiered emergency framework and clear referral markers for when professional support is necessary.\n\nQ: I never follow through on books like this.\nA: The 30-Day Plan gives you a day-by-day schedule. The Field Guide keeps every framework accessible permanently. Follow-through is built into the architecture.\n\nQ: I do not have a serious anger or anxiety problem. Is it still for me?\nA: Most readers do not. They are high-functioning adults who react in ways that cost them quietly. That specific experience is exactly what this book was built for.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #Publixion #MentalHealth",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:47:06.337Z",
+        "post_id": "18096814393805060",
         "text": "5 honest answers to the questions people ask before buying Emotional Strength.\n\n1. Is this just mindfulness? No. Breathwork is 2 tools of 15. The core is Trigger Mapping, cognitive reframing, and the Resilient Identity framework.\n\n2. I understand my patterns already. Will it help? Understanding and changing are different things. This book is the bridge.\n\n3. Does it cover trauma and grief? Yes. Chapter 13 is built entirely for extreme conditions with a tiered emergency framework.\n\n4. I never follow through on books. The 30-Day Plan is day-by-day. The Field Guide is permanent. Follow-through is designed in.\n\n5. I am not severely dysregulated. Is it for me? Most readers are not. They are high-performing adults reacting in ways that cost them quietly. That is exactly who this was written for.\n\nLink in bio.\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #FAQ #Publixion #SelfDevelopment #AngerManagement #AnxietyRelief #NervousSystem #PersonalGrowth",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       }
