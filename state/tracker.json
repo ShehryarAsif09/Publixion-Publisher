@@ -1,8 +1,152 @@
 {
-  "last_run": "2026-03-20T19:05:59.916Z",
-  "total_posted": 12,
-  "total_failed": 88,
+  "last_run": "2026-03-21T04:47:08.339Z",
+  "total_posted": 26,
+  "total_failed": 96,
   "run_log": [
+    {
+      "started_at": "2026-03-21T04:44:33.133Z",
+      "date": "2026-03-21",
+      "slot": "04:00",
+      "posts": [
+        {
+          "id": "DWRR-004",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097286472948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18042461279751086"
+            }
+          }
+        },
+        {
+          "id": "ES-004",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097286736948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18176373937390002"
+            }
+          }
+        },
+        {
+          "id": "DWRR-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097286982948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "17844987336695712"
+            }
+          }
+        },
+        {
+          "id": "ES-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097287360948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "17974929650846926"
+            }
+          }
+        },
+        {
+          "id": "DWRR-006",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097287786948582"
+            },
+            "instagram": {
+              "success": false,
+              "skipped": true
+            }
+          }
+        },
+        {
+          "id": "ES-006",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097287906948582"
+            },
+            "instagram": {
+              "success": false,
+              "skipped": true
+            }
+          }
+        },
+        {
+          "id": "DWRR-007",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097288350948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18101498326927601"
+            }
+          }
+        },
+        {
+          "id": "ES-007",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097288668948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18096814393805060"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-21T04:47:08.339Z"
+    },
     {
       "started_at": "2026-03-20T19:04:28.400Z",
       "date": "2026-03-20",
