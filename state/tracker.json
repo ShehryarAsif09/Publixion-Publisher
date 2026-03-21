@@ -1,8 +1,152 @@
 {
-  "last_run": "2026-03-21T04:47:08.339Z",
-  "total_posted": 26,
-  "total_failed": 96,
+  "last_run": "2026-03-21T04:54:55.605Z",
+  "total_posted": 39,
+  "total_failed": 107,
   "run_log": [
+    {
+      "started_at": "2026-03-21T04:52:29.605Z",
+      "date": "2026-03-21",
+      "slot": "04:00",
+      "posts": [
+        {
+          "id": "DWRR-008",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097290444948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "17971578704865277"
+            }
+          }
+        },
+        {
+          "id": "ES-008",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097290552948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18091671698171168"
+            }
+          }
+        },
+        {
+          "id": "3DDP-001",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097290696948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "17970155966870454"
+            }
+          }
+        },
+        {
+          "id": "TFR-001",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"APyP6z8sFKDuhug0qTOjgSp\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AWrATHvbcgyYS_TZgruwnza\"}}"
+            }
+          }
+        },
+        {
+          "id": "AAS-001",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097290972948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "17863380786610241"
+            }
+          }
+        },
+        {
+          "id": "AOWT-001",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097291302948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18567544243050519"
+            }
+          }
+        },
+        {
+          "id": "3DDP-002",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097291512948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "17867098923504041"
+            }
+          }
+        },
+        {
+          "id": "1MAS-001",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122097291728948582"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"ArRbYck125faUprlVILfUQV\"}}"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-21T04:54:55.605Z"
+    },
     {
       "started_at": "2026-03-21T04:44:33.133Z",
       "date": "2026-03-21",
