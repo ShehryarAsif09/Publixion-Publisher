@@ -10,30 +10,31 @@
     "scheduled_date": "2026-03-01",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-01",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:53:25.068Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You've been sitting on the idea for months.\n\nA guide. A template pack. A mini-course. A report.\nSomething you know would genuinely help people.\nSomething people would pay for.\n\nBut you haven't launched it.\n\nAnd the real reason isn't time. It isn't skill. It isn't readiness.\n\nIt's that launching a digital product feels like a project with no clear starting point — so it never starts.\n\nI built a guide that solves this completely.\n\nThe 30-Day Digital Product Launch Plan gives you a day-by-day system — the L.A.U.N.C.H.™ Framework — that takes you from idea to live product in 30 days. Every step mapped. Every template included. Every decision made in advance.\n\n18 pages. $37.\n\nThis is the guide that removes every reason to wait.\n\n👉 https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #OnlineBusiness #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:53:12.579Z",
+        "post_id": "122097290696948582",
         "text": "You have an idea for a digital product.\n\nA guide. A template. A mini-course. Maybe a paid newsletter.\n\nYou've had the idea for a while. You know it's good. You know people would buy it.\n\nBut it's still just an idea.\n\nThe problem isn't capability. It's the absence of a step-by-step system that removes the guesswork from every decision between \"idea\" and \"first sale.\"\n\nThe 30-Day Digital Product Launch Plan gives you exactly that — day by day, decision by decision.\n\n$37. 18 pages. L.A.U.N.C.H.™ Framework.\n\n👉 Get it here: https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #OnlineBusiness #SideHustle",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:53:25.068Z",
+        "post_id": "17970155966870454",
         "text": "The digital product idea has been living in your head for months.\n\nYou know it's good. You know people would pay for it.\n\nBut launching it feels like 50 decisions you don't have time to make.\n\nThis guide makes every decision for you — day by day, step by step, for 30 days.\n\nL.A.U.N.C.H.™ Framework. 18 pages. $37.\n\nLink in bio.\n\n#DigitalProducts #OnlineBusiness #Solopreneur #CreatorEconomy #SideHustle #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       }
@@ -50,30 +51,31 @@
     "scheduled_date": "2026-03-03",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-03",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:54:34.093Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most digital product launches fail at the same stage: before the product exists.\n\nPeople build first, then try to find buyers. That's backwards.\n\nThe L.A.U.N.C.H.™ Framework — the system inside the 30-Day Digital Product Launch Plan — fixes this:\n\n→ L — List Audience Needs: Before building anything, you identify the exact pain your product solves and validate that people will pay for the solution. Market research built into Day 1.\n\n→ A — Align MVP: Define the minimum viable product — the smallest version of your idea that delivers the core result. Scope creep is the #1 reason products never ship.\n\n→ U — Unlock Market Proof: Get 3–5 people to say \"I'd buy this\" before building it. Pre-validation eliminates the risk of building something nobody wants.\n\n→ N — Nurture Pre-Launch: Build a warm audience before launch day. Email list, social posts, waitlist — all templated and mapped in the guide.\n\n→ C — Create & Launch: Build the product using the included production templates. Launch on Day 30 with a complete sales process already set up.\n\n→ H — Harvest & Iterate: Collect feedback, optimize conversion, and set up the next product cycle.\n\nEvery phase has templates, scripts, and a day-by-day task list.\n\n$37. 18 pages.\n\n👉 https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #ProductLaunch #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:54:21.890Z",
+        "post_id": "122097291512948582",
         "text": "The 6-phase framework that turns a product idea into a live launch in 30 days:\n\nL — List Audience Needs (validate before you build)\nA — Align MVP (smallest product that delivers the core result)\nU — Unlock Market Proof (3–5 people confirm they'll pay before Day 10)\nN — Nurture Pre-Launch (build your waitlist with templates in the guide)\nC — Create & Launch (build + launch with complete sales process)\nH — Harvest & Iterate (optimize and prep the next product)\n\nThis is the L.A.U.N.C.H.™ Framework from the 30-Day Digital Product Launch Plan.\n\nEvery phase has templates and a day-by-day task list.\n\n$37. 18 pages.\n\n👉 https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #OnlineBusiness #ProductLaunch",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:54:34.093Z",
+        "post_id": "17867098923504041",
         "text": "The 6 phases of a digital product launch — mapped in 30 days:\n\nL — List Audience Needs (validate first)\nA — Align MVP (build the smallest version that works)\nU — Unlock Market Proof (pre-sell before you build)\nN — Nurture Pre-Launch (warm up your audience)\nC — Create & Launch (ship on Day 30)\nH — Harvest & Iterate (optimize and repeat)\n\nThis is the L.A.U.N.C.H.™ Framework.\n\n$37. 18 pages. Every template included.\n\nLink in bio.\n\n#DigitalProducts #ProductLaunch #Solopreneur #CreatorEconomy #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       }
@@ -250,30 +252,31 @@
     "scheduled_date": "2026-03-02",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-02",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:53:54.602Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You're doing the work of 3 people.\n\nClient delivery. Content creation. Admin. Outreach. Proposals. Follow-ups. Invoicing.\n\nYou started your solo business for freedom. But what you built is a 60-hour-a-week job — with yourself as the only employee.\n\nAI tools are supposed to fix this. But instead of saving you time, they've added a new task: figuring out which tools to use, how to connect them, and why the thing you built last week broke this week.\n\nHere's what most solopreneurs get wrong about AI automation: they treat it as a collection of tools instead of a system.\n\nThe A.U.T.O.M.A.T.E.™ Framework — the core of this guide — shows you how to build an integrated AI system that runs your repetitive tasks in the background while you focus on high-value work.\n\n8 phases. 17 pages. $45.\n\n👉 https://publixion.com/guides/ai-automation-solopreneurs\n\n#AIAutomation #Solopreneur #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:53:41.297Z",
+        "post_id": "122097290972948582",
         "text": "You started your solo business for freedom.\n\nSomehow you ended up with a 60-hour week and no one to delegate to.\n\nAI is supposed to solve this. But most solopreneurs are drowning in tools — using ChatGPT here, Zapier there, a Make workflow that breaks every week — without any of it adding up to actual time saved.\n\nThe difference between solopreneurs who genuinely get their time back from AI and those who just add complexity is one thing: a system.\n\nThe A.U.T.O.M.A.T.E.™ Framework shows you how to build that system — in 8 phases — starting with an audit of what to automate first.\n\n$45. 17 pages.\n\n👉 https://publixion.com/guides/ai-automation-solopreneurs\n\n#AI #Automation #Solopreneur #Productivity",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:53:54.602Z",
+        "post_id": "17863380786610241",
         "text": "You use AI tools.\n\nBut you're still working 50+ hours a week.\n\nThe problem isn't the tools. It's that you're using them randomly instead of systematically.\n\nThe A.U.T.O.M.A.T.E.™ Framework turns scattered AI tools into an integrated system that saves you 10–15 hours a week.\n\n$45. 17 pages. Link in bio.\n\n#AITools #Solopreneur #Productivity #Automation #AIAutomation #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
       }
@@ -490,30 +493,31 @@
     "scheduled_date": "2026-03-03",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-03",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:54:13.521Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You've got 47 AI tools bookmarked.\n\nYou've tried 12 of them.\n\nYou're still doing everything manually.\n\nThis is the AI trap nobody talks about — the overwhelm of too many options, too many tutorials, and zero clarity on what actually moves the needle for your business.\n\nMost people don't lack AI tools. They lack a system.\n\nThey download ChatGPT, Midjourney, Notion AI, Zapier, Perplexity — and then spend more time figuring out workflows than actually working.\n\nThe result? You're busier than ever, but no more productive than before.\n\nHere's the truth: you don't need 47 tools. You need 8–12 that work together — a curated AI stack built around your specific income goals.\n\nThat's exactly what the AI Overwhelm: Curated AI Stack Guide solves.\n\nIt's a step-by-step system to cut through the noise, build your personal AI stack, and start saving 10+ hours every single week within 30 days.\n\n→ Get it free at the link below.\n\n#AIProductivity #ArtificialIntelligence #AITools #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:54:02.206Z",
+        "post_id": "122097291302948582",
         "text": "Raise your hand if you've spent more time researching AI tools than actually using them. 🙋\n\nYou're not alone.\n\nThe average entrepreneur has tried 10+ AI tools in the last year — and still feels behind. Not because they're not smart enough. Because nobody gave them a curated system.\n\nYou don't need more tools. You need the RIGHT 8–12 tools, set up the right way, mapped to your actual workflow.\n\nThe AI Overwhelm: Curated AI Stack Guide is a free resource that shows you exactly which tools to use, how to stack them, and how to go from chaos to a system that saves you 10+ hours a week.\n\n30 days. Real results. Zero guesswork.\n\nGrab it free here → https://publixion.com/guides/ai-overwhelm-which-tools\n\n#AITools #Productivity #AIProductivity #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:54:13.521Z",
+        "post_id": "18567544243050519",
         "text": "47 AI tools bookmarked. Still doing everything manually. Sound familiar? 😅\n\nThe problem isn't that you haven't found the right tool.\nThe problem is that nobody gave you a curated SYSTEM.\n\nThe AI Overwhelm Guide shows you exactly which 8–12 tools to use, how they work together, and how to save 10+ hours every week — in 30 days.\n\nFree. No fluff. Just the stack.\n\nLink in bio.\n\n#AITools #AIProductivity #ProductivityHacks #ArtificialIntelligence #WorkSmart #Automation #ContentCreator #Entrepreneurs #Publixion #FreeGuide",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
       }
@@ -730,32 +734,34 @@
     "scheduled_date": "2026-03-04",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-04",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:54:53.602Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Everyone is talking about making money with AI.\n\nMost of them are selling courses about talking about making money with AI.\n\nThe actual process — picking a real audience, building a real offer, using AI to deliver it at scale — is rarely explained without a $497 program attached.\n\nSo let me tell you what $1,000/month with AI actually looks like:\n\nIt's not a viral ChatGPT prompt you sell on Gumroad.\nIt's not reselling AI-generated stock photos.\nIt's not dropshipping AI art.\n\nIt's a service or product built for a specific person, delivered using AI tools to make it faster and more scalable than a human doing it manually — priced correctly, sold consistently.\n\nThe A.I.M.™ Framework in this guide walks you through exactly how to build that. Audience → Income Offer → Machine.\n\n$27. 21 pages. Real scripts, real case studies, real path to $1K.\n\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #OnlineBusiness #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:54:48.235Z",
+        "post_id": "122097291728948582",
         "text": "Everyone's talking about making money with AI.\n\nVery few people are explaining what that actually looks like in practice — without a $500 course attached.\n\nHere's the honest version: a real AI side hustle is a specific offer, built for a specific audience, delivered using AI to make it faster and more scalable than doing it manually.\n\nThe A.I.M.™ Framework breaks this down in 3 steps: Audience → Income Offer → Machine.\n\n$27. 21 pages. Cold DM scripts, discovery call playbook, real case studies.\n\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #OnlineBusiness #MakeMoneyOnline",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"Use AI to make money online\" is everywhere.\n\nActual instructions? Rare.\n\nThis guide gives you the actual instructions.\n\nThe A.I.M.™ Framework: Audience → Income Offer → Machine.\n\n3 steps. $1K/month target. Real path, not hype.\n\n$27. Link in bio.\n\n#AISideHustle #MakeMoneyOnline #AITools #SideHustleIdeas #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg",
+        "error": "{\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"ArRbYck125faUprlVILfUQV\"}}"
       }
     }
   },
@@ -3511,30 +3517,31 @@
     "scheduled_date": "2026-01-29",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-29",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:52:46.407Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "30 days from now, one of two things will be true.\n\nEither you will still be ending your days the same way you end them now — busy, behind, and aware that the work that actually matters did not get the time it deserved.\n\nOr you will have a documented Deep Work Protocol running in your life. A Focus Defense System that holds without effort. An Energy Architecture that makes your focused hours count. A Decision Filter that stopped three commitments this month that would have consumed the time you just protected.\n\nAnd a 30-Day Transformation Scorecard with your own before-and-after output numbers proving the change.\n\nThe difference between those two outcomes is not talent. It is not luck. It is not access.\n\nIt is a single decision made today.\n\nDeep Work. Real Results. is available now at publixion.com/book/deep-work-real-results\n\n$9.99. One read. One month of daily actions. A permanent shift in how you work.\n\nThis is the book for the professional who is done being busy and ready to start being effective.\n\nGet your copy now. The only thing between you and your best work is the architecture to protect it.\n\npublixion.com/book/deep-work-real-results\n\n#DeepWork #Productivity #Focus #HighPerformance #KnowledgeWorker #Publixion #GetItDone #WorkSmart #30DayChallenge #TimeManagement",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:52:36.335Z",
+        "post_id": "122097290444948582",
         "text": "30 days from now, your output numbers are either the same or they are not.\n\nDeep Work. Real Results. gives you the system that changes them — six frameworks, a daily protocol, and a 30-Day Plan that installs everything into your actual life starting today.\n\n$9.99. Published by Publixion.\n\nGet your copy now: publixion.com/book/deep-work-real-results\n\nThe only thing between you and your best work is the architecture to protect it.\n\n#DeepWork #Productivity #Focus #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:52:46.407Z",
+        "post_id": "17971578704865277",
         "text": "30 days from now.\n\nSame output. Same fragmented days. Same feeling that the work that matters never got the time it deserved.\n\nOr:\n\nA system running in your life. Measurable results in your own numbers. The work you kept putting off — done.\n\nOne decision today.\n\nDeep Work. Real Results. — link in bio. $9.99.\n\nYour best work is not waiting for more time. It is waiting for the architecture to protect what you already have.\n\n#DeepWork #Productivity #Focus #Publixion #HighPerformance #WorkSmart #KnowledgeWorker #TimeManagement #Mindset #GetItDone",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Deep-Work-Deep-Results.jpg"
       }
@@ -4979,30 +4986,31 @@
     "scheduled_date": "2026-01-29",
     "scheduled_time": "04:00",
     "ideal_date": "2026-01-29",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:53:05.100Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "In thirty days from now, one of two things will be true.\n\nYou will still be reacting in the same ways to the same triggers.\nReplaying the same conversations. Carrying the same activation into the same relationships.\n\nOr you will be holding a Trigger Map that finally names what is actually firing.\nA Resilient Identity Statement written in your own hand.\nA Daily Practice that maintains your regulation even on the days that demand the most.\nA Field Guide with fifteen frameworks available the moment you need them.\n\nEmotional Strength does not ask you to feel more or feel less.\nIt asks you to finally have a system.\n\nFourteen chapters. Fifteen frameworks. A 30-Day Implementation Plan.\nBuilt on neuroscience, CBT, and attachment science.\nWritten for the person who is done understanding the problem and ready to solve it.\n\nYour emotional history is not your emotional destiny.\n\nThe system that changes one is at the link below.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #SelfDevelopment #Publixion #NervousSystem #TriggerMapping #ResilientIdentity #30DayPlan #EmotionalMastery",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:52:53.895Z",
+        "post_id": "122097290552948582",
         "text": "Thirty days from now, you could still be reacting in the same ways to the same triggers.\n\nOr you could be holding a Trigger Map, a Resilient Identity Statement, a Daily Practice, and a Field Guide with fifteen frameworks ready for every difficult moment life produces.\n\nEmotional Strength is the system that closes the gap between understanding your patterns and actually changing them.\n\n14 chapters. 15 frameworks. 30-Day Plan. Permanent Field Guide.\n\nYour emotional history is not your emotional destiny.\n\n📖 publixion.com/book/emotional-strength\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-21T04:53:05.100Z",
+        "post_id": "18091671698171168",
         "text": "Thirty days from now.\n\nSame reactions. Same triggers. Same cost.\n\nOr — a Trigger Map. A Resilient Identity. A Daily Practice. A Field Guide for every difficult moment.\n\nEmotional Strength is the system that makes the second version possible.\n\n14 chapters. 15 frameworks. 30 days.\n\nYour emotional history is not your emotional destiny.\n\nLink in bio.\n\n#EmotionalStrength #EmotionalIntelligence #MentalResilience #TriggerMapping #ResilientIdentity #30DayChallenge #Publixion #SelfDevelopment #NervousSystemHealing #EmotionalMastery",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Emotional-Strength.jpg"
       }
@@ -9381,32 +9389,35 @@
     "scheduled_date": "2026-03-01",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-01",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-21T04:53:32.109Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is for the professional who is working hard and knows — privately, uncomfortably — that their output does not reflect what they are actually capable of.\n\nYou are not lazy.\nYou are not undisciplined.\nYou are not someone who just cannot focus.\n\nYou are a focused person operating inside a system that was specifically engineered to prevent you from focusing.\n\nThere is a difference. And that difference changes everything.\n\nThe average knowledge worker loses 10 to 14 hours every week to distraction. Not to laziness. Not to a character flaw. To a set of neurological and environmental conditions that were never designed in their favor — and that no amount of willpower can permanently overcome.\n\nWe built The Focus Reset for the professional who is done accepting scattered as their permanent state.\n\nNot with a timer app.\nNot with a morning routine.\nWith a complete 30-day cognitive reconstruction system — the C.L.E.A.R. Protocol — that rebuilds the conditions for deep, sustained, deliberate work from the ground up.\n\nEnvironment. Dopamine system. Scheduling. Attention capacity. Identity.\nAll five layers. Simultaneously. In thirty days.\n\nThe people this book was written for do not need more motivation.\nThey need a system that does not require motivation to function.\n\nIf that is you — this is your book.\n\n👉 The Focus Reset is available now at Publixion.com\n\n#DeepWork #Focus #Productivity #CognitivePerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This book is for the professional who is busy, performing, and privately aware that their output is nowhere near what they are capable of.\n\nNot because they are lazy. Because the environment around them was designed to make focus impossible — and willpower was never going to be enough to fight it.\n\nThe Focus Reset is a 30-day cognitive reconstruction system that rebuilds your attention, your environment, your reward system, and your identity as someone who does their best work deliberately.\n\n10 recovered hours per week. Measurable from Day 7.\n\nIf you have tried everything else and it did not stick — this is why. And this is what does.\n\n👉 Get it now at Publixion.com\n\n#Focus #Productivity #DeepWork #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"APyP6z8sFKDuhug0qTOjgSp\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is for the professional who knows they are capable of more than their current output shows.\n\nNot laziness. Not weakness. A system that was built against you.\n\nThe Focus Reset rebuilds that system in 30 days.\n\n10 recovered hours per week. Starting Week 1.\n\nLink in bio.\n\n#Focus #DeepWork #Productivity #AttentionSpan #CognitivePerformance #Publixion #FocusReset #KnowledgeWorker #FlowState #WorkSmarter",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AWrATHvbcgyYS_TZgruwnza\"}}"
       }
     }
   },
