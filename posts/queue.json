@@ -1413,30 +1413,31 @@
     "scheduled_date": "2026-03-17",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-17",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-22T11:25:54.835Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"The LinkedIn algorithm is too unpredictable. No system can fix it consistently.\"\n\nI hear this a lot. Here's the reality:\n\nThe algorithm isn't random. It rewards four specific things:\n\n1. Early engagement in the first 60–90 minutes\n2. Meaningful comments (5+ words) over shallow reactions\n3. Consistent posting at predictable times\n4. High dwell time — posts people read slowly or re-read\n\nAll four are within your direct control.\n\n\"My industry is boring. No one engages with serious topics.\"\n\nWrong frame. The issue isn't the topic — it's the hook. A boring topic with a great hook outperforms an exciting topic with a weak one every time.\n\n\"I don't have time to engage before and after every post.\"\n\nThe system requires 10 minutes before posting and 60 minutes of availability after. That's not a time problem — it's a priority problem.\n\n\"I already tried posting consistently for months. Nothing changed.\"\n\nConsistency without structure is just noise. This guide adds structure to your consistency.\n\nFree. 10 pages. No catch.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #Objections #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-22T11:25:42.768Z",
+        "post_id": "122098229102948582",
         "text": "Here are the doubts people have before downloading this guide — and the honest answers:\n\n\"The algorithm is random\" — It's not. It rewards early engagement, meaningful comments, consistency, and dwell time. All controllable.\n\n\"My industry is too boring for engagement\" — The topic is irrelevant. A great hook on any topic outperforms a weak hook on an exciting one.\n\n\"I don't have time\" — The system needs 10 minutes before posting + 60 minutes of availability after. That's it.\n\n\"I've posted consistently for months and nothing changed\" — Consistency without structure is noise. This guide adds the structure.\n\n\"It's too technical\" — It's 10 pages. Written in plain language. With fill-in worksheets.\n\nAnd it's free.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #SocialMedia #ContentCreator",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-22T11:25:54.835Z",
+        "post_id": "18128164759560807",
         "text": "\"But my LinkedIn posts are already pretty good.\"\n\nMaybe. But good content + weak hook = invisible post.\n\nThe LinkedIn algorithm doesn't reward quality. It rewards expansion rate — how many people click \"see more\" in the first 90 minutes.\n\nThat's a hook problem. Not a content problem.\n\nAnd it's entirely fixable.\n\nThe free guide shows you how — with 5 proven hook types, fill-in templates, and a 30-day plan.\n\nLink in bio.\n\n#LinkedIn #ContentTips #HookWriting #PersonalBrand #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       }
@@ -1664,32 +1665,35 @@
     "scheduled_date": "2026-03-18",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-22T11:26:32.047Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Let me handle the objections I know you're having.\n\n\"I just need more discipline.\"\nNo. Discipline without structure fails every time. The guide installs a structure that makes discipline easier — not the other way around.\n\n\"I don't have time for 25-minute sessions 4 days a week.\"\nThat's 100 minutes per week. Most 6–10 hour courses complete in 4–6 weeks at this pace. If you can't find 100 minutes per week for a skill that could change your income — that's not a time problem.\n\n\"I've tried systems before. They never stick.\"\nMost systems fail because they're generic. The C.C.A.S.™ Framework is built specifically around the psychology of course abandonment — including accountability checkpoints and a clear reward structure.\n\n\"What if my courses are outdated or not relevant?\"\nStep 1 of the framework handles this. You audit and archive everything that doesn't directly serve a current income or skill goal. That clarity alone changes how you learn.\n\n\"This guide is free. How good can it really be?\"\nGood enough to have 3 case studies where real people generated income within 30 days of applying it.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #Productivity #Mindset #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Objections — and honest responses:\n\n\"I just need more willpower\" — Willpower without structure fails. The guide provides structure that reduces the need for willpower.\n\n\"I don't have time\" — 100 minutes/week. That's 4 x 25-minute sessions. If a skill that could earn you money isn't worth that — the real issue isn't time.\n\n\"Systems never work for me\" — Most systems fail because they're generic. C.C.A.S.™ is built around the specific psychology of why people abandon courses.\n\n\"My courses are probably outdated\" — The audit step in the guide helps you identify and archive those immediately. That clarity alone is worth the download.\n\n\"It's free — it can't be that useful\" — Three case studies. Real income results. 30 days.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#Productivity #OnlineLearning #SelfDevelopment",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AHf6fzwvwjFfNzd-nHbypWv\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I'll finish my courses when I have more time.\"\n\nSpoiler: that time isn't coming.\n\nThe C.C.A.S.™ Framework doesn't ask for more time. It asks for 25 minutes, 4 days a week — and a decision to apply what you learn within 24 hours.\n\nThat's not a time problem. That's a priority problem.\n\nAnd this free guide helps you solve it.\n\nLink in bio.\n\n#OnlineCourses #TimeManagement #Productivity #LearningHabits #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AzqgPFeOAyNJpENJ3_8nKTb\"}}"
       }
     }
   },
@@ -2111,22 +2115,23 @@
     "scheduled_date": "2026-03-18",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-22T11:26:23.187Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Meet Aisha. Freelance project manager. Uses Notion to run every client engagement.\n\nShe'd built a project tracking system so good that clients kept asking: \"Can I keep using this after we finish?\"\n\nBut she had no idea how to turn it into a product. She assumed you needed a big audience to sell anything.\n\nHere's what happened when she followed the T.E.M.P.L.A.T.E™ Framework:\n\n——\n\n📅 DAY 1–3 — Target Market Research\nUsed the Gumroad validation method from the guide. Searched \"project management Notion template\" — found top sellers making $2,000–$8,000/month. Identified a gap: nothing specifically designed for freelance agencies managing multiple client projects simultaneously.\n\n📅 DAY 4–7 — Engineer + Position\nBuilt the \"Freelance Agency Command Centre\" — a 6-page Notion template with client tracker, project pipeline, invoice log, and weekly review dashboard.\nNamed it around the outcome. Wrote the Gumroad description using the guide's copy formula.\n\n📅 DAY 8 — Pricing Architecture\nBase ($29): Core template\nPro ($59): Template + video walkthrough + 3 bonus automations\nBundle ($97): Everything + email support for 30 days\n\n📅 DAY 9 — Launch Sequence\nPublished 5 pre-launch posts over 4 days using the guide's launch script. Built anticipation before the listing went live.\n\n📅 DAY 14 — Launch Day\n47 sales in first 48 hours. $1,843 in revenue.\n\n📅 MONTH 2\nGumroad SEO kicked in. Passive sales: 90 units. $3,240 without a single new post.\n\n——\n\nAisha had no audience. No design background. Just a system she already used — and a framework that made it sellable.\n\n→ https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #CaseStudy #PassiveIncome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-22T11:26:23.187Z",
+        "post_id": "122098229498948582",
         "text": "Marcus is a productivity coach. He'd built elaborate Notion systems for his clients — but always gave them away as part of his coaching packages.\n\nA colleague told him: \"You should sell those on Gumroad.\"\n\nHe had no idea where to start. Here's what happened when he followed the Build & Sell Notion Templates guide:\n\nDay 1–2: Used the guide's demand validation process. Searched Gumroad and found \"coaching client tracker\" templates making $800–$3,000/month. Spotted a gap: nothing designed specifically for group coaching programs.\n\nDay 3–5: Built the \"Group Coaching OS\" — a Notion template with client portal, session tracker, progress dashboard, and resource vault.\n\nDay 6: Applied the Outcome-First Naming formula. \"Group Coaching OS: Manage 20+ Clients Without Losing Your Mind\" — written using the guide's Gumroad copy template.\n\nDay 7: Set pricing: $34 Base / $67 Pro (+ video walkthroughs) / $109 Bundle.\n\nDay 8–12: Published 5 pre-launch posts using the guide's launch sequence script.\n\nDay 14: Listed on Gumroad. 31 sales in first week. $1,247 revenue.\n\nMonth 2: Added to Gumroad's discovery page. Passive sales continued without new marketing. Month 2 revenue: $2,180.\n\nMarcus didn't build something new. He packaged what he already knew — with a system that made it sellable and findable.\n\n👉 https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Gumroad #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       },
@@ -2761,32 +2766,35 @@
     "scheduled_date": "2026-03-18",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-22T11:26:08.963Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most creators distribute content. The best ones run an ecosystem.\n\nHere's the O.N.E. → E.C.O.S.Y.S.T.E.M™ framework from The Content Repurposing Machine:\n\nO.N.E. = Your Original Narrative Engine\nOne piece of original content per week — long-form article, video, or podcast. This is your single creative investment.\n\nThen you run it through 9 stages:\n\nE — Expand: Add depth, examples, and case studies\nC — Cut: Extract quotes, stats, lessons, and micro-stories\nO — Optimize: Format each cut piece for its target platform\nS — Schedule: Load everything in one 90-minute session\nY — Yield: Track which formats drive the highest engagement\nS — Scale: Double production on what's working\nT — Track: Monitor revenue metrics, not vanity metrics\nE — Evolve: Refine the core asset based on data\nM — Monetize: Connect every content stream to a lead magnet or offer\n\nFrom one 1,500-word article or 15-minute video, this system produces:\n→ 10 Twitter/X posts\n→ 5 LinkedIn authority posts\n→ 3 carousels\n→ 5 YouTube Shorts scripts\n→ 1 email newsletter\n→ 3 quote graphics\n= 27+ distribution-ready pieces\n\nThis is the difference between a content calendar and a content machine.\n\n👉 Get the full system: https://publixion.com/guides/content-repurposing-machine\n\n#ContentStrategy #ContentMarketing #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "What if one piece of content could run your entire week?\n\nIt can. Here's the framework:\n\nThe O.N.E. → E.C.O.S.Y.S.T.E.M™ system starts with a single core asset — one article, video, or podcast episode per week.\n\nThen you run 9 extraction stages:\nExpand → Cut → Optimize → Schedule → Yield → Scale → Track → Evolve → Monetize\n\nThe output from ONE 1,500-word article:\n✅ 10 short-form social posts\n✅ 5 LinkedIn long-form posts\n✅ 3 Instagram carousels\n✅ 5 video scripts\n✅ 1 email newsletter\n✅ 3 quote graphics\n\nThat's 27+ pieces. From one source. In one week.\n\nThe Content Repurposing Machine walks you through every step — including the AI prompts that make extraction take under 60 minutes.\n\n👉 https://publixion.com/guides/content-repurposing-machine\n\n#ContentCreation #ContentStrategy #CreatorEconomy",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AUlXGEzMnnpUfkzHKMqY11c\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "One article. 27+ pieces of content. Here's how. 👇\n\nThe O.N.E. → E.C.O.S.Y.S.T.E.M™ framework:\n\n📌 ONE core asset per week\n✂️ CUT into atomic pieces\n🎯 OPTIMIZE per platform\n📅 SCHEDULE in one session\n💰 MONETIZE through a connected funnel\n\nThis is how creators post everywhere without burning out.\n\nFull system inside The Content Repurposing Machine.\n\nLink in bio. 🔗\n\n#ContentStrategy #Repurposing #CreatorEconomy #ContentCreator #SocialMediaMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AM0PKjJpSISv3SrLPBsONfk\"}}"
       }
     }
   },
@@ -3672,32 +3680,35 @@
     "scheduled_date": "2026-03-19",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-19",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-22T11:26:46.008Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The difference between a 1% opt-in rate and a 35% opt-in rate is not traffic volume.\n\nIt's the system behind the page.\n\nHere's the C.O.N.V.E.R.T.™ framework from our free email list guide:\n\n━━━━━━━━━━━━━━━━━━━━\nTHE C.O.N.V.E.R.T.™ SYSTEM\n━━━━━━━━━━━━━━━━━━━━\n\nC — Clarify your subscriber\nDefine exactly who subscribes: their pain point, their desired outcome, what immediate action you want them to take. Generic subscribers don't open emails. Specific subscribers buy.\n\nO — Outline around one pain\nOne specific, urgent problem — not a broad topic. \"Free productivity tips\" converts at 1%. \"The exact system I used to recover 10 hours a week\" converts at 25%+. The narrower the promise, the higher the conversion.\n\nN — Nurture with instant value\nUnder 15 minutes to consume. Immediately actionable. Subscribers who get fast value open your next email. Those who don't — don't.\n\nV — Visual landing page (minimalist)\nHeadline → 3 bullet benefits → form → CTA button. No navigation, no social links, no distractions. One page. One job.\n\nE — Engage with outcome copy\n\"Subscribe to my newsletter\" converts at 1–2%. \"Get the 5 scripts I used to close $40K in freelance contracts\" converts at 20–35%. Specific beats generic. Every time.\n\nR — Route targeted traffic\nOne primary channel before adding secondary. LinkedIn or Instagram or community — master one first.\n\nT — Track, test, repeat\nA/B test the headline first. Then the CTA. One variable at a time. Compound what works.\n\n━━━━━━━━━━━━━━━━━━━━\n\nA freelance designer used this system: 0 subscribers → 312 in month one. 41% opt-in rate. $1,455 in first product sales.\n\n👉 Full guide, free: https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #ContentMarketing #LeadGeneration #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Why does one creator have a 35% opt-in rate and another has 1%?\n\nIt's not traffic. It's the system.\n\nThe C.O.N.V.E.R.T.™ framework from our free guide:\n\n🔵 C — Clarify: define exactly who subscribes and what they need\n🔵 O — Outline: one specific, urgent pain — not a broad topic\n🔵 N — Nurture: instant, under-15-minute value that makes them open the next email\n🔵 V — Visual: minimalist page with one job — headline, benefits, form, CTA\n🔵 E — Engage: outcome copy that states the specific result, not the topic\n🔵 R — Route: master one traffic channel before adding more\n🔵 T — Track: A/B test headline first, then CTA — one variable at a time\n\n\"Subscribe\" converts at 1%. \"Get the scripts I used to close $40K in freelance work\" converts at 25%+.\n\nThe copy formula alone will change your numbers this week.\n\n📖 Full guide, free: https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A93zHmudarCKpgtHXjW0I7u\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Why does one creator have a 35% opt-in rate and you have 1%?\n\nNot traffic. System.\n\nThe C.O.N.V.E.R.T.™ Framework:\n\nC — Clarify your exact subscriber\nO — One specific pain, not a broad topic\nN — Instant value under 15 minutes\nV — Minimalist page: headline + form + CTA\nE — Outcome copy, not topic copy\nR — One traffic channel mastered first\nT — Track and test, one variable at a time\n\n\"Subscribe\" = 1%. \"Get the 5 scripts I used to close $40K\" = 25%+.\n\n📖 Full guide — free. Link in bio.\n\nLink in bio.\n\n#EmailMarketing #ListBuilding #ContentCreators #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AOvTAWVIA5cwjOHE6uWQY5L\"}}"
       }
     }
   },
@@ -3872,32 +3883,35 @@
     "scheduled_date": "2026-03-18",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-22T11:26:02.101Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You just spent 6 hours on a project.\n\nYou sent the invoice.\n\nAnd the moment you hit send — you wondered if you should have charged more.\n\nThat feeling isn't imposter syndrome. It's a pricing problem.\n\nMost freelancers charge based on time, nerves, or what they think clients will accept. None of those are a strategy. All of them leave money on the table — every single project, every single month.\n\nThe fix isn't confidence. It's a framework.\n\nValue-based pricing links your fee to what the work is actually worth to the client — not to how many hours it took you. A copywriter who writes an email sequence that generates $40,000 in launch revenue isn't worth $50/hour. They're worth a percentage of that outcome.\n\nWhen you understand that, your pricing changes permanently.\n\nWe built a free guide that gives you the exact system: how to calculate client value, how to choose the right pricing model, how to write proposals that justify premium rates, and how to handle every objection without backing down.\n\nIt's called the P.R.I.C.E.™ Framework. And it's free.\n\n👉 Get it here: https://publixion.com/guides/difficulty-pricing-services\n\n#Freelancing #PricingStrategy #ValueBasedPricing #FreelancerLife #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You worked hard. You delivered great work.\n\nAnd you still don't know if you charged enough.\n\nEvery freelancer knows this feeling. It lives in the gap between what you billed and what you could have billed — and it compounds every single month.\n\nThe problem isn't your skill. It's that nobody taught you how to price.\n\nHourly rates punish you for getting faster. Cost-based pricing ignores what the client actually gains. And guessing — which most freelancers do — means you're always leaving money somewhere.\n\nValue-based pricing changes the entire equation. You stop selling time and start selling outcomes. Your price becomes a reflection of what the client gains — not what it costs you to deliver.\n\nWe put the full system into a free guide: the P.R.I.C.E.™ Framework — 5 steps to price any service confidently, write proposals that get accepted, and handle objections without discounting.\n\n📖 Free download: https://publixion.com/guides/difficulty-pricing-services\n\n#Freelancing #PricingTips #FreelanceLife #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"APYosbQegfDvXx5vu33Duyn\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You finished the project.\n\nSent the invoice.\n\nAnd immediately wondered if you undercharged.\n\nAgain.\n\nThat feeling has a fix — and it's not confidence. It's a pricing framework.\n\nThe P.R.I.C.E.™ Framework shows you how to charge based on client value, not your hours. Free guide, full system.\n\n📖 Link in bio.\n\nLink in bio.\n\n#Freelancing #PricingStrategy #FreelancerLife #ValueBasedPricing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ARu7AvtkWCfuLMa1zi6A4U_\"}}"
       }
     }
   },
@@ -5282,32 +5296,35 @@
     "scheduled_date": "2026-03-18",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-22T11:26:38.951Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is a real story from Chapter 3 of Execution Over Motivation.\n\nI am sharing it here because it is the story most people do not realize is their story — until they read it.\n\nJames was a senior software developer in Singapore — the kind of person who built things at work that hundreds of thousands of people used every day.\n\nBut his personal app had been almost done for fourteen months.\n\nThe backend worked. The core UI was complete. There were perhaps forty hours of real work remaining between what existed and what would constitute a launchable version one.\n\nThose forty hours had somehow not happened across fourteen months.\n\nWhen James walked through the project history with a mentor, what emerged was not a story about lost motivation.\n\nIt was a story about five specific structural failures that had compounded silently over time.\n\nThe scope had expanded from a simple income tracker to a full client portal, tax module, automated invoicing, and an analytics dashboard — each addition seeming reasonable, collectively making the project functionally infinite.\n\nNo defined finish line. No accountability. No fixed ship date.\n\nHe wrote one sentence:\n\n'Version one is a working iOS app with income tracking, expense categorization, and a monthly profit summary — in the App Store by April 15th.'\n\nFourteen months of scope ambiguity resolved in one sentence.\n\nApril 15th came. The app was in the App Store.\n\nThe project did not change. The sentence did.\n\nThe sentence changed the scope. The scope made completion structurally possible. The accountability contract made it inevitable.\n\nFinishing is a design problem, not a character problem. And design problems have solutions.\n\npublixion.com/book/execution-over-motivation\n\n#Productivity #Execution #ProjectManagement #Finish #Publixion #PersonalDevelopment",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A story from Chapter 3 of Execution Over Motivation that you may recognize:\n\nJames was a senior software developer — excellent at his professional work, unable to ship his own app. Almost done for fourteen months. Forty hours of real work remaining. Untouched across fourteen months.\n\nThe autopsy revealed five structural failures: unlimited scope, no ship date, no accountability, no defined finish line, and a project designed for an idealized future version of himself who never arrived.\n\nHe wrote one sentence: 'Version one is a working iOS app with income tracking, expense categorization, and a monthly profit summary — in the App Store by April 15th.'\n\nFourteen months of ambiguity. One sentence. April 15th — the app shipped.\n\nThe project did not change. The design did.\n\nIf you have a James-style project in a folder somewhere, this book has the sentence you need to write.\n\npublixion.com/book/execution-over-motivation\n\n#Productivity #Execution #Finish #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AGW1fG1YltA3Jd5kLWkEuiq\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "He had forty hours of work left on a project he had been building for fourteen months.\n\nThose forty hours never happened.\n\nNot because he was lazy. Because the project was designed to be unfinishable.\n\nHe wrote one sentence — a specific, bounded, dated definition of done — and the app shipped six weeks later.\n\nThe project did not change. The design did.\n\nThis is Chapter 3 of Execution Over Motivation. The Project Autopsy.\n\nYour project has a fingerprint too. This chapter helps you read it.\n\nLink in bio.\n\n#Productivity #Finish #ExecutionOverMotivation #Publixion #ProjectCompletion #DeepWork #Accountability #ShipIt",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Adsv7tzhZzxJN6bSitDt5hm\"}}"
       }
     }
   },
@@ -8302,24 +8319,26 @@
     "scheduled_date": "2026-03-18",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-22T11:26:13.400Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built this book because we kept seeing the same person.\n\nHighly educated. Employed. Reasonably successful. Privately certain that the version of their life they were living was not the one they would have chosen if they had been choosing deliberately.\n\nThey were not lazy. They were not lacking ambition. They had read the books — Atomic Habits, The 5 AM Club, Designing Your Life — and absorbed the insights. What they had not done, and what no book had made them do, was produce anything.\n\nNo written audit. No documented financial position. No skills inventory that told them what they were actually worth in the market. No blueprint specific enough to evaluate a real decision against.\n\nInsight without infrastructure. That is the gap most personal development books leave. And it is the gap that keeps intelligent, capable people stuck in the same low-grade confusion for years at a time.\n\nAt Publixion, we build intelligence products that close gaps with precision. So we built this one differently.\n\nRedesign Your Adult Life is not a book you read and feel better about for a week. It is a book you read and build inside of. Every chapter ends with a written deliverable. The 30-Day Implementation Sprint at the back gives you a day-by-day schedule for completing all five core documents alongside your existing life.\n\nBy Day 30, you hold:\n\n— A Life Audit with a Gap Map across five domains\n— A written Identity Statement with five operational values\n— A Skills Inventory, a Skill Stack, and a market positioning statement\n— A complete Financial Baseline with a 12-month Wealth Acceleration Plan\n— A 5-Year Blueprint with annual milestones and a Quarterly Review system\n\nThis is what we built. And this is why.\n\nBecause the person we kept seeing deserved a system, not another set of highlights to forget by Friday.\n\nThe book is live now at publixion.com\n\n#Publixion #CareerStrategy #PersonalDevelopment #LifeDesign #5YearPlan",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We kept seeing the same person.\n\nCapable. Educated. Employed. Doing well by every external measure. And privately stuck in a version of their life they never actually chose.\n\nThey had read the books. Absorbed the insights. Felt inspired for a week. And returned to the same confusion.\n\nThe problem was never motivation. It was infrastructure. Every personal development book they had read ended with insight and left them with nothing to hold.\n\nSo we built something different.\n\nRedesign Your Adult Life ends with five written documents — a Life Audit, an Identity Statement, a Skills Inventory, a Financial Baseline, and a 5-Year Blueprint — produced by you, using your real numbers and your real values, through a day-by-day 30-Day Sprint included in full.\n\nNot inspiration. Infrastructure.\n\nLive now at publixion.com\n\n#Publixion #PersonalDevelopment #CareerChange #LifeRedesign",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AmNE0pWyes7w_ROkeQ85zHw\"}}"
       },
       "instagram": {
         "enabled": false,
