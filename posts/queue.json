@@ -1712,32 +1712,35 @@
     "scheduled_date": "2026-03-21",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-21",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T08:05:21.866Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is free right now.\n\nBut here's the cost of not using it:\n\nThe average online course costs $47. If you own 12 courses and have applied none of them — that's $564 sitting in a folder doing nothing.\n\nMore importantly: every week a skill you already paid to learn goes unused is a week of potential income, efficiency, or opportunity lost.\n\nThe C.C.A.S.™ Guide takes 25 minutes to read. The first action — running your course audit — takes another 30 minutes.\n\nBy end of today you could have your one priority course identified, your output goal written, and your first learning session scheduled.\n\nThe people who downloaded this guide at launch are already in the application phase. Some have already built their first output. A few have landed clients directly from skills they learned inside a course they almost never finished.\n\nYou're 55 minutes away from starting that same loop.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #TakeAction #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last call on this one.\n\nWe're building the full paid Freelance From Zero guide — which includes a deep course-to-income skill-building section. When that launches, this free C.C.A.S.™ guide moves into that paid ecosystem.\n\nIf you've been meaning to download it — today is the day.\n\n5 steps. 30 days. One course fully completed with a real output to show for it.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #FreeResource #CourseCompletion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AQTaFnSORYdgWwin-E4-lrF\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last reminder.\n\nThis guide is free. It's 10 pages. It takes 25 minutes to read.\n\nAnd it could be the thing that makes the $47 course you already bought actually pay off.\n\n→ Course Audit Table\n→ Outcome Goal Worksheet\n→ 30-Day Calendar\n→ Action Log\n→ C.C.A.S.™ Completion Loop\n\nLink in bio. Download it before you buy another course you won't finish.\n\n#OnlineCourses #Productivity #SelfImprovement #TakeAction #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ACt7cNDwg6vV71b4eyAZykH\"}}"
       }
     }
   },
@@ -2161,30 +2164,31 @@
     "scheduled_date": "2026-03-21",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-21",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T08:05:13.741Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I'm interested in Build & Sell Notion Templates — but I have a few concerns.\"\n\nHere's every objection I hear — answered directly:\n\n——\n\n❓ \"$19.99 feels like a gamble.\"\n\nYour first template sale at $29 (Base tier) already puts you at a 1.5× return. Your first week of passive sales at Pro ($59) pays for the guide 3× over. The risk is not $19.99 — the risk is spending another 6 months watching others do this while you don't.\n\n——\n\n❓ \"I'm not a designer — my templates won't look professional enough.\"\n\nNotionesthetics and visual polish are not what buyers prioritize. Functionality and outcome-clarity are. The guide teaches you how to engineer for the buyer's workflow — not how to win a design award. Ugly templates with great utility consistently outsell beautiful ones with poor UX.\n\n——\n\n❓ \"I don't have an audience to sell to.\"\n\nGumroad has built-in SEO and a discovery marketplace. The guide covers Gumroad organic traffic, keyword positioning, and how to get your first 20 sales without posting a single piece of content. Audience helps — it is not required.\n\n——\n\n❓ \"What if nobody buys my specific template?\"\n\nThat's why the guide starts with the Demand Validation method — BEFORE you build anything. You don't guess. You confirm proven demand exists before writing a single Notion formula.\n\n——\n\n❓ \"I only know Notion at a basic level.\"\n\nThe guide is structured for intermediate users. If you can build a database, create linked views, and add a formula — you have everything you need. Advanced automations are a bonus, not a requirement.\n\n——\n\nEvery doubt has a system answer. The guide is the system.\n\n→ https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T08:05:00.114Z",
+        "post_id": "122098996244948582",
         "text": "Top doubts about the Build & Sell Notion Templates guide — answered:\n\n💬 \"$19.99 feels risky.\"\nOne Base-tier sale ($29) already returns more than the guide costs. One week of passive Pro sales ($59) pays for it 3× over.\n\n💬 \"I'm not a designer.\"\nBuyers want functional templates, not beautiful ones. The guide teaches you to engineer for the user's workflow — not aesthetics.\n\n💬 \"I don't have an audience.\"\nGumroad has organic discovery. The guide covers how to get your first 20 sales without posting a single piece of content.\n\n💬 \"What if nobody buys mine?\"\nYou validate demand BEFORE building. The Demand Validation method is Step 1 in the framework. You don't guess.\n\n💬 \"I only know basic Notion.\"\nIf you can build a database and create linked views, you have what you need. Advanced features are a bonus — not a prerequisite.\n\nThe doubts are normal. The system eliminates them one by one.\n\n👉 https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T08:05:13.741Z",
+        "post_id": "18071856128216396",
         "text": "\"But will it actually work for me?\" 🤔\n\nTop doubts — killed 👇\n\n💬 \"$19.99 is a risk.\"\nOne sale at $29 already beats what you paid. Math is simple.\n\n💬 \"I'm not a designer.\"\nBuyers want function, not beauty. Ugly + useful beats pretty + useless every time.\n\n💬 \"I have no audience.\"\nGumroad has built-in discovery. First 20 sales = no content required.\n\n💬 \"What if no one buys?\"\nYou validate demand BEFORE building. That's literally Step 1.\n\n💬 \"I'm a basic Notion user.\"\nDatabase + linked views = you're ready. Advanced stuff is optional.\n\nLink in bio. The system handles the rest. 🔗\n\n#NotionTemplates #Notion #DigitalProducts #PassiveIncome #Gumroad #SideHustle #Publixion #MakeMoneyOnline #OnlineBusiness #DigitalDownloads",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       }
@@ -2610,22 +2614,23 @@
     "scheduled_date": "2026-03-21",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-21",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T08:04:48.051Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Let me show you exactly how a freelance designer used this system.\n\nSarah. Freelance UX designer. 2 years working from home. Billing 30 hours a week — but working 50. Always behind. Always exhausted.\n\nWeek 1 — Filter\nRan the 48-hour distraction audit. Losing 2.5 hours daily — Instagram (triggered by task anxiety) and Slack (channels she didn't need). Deleted Instagram from phone. Muted 14 Slack channels. Done.\n\nWeek 2 — Organize + Commit\nBlocked 8:30–10:00 and 10:30–12:00 as hard deep work blocks. Before each, wrote the output target on a sticky note. 'Finish wireframes for checkout flow.' Not 'work on project.' Specific done-states only.\n\nWeek 3 — Upgrade + Score\nPhone moved to the kitchen during work hours. Whiteboard above desk: 3 daily priorities. First Friday review: 14 deep work hours that week, up from 6.\n\nWeek 4 — Scale\nClient work delivered 2 days early. Rates raised 20% on next proposal. Not because she worked more hours — because output per hour doubled.\n\nThe system is free. The results compound.\n→ https://publixion.com/guides/no-discipline-wfh\n\n#RemoteWork #Freelancer #Productivity #DeepWork #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T08:04:48.051Z",
+        "post_id": "122098996100948582",
         "text": "Here's what using the Remote Focus Protocol actually looks like.\n\nMarcus — remote software developer. Constantly interrupted by Slack. Ending every day behind despite 9 hours at his desk.\n\nDay 1–2: Distraction audit. Losing 110 minutes daily. Slack was the biggest culprit, plus task-switching every 8 minutes.\n\nDay 3: Muted all non-critical channels. Scheduled two daily Slack windows — 10am and 3pm. Installed Freedom to block Reddit and Twitter during deep work.\n\nDay 4: Implemented the 3-block schedule. First deep work block: 8:30–10:00. Output target on a sticky note before starting.\n\nEnd of Week 1: 12 deep work hours — up from an estimated 5–6.\n\nEnd of Week 4: 18 deep work hours/week. Project delivery speed up 30%. Performance review upgraded.\n\nNone of this required working longer. Just working with structure.\n\nFree guide → https://publixion.com/guides/no-discipline-wfh\n\n#RemoteWork #Developer #Productivity #DeepWork #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg"
       },
@@ -5522,32 +5527,35 @@
     "scheduled_date": "2026-03-21",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-21",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T08:05:37.583Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's the system behind every successful faceless YouTube channel.\n\nThe F.A.C.E.L.E.S.S.™ Framework — 8 stages:\n\nF — Find Your Niche: Choose a topic with proven search demand and monetization potential. Your niche determines your discoverability ceiling before you publish a single video.\n\nA — Analyze Content Types: Screen recordings for tutorials. Slideshows for finance and education. Stock footage for travel and motivation. Animated explainers for science and concepts. Match the format to the niche.\n\nC — Create Scripts: The 5-part structure: Hook (0–15 sec) → Problem (15–45 sec) → Value Block (3 key points) → Proof (one case or data point) → CTA. Every video. Same structure. Faster every time.\n\nE — Edit Anonymously: CapCut, Canva Video, or DaVinci Resolve. All free. All capable of producing professional faceless content. Auto-captions take 30 seconds. Brand watermark takes 2 minutes.\n\nL — Launch Optimized: Title formula: [Number] [Adjective] [Topic] for [Audience]. First 2 lines of description = keyword-rich. Thumbnail = bold text, high contrast, maximum 5 words. This is what the algorithm rewards.\n\nE — Engage & Iterate: Reply to every comment in the first 48 hours. Check Watch Time % weekly. Below 40% retention = fix the hook. Below 4% CTR = fix the thumbnail.\n\nS — Scale What Works: Identify your top 3 videos by Watch Time. Produce 3 more in each winning format before experimenting with new ones.\n\nS — Systematize: Document your production process. At scale, hand off research and scripting to a VA using your SOP.\n\nThis framework is free. 10 pages. No email required.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube\n\n#YouTube #FacelessYouTube #ContentStrategy #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "8 steps that take you from camera-anxious to YouTube channel owner.\n\nThe F.A.C.E.L.E.S.S.™ Framework:\n\nF → Find Your Niche (demand + monetization + accessibility)\nA → Analyze Content Types (match format to niche)\nC → Create Scripts (5-part structure: Hook → Problem → Value → Proof → CTA)\nE → Edit Anonymously (CapCut, Canva, DaVinci — all free)\nL → Launch Optimized (SEO title, description, high-contrast thumbnail)\nE → Engage & Iterate (48-hour comment response, weekly KPI check)\nS → Scale What Works (double down on top performers)\nS → Systematize (SOP for VA handoff)\n\nThe best part? The whole framework is in a free guide.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AyHmyhnbX8FplElf7mah5VM\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "8 steps to your first faceless YouTube video. 👇\n\nF — Find Your Niche\nA — Analyze Content Types\nC — Create the Script\nE — Edit Anonymously (free tools)\nL — Launch Optimized\nE — Engage & Iterate\nS — Scale What Works\nS — Systematize\n\nNo camera. No studio. No excuses.\n\nFree guide — link in bio. 🔗\n\n#YouTube #FacelessContent #ContentCreator #VideoMarketing #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Aekzz3EF-g7FqgO-Kdz2Kf8\"}}"
       }
     }
   },
@@ -5765,32 +5773,35 @@
     "scheduled_date": "2026-03-22",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-22",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T08:05:53.289Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most freelancers operate without a system. Here's the one that changes everything.\n\nThe C.L.O.S.E.R.™ framework from Freelance From Zero to $3K/Month:\n\nC — Choose a Profitable Niche\nNot a service category. A specific population with a specific problem and a measurable ROI you can deliver. \"Social media management\" is a category. \"Instagram Reels content for online fitness coaches\" is a niche.\n\nL — Launch a Clear Offer\n\"I help [specific niche] achieve [specific result] in [timeframe] without [common obstacle].\" This one sentence is the difference between a prospect comparing you to every VA on Fiverr — or comparing your fee to the cost of the problem they're trying to solve.\n\nO — Outreach Daily\n20 personalized cold messages per day. Not 5. Not 10. Twenty. The math: 400 messages/month → 40 replies → 10 calls → 3 clients. At $1,000 each = $3,000/month. This math only works at volume.\n\nS — Sales Call Structure\n5 stages: Rapport → Problem Discovery → Cost of Inaction → Present Solution → Close. Spend 70% of the call in discovery. The prospect who articulates their own pain is already halfway to yes before you present anything.\n\nE — Execute & Deliver Results\nOver-deliver for the first client. One documented result is worth more than any pitch you'll ever write.\n\nR — Retain & Raise Pricing\nAfter 30–60 days of results, present an ROI report and raise your rate by 20–30%. Retention is compound interest.\n\nSkip any stage and the whole system underperforms. Execute all six and $3K/month becomes the floor.\n\n👉 Full system: https://publixion.com/guides/freelance-zero-to-3k\n\n#Freelancing #ClientAcquisition #SalesStrategy #ColdOutreach #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's the 6-stage system that takes a freelancer from zero clients to $3,000/month.\n\nC — Choose a Profitable Niche (specific, not broad)\nL — Launch a Clear Offer (outcome-based, not task-based)\nO — Outreach Daily (20 personalized messages, every day)\nS — Sales Call Structure (5 stages, 70% diagnosis)\nE — Execute & Over-Deliver (your first result is your best marketing)\nR — Retain & Raise Pricing (20–30% increase after documented results)\n\nThe math behind O:\n400 outreach messages/month\n→ 40 replies (10% rate)\n→ 10 calls (25% booking rate)\n→ 3 new clients (30% close rate)\n= $3,000/month at $1,000/client\n\nThis math only works when you do the volume. That's why 20/day is non-negotiable.\n\nFreelance From Zero to $3K/Month — $9.99.\n\n👉 https://publixion.com/guides/freelance-zero-to-3k",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Aki8VOceFUFuU4ASK5d4qde\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The C.L.O.S.E.R.™ system — 6 stages to $3K/month. 👇\n\nC — Choose a Profitable Niche\nL — Launch a Clear Offer\nO — Outreach Daily (20 msgs/day)\nS — Sales Call Structure\nE — Execute & Over-Deliver\nR — Retain & Raise Pricing\n\nThe math:\n400 messages → 40 replies → 10 calls → 3 clients → $3,000/mo\n\nSkip any stage. The system breaks.\nExecute all six. $3K is the floor.\n\nFull guide linked in bio. 🔗\n\n#Freelancing #ClientAcquisition #ColdOutreach #SideHustle #OnlineBusiness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Aw-y3YVVxCGSAbFR2trhmXd\"}}"
       }
     }
   },
@@ -5965,32 +5976,35 @@
     "scheduled_date": "2026-03-21",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-21",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T08:05:29.596Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have five possible niches in your head.\n\nYou've been thinking about them for months.\n\nAnd the longer you think — the more paralyzed you feel. Because what if you pick the wrong one? What if you spend 6 months building in the wrong direction? What if you niche down too far and the audience is too small?\n\nSo you keep researching. Keep watching \"how to find your niche\" videos. Keep telling yourself you'll decide next week.\n\nHere's the truth: niche confusion is not a creativity problem. It is a filtering problem.\n\nYou don't have too few ideas. You have too many — and no objective system for evaluating them against each other.\n\nThe S.D.I.™ Formula (Skills × Demand × Interest) applies three scoring criteria simultaneously to all of your candidate niches and produces a ranked, data-backed decision in 7 days.\n\nFree guide. No email required.\n\n👉 https://publixion.com/guides/i-dont-know-my-niche\n\n#NicheSelection #PersonalBrand #ContentStrategy #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have ideas. Lots of them.\n\nBut every time you try to pick one, the doubt kicks in.\n\nWhat if it's wrong? What if no one cares? What if I get bored?\n\nSo instead of committing, you stay in research mode — consuming more content about how to find your niche instead of actually finding it.\n\nHere's what nobody tells you: the niche you test for 90 days produces more useful data than the niche you research for 12 months.\n\nThe S.D.I.™ Formula turns your niche candidates into scored, ranked options using three objective filters: Skills, Demand, Interest. No more guessing. No more paralysis.\n\nFree guide. 8 pages. Download it today.\n\n👉 https://publixion.com/guides/i-dont-know-my-niche\n\n#NicheMarketing #PersonalBrand #ContentCreation #CreatorEconomy",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AaXVIhjC1axxgJ0qVjKhQcf\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 niche ideas. Months of thinking. Zero decision made. 😶\n\nThat's not a creativity problem. That's a filtering problem.\n\nThe S.D.I.™ Formula scores every candidate niche across 3 dimensions:\n\nSkills × Demand × Interest\n\nResult: a ranked list. A clear winner. 7 days.\n\nFree guide — link in bio. 🔗\n\n#NicheSelection #PersonalBrand #ContentCreator #CreatorEconomy #ContentStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ANyiKudQ4BneL2tF5yqL-Cm\"}}"
       }
     }
   },
@@ -6205,32 +6219,35 @@
     "scheduled_date": "2026-03-22",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-22",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T08:05:45.486Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have 8 years of experience.\n\nYou've delivered real results.\n\nPeople come to you for advice — for free — all the time.\n\nAnd yet… you have no idea how to turn any of it into consistent income.\n\nThat's not a talent problem.\nThat's not a confidence problem.\nThat's not even a market problem.\n\nIt's a packaging problem.\n\nMost skilled professionals stay stuck not because they lack ability — but because they've never answered the one question buyers actually care about:\n\n\"What exactly will change for me, and by when?\"\n\nA skill is potential.\nAn offer is a promise.\n\nAnd until you have a clear, specific, outcome-driven offer — you're invisible to people who would happily pay you.\n\nI built a free guide that walks you through exactly how to fix this.\nIt's called: I Have Skills But Don't Know What to Sell — The Skill Monetization Blueprint.\n\nIt uses the P.A.C.K.A.G.E.™ Framework to take you from scattered capability to a named, priced, validated offer — in 30 days.\n\nFree. No catch. Get it at the link below.\n\n👉 publixion.com/guides/skills-what-to-sell\n\n#SkillMonetization #Freelancing #Solopreneur #OfferDesign #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You're good at what you do.\n\nYou know it. The people around you know it.\n\nBut every time someone asks \"so what do you sell?\" — you freeze.\n\nNot because you don't have value. But because you've never figured out how to package that value into something a buyer can say YES to.\n\nThat's the gap. Not talent. Not effort. Packaging.\n\nI put together a free guide — The Skill Monetization Blueprint — that installs a 7-phase system called P.A.C.K.A.G.E.™ to turn your existing skills into a clear, priced, sellable offer.\n\nIn 30 days, you'll have:\n✅ Your top monetizable skill identified\n✅ A target market mapped to your ability\n✅ A named offer with real deliverables\n✅ A price anchored to value — not hours\n✅ Your first outreach sent\n\nFree guide. No fluff. Download it here 👇\npublixion.com/guides/skills-what-to-sell\n\n#SkillMonetization #Freelancing #OfferDesign #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ArbumVAkQRsVllEwd1eSyVB\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have real skills.\nYou just don't have an offer yet.\n\nThere's a difference — and it's costing you every month.\n\nSkills are what you can do.\nOffers are what people pay for.\n\nThe gap between them isn't talent.\nIt's structure.\n\nOur free guide — I Have Skills But Don't Know What to Sell — gives you the P.A.C.K.A.G.E.™ Framework to build your first sellable offer from what you already know.\n\n7 phases. 30 days. Your first client.\n\nLink in bio.\n\n#SkillMonetization #Freelancing #Solopreneur #OfferDesign #OnlineBusiness #Publixion #FreeGuide #PackageYourSkills",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AYPD_yM_1pKN6xDL1SGjHrW\"}}"
       }
     }
   },
@@ -8389,8 +8406,8 @@
     "scheduled_date": "2026-03-21",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-21",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T08:04:33.383Z",
     "platforms": {
       "linkedin": {
         "enabled": false,
@@ -8410,7 +8427,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most personal development books give you ideas.\n\nThis one gives you documents.\n\nSwipe to see what is inside 👉\n\nSlide 1 — The Life Audit: Map your exact position across 5 domains. Career. Finance. Relationships. Health. Identity. The Gap Map shows you precisely where the misalignment lives.\n\nSlide 2 — Identity Before Strategy: Excavate your real values — not the performed ones. Build a written Identity Statement that makes every major decision dramatically easier.\n\nSlide 3 — The Skills Inventory: Seven years of archaeology. A documented Skill Stack. A market positioning statement that tells the world what you are actually worth.\n\nSlide 4 — The Financial Baseline: Net worth. Cash flow. Debt map sorted by interest rate. Financial runway. A 12-month Wealth Acceleration Plan that works during a transition.\n\nSlide 5 — The 5-Year Blueprint: Four pillars. 25 annual milestones. A Decision Filter for every future choice. A Quarterly Review system that keeps it alive.\n\n12 chapters. A 30-Day Sprint. Five documents you will hold when it is done.\n\nLink in bio to get the book.\n\n#CareerRedesign #LifeAudit #PersonalDevelopment #5YearPlan #LifeDesign #SkillsInventory #FinancialBaseline #SelfImprovement #Publixion #CareerChange",
@@ -8421,7 +8438,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AmS49z0rXZTxzCXKpGk3Qmq\"}}"
       }
     }
   },
