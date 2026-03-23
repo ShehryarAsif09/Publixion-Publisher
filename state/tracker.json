@@ -1,8 +1,152 @@
 {
-  "last_run": "2026-03-23T05:29:26.993Z",
-  "total_posted": 113,
-  "total_failed": 269,
+  "last_run": "2026-03-23T08:05:55.291Z",
+  "total_posted": 116,
+  "total_failed": 287,
   "run_log": [
+    {
+      "started_at": "2026-03-23T08:04:25.419Z",
+      "date": "2026-03-23",
+      "slot": "04:00",
+      "posts": [
+        {
+          "id": "RYAL-003",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "skipped": true
+            },
+            "facebook": {
+              "success": false,
+              "skipped": true
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AmS49z0rXZTxzCXKpGk3Qmq\"}}"
+            }
+          }
+        },
+        {
+          "id": "NDW-004",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122098996100948582"
+            },
+            "instagram": {
+              "success": false,
+              "skipped": true
+            }
+          }
+        },
+        {
+          "id": "BASN-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122098996244948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18071856128216396"
+            }
+          }
+        },
+        {
+          "id": "OCNR-006",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AQTaFnSORYdgWwin-E4-lrF\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ACt7cNDwg6vV71b4eyAZykH\"}}"
+            }
+          }
+        },
+        {
+          "id": "IDKM-001",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AaXVIhjC1axxgJ0qVjKhQcf\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ANyiKudQ4BneL2tF5yqL-Cm\"}}"
+            }
+          }
+        },
+        {
+          "id": "FOSY-002",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AyHmyhnbX8FplElf7mah5VM\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Aekzz3EF-g7FqgO-Kdz2Kf8\"}}"
+            }
+          }
+        },
+        {
+          "id": "SWTS-001",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ArbumVAkQRsVllEwd1eSyVB\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AYPD_yM_1pKN6xDL1SGjHrW\"}}"
+            }
+          }
+        },
+        {
+          "id": "FZT3-002",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Aki8VOceFUFuU4ASK5d4qde\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Aw-y3YVVxCGSAbFR2trhmXd\"}}"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-23T08:05:55.291Z"
+    },
     {
       "started_at": "2026-03-23T05:27:50.925Z",
       "date": "2026-03-23",
