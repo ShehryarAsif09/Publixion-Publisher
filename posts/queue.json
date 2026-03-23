@@ -8091,8 +8091,8 @@
     "scheduled_date": "2026-03-23",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-23",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T14:51:31.244Z",
     "platforms": {
       "linkedin": {
         "enabled": false,
@@ -8112,7 +8112,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "11 chapters. One complete system for the relationship you are choosing to build.\n\nSwipe to see what is inside. 👉\n\nSlide 1: The Drift Effect — why couples grow apart without a single dramatic reason, and the five-stage model that maps exactly where you are.\n\nSlide 2: The W.E.E.K. Check-In — the 45-minute weekly protocol that functions as your relationship's heartbeat.\n\nSlide 3: Communication Scripts — the Soft Startup Formula, the L.E.A.N. listening model, and a ready-to-use script library for every hard conversation.\n\nSlide 4: Conflict Without Casualties — the C.A.L.M. framework that structures every fight so it ends in resolution rather than damage.\n\nSlide 5: The Maintenance Mindset — how to make this a permanent identity rather than a temporary project.\n\nPlus: The Emotional Debt Audit. The Repair Ritual Framework. The Five-Year Shared Vision. The 30-Day Implementation Plan.\n\nEverything you need. Nothing you do not.\n\nLink in bio.\n\n#RelationshipMaintenance #CouplesGoals #MarriageAdvice #Publixion #RelationshipSystem",
@@ -8123,7 +8123,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintenance-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintenance-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintenance-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AyTlC-eU0yapIybhdgkoORk\"}}"
       }
     }
   },
@@ -9239,32 +9240,35 @@
     "scheduled_date": "2026-03-23",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-23",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T14:51:24.367Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This book is not for people who want to get fit.\n\nIt is for people who are tired of being the version of themselves that crashes at 2pm, cancels the gym plan by Tuesday, and wakes up on Sunday quietly disappointed.\n\nIt is for the executive running a team of 60 who cannot explain why he is exhausted despite doing everything right.\n\nIt is for the nurse working 12-hour shifts who was told she does not have time — and found 60 minutes already inside her day without adding a single thing.\n\nIt is for the person who has started a health routine four times in two years and blamed themselves every time it fell apart.\n\nHere is the truth none of those routines told you:\n\nYou did not fail the system.\nThe system failed you.\n\nHealth is not a motivation problem. It is an architecture problem. And architecture has a solution.\n\nThe 1-Hour Health Formula is that solution.\n\nOne hour. Four pillars. A protocol built on peer-reviewed science from The Lancet, Nature Human Behaviour, and the world's leading sleep and behavioral research labs.\n\nDesigned for the life you actually have. Not the life a 22-year-old fitness influencer assumes you have.\n\nIf you have been waiting to become someone who takes care of themselves — you already are that person.\n\nYou just need the system.\n\nLink in bio. The book is live.\n\n#HealthSystem #HEALArchitecture #Publixion #DailyHabits #EnergyManagement #Longevity #BusyProfessionals",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This book is not for people who want to get fit.\n\nIt is for people who are tired of being the version of themselves that crashes at 2pm, cancels the workout by Tuesday, and wakes up Sunday quietly disappointed in themselves.\n\nYou have not failed every health routine you have tried.\nEvery routine you tried failed you.\n\nHealth is not a motivation problem. It is an architecture problem.\n\nThe 1-Hour Health Formula gives you the architecture — four pillars, 60 minutes, built around the science of how behavior actually changes — designed to run inside the day you already have.\n\nNo gym required. No diet required. No willpower required.\n\nJust a system that works on the hard days as well as the easy ones.\n\nLink in the first comment. The book is live now.\n\n#HealthSystem #Publixion #DailyHabits #Longevity",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ARoQeKYs5YiV55q-ZxPr7oD\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This book is not for people who want to get fit.\n\nIt is for people tired of being the version of themselves that crashes at 2pm and cancels the plan by Tuesday.\n\nYou did not fail the routine.\nThe routine failed you.\n\nThe 1-Hour Health Formula gives you the architecture that actually holds.\n\nOne hour. Four pillars. Real science. Real life.\n\nLink in bio.\n\n#HealthFormula #HEALArchitecture #Publixion #DailyHealth #EnergyBoost #Longevity #BusyLife #HealthyHabits #NoGymRequired #SleepBetter #NutritionSimplified",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AQikMQkVAUoYKbGt3EEDiqh\"}}"
       }
     }
   },
