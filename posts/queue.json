@@ -1457,30 +1457,31 @@
     "scheduled_date": "2026-03-20",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-20",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T05:28:57.671Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide has been free since launch.\n\nHere's what it's actually worth to you:\n\nIf 1 optimized LinkedIn post generates 1 qualified lead per month and that lead closes at $1,500 — that's $18,000 in potential annual pipeline from content alone.\n\nThis guide teaches you how to build that system. For free.\n\nBut here's the truth about free resources: they only work when you use them.\n\nThe people who downloaded this guide at launch are in Week 3 of their 30-day plan right now. Some have already seen 3–5× impression lifts. A few have closed new clients directly from content.\n\nYou could be 3 weeks ahead of where you are now.\n\nOr you could keep posting into silence.\n\nDownload it. Read it. Apply the first hook fix today. That's all it takes to start.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #TakeAction #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T05:28:44.278Z",
+        "post_id": "122098896638948582",
         "text": "Last reminder on this one.\n\nThe LinkedIn Engagement Guide is free right now — but we're building out a full paid LinkedIn Authority System (90-day program) and this free guide is the entry point to that ecosystem.\n\nWhen the paid system launches, this guide moves into the funnel and the standalone free version comes down.\n\nIf you've been meaning to grab it — now is the time.\n\n10 pages. V.I.S.I.B.L.E.™ Framework. Hook templates. 30-day calendar.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #FreeResource #ContentStrategy",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T05:28:57.671Z",
+        "post_id": "17925689313088243",
         "text": "Final push.\n\nThis guide is free today. When our full LinkedIn Authority System launches, this goes into the paid funnel.\n\nWhat's inside:\n→ The V.I.S.I.B.L.E.™ 7-layer framework\n→ 5 proven hook types with fill-in templates\n→ The S.T.A.C.K. storytelling model\n→ A 30-day implementation calendar\n→ Hook Rewrite Worksheet\n\nA consultant used this to go from 800 impressions to 6,500 and close a $2,500 client.\n\nLink in bio. Free. Download it today.\n\n#LinkedIn #PersonalBrand #ContentStrategy #TakeAction #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       }
@@ -1915,30 +1916,31 @@
     "scheduled_date": "2026-03-20",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-20",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T05:28:37.001Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I want to launch a paid community — but I keep talking myself out of it.\"\n\nHere are the objections I hear every week — and the direct answers:\n\n——\n\n❓ \"$29.99 is a lot for a guide.\"\n\nYour first 10 Core members at $15/month = $150 MRR. That pays for the guide 5× over — every single month. Your first Premium member at $49/month pays for it in week one. This is the lowest-risk $29.99 investment in your business.\n\n——\n\n❓ \"I don't have a big enough audience.\"\n\nCreator A in the case study started with 1,000 Instagram followers and hit 200 paid members and $5,000 MRR in 60 days. Audience size is not the variable. Positioning clarity and offer architecture are. The guide teaches both.\n\n——\n\n❓ \"I've seen communities die in month 2. What stops that from happening?\"\n\nThe Retention Loop — Day 1/3/7/30 onboarding sequence. 67% of community churn happens in the first 30 days because there is no structured onboarding. The guide gives you copy-paste emails for every touchpoint. Communities with this system achieve 70%+ 90-day retention.\n\n——\n\n❓ \"I don't know what to charge or which platform to use.\"\n\nThe Tier Benefit Mapping Worksheet and Platform Comparison (Discord vs Circle vs Mighty Networks) are inside the guide. Every decision is mapped. You don't need to figure anything out from scratch.\n\n——\n\n❓ \"What if I launch and nobody joins?\"\n\nThe guide includes a soft launch protocol — 10 personal invitations to warm contacts before any public announcement. This generates the first members and social proof before you face a public audience.\n\n——\n\nYou don't have a capability problem. You have an architecture problem. The guide solves it.\n\n→ https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RecurringRevenue #CommunityBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T05:28:24.682Z",
+        "post_id": "122098896464948582",
         "text": "Top objections about Build a Paid Community from Scratch — answered:\n\n💬 \"$29.99 is expensive for a guide.\"\nYour first 10 Core members at $15/month = $150 MRR monthly. The guide pays for itself in week one of your launch.\n\n💬 \"My audience is too small.\"\nCreator A had 1,000 followers. 60 days later: 200 paid members and $5,000 MRR. Positioning clarity beats audience size every time.\n\n💬 \"Communities always die in month 2.\"\nBecause they have no retention system. The Day 1/3/7/30 onboarding sequence in the guide achieves 70%+ 90-day retention. Copy-paste templates for every touchpoint.\n\n💬 \"I don't know what platform to use.\"\nA platform comparison table (Discord vs Circle vs Mighty Networks) with pros, cons, and \"best for\" recommendations is inside the guide.\n\n💬 \"What if nobody joins at launch?\"\nThe guide includes a soft launch protocol — 10 personal invitations to warm contacts first. You build social proof before facing a public audience.\n\nThe only real blocker is the architecture. The guide is the architecture.\n\n👉 https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RecurringRevenue #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T05:28:37.001Z",
+        "post_id": "18413302822124735",
         "text": "\"But what if it doesn't work for me?\" 🤔\n\nTop doubts — killed 👇\n\n💬 \"$29.99 is steep.\"\n10 Core members ($15/mo) = $150 MRR monthly. Math is easy.\n\n💬 \"My audience is too small.\"\n1,000 followers → 200 paid members → $5K MRR in 60 days. True story.\n\n💬 \"Communities always die in month 2.\"\nBecause there's no retention system. This guide has one.\n\n💬 \"I don't know which platform.\"\nComparison table inside. Decision made in 5 minutes.\n\n💬 \"What if nobody joins?\"\nSoft launch protocol = first 10 members before you go public.\n\nThe system handles everything. Link in bio. 🔗\n\n#PaidCommunity #RecurringRevenue #MRR #CommunityBuilding #CreatorEconomy #Publixion #OnlineBusiness #ContentCreator #PassiveIncome #BuildInPublic",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       }
@@ -2814,32 +2816,35 @@
     "scheduled_date": "2026-03-20",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-20",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T05:28:09.702Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide was built for a very specific type of person.\n\nYou'll know it's for you if any of these hit close:\n\n→ You're a founder, coach, or consultant who creates content to build authority — but you're producing it manually, from scratch, every single day\n\n→ You've tried posting consistently but burned out by Week 3 because the volume felt unsustainable\n\n→ You have one platform working (usually LinkedIn or Instagram) but no system for distributing that content everywhere else\n\n→ You produce content but it's not connected to any revenue path — no lead magnet, no funnel, no offer\n\n→ You've heard about repurposing but you're doing it wrong — copying and pasting the same text across platforms instead of adapting it natively\n\n→ You spend more than 10 hours per week on content and feel like you have nothing to show for it\n\nThe Content Repurposing Machine is specifically designed for the service provider, creator, or entrepreneur who has expertise worth sharing — and is ready to build a system that distributes it at scale without burning out.\n\nIf that's you, this guide changes the math entirely.\n\n👉 https://publixion.com/guides/content-repurposing-machine\n\n#ContentStrategy #ContentMarketing #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Is The Content Repurposing Machine for you?\n\nYes — if you recognize yourself in any of these:\n\n📌 You create content daily but your output doesn't compound\n📌 You have expertise but no system for turning it into reach\n📌 You're on one or two platforms but can't seem to scale to more\n📌 Your content isn't connected to any revenue — just engagement\n📌 You batch-produce nothing, which means you're always behind\n\nThis guide is for founders, coaches, consultants, and service providers who are already creating — and are ready to multiply that effort by 5× without adding more hours.\n\nNot for: people who haven't started creating yet (start there first), or brands with a full content team already in place.\n\n👉 Get the guide: https://publixion.com/guides/content-repurposing-machine",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A8h3Q-qdCy0wdwA8yf6_09A\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is for you if… 👇\n\n✅ You create content but it doesn't compound\n✅ You're on one platform but want to be everywhere\n✅ You burn out by Week 3 of every content plan\n✅ Your content isn't connected to any revenue\n✅ You have expertise but no distribution system\n\nThe Content Repurposing Machine turns one weekly asset into 27+ pieces across 5 platforms.\n\nLink in bio. 🔗\n\n#ContentCreator #ContentStrategy #CreatorEconomy #PersonalBrand #Repurposing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AzxrtcPtSBYqiz0ZclhOTJl\"}}"
       }
     }
   },
@@ -3107,32 +3112,35 @@
     "scheduled_date": "2026-03-20",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-20",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T05:28:16.734Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion:\n\nResearching a decision harder is not due diligence.\n\nIt is sophisticated avoidance.\n\nI have seen people spend six months gathering information on a decision they already knew the answer to at week two.\n\nNot because the information was necessary.\nBecause the research felt productive. It felt like progress. And it kept the moment of actual commitment safely in the future.\n\nThe behavioral science on this is unambiguous.\n\nPsychologists call it analysis paralysis — but that name makes it sound like a capacity problem. It is not. It is a structural one.\n\nThe more intelligent the person, the more elaborate the avoidance architecture tends to become. Smarter people are better at generating objections. Better at imagining failure scenarios. Better at constructing perfectly logical arguments for why this one specific additional piece of information might finally be the thing that produces certainty.\n\nCertainty is not coming.\n\nIt has never been the product of more research. It is the product of a completed process: a real question correctly identified, real options honestly surfaced, real risk accurately assessed, genuine values applied, and a commitment made with the full knowledge that the future remains uncertain.\n\nThat is what the CLEAR Framework is designed to produce.\n\nNot certainty. Clarity. And clarity, it turns out, is enough.\n\nIf your decision has been sitting with you for longer than it should — the answer is not more research.\n\nIt is a better process.\n\nDecision Clarity — available at publixion.com\n\nAgree or disagree? I want to hear what you think in the comments.\n\n#DecisionMaking #Leadership #AnalysisParalysis #PersonalDevelopment #CLEARFramework #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Controversial take:\n\nResearching a decision harder is not due diligence. It is sophisticated avoidance.\n\nThe more intelligent you are, the more elaborate your paralysis becomes — because smart people are better at building logical arguments for why they are not ready to decide yet.\n\nCertainty is not coming. It never was.\n\nWhat actually produces resolution is not more information. It is a completed process: the right question, honest options, accurate risk, genuine values, and a committed resolve.\n\nThat is what the CLEAR Framework in Decision Clarity is built to deliver.\n\nNot certainty. Clarity. And clarity is enough to move.\n\nDo you agree? Tell me in the comments.\n\nGet the book at publixion.com\n\n#DecisionMaking #AnalysisParalysis #Publixion #PersonalGrowth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AdKHsgyq4xT0ZEkPKSt2WUn\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "More research will not save you from a decision you are avoiding.\n\nCertainty is not coming.\nClarity is available right now.\n\nThe difference between those two things is the difference between another month of paralysis and a decision that finally feels finished.\n\nDecision Clarity — link in bio.\n\n#DecisionMaking #AnalysisParalysis #CLEARFramework #PersonalDevelopment #Publixion #MindsetShift #SelfGrowth #CareerAdvice #LifeStrategy #Leadership",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A1Oaj-lKLyhYCkc48BpdQg8\"}}"
       }
     }
   },
@@ -3728,32 +3736,35 @@
     "scheduled_date": "2026-03-21",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-21",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T05:29:24.991Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The C.O.N.V.E.R.T.™ email list guide is for a specific person:\n\n→ You've been posting consistently for months and your email list is still under 200 subscribers\n→ You have a lead magnet — but your opt-in rate is below 5% and you're not sure why\n→ You rely entirely on social platforms for audience reach and know that's a single point of failure\n→ You're building toward a digital product, course, or paid service and you don't have an email list to launch to\n→ You've used \"subscribe for updates\" or a generic newsletter CTA and wondered why no one subscribes\n→ You want to grow your list but don't want to pay for ads to do it\n→ You have the audience — you just haven't converted them to an owned channel yet\n\nThis guide gives you a complete system: from lead magnet creation to landing page structure to copy formula to 30-day distribution plan.\n\nFree. No email required.\n\n👉 https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #ContentMarketing #DigitalCreator #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Who is this email list growth guide built for?\n\n✅ Creators with growing social followings but tiny email lists\n✅ Freelancers and solopreneurs building toward a digital product launch\n✅ Anyone currently using a generic \"subscribe for updates\" CTA\n✅ People who want list growth without running paid ads\n✅ Entrepreneurs who know they need an owned audience — and keep putting it off\n\nFree. No signup required.\n\n📖 https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #DigitalMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ApBNVowpfof22aiaHsFGuvH\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is for you if:\n\n↳ Posting consistently — email list still under 200\n↳ Lead magnet exists, opt-in rate below 5%\n↳ Building toward a product with no list to launch to\n↳ Currently using \"subscribe for updates\" as your CTA\n↳ Want list growth without paid ads\n\nC.O.N.V.E.R.T.™ System — free guide. 30-day opt-in machine.\n\n📖 Link in bio.\n\nLink in bio.\n\n#EmailMarketing #ListBuilding #ContentCreators #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AJ36ST85VZB_WN6qyRYSZzx\"}}"
       }
     }
   },
@@ -3931,32 +3942,35 @@
     "scheduled_date": "2026-03-20",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-20",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T05:27:56.228Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most freelancers price wrong because they ask the wrong question.\n\nThey ask: \"How much should I charge for this?\"\n\nThe right question is: \"What is this worth to the client?\"\n\nHere's the P.R.I.C.E.™ Framework from our free pricing guide — 5 steps that answer that question for every project:\n\n━━━━━━━━━━━━━━━━━━━━━━\nP — Position Your Value\n━━━━━━━━━━━━━━━━━━━━━━\nBefore you quote anything, identify the measurable outcome your service delivers. Not what you do — what changes for the client. Revenue earned, time saved, risk reduced. A web designer doesn't build websites. They build sales infrastructure. Price that.\n\n━━━━━━━━━━━━━━━━━━━━━━\nR — Research the Market\n━━━━━━━━━━━━━━━━━━━━━━\nMap competitor pricing — not to copy it, but to understand the floor. The goal is to position above average, not race to the bottom. Survey past clients on willingness to pay. One honest client conversation is worth more than hours of online research.\n\n━━━━━━━━━━━━━━━━━━━━━━\nI — Identify Your Structure\n━━━━━━━━━━━━━━━━━━━━━━\nHourly rates cap your income and penalise expertise. Project-based pricing gives clarity. Value-based pricing — where your fee is linked to client ROI — unlocks premium rates. The formula: Price = Client Outcome Value × 10%.\n\n━━━━━━━━━━━━━━━━━━━━━━\nC — Craft Your Proposal\n━━━━━━━━━━━━━━━━━━━━━━\nEvery proposal follows one structure: Problem → Outcome → Investment. Your price appears last — after the value is already established. The client should feel that NOT hiring you is the riskier choice.\n\n━━━━━━━━━━━━━━━━━━━━━━\nE — Execute and Negotiate\n━━━━━━━━━━━━━━━━━━━━━━\nSend the proposal confidently. When they push back — and they will — redirect from cost to value. Scripts for every objection are included in the free guide.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\nThis is the system that takes freelancers from \"I hope they accept this\" to \"I can defend this number in any conversation.\"\n\nFree. Full breakdown.\n\n👉 https://publixion.com/guides/difficulty-pricing-services\n\n#FreelancePricing #ValueBasedPricing #FreelancerTips #Consulting #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The reason most freelancers undercharge isn't lack of confidence.\n\nIt's lack of a system.\n\nHere's the P.R.I.C.E.™ Framework — 5 steps from our free guide that change how you price permanently:\n\n🔵 P — Position Your Value: Identify the measurable outcome your service delivers. Price the result, not the time.\n\n🔵 R — Research the Market: Understand the pricing floor through competitor research and client conversations. Aim above average.\n\n🔵 I — Identify Your Structure: Choose hourly, project-based, or value-based pricing. Value-based links your fee to client ROI — and unlocks premium rates.\n\n🔵 C — Craft Your Proposal: Lead with Problem → Outcome → Investment. Price comes last, after value is clear.\n\n🔵 E — Execute and Negotiate: Use the objection scripts in the guide to hold your number without backing down.\n\nFull system. Free download.\n\n📖 https://publixion.com/guides/difficulty-pricing-services\n\n#Freelancing #PricingStrategy #FreelanceTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Ai6e9NtEudGbYu_VTQ_Aa4b\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most freelancers ask: \"How much should I charge?\"\n\nThe right question is: \"What is this worth to the client?\"\n\nThat shift changes everything.\n\nThe P.R.I.C.E.™ Framework — 5 steps:\n\nP → Position Your Value (price the outcome)\nR → Research the Market (find the floor, aim above it)\nI → Identify Your Structure (hourly caps you, value-based frees you)\nC → Craft Your Proposal (Problem → Outcome → Investment)\nE → Execute & Negotiate (hold your number with scripts)\n\nFull system. Free guide.\n\n📖 Link in bio.\n\nLink in bio.\n\n#FreelancePricing #ValueBasedPricing #FreelancerTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ABfJWxueaLcd0QI5munlpQt\"}}"
       }
     }
   },
@@ -8001,24 +8015,26 @@
     "scheduled_date": "2026-03-20",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-20",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T05:28:00.638Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built this book because the relationship self-help genre has a problem.\n\nIt is enormous, well-intentioned, and almost entirely built for couples who are already in crisis.\n\nWalk into any bookshelf and you will find titles about surviving affairs, recovering from betrayal, rebuilding after deception.\n\nThese books are necessary. For the couples who need them, they are lifelines.\n\nBut they are emergency rooms.\n\nNot gyms.\n\nThey treat the wound after it has opened rather than building the strength that might have prevented it.\n\nWe wanted to build the gym.\n\nA system — not a sentiment.\nA protocol — not a principle.\nSomething with the same reliable logic as a workout program, where a couple can look at week three and know exactly what to do, why it matters, and what measurable change to expect.\n\nSo we spent months researching four decades of relationship science — Gottman, Johnson, Fisher, Perel, Aron — and built the W.E.E.K. Framework around what the data actually shows keeps couples strong.\n\nNot passion. Not compatibility. Not luck.\n\nIntentionality made structural.\n\nThat is Relationship Maintenance.\nAnd it is available now at publixion.com\n\n#RelationshipMaintenance #Publixion #CouplesSystem #MarriageSystem #RelationshipScience",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most relationship books are written for couples who are already broken.\n\nWe built Relationship Maintenance for couples who are not broken — and want to make sure they never get there.\n\nIt is a weekly system. Research-backed. Immediately applicable. Built around a 45-minute protocol that keeps love strong and conflict low in the ordinary weeks, the pressured weeks, and every week in between.\n\nNot therapy. Not a retreat. A system.\n\nRead more at publixion.com\n\n#RelationshipMaintenance #MarriageAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ARnfvmqFspLJ0RkWj1ZIUX2\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -8860,30 +8876,31 @@
     "scheduled_date": "2026-03-21",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-21",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-23T05:29:17.986Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is not for professionals who are comfortable.\n\nThis is for the ones who are quietly scared.\n\nScared that the skills they spent years building are slowly becoming less valuable.\nScared that the next wave of AI will not just change their industry — it will make them irrelevant inside it.\nScared that working harder is no longer enough.\n\nIf that fear lives somewhere in the back of your mind, you are not being paranoid.\n\nYou are being perceptive.\n\nThe World Economic Forum projects 85 million job displacements by 2030.\nIBM research puts the average technical skill half-life at 2.5 years.\nLinkedIn data shows that professionals who pair domain expertise with AI fluency are commanding salary premiums of 23 to 41 percent above peers with equivalent experience.\n\nThe professionals who will thrive in this economy are not the most experienced.\nThey are the most strategically skilled.\n\nSkill Capital is the system that makes you one of them.\n\nNot through motivation.\nNot through vague advice about lifelong learning.\nThrough a four-stage framework — Audit, Map, Stack, Monetize — that turns your expertise into a compounding professional asset.\n\nBy the time you finish, you will know exactly which skills to build, which to abandon, and how to convert your stack into income that grows without permission.\n\n📖 Get Skill Capital at publixion.com/book/skill-capital\n\n#SkillCapital #CareerStrategy #FutureOfWork #ProfessionalDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T05:29:04.881Z",
+        "post_id": "122098896980948582",
         "text": "This book is for the professional who is good at their job and quietly terrified it will not be enough.\n\nThe one who watches AI reshape their industry and wonders where they stand.\nThe one who keeps investing in new skills without a system for knowing which ones actually matter.\n\nSkill Capital gives you that system.\n\nFour stages. One framework. A complete operating system for your professional future.\n\nAudit what you have. Map what the market rewards. Stack your skills into a rare, high-value combination. Monetize your expertise into income that compounds.\n\nThe professionals who master this will not just survive the next wave of disruption. They will be the ones riding it.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #CareerDevelopment #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-23T05:29:17.986Z",
+        "post_id": "17885630910466914",
         "text": "For the professional who works hard and still feels like the ground is shifting.\n\nSkill Capital is the system that tells you exactly which skills to build, stack, and monetize in an economy that is changing faster than any resume can keep up with.\n\nThis is not motivation. This is infrastructure.\n\n📖 Link in bio.\n\n#SkillCapital #CareerStrategy #FutureOfWork #Upskilling #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       }
