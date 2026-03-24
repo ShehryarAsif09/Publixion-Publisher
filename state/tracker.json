@@ -1,8 +1,101 @@
 {
-  "last_run": "2026-03-23T14:51:33.246Z",
-  "total_posted": 118,
-  "total_failed": 311,
+  "last_run": "2026-03-24T05:22:46.351Z",
+  "total_posted": 124,
+  "total_failed": 319,
   "run_log": [
+    {
+      "started_at": "2026-03-24T05:21:22.286Z",
+      "date": "2026-03-24",
+      "slot": "04:00",
+      "posts": [
+        {
+          "id": "DGEL-004",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Am0XMNk0qP-fAyDkP3P_M_A\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "skipped": true
+            }
+          }
+        },
+        {
+          "id": "BPCF-006",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122099735408948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18130992961532994"
+            }
+          }
+        },
+        {
+          "id": "FOSY-003",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Amzu9ueCIj0DCnd8dJwBod8\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ADdwCuEJ9pN3fCKBBkeXajc\"}}"
+            }
+          }
+        },
+        {
+          "id": "NDW-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122099736086948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18401513461155909"
+            }
+          }
+        },
+        {
+          "id": "BASN-006",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122099736584948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18366494779166773"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-24T05:22:46.351Z"
+    },
     {
       "started_at": "2026-03-23T14:51:17.269Z",
       "date": "2026-03-23",
