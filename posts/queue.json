@@ -3166,32 +3166,35 @@
     "scheduled_date": "2026-03-24",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-24",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-24T07:56:56.675Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is from Chapter 3 of Decision Clarity. I think it is the passage that changes how people think about the decisions they have been avoiding.\n\n---\n\nBronnie Ware was a palliative care nurse in Australia who spent years working with people in the last weeks of their lives. Over time, she noticed that the conversations were remarkably consistent. The same regrets surfaced across patients from different backgrounds, different countries, different professions.\n\nThe most common regret, expressed more frequently than any other, was this:\n\nI wish I had the courage to live a life true to myself, not the life others expected of me.\n\nNone of the five regrets were about decisions that went wrong. None were about risks taken that failed.\n\nEvery single one was about things left undone. Paths not taken. Lives half-lived out of fear.\n\nThis is not an accident of her patient population. It is a finding replicated so consistently across the psychology of regret literature that it has become one of the field's most reliable conclusions:\n\nWhen people look backward across a lifetime, they regret inaction at a rate roughly two to one over action.\n\nThe things they did hurt in the short term.\nThe things they did not do haunted them forever.\n\n---\n\nThe decision you have been avoiding is not safer than the one you are afraid to make.\n\nIt is just quieter. For now.\n\nDecision Clarity is available at publixion.com\n\n#DecisionMaking #RegretMinimization #PersonalDevelopment #Publixion #Leadership #LifeStrategy",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "From Chapter 3 of Decision Clarity:\n\nBronnie Ware spent years as a palliative care nurse, sitting with people in their final weeks. Across hundreds of patients, the same regrets surfaced again and again.\n\nNot one of the five most common regrets was about a risk taken that went wrong.\n\nEvery single one was about something left undone.\n\nThe research confirms it: people regret inaction at twice the rate of action — but only recognize this at the end of their lives, when the cost cannot be undone.\n\nThe decision you have been avoiding is not safer than the one you are afraid to make.\n\nIt is just quieter. For now.\n\nDecision Clarity is available at publixion.com\n\n#DecisionMaking #PersonalDevelopment #Publixion #LifeStrategy",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A2sutS7u1ioifYorYbf2G7E\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "From the book:\n\n\"The things they did hurt in the short term. The things they did not do haunted them forever.\"\n\nBronnie Ware spent years sitting with the dying.\nNot one of their regrets was about a risk that went wrong.\nEvery one was about something never tried.\n\nThe decision you are avoiding is not safer than the one you are afraid to make.\n\nIt is just quieter. For now.\n\nDecision Clarity — link in bio.\n\n#DecisionMaking #RegretMinimization #PersonalDevelopment #Publixion #LifeStrategy #MindsetShift #SelfGrowth #Leadership #CourageToDecide #LiveWithoutRegret",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AbmcoKpL_ovVbjBLYBk0Kxi\"}}"
       }
     }
   },
@@ -4041,24 +4044,26 @@
     "scheduled_date": "2026-03-24",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-24",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-24T07:56:47.379Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Let me show you exactly how the P.R.I.C.E.™ Framework works in practice.\n\nMeet Tariq.\n\nTariq is a freelance UX designer. 4 years of experience. Strong portfolio. He charges $65/hour and typically works 35 hours per project. That's $2,275 per client — a number he arrived at by looking at what other designers charge on LinkedIn.\n\nHe reads the Value-Based Pricing guide on a Sunday night.\n\nHere's what changes by his next client conversation:\n\n━━━━━━━━━━━━━━━━━━━━━━\nSTEP 1 — He runs the P.R.I.C.E.™ Value Calculation\n━━━━━━━━━━━━━━━━━━━━━━\nHis next prospect is a SaaS founder whose onboarding flow has a 38% drop-off rate. Tariq estimates that fixing the flow would reduce churn by 15% — worth approximately $60,000/year to the business.\n\nThe guide's formula: Price = Client Outcome Value × 10%.\n\nThat puts his fee at $6,000 — not $2,275.\n\n━━━━━━━━━━━━━━━━━━━━━━\nSTEP 2 — He restructures his proposal\n━━━━━━━━━━━━━━━━━━━━━━\nInstead of: \"UX audit and redesign of onboarding flow — $2,275.\"\n\nHe writes: \"Your current onboarding drop-off is costing you an estimated $60,000/year in churn. This redesign project targets a 15% retention improvement. The investment is $6,000.\"\n\nSame work. Different frame. The price makes sense now — it's 10% of the problem.\n\n━━━━━━━━━━━━━━━━━━━━━━\nSTEP 3 — The client pushes back\n━━━━━━━━━━━━━━━━━━━━━━\n\"That's more than we budgeted.\"\n\nTariq uses the guide's objection script: \"I understand. Let me walk you through the outcome this investment is designed to deliver. If we hit a 15% churn improvement, you recover this fee in under 5 weeks. Does that context change how you're looking at it?\"\n\nThe client accepts the proposal at $6,000.\n\nTariq just delivered the same work he always delivers — for 2.6× his previous rate.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\nThe system is in the free guide. The next project is yours to reprice.\n\n👉 https://publixion.com/guides/difficulty-pricing-services\n\n#FreelancePricing #UXDesign #ValueBasedPricing #Freelancing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's what applying the P.R.I.C.E.™ Framework actually looks like.\n\nImagine you're a freelance copywriter. You currently charge $300 per email sequence. You've been doing this for 2 years. The rate feels safe — clients don't push back much.\n\nYou read the Value-Based Pricing guide.\n\nHere's what changes:\n\n📌 STEP 1 — You calculate client outcome value\nYour next client has a product launch coming up. They have 8,000 email subscribers. Industry average conversion on a good email sequence is 2–4%. At a $97 product price, a 2% conversion = $15,520 in launch revenue.\n\nThe guide's formula: your fee = 10% of client value = $1,552.\n\nYou've been charging $300 for the same work.\n\n📌 STEP 2 — You rewrite your proposal\nOld version: \"7-email welcome sequence — $300.\"\n\nNew version: \"A 7-email launch sequence designed to convert your 8,000-subscriber list at 2–4%, generating an estimated $15,000–$31,000 in launch revenue. Investment: $1,500.\"\n\nSame deliverable. Completely different framing.\n\n📌 STEP 3 — Client accepts\nNo negotiation. No pushback. Because $1,500 is obviously reasonable when the expected return is $15,000.\n\nYou just 5× your rate without changing your service.\n\nFull system in the free guide.\n\n📖 https://publixion.com/guides/difficulty-pricing-services\n\n#Freelancing #Copywriting #PricingStrategy #FreelanceTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/value-based-pricing-for-freelancers.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AxGHJIL6wDJDirnew7AyMFu\"}}"
       },
       "instagram": {
         "enabled": false,
