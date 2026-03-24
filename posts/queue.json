@@ -6738,32 +6738,35 @@
     "scheduled_date": "2026-03-24",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-24",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-24T14:53:17.282Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You post on LinkedIn consistently.\n\nYou spend real time writing. You hit publish. You wait.\n\nAnd then... 4 likes. 1 comment from your mum. Zero new connections.\n\nWeeks pass. The pattern repeats.\n\nYou start wondering if LinkedIn even works anymore — or if the algorithm just hates you specifically.\n\nIt doesn't hate you. But it is ignoring you.\n\nAnd it will keep ignoring you until you understand one thing:\n\nThe algorithm doesn't reward effort. It rewards signals.\n\nSaves. Watch time. Topic consistency. Profile clarity. Engagement velocity in the first 60 minutes.\n\nNone of those happen by accident. All of them are engineered.\n\nThat's exactly what the LinkedIn Authority System teaches — a 90-day P.A.C.E.R. Framework™ that builds positioning, deploys a 4-pillar content engine, activates a daily engagement loop, and installs a revenue funnel.\n\nBy Day 90: 1,000–5,000 targeted followers. Consistent inbound DMs. A monetizable audience — without paid ads.\n\n→ Get the guide: https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #PersonalBrand #ContentMarketing #LinkedInStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system-90-day-growth-plan.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system-90-day-growth-plan.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You post on LinkedIn regularly. You get almost no traction.\n\nIt's not because you're a bad writer. It's not because your ideas aren't good. It's because the platform's algorithm rewards specific signals — topic consistency, saves, engagement velocity, profile clarity — and most people have no system for triggering any of them.\n\nRandom posting produces random results. Engineered authority produces compounding growth.\n\nThe LinkedIn Authority System is a 90-day P.A.C.E.R. Framework™ that gives you the exact structure: positioning, content engine, engagement loop, and revenue funnel — so LinkedIn stops being a frustration and starts being a client acquisition machine.\n\n1,000–5,000 targeted followers in 90 days. Inbound DMs. Real opportunities. No paid ads.\n\n👉 https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #PersonalBrand #ContentStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system-90-day-growth-plan.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system-90-day-growth-plan.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AEHD5RLuVLvyFrW59UNVbfu\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You post on LinkedIn.\nYou get 4 likes and silence. 😶\n\nIt's not your fault.\nIt's your system — or the lack of one.\n\nThe algorithm doesn't reward effort.\nIt rewards specific signals most people never learn to trigger.\n\nThe LinkedIn Authority System fixes this in 90 days.\n1,000–5,000 targeted followers.\nInbound DMs. Real opportunities.\n\nLink in bio. 🔗\n\n#LinkedIn #LinkedInGrowth #PersonalBrand #ContentMarketing #ThoughtLeadership #Publixion #SocialMediaStrategy #BuildYourBrand #LinkedInTips #GrowthMindset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system-90-day-growth-plan.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system-90-day-growth-plan.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A3WWWu05AVMMzGMdkwu-WAj\"}}"
       }
     }
   },
@@ -8491,32 +8494,35 @@
     "scheduled_date": "2026-03-24",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-24",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-24T14:53:24.863Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Hot take: Most personal development books are making your situation worse.\n\nNot because the ideas are bad. Because they end with insight and leave you with no system for turning that insight into anything real.\n\nYou read. You feel inspired. You highlight three sentences. You return to the same job, the same financial fog, the same vague list of goals you have been rewriting for two years.\n\nAnd the next time you feel stuck, you buy another book.\n\nThe personal development industry is not built to fix your situation. It is built to make your situation feel temporarily better so you come back for more.\n\nThe actual problem most people in their late twenties and thirties have is not a motivation problem. It is not a mindset problem. It is not even a goals problem.\n\nIt is an infrastructure problem.\n\nThey have never mapped their actual life across all five domains simultaneously. They have never calculated their real net worth. They have never documented what they are actually worth in the job market. They have never written a blueprint specific enough to evaluate a real decision against.\n\nWithout those documents, every insight you gain dissolves within a week because there is no structure to hold it.\n\nRedesign Your Adult Life is built differently. It does not inspire you. It makes you build. Every chapter ends with a written output. The book is not finished until the documents exist.\n\nThat is the difference between a book that feels good and a book that changes something.\n\nDrop a 🔥 if you have been in the highlight-and-forget cycle. And share this with someone who needs to hear it.\n\n#CareerDevelopment #PersonalDevelopment #LifeStrategy #HotTake #CareerChange #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Controversial opinion: Most self-help books are making your situation worse.\n\nNot because the ideas are wrong. Because they give you insight with no infrastructure to hold it.\n\nYou read. You highlight. You feel inspired for five days. Then you return to the same life.\n\nThe problem was never motivation. It was never mindset. It was that you had never actually mapped your life, documented your skills, or written a plan specific enough to evaluate a real decision against.\n\nInsight without infrastructure is just expensive comfort.\n\nRedesign Your Adult Life ends differently. Not with a chapter to reflect on. With five documents you built yourself — using your real numbers and your real values — that do not dissolve when the feeling does.\n\nThat is what we built. And that is what is different.\n\nLink in the comments.\n\n#PersonalDevelopment #CareerChange #SelfHelp #LifeRedesign #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AuHW728mowFV1tpfHD7KClQ\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Hot take:\n\nMost self-help books are making your situation worse.\n\nNot because they are wrong. Because they give you insight with no system for turning it into anything real.\n\nYou read. You feel inspired for a week. You return to the same life.\n\nThe problem was never motivation. It was infrastructure.\n\nRedesign Your Adult Life ends with 5 written documents — not 5 more ideas to forget.\n\nLink in bio.\n\n#HotTake #SelfHelp #PersonalDevelopment #CareerChange #LifeDesign #Publixion #LifeAudit #SelfImprovement #CareerStrategy #Mindset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A2jIVV2YJFwaJJ_H7vLliFr\"}}"
       }
     }
   },
