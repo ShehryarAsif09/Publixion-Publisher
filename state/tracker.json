@@ -1,8 +1,50 @@
 {
-  "last_run": "2026-03-24T05:22:46.351Z",
+  "last_run": "2026-03-24T07:56:58.677Z",
   "total_posted": 124,
-  "total_failed": 319,
+  "total_failed": 324,
   "run_log": [
+    {
+      "started_at": "2026-03-24T07:56:44.437Z",
+      "date": "2026-03-24",
+      "slot": "07:00",
+      "posts": [
+        {
+          "id": "DPS-004",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AxGHJIL6wDJDirnew7AyMFu\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "skipped": true
+            }
+          }
+        },
+        {
+          "id": "DC-005",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A2sutS7u1ioifYorYbf2G7E\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AbmcoKpL_ovVbjBLYBk0Kxi\"}}"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-24T07:56:58.677Z"
+    },
     {
       "started_at": "2026-03-24T05:21:22.286Z",
       "date": "2026-03-24",
