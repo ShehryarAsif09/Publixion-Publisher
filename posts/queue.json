@@ -5840,32 +5840,35 @@
     "scheduled_date": "2026-03-24",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-24",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-24T11:46:46.170Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Freelance From Zero to $3K/Month is for a very specific person.\n\nYou'll know it's for you if:\n\n→ You want to freelance but you've never landed a client — or you've landed one or two but have no system for finding the next one\n\n→ You're relying on Upwork, Fiverr, or job boards as your primary pipeline and wondering why you're constantly competing on price\n\n→ You have a marketable skill — writing, design, marketing, video editing, web development, ads management, social media — and you're not earning money from it yet\n\n→ You've sent outreach messages before and gotten silence — and concluded \"cold outreach doesn't work\" before understanding that volume and personalization are the entire strategy\n\n→ You get on sales calls and leave them without a clear answer because you don't have a structured framework for moving from discovery to decision\n\n→ You want $3,000/month in recurring freelance income in the next 30–45 days — not someday, not eventually\n\nThis guide is not for people who already have a full roster and want to scale beyond $10K. That's the Premium Pricing Masterclass.\n\nThis is for the beginner or stuck freelancer who needs a system — from niche selection all the way to a closed client — in one guide.\n\n👉 https://publixion.com/guides/freelance-zero-to-3k\n\n#Freelancing #SideHustle #ClientAcquisition #OnlineBusiness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Is Freelance From Zero to $3K/Month for you?\n\nYes — if you recognize yourself here:\n\n✅ You have a marketable skill but zero clients\n✅ You're on job boards and not getting traction\n✅ You've tried outreach but gave up after 10–15 messages\n✅ You don't have a clear, outcome-based offer — just \"I do X\"\n✅ You get on calls and end them without knowing whether you got the job\n✅ You want $3K/month from freelancing in the next 30 days\n\nNot for: established freelancers earning $5K+ who want to scale further. Different guide for that.\n\nThis is the beginner's execution system — niche, offer, outreach, sales, close — in 21 pages.\n\n👉 https://publixion.com/guides/freelance-zero-to-3k",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A_80RzjBT6drfEVIn0-BrWj\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is for you if… 👇\n\n✅ You have a skill but zero clients\n✅ You're stuck on job boards competing on price\n✅ You gave up on outreach after 15 messages\n✅ You have no clear outcome-based offer\n✅ You leave sales calls without a clear answer\n✅ You want $3K/month in the next 30 days\n\nFreelance From Zero to $3K/Month. $9.99.\n\nLink in bio. 🔗\n\n#Freelancing #SideHustle #ClientAcquisition #DigitalNomad #OnlineBusiness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelancing-zero-to-3k.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AenFmD4zokv-wKS16iIB1fx\"}}"
       }
     }
   },
@@ -6289,32 +6292,35 @@
     "scheduled_date": "2026-03-24",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-24",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-24T11:46:38.636Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most people try to sell their skills.\n\nThe highest earners sell outcomes.\n\nHere's the exact 7-phase system — P.A.C.K.A.G.E.™ — that converts raw ability into a paying offer:\n\n𝗣 — Pinpoint Skills\nExtract everything you can do across technical, soft, process, and experience categories. Then filter by one question: does this skill increase revenue, cut cost, save time, or reduce risk for a buyer?\n\n𝗔 — Align With Market Pain\nSkills with no attached problem are hobbies. Find the specific, urgent pain your top skill solves for a defined market. That intersection = your offer's foundation.\n\n𝗖 — Convert to Clear Outcome\nStop saying \"I provide consulting.\" Start saying \"90-Day Client Acquisition System that increases qualified leads by 20–40%.\" Buyers purchase results, not processes.\n\n𝗞 — Kit Into Deliverables\nName everything you deliver: audit, strategy doc, implementation, review call. Package into 3 tiers (Basic / Pro / Premium). Structure creates perceived value.\n\n𝗔 — Assign Strategic Pricing\nUse this formula: Price = Value Generated × 10–20%. If you help a client make $10K, charge $1,000–$2,000. Never quote hourly rates again.\n\n𝗚 — Gain Validation\nBefore cold outreach: one LinkedIn post, 10 warm DMs, one email to your network. Goal — close 1 beta client in 14 days at a slight discount for a testimonial.\n\n𝗘 — Execute & Refine\nDeliver with obsessive quality. Document your process. Get a testimonial. Use it to justify full pricing forever.\n\nThis entire system is inside our free guide — I Have Skills But Don't Know What to Sell.\n\n👉 publixion.com/guides/skills-what-to-sell\n\n#PACKAGE #SkillMonetization #FreelanceStrategy #OfferDesign #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's the framework that turns skills into income — P.A.C.K.A.G.E.™\n\nP — Pinpoint your highest-value skill (the one that increases revenue, saves time, or reduces risk)\nA — Align it with a specific market pain\nC — Convert it into a clear outcome statement with timeframe + metric\nK — Kit it into named deliverables (not \"consulting\" — actual deliverables)\nA — Assign strategic pricing based on value generated, not hours worked\nG — Gain validation through your warm network before going cold\nE — Execute, document, collect proof, scale\n\nMost skilled people skip straight from P to trying to sell — with nothing in between.\n\nThat's why they stay stuck.\n\nThe full system is inside our free guide. Link below 👇\npublixion.com/guides/skills-what-to-sell\n\n#SkillMonetization #FreelanceStrategy #OfferDesign #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AmazTPDLA9Ha0SamBU2nD12\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The reason your skills aren't making money yet:\n\nYou're selling what you do.\nNot what changes for the buyer.\n\nHere's the P.A.C.K.A.G.E.™ Framework from our free guide:\n\nP → Pinpoint your highest-value skill\nA → Align it with a real market pain\nC → Convert to a clear, measurable outcome\nK → Kit it into named deliverables\nA → Assign value-based pricing\nG → Gain validation (1 beta client)\nE → Execute, document, scale\n\nThis is a repeatable system — not a one-time trick.\n\nFull guide is free. Link in bio.\n\n#SkillMonetization #PackageYourSkills #Freelancing #Solopreneur #OfferDesign #Publixion #FreeGuide #BusinessStrategy",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/skills-what-to-sell.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AK00LkFM2l33ZwBJCnsLb_K\"}}"
       }
     }
   },
