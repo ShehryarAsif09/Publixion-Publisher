@@ -5638,24 +5638,26 @@
     "scheduled_date": "2026-03-25",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-25",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-25T07:56:42.330Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's what 30 days on the F.A.C.E.L.E.S.S.™ framework looks like.\n\nCase Study: Finance Tips Channel — 1,200 subscribers, $450 first payout, 28 days.\n\nThe creator: A personal finance enthusiast with 4 years of budgeting experience. No camera. No editing background. Never posted a video.\n\nDAY 1 — Niche Validation\nUsed the niche matrix from the guide. Searched \"how to save money on groceries\" on YouTube. Top results had 200K+ views. Three channels had under 8,000 subscribers. Gap confirmed.\n\nDAY 2 — Format Choice\nChose: Canva slideshow + phone voiceover. Zero editing skill required. Production time: 90 minutes per video.\n\nDAY 3 — First Script\nUsed the 5-part structure. Topic: \"5 grocery shopping mistakes costing you $200/month.\" Hook sentence: \"You are losing money every time you walk into a supermarket — and you don't even know it.\"\n\nDAY 4 — First Video Published\nBuilt the Canva slideshow in 45 minutes. Recorded voiceover in 25 minutes (two takes). Exported. Uploaded. SEO title. Thumbnail: bold white text on navy background. Published.\n\n4 weeks later — 10 videos total, 2 per week:\n→ 1,200 subscribers\n→ Average 62% watch time retention (well above the 40% benchmark)\n→ YouTube Partner Program threshold hit in Week 5\n→ $450 first AdSense payout\n→ First sponsorship outreach sent to a budgeting app\n\nThe guide that produced this system is free.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube\n\n#YouTube #FacelessYouTube #ContentCreation #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Real result from the F.A.C.E.L.E.S.S.™ framework:\n\nA tech tools creator — zero experience, zero subscribers — applied the guide's system.\n\nFormat chosen: Screen recording tutorials of free AI and productivity tools.\nNiche: \"Free AI tools that replace expensive software.\"\nProduction time: 75 minutes per video.\n\nWeek 1: 2 videos published. 180 combined views.\nWeek 2: 2 more videos. Noticed one video — \"Free AI tool for writing emails\" — had 71% watch time retention. Way above average.\n\nDecision: doubled down on that exact angle.\n\nWeek 3–4: 4 more videos in the same format.\n\nDay 30 results:\n→ 847 subscribers\n→ First brand DM: a niche AI tool company offering $300 for a sponsored mention\n→ Sponsorship secured at 847 subscribers — before YouTube monetization threshold\n\nKey lesson from the guide: niche tool reviews attract sponsors before you're monetization-eligible — because brands pay for targeted audiences, not raw subscriber counts.\n\nFree guide. Full system. Link below.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/starting-youtube-channel-faceless.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AHB1GB9B1p0JIxBt74zgzrx\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -6093,32 +6095,35 @@
     "scheduled_date": "2026-03-25",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-25",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-25T07:56:37.929Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The I Don't Know My Niche free guide is for a specific type of person.\n\nYou'll recognize yourself if:\n\n→ You've been trying to find your niche for 3+ months and are still in research mode\n\n→ You have multiple areas of knowledge and can't commit to one because every option feels equally viable — or equally risky\n\n→ You're posting content sporadically across different topics and getting little traction because your audience can't figure out what you stand for\n\n→ You know you want to build a personal brand, grow an audience, or freelance — but you're stuck at the very first step\n\n→ You've started building in one direction and then pivoted to another because the first one \"didn't feel right\" — without knowing what \"right\" actually means\n\n→ You're a professional with real expertise who wants to turn it into content, clients, or a digital product — but doesn't know which aspect of your knowledge to focus on\n\nThis guide is not for people who already have a clear niche and want to grow it. That's a content strategy conversation.\n\nThis is for the stuck person at Step 0 — who needs a decision-making system, not more inspiration about \"following your passion.\"\n\nFree. 8 pages. 7-day execution calendar included.\n\n👉 https://publixion.com/guides/i-dont-know-my-niche\n\n#NicheSelection #PersonalBrand #ContentStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Who is the I Don't Know My Niche guide for?\n\n✅ You've been researching your niche for months without deciding\n✅ You have multiple ideas and can't commit to one\n✅ You're posting scattered content across topics with no clear identity\n✅ You're stuck at the very first step of building online\n✅ You keep pivoting without understanding why previous attempts felt wrong\n✅ You have real expertise and want to build with it — but don't know where to focus\n\nNot for: people who have a niche and want to grow it.\n\nFor: the person at zero who needs a system to move forward.\n\nFree. No excuses to not download it.\n\n👉 https://publixion.com/guides/i-dont-know-my-niche",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AexN0NO2o0Po1-WS7dl4dQa\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This free guide is for you if… 👇\n\n✅ You've been trying to find your niche for months\n✅ You have multiple ideas but can't commit\n✅ Your content is scattered with no clear identity\n✅ You keep pivoting without knowing why\n✅ You have real expertise but don't know where to focus\n✅ You're stuck at Step 0\n\nFree guide. 8 pages. 7-day calendar.\n\nLink in bio. 🔗\n\n#NicheSelection #PersonalBrand #ContentCreator #CreatorEconomy #ContentStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/finding-your-profitable-niche.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A9whvApZr2aqQafPf_3CvAe\"}}"
       }
     }
   },
