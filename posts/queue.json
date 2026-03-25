@@ -6547,32 +6547,35 @@
     "scheduled_date": "2026-03-25",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-25",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-25T11:43:05.039Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Instagram reach isn't random. It's a scoring system.\n\nHere's how the R.E.A.C.H. Content Mix System™ works — and why it reverses declining reach in 30 days:\n\n——\n\n🔴 R — REELS FOR DISCOVERY\nReels are cold traffic. Every Reel is a potential entry point for someone who has never seen your account.\n\nStructure: Hook (0–3s) → Pattern Break → Value → Loop Ending\nTarget: 40%+ completion rate, 70% avg watch time, 10+ shares per 1,000 views\n\nBelow 35% completion? Algorithm stops distributing to new audiences.\n\n——\n\n🟡 E — EDUCATIONAL CAROUSELS FOR AUTHORITY\nCarousels earn saves. Saves are the single highest-weight algorithmic signal available to organic content.\n\n8-slide structure: Bold Promise → Problem → Mistake 1 → Mistake 2 → Framework → Example → Action Step → Save CTA\n\nTarget: 3%+ saves-to-views ratio.\n\n——\n\n🟢 A — ACTIONABLE SAVES POSTS\nChecklists, frameworks, templates, swipe files. Content people bookmark to reference again.\n\nCTA that works every time: \"Save this so you don't forget it.\"\n\n——\n\n🔵 C — COMMUNITY INTERACTION TRIGGERS\nPolls, questions, hot takes. Drives comments — the loyalty signal. Keeps existing followers engaged.\n\n——\n\n🟣 H — HIGH-RETENTION OPTIMIZATION\nHook within 2 seconds. No long intro. Subtitles added. Loop ending. These aren't optional — they're the difference between 25% and 45% completion.\n\n——\n\nThe 7-post weekly structure that runs all 5 signals:\nMon: Reel · Tue: Carousel · Wed: Reel · Thu: Save Post · Fri: Reel · Sat: Community · Sun: Carousel\n\nThis guide is completely free.\n\n→ https://publixion.com/guides/instagram-reach-dropping\n\n#InstagramReach #REACHFramework #ContentStrategy #InstagramGrowth #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-algorithm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-algorithm.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The R.E.A.C.H. Content Mix System™ — here's the framework inside the free guide:\n\n🔴 R — Reels for Discovery: Cold traffic engine. Hook in 3 seconds → Value → Loop ending. Target: 40%+ completion. Below 35% = algorithm stops distributing.\n\n🟡 E — Educational Carousels for Authority: Earns saves. 8-slide structure. Target: 3%+ saves-to-views ratio — the highest organic quality signal available.\n\n🟢 A — Actionable Saves Posts: Checklists, frameworks, swipe files. CTA: \"Save this so you don't forget it.\"\n\n🔵 C — Community Interaction Triggers: Polls and questions that drive comments — the loyalty signal.\n\n🟣 H — High-Retention Optimization: Hook in 2s, no long intros, subtitles, loop ending. Non-negotiable.\n\n7-post weekly schedule that runs all 5 signals simultaneously:\nMon: Reel · Tue: Carousel · Wed: Reel · Thu: Save Post · Fri: Reel · Sat: Community · Sun: Carousel\n\nThis guide is completely free.\n\n👉 https://publixion.com/guides/instagram-reach-dropping\n\n#InstagramReach #ContentStrategy #InstagramGrowth #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-algorithm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-algorithm.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AYf4pdggQMlepvkJhBl0n34\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The R.E.A.C.H. Content Mix System™ 👇\n\nR — Reels: Cold traffic. Hook in 3 sec. 40%+ completion target.\nE — Educational Carousels: Earns saves. 8-slide structure. 3%+ saves-to-views.\nA — Actionable Posts: Checklists + frameworks. \"Save this.\"\nC — Community: Polls + questions. Drives comments.\nH — High-Retention: 2s hook. Subtitles. Loop ending. Not optional.\n\n7-post weekly schedule. All 5 signals. Simultaneous.\n\nFree guide — link in bio. 🔗\n\n#InstagramReach #InstagramGrowth #ContentStrategy #Reels #REACHFramework #Publixion #GrowOnInstagram #ContentCreator #InstagramAlgorithm #SocialMediaTips",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-algorithm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-algorithm.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AnF0Jh6ELBkjyxM0nWsrJ2Z\"}}"
       }
     }
   },
@@ -6990,32 +6993,35 @@
     "scheduled_date": "2026-03-25",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-25",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-25T11:42:57.900Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You spend 45 minutes a day on LinkedIn.\n\nScrolling. Liking. Occasionally posting.\n\nAnd your network looks almost identical to how it looked 6 months ago.\n\nSame contacts. Same conversations. Same zero inbound opportunities.\n\nHere's the thing nobody says out loud:\n\nLiking a post is invisible. The person whose post you liked doesn't know you exist. The algorithm doesn't register your engagement on their behalf. The 200 people who saw that post didn't see your name.\n\nOnly comments are visible. Only comments build recognition. Only comments — done strategically — turn strangers into connections, connections into conversations, and conversations into opportunities.\n\nThe C.O.M.M.E.N.T.S.™ System is a free 30-day guide from Publixion Intelligence that turns passive platform browsing into a systematic networking machine — using 30 minutes/day and zero cold outreach.\n\n10–20 meaningful new connections per month. Real opportunities. No DM spam.\n\n→ Download free: https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedInNetworking #PersonalBrand #ProfessionalGrowth #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/networking-strategic-commenting.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/networking-strategic-commenting.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You're active on LinkedIn every day. You scroll, like, occasionally post.\n\nAnd your professional network barely moves.\n\nThe reason is uncomfortable but simple: liking a post is invisible. Nobody knows you liked it. It builds nothing.\n\nThe only visible professional action on any social platform is a comment with your name attached to it. That's how strangers discover you. That's how influencers notice you. That's how opportunities find you without you chasing them.\n\nThe C.O.M.M.E.N.T.S.™ System is a free guide that teaches you how to turn 30 minutes/day of strategic commenting into 10–20 meaningful new connections per month — with templates, a tracking system, and a 30-day calendar.\n\nNo cold outreach. No DM spam. Just strategic visibility.\n\n100% free. No email required.\n\n👉 https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedIn #ProfessionalGrowth #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/networking-strategic-commenting.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/networking-strategic-commenting.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AcZCOBHGUeGQ17fDQZcPFfv\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You're on LinkedIn every day.\nYour network hasn't grown in months. 🙃\n\nLiking posts is invisible.\nOnly comments build recognition.\nOnly strategic comments build opportunity.\n\nThe C.O.M.M.E.N.T.S.™ System:\n30 min/day. 10–20 new connections/month.\nZero cold outreach.\n\nFree guide — link in bio. 🔗\n\n#Networking #LinkedIn #PersonalBrand #ProfessionalGrowth #CareerGrowth #Publixion #LinkedInTips #NetworkingTips #BuildYourNetwork #OnlineBusiness",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/networking-strategic-commenting.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/networking-strategic-commenting.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AMPHDQCFnzzxlZoqD-dtbCv\"}}"
       }
     }
   },
