@@ -2453,30 +2453,31 @@
     "scheduled_date": "2026-03-25",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-25",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-25T05:21:39.886Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last post on the burnout guide.\n\nIf you're still running 4 income projects that aren't working — this is the last nudge.\n\nThe F.O.C.U.S.™ Framework gives you:\n→ The 5-question filter to identify your one highest-probability path\n→ The S.I.N.G.L.E. Model to build a working system around it\n→ An outreach DM script template ready to use this week\n→ A 30-day calendar with day-by-day tasks\n→ Two real case studies: $0 to $2,300 in 45 days · $800 to $4,800 in one month\n\nFree. No email. 30 minutes to read.\n\nAnother month of scattered effort has a real cost. The guide is free.\n\n👉 https://publixion.com/guides/burnout-monetizing-everything\n\nShare with someone running too many projects at once.\n\n#CreatorBurnout #Freelancing #FocusedIncome #SolopreneurLife #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-25T05:21:24.698Z",
+        "post_id": "122100636290948582",
         "text": "Last call on the F.O.C.U.S.™ Framework guide.\n\nIf this week looks like last week — scattered, busy, not enough revenue — this is the system that changes it.\n\n🎯 Inside:\n• 5-question opportunity filter\n• S.I.N.G.L.E. revenue model\n• DM outreach script\n• 30-day calendar\n• Two real before/after case studies\n\nFree. No email. Read it today.\n\n📖 https://publixion.com/guides/burnout-monetizing-everything\n\n#Freelancing #CreatorBurnout #FocusedIncome #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-25T05:21:39.886Z",
+        "post_id": "18165021631424903",
         "text": "Last call.\n\nStill running 4 income projects that aren't working?\n\nF.O.C.U.S.™ Framework: one path, 30 days, real income.\n\n5-question filter. S.I.N.G.L.E. Model. DM script. 30-day plan.\n\nFree. Read it today.\n\n📖 Link in bio.\n\nLink in bio.\n\n#CreatorBurnout #Freelancing #FocusedIncome #SolopreneurLife #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
       }
@@ -2910,32 +2911,35 @@
     "scheduled_date": "2026-03-25",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-25",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-25T05:21:13.948Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Every time I talk about repurposing content, I get the same four objections. Let me address them directly.\n\n❌ \"I don't have time to produce a core asset every week.\"\n✅ The core asset replaces your daily content creation — it doesn't add to it. If you're currently writing 5 posts per week from scratch, you're spending more time than one 2-hour article session would take. The system reduces total time while multiplying total output.\n\n❌ \"I don't know how to use AI tools for content.\"\n✅ The guide includes three copy-paste prompts. You paste your article or transcript. The AI returns platform-ready derivatives. No prompt engineering required. No technical skill needed. If you can use ChatGPT to write an email, you can run these prompts.\n\n❌ \"My content isn't good enough to repurpose.\"\n✅ You're not repurposing because your content is exceptional. You're repurposing because your expertise deserves more than one platform's 24-hour shelf life. The system improves output quality over time — because you stop spreading your energy across 5 daily posts and concentrate it into one well-structured weekly asset.\n\n❌ \"I tried repurposing before and it felt like copying.\"\n✅ That's because you were copying — not adapting. The guide teaches platform-native optimization: LinkedIn copy gets line breaks and a hook, Twitter gets punchy threads, Instagram gets emojis and a visual CTA. The same idea, reformatted for each platform's behavioral norms. That's the difference.\n\nThe Content Repurposing Machine is $9.99.\n\nFor the cost of a coffee, you get the system that eliminates content burnout permanently.\n\n👉 https://publixion.com/guides/content-repurposing-machine\n\n#ContentStrategy #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Let's kill the four objections standing between you and a content system that actually works.\n\n🚫 \"I don't have time.\"\n✅ You spend more time right now creating from scratch daily. One 2-hour core asset session replaces 5 one-off posts. Same time. Five times the output.\n\n🚫 \"I'm not technical enough for AI tools.\"\n✅ The guide gives you 3 copy-paste prompts. Paste your content. Press enter. Receive 27+ derivatives. No technical skill required.\n\n🚫 \"I don't have enough content to repurpose.\"\n✅ You have years of expertise. Every question you've ever answered, every problem you've solved, every mistake you've made is a core asset waiting to be structured. You're not short on material — you're short on a system.\n\n🚫 \"It won't work for my niche.\"\n✅ The O.N.E. → E.C.O.S.Y.S.T.E.M™ framework works for any expertise-based niche: finance, fitness, marketing, consulting, tech, coaching, design. If you can teach it, you can repurpose it.\n\n$9.99. One guide. Zero content burnout.\n\n👉 https://publixion.com/guides/content-repurposing-machine",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A5FfgZ5IhJGPotLlGjjrQGa\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I don't have time to repurpose content.\"\n\nLet me challenge that. 👇\n\nYou currently spend ~1 hour per day creating from scratch = 7 hours/week.\n\nThe Repurposing Machine system:\n→ 2 hours writing one core asset\n→ 1 hour AI extraction\n→ 1.5 hours formatting\n→ 45 min scheduling\n= 5.25 hours. 27+ pieces. 5 platforms.\n\nLess time. Five times the output.\n\nThe system is $9.99. The guide that builds it is linked in bio.\n\n#ContentStrategy #ContentCreator #TimeManagement #CreatorEconomy #Repurposing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposing-machine-social.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Aj0ahn4pz_TGfVZOHYKf6bx\"}}"
       }
     }
   },
