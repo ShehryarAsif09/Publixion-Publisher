@@ -7236,32 +7236,35 @@
     "scheduled_date": "2026-03-25",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-25",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-25T14:54:25.479Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This post is not for everyone.\n\nIt is for the person who already knows what they need to do.\n\nAnd still cannot do it.\n\nThe one who has researched the decision for three months when three hours would have been enough.\n\nThe one who replayed a conversation from Tuesday on Saturday night.\n\nThe one who has a Notion board with 200+ cards and zero lines of code.\n\nThe one who watched a career-defining opportunity expire while rewriting a four-sentence email.\n\nYou are not lazy.\nYou are not weak.\nYou are not broken.\n\nYou are highly intelligent, deeply capable, and privately exhausted by your own mind.\n\nYour brain learned, at some point, that uncertainty is dangerous and that thinking longer makes outcomes safer.\n\nThat belief is a lie.\n\nAnd it has already cost you more than you have allowed yourself to calculate — in hours, in opportunities, in confidence, in the slow accumulation of a life that keeps being planned and never quite lived.\n\nOverthinkers do not need more motivation.\nThey do not need to breathe more deeply or trust the process.\n\nThey need a system that interrupts the loop at the neurological level, restructures the distorted thinking that fuels it, and installs a daily architecture that makes decisive action the path of least resistance.\n\nThat system exists.\nIt is grounded in behavioral neuroscience and clinical CBT.\nIt works in 90 seconds or less.\nAnd it is inside this book.\n\nOverthinking Ends Here — out now via Publixion.\n\nIf this is you, the link is in the comments.\n\n#Overthinking #DecisiveAction #MentalPerformance #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is for the person who already knows what they need to do — and still cannot do it.\n\nThe one who replays Tuesday's conversation on Saturday night.\nThe one who has been 'almost ready' to launch for fourteen months.\nThe one whose intelligence has quietly become the engine of their own paralysis.\n\nYou are not broken. You are miscalibrated.\n\nAnd miscalibration is not a character flaw. It is a structural problem with a structural solution.\n\nOverthinkers do not need more motivation. They need a system that interrupts the loop before it owns them.\n\nOverthinking Ends Here is that system — grounded in neuroscience, clinical CBT, and decision science. Built for people who are tired of watching their own hours disappear into thinking that produces nothing but more thinking.\n\nOut now via Publixion. Link below.\n\n#Overthinking #DecisiveAction #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AQVagR3lrHkdgCAzDF-7P3N\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is for the person who already knows what they need to do.\n\nAnd still cannot do it.\n\nThe replayer. The researcher. The perfectionist. The catastrophizer.\n\nYou are not broken. You are miscalibrated. And this book fixes that.\n\nOverthinkers do not need more motivation. They need a system.\n\nOverthinking Ends Here — out now.\n\nLink in bio.\n\n#Overthinking #StopOverthinking #DecisiveAction #MentalHealth #Productivity #SelfDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AwjAY4jHJzeief4i3wHw4MT\"}}"
       }
     }
   },
@@ -8993,22 +8996,23 @@
     "scheduled_date": "2026-03-25",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-24",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-25T14:54:34.019Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Publixion was built because most career books are lying to you.\n\nNot with false facts. With false comfort.\n\nThey tell you to network more. Stay curious. Embrace lifelong learning.\nAs if encouragement, without a system, produces results.\n\nIt does not.\n\nWe built Skill Capital because the professionals we spoke to were not lacking motivation. They were lacking architecture. A precise, evidence-based framework for answering four questions that most career advice never touches:\n\n1. Which of my current skills are actually growing in market value, and which are quietly decaying?\n2. What specific combination of skills would make me rare enough to command a real premium?\n3. How do I acquire new skills at the pace the economy now requires?\n4. How do I convert my expertise into income that does not depend on any single employer's goodwill?\n\nSkill Capital is our answer to all four.\n\nIt is built on WEF future-of-work research, IBM skill half-life data, McKinsey labor market analysis, and the documented experiences of professionals who used early versions of this framework to negotiate salary increases, launch consulting practices, and build income streams that outlasted the employers who triggered the need for them.\n\nThis is not a book about working harder.\nIt is a book about investing smarter — in the one asset that compounds regardless of what the economy does next.\n\nYou are the asset.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #Publixion #CareerStrategy #FutureOfWork #ProfessionalGrowth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-25T14:54:34.019Z",
+        "post_id": "122101049774948582",
         "text": "Most career books give you encouragement.\n\nSkill Capital gives you a framework.\n\nWe built it because the professionals we spoke to were not unmotivated. They were unequipped. They had experience, ambition, and a growing anxiety that the rules of professional value were being rewritten without their input.\n\nSo we gave them a system: four stages that take you from a complete skill inventory to a monetized, visible, disruption-resistant career portfolio.\n\nAudit. Map. Stack. Monetize.\n\nBacked by WEF research, IBM data, and real outcomes from real professionals.\n\nThis is the book we wish existed when the ground started shifting beneath us.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #Publixion #CareerDevelopment",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       },
