@@ -3839,32 +3839,35 @@
     "scheduled_date": "2026-03-26",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-26",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T05:29:36.987Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I don't think a lead magnet will work for my audience.\"\n\nLet me handle the real objections.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"My audience won't give their email for a free resource.\"\n━━━━━━━━━━━━━━━━━━━━\nThey won't give it for a generic one. They will give it for a specific one that solves a problem they have right now. The guide's opt-in copy formula — \"Get [specific outcome] in [timeframe] — even if [main objection]\" — converts cold audiences at 20–35%. Specificity is the only variable that matters.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"I don't have time to create a lead magnet.\"\n━━━━━━━━━━━━━━━━━━━━\nThe guide's quick-win section shows how to build one in under 30 minutes: identify one urgent problem, write a 2–3 page checklist solving it, save as PDF, upload to Carrd with a ConvertKit form. The minimum viable lead magnet is one afternoon of work.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"I already have a lead magnet and it's not working.\"\n━━━━━━━━━━━━━━━━━━━━\nThe guide includes a diagnostic. Run your current lead magnet against 4 conversion criteria: specific problem, under-15-minute consumption, outcome-stating title, and immediate value. Most underperforming lead magnets fail criteria 1 or 4. The fix is usually a title rewrite and a scope narrowing — not a rebuild from scratch.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"I need paid ads to grow an email list.\"\n━━━━━━━━━━━━━━━━━━━━\nBoth case studies in the guide — 0 to 1,200 subscribers and 0 to 312 subscribers in month one — were built entirely from organic traffic: LinkedIn posts, community shares, and bio links. Zero ad spend.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"Is the guide free?\"\n━━━━━━━━━━━━━━━━━━━━\nFree. No email required.\n\n👉 https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The real reasons people don't grow their email list — answered:\n\n❓ \"My audience won't give their email.\"\nNot for a generic resource. They will for a specific one that solves a real problem. The copy formula alone changes your opt-in rate this week.\n\n❓ \"I don't have time to build a lead magnet.\"\n30-minute build: one urgent problem, a 2-page checklist, a Carrd page with ConvertKit form. That's it.\n\n❓ \"My lead magnet isn't working.\"\nRun it against 4 criteria in the guide. Most underperforming lead magnets fail on title specificity or scope. Usually a rewrite, not a rebuild.\n\n❓ \"I need ads to grow a list.\"\nBoth case studies in the guide reached 300–1,200 subscribers in 30–90 days. Zero ad spend.\n\n❓ \"Is this free?\"\nYes.\n\n📖 https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A7Gg49ZerwMp_yEB4LqkrFA\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Real reasons your email list isn't growing — answered:\n\n\"My audience won't give their email.\" → Not for a generic lead magnet. The copy formula changes that this week.\n\n\"No time to build one.\" → 30-minute build. Checklist. Carrd page. ConvertKit form. Done.\n\n\"My lead magnet isn't working.\" → Run it against 4 criteria in the guide. Usually a title rewrite, not a rebuild.\n\n\"I need ads.\" → Both case studies: 300–1,200 subscribers. Zero ad spend.\n\n\"Is it free?\" → Yes.\n\n📖 C.O.N.V.E.R.T.™ — link in bio.\n\nLink in bio.\n\n#EmailMarketing #ListBuilding #ContentCreators #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-mailing-list.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ACIk6wdkQRzc2EBG_cH5Gsc\"}}"
       }
     }
   },
