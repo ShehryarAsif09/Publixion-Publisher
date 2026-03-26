@@ -213,8 +213,13 @@ function updatePostState(queue, postId, platformName, result) {
   const allDone = Object.values(post.platforms).every(
     p => !p.enabled || ['posted', 'failed', 'skipped'].includes(p.status)
   );
-  if (allDone) { post.status = 'done'; post.posted_at = new Date().toISOString(); }
-}
+if (allDone) {
+    const anySuccess = Object.values(post.platforms).some(p => p.status === 'posted');
+    if (anySuccess) {
+      post.status = 'done';
+      post.posted_at = new Date().toISOString();
+    }
+  }}
 
 // ── GITHUB COMMIT ─────────────────────────────────────────────────────
 async function commitToGitHub(repoPath, content, message) {
