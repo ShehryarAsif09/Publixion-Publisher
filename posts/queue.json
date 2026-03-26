@@ -175,30 +175,31 @@
     "scheduled_date": "2026-03-10",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-10",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T17:23:32.358Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Before you move on — let me handle the objections.\n\n\"$37 is too much for a guide.\"\nA single digital product sale at $27 pays for this guide. You need exactly one customer to recoup the investment. Most people who follow the system make that back on launch day.\n\n\"I don't have an audience to launch to.\"\nThe guide covers this. Phase N (Nurture) is specifically about building a small, warm audience from scratch in the 2 weeks before launch. You don't need thousands of followers. You need 20–30 engaged people.\n\n\"I don't know if my idea is good enough.\"\nPhase U (Unlock Market Proof) solves this before you build anything. You validate demand with real people before investing time in creation.\n\n\"I don't have time to build a product in 30 days.\"\nThe guide is designed for people with full-time jobs. The daily tasks average 45–60 minutes. It's structured to fit real schedules.\n\n\"I've bought business guides before that didn't work.\"\nThis is an execution document, not an inspiration document. Every chapter ends with a specific task list. The result is measured by whether you ship — not by how motivated you feel.\n\n👉 https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #Objections #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T17:23:10.884Z",
+        "post_id": "122102116004948582",
         "text": "Objections — answered directly:\n\n\"$37 is too much\" — One sale of a $37 product recoups the full investment. Most people make this back on launch day.\n\n\"I don't have an audience\" — The guide builds one from scratch in the pre-launch phase. You need 20–30 engaged people, not thousands.\n\n\"What if my idea is bad?\" — Phase U (Market Proof) validates demand before you build anything. You'll know if it works before investing 30 days.\n\n\"I don't have time\" — Average 45–60 min/day. Designed for people with full-time jobs.\n\n\"I've bought guides before that didn't help\" — This isn't inspirational content. It's an execution document with a daily task list and templates for every step.\n\n👉 https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #OnlineBusiness #ProductLaunch",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T17:23:32.358Z",
+        "post_id": "18086159642246336",
         "text": "\"$37 is a lot for a guide.\"\n\nOne sale of your digital product pays for this guide.\n\nOne.\n\nAnd the guide shows you how to validate, build, and sell that product in 30 days — with every template, script, and day-by-day task included.\n\nIf you make even a single sale on launch day, you're already in profit.\n\n$37. Link in bio.\n\n#DigitalProducts #ROI #OnlineBusiness #Solopreneur #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       }
@@ -622,22 +623,23 @@
     "scheduled_date": "2026-03-09",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-09",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T17:22:02.029Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Meet Sarah. Freelance content strategist. 3 years in. Billing $4,500/month.\n\nShe was spending 6 hours writing one long-form blog post. Research, drafting, editing, formatting — all manual.\n\nHer client list was capped. Not because she lacked skills. Because she lacked time.\n\nHere's how she used the AI Overwhelm: Curated AI Stack Guide:\n\nWeek 1 — She ran the AI Stack Audit from the guide. Identified that she was using 9 tools with no system connecting them. Dropped 6. Kept 3.\n\nWeek 2 — She built her A.I.R. stack: ChatGPT as her anchor, Perplexity for research, Canva AI for visuals. Each mapped to one specific workflow step.\n\nWeek 3 — She applied the writing workflow from the guide. Blog research: 25 minutes. First draft: 45 minutes. Editing: 30 minutes. Total: under 2 hours.\n\nWeek 4 — With 4 hours freed up per post, she took on 2 more clients.\n\nMonth 1 result: $4,500 → $6,800 in monthly revenue. Same hours. Better system.\n\nThe guide didn't give Sarah more time. It gave her a system that made her existing time worth more.\n\n→ Free download at the link in comments.\n\n#AIProductivity #FreelanceLife #ContentStrategy #AIStack #CaseStudy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T17:22:02.029Z",
+        "post_id": "122102114972948582",
         "text": "Let me show you exactly how someone uses the AI Overwhelm Guide — step by step.\n\nMeet James. He runs a one-person digital marketing agency. Was working 55-hour weeks. Felt like AI was making things MORE complicated, not less.\n\nHere's what happened when he followed the guide:\n\n📌 Week 1: Completed the AI Stack Audit. Discovered he had 11 tools and zero system. The guide helped him cut it to 8 with clear roles for each.\n\n📌 Week 2: Built his A.I.R. stack. ChatGPT for content, Zapier for automation, Perplexity for research. Each tool had ONE job.\n\n📌 Week 3: Used the client workflow templates from the guide. Cut his report creation time from 4 hours to 45 minutes.\n\n📌 Week 4: Reinvested 10+ saved hours into business development. Landed a new retainer client worth $1,200/month.\n\nThe guide took him from overwhelmed to optimized in 30 days. No new skills required. Just the right system.\n\nFree download → https://publixion.com/guides/ai-overwhelm-which-tools\n\n#AITools #DigitalMarketing #Freelancers #SmallBusiness #ProductivitySystem #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
       },
@@ -865,22 +867,23 @@
     "scheduled_date": "2026-03-10",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-10",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T17:22:47.715Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's how a marketing professional used the A.I.M.™ Framework to hit $1,200/month in 6 weeks.\n\nStarting point: Uses ChatGPT daily. Never monetized it. No clear offer. No audience.\n\nStep A (Audience): Used the guide's Audience Selection Matrix to score 5 niches. Landed on: real estate agents who struggle to write consistent listing descriptions and social content.\n\nStep I (Income Offer): Applied the O.P.S. Formula. Outcome: 8 listing descriptions + 20 social captions per month. Process: AI-assisted with human QA. Scale: deliverable in 3 days. Price: $350/month retainer.\n\nStep M (Machine): Built the AI pipeline in ChatGPT with custom prompts. Used the cold DM script from the guide on LinkedIn.\n\nWeek 2: First response. Week 3: Discovery call using the playbook from the guide. Week 4: First client — $350/month retainer.\n\nWeek 6: 4 clients. $1,400/month recurring.\n\nTotal time invested to get to $1,400/month: about 25 hours over 6 weeks.\n\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #CaseStudy #AI #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T17:22:47.715Z",
+        "post_id": "122102115650948582",
         "text": "From zero to $1,400/month recurring — using the A.I.M.™ Framework:\n\n• Audience: Real estate agents needing listing descriptions and social content\n• Offer: 8 listings + 20 captions/month — $350 retainer — delivered in 3 days using AI\n• Machine: Custom ChatGPT prompts + LinkedIn cold DM script from the guide\n\nTimeline:\nWeek 2 — First response to cold outreach\nWeek 3 — Discovery call (using the playbook in the guide)\nWeek 4 — First client: $350/month\nWeek 6 — 4 clients: $1,400/month recurring\n\nTotal hours invested: ~25 hours over 6 weeks.\n\n$27. Get the guide:\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #RealResults #OnlineBusiness",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
       },
@@ -1272,30 +1275,31 @@
     "scheduled_date": "2026-03-10",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-10",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T17:22:37.189Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Every high-performing LinkedIn post has the same 7-layer structure.\n\nMost creators only get 1 or 2 of these right. That's why they plateau.\n\nHere's the V.I.S.I.B.L.E.™ Framework from our free guide:\n\n→ V — Value Positioning: Answer \"why does this matter to my reader\" before you write a single word. No clear value = no foundation.\n\n→ I — Interrupt Hook: First two lines must stop the scroll. Contrarian claim, specific outcome, or pain amplification. Generic openings die before the algorithm can act.\n\n→ S — Structured Formatting: 1–2 sentence paragraphs. White space. Short bullets. LinkedIn is mobile-first. Design for scanning, not reading.\n\n→ I — Insightful Story: Use the S.T.A.C.K. Model™ — Situation, Tension, Action, Change, Key Lesson. Stories generate 3× more comments than generic advice.\n\n→ B — Behavioral Trigger: Give people a reason to comment, not just react. Comments = 4× the algorithmic weight of a like.\n\n→ L — Leverage Algorithm: Post at consistent times. Engage before posting. Reply to every comment in the first hour. No external links in the body.\n\n→ E — Engagement Loop: Reply fast, ask follow-ups, DM qualified commenters, repurpose your best posts.\n\nWeaken any one of these layers and the post underperforms — regardless of your insights.\n\n👉 Full guide free at: https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #ContentStrategy #PersonalBrand #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T17:22:15.342Z",
+        "post_id": "122102115200948582",
         "text": "Want to know why some LinkedIn posts go viral while yours sit at 300 impressions?\n\nIt's not luck. It's a 7-layer structure called the V.I.S.I.B.L.E.™ Framework.\n\nV — Value Positioning (know why your post matters before writing)\nI — Interrupt Hook (first 2 lines that force the click)\nS — Structured Formatting (mobile-first, scannable, white space)\nI — Insightful Story (S.T.A.C.K. Model: Situation → Tension → Action → Change → Lesson)\nB — Behavioral Trigger (ask for comments, not just likes)\nL — Leverage Algorithm (consistent timing, early replies, no external links in body)\nE — Engagement Loop (reply fast, DM commenters, repurpose winners)\n\nMiss any layer = underperformance.\n\nFull breakdown in the free guide.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #ContentMarketing #SocialMedia",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T17:22:37.189Z",
+        "post_id": "18094918555852714",
         "text": "The difference between a LinkedIn post that gets 300 impressions and one that gets 30,000?\n\nNot talent. Not follower count.\n\nA 7-layer structure called the V.I.S.I.B.L.E.™ Framework.\n\nV — Value (why does this matter to your reader?)\nI — Interrupt Hook (stop the scroll in 2 lines)\nS — Structure (mobile-first formatting, white space)\nI — Insight Story (S.T.A.C.K. model — teach through narrative)\nB — Behavioral Trigger (earn comments, not just likes)\nL — Leverage Algorithm (timing, replies, no external links)\nE — Engagement Loop (DM, repurpose, amplify)\n\nAll 7 layers explained in the free guide.\n\nLink in bio.\n\n#LinkedIn #ContentTips #PersonalBrand #SocialMedia #CreatorEconomy #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       }
@@ -1520,27 +1524,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's the system that converts a course library into real results.\n\nIt's called the C.C.A.S.™ Framework — 5 steps, run as a loop for every course you commit to completing.\n\n→ Step 1 — Audit & Prioritize: List every course you own. Score each 1–10 on ROI potential. Does completing it earn income, save time, or build a billable skill? Archive anything below 6. Pick exactly one to start.\n\n→ Step 2 — Goal-Oriented Learning: Replace vague intent with a concrete output goal. Not \"learn SEO\" — \"publish 3 SEO-optimized articles that rank within 60 days.\" No output goal = no start.\n\n→ Step 3 — Micro-Session Scheduling: Break the course into 25-minute blocks. Schedule them in your calendar 4× per week at the same time. Treat them like client calls.\n\n→ Step 4 — Immediate Application (24h Rule): Within 24 hours of every module, produce one real-world output derived from that lesson. A draft. A build. A post. A test. If you can't apply it in 24 hours, the lesson isn't connected to a real goal.\n\n→ Step 5 — Track & Reward: Log every completed module and its applied action. Weekly review. When the course is fully done and the output goal is met — only then are you allowed to start the next one.\n\nThe framework is free. The guide is 10 pages.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #Productivity #SkillBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The C.C.A.S.™ Framework — the system inside our free guide for finally finishing what you start:\n\nStep 1 — Audit: Score every course on ROI potential. Archive the low-value ones. Commit to exactly one.\n\nStep 2 — Goals: Set a concrete output goal before module 1 plays. \"Build a 5-email welcome sequence\" beats \"learn email marketing\" every time.\n\nStep 3 — Schedule: 25-minute blocks, 4× per week, in your calendar like meetings. Not when you \"have time.\"\n\nStep 4 — Apply (24h Rule): Every module produces a real output within 24 hours. Not notes. A built thing, a sent thing, a published thing.\n\nStep 5 — Track & Reward: Log completions weekly. Reward yourself on full course completion. Then — and only then — start the next course.\n\nFree guide. 10 pages.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#Productivity #OnlineLearning #SelfDevelopment",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AfBb3LOQkL_XScy5-9I3-O1\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 steps to stop collecting courses and start completing them:\n\n1️⃣ Audit your library — score each course on ROI potential. Keep only what directly earns or saves.\n\n2️⃣ Set an output goal — not \"learn X\" but \"build Y by [date].\"\n\n3️⃣ Schedule micro-sessions — 25 min blocks, 4x/week, in your calendar like meetings.\n\n4️⃣ Apply within 24 hours — every lesson produces a real output within a day. No exceptions.\n\n5️⃣ Track and reward — log it. Review weekly. Celebrate completion. Then earn the next course.\n\nThis is the C.C.A.S.™ Framework. Full breakdown in the free guide.\n\nLink in bio.\n\n#OnlineCourses #ProductivityTips #LearningHabits #SkillBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AnQv2SghjTMstZRiL16904h\"}}"
       }
     }
   },
@@ -1715,30 +1722,31 @@
     "scheduled_date": "2026-03-11",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-11",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T17:24:09.156Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have an audience.\n\nThey follow you. They like your posts. They reply to your stories. They tell you your content helped them.\n\nAnd every single month, your income resets to zero.\n\nNo retainers. No recurring revenue. Just the exhausting cycle of launching, promoting, launching again.\n\nYou know the answer is a paid community. You've thought about it for months.\n\nBut every time you try to figure out how to start, you hit the same wall:\n\nWhat do I charge? What platform? How do I keep people from cancelling? How do I get the first 20 members without feeling desperate?\n\nThe truth is: most communities fail not because their creator isn't talented — but because they were built around connection instead of transformation.\n\nConnection is a reason to hang out.\nTransformation is a reason to pay.\n\nThe Revenue Community Framework™ inside the Build a Paid Community from Scratch guide gives you the exact architecture: tiered pricing, retention loops, engagement engine, and revenue multipliers — so your community generates $5,000+ MRR in 90 days and compounds from there.\n\n→ Get the guide: https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RecurringRevenue #MRR #CommunityBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T17:23:46.819Z",
+        "post_id": "122102116394948582",
         "text": "You have an engaged audience. Followers, subscribers, readers who genuinely value what you create.\n\nAnd yet — your income resets to zero every month.\n\nThe exhaustion of constant launching. The anxiety of inconsistent revenue. The knowledge that your audience trusts you — but you haven't built the vehicle to convert that trust into predictable income.\n\nA paid community is that vehicle. But most creators who try to build one hit the same walls: wrong pricing, no retention system, low engagement after week one, and a churn rate that slowly drains everything they built.\n\nThe Revenue Community Framework™ is a 5-step circular system — Position, Architecture, Engagement, Retention, Revenue — that builds a $5,000+ MRR community in 90 days with scripts for every email, worksheets for every decision, and a day-by-day action calendar.\n\nYour audience is ready. The system is what's been missing.\n\n👉 https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RecurringRevenue #CommunityBuilding #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T17:24:09.156Z",
+        "post_id": "17876795481426749",
         "text": "You have followers who love your content.\n\nYou're still broke every Monday. 😶\n\nLaunching. Promoting. Launching again.\nIncome resets to zero every month.\n\nA paid community fixes this.\nBut only if it's built on transformation — not just connection.\n\nThe Revenue Community Framework™ = $5,000+ MRR in 90 days.\n\nLink in bio. 🔗\n\n#PaidCommunity #RecurringRevenue #CommunityBuilding #CreatorEconomy #MRR #Publixion #OnlineBusiness #ContentCreator #PassiveIncome #BuildInPublic",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       }
@@ -2920,27 +2928,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You are not indecisive.\n\nYou are unarchitected.\n\nThere is a specific kind of person who reads every article, consults every trusted friend, builds every pros-and-cons list — and still cannot move.\n\nNot because they are weak.\nNot because they are confused.\nBecause nobody ever gave them a reliable system.\n\nDecision Clarity was written for that person.\n\nThe professional sitting on a career decision for four months who cannot explain why they are still sitting.\n\nThe high achiever whose analytical mind has become the most sophisticated avoidance engine they have ever owned.\n\nThe person who knows what they should do and cannot make themselves do it.\n\nIf you have ever finished a major decision and felt relief that it was over rather than confidence that it was right — this book is for you.\n\nIt is built around the CLEAR Framework: a five-stage decision architecture that moves any high-stakes choice from paralyzing complexity to structured, values-aligned, committed action.\n\nNot in theory. In writing. On your actual decision. Within 24 hours of engaging the system.\n\nThe decision sitting with you right now deserves a better process than the one you have been using.\n\nDecision Clarity is available now at publixion.com\n\n#DecisionMaking #PersonalDevelopment #CLEARFramework #Publixion #Leadership",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You are not indecisive. You are unarchitected.\n\nThere is a specific kind of person who does all the research, asks all the right people, writes all the lists — and still cannot decide.\n\nNot because they are weak. Because they were never given a system.\n\nDecision Clarity changes that.\n\nBuilt around the CLEAR Framework, it is a complete decision operating system for the choices that define careers, relationships, finances, and identity.\n\nIf you have been sitting on a decision that deserves better than another pros-and-cons list — this is what you have been waiting for.\n\nAvailable now at publixion.com\n\n#DecisionMaking #DecisionClarity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AJr2wcfNgadxi9Sqcp_UkNZ\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You are not indecisive.\nYou are unarchitected.\n\nDecision Clarity gives you the system that moves you from paralysis to purposeful action on any high-stakes choice — within 24 hours.\n\nCareer. Relationships. Finances. Identity.\n\nOne framework. Every decision. For life.\n\nLink in bio.\n\n#DecisionMaking #CLEARFramework #PersonalDevelopment #DecisionClarity #Publixion #LifeStrategy #MindsetShift #CareerGrowth #SelfDevelopment #Leadership",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A1O5Q1-mckTKCmpUepxzWsu\"}}"
       }
     }
   },
@@ -9549,27 +9560,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion:\n\nYour focus problem has nothing to do with discipline.\n\nI know that is not what the productivity industry wants you to believe. The entire genre runs on the idea that focused people are simply more committed than distracted people. That if you just wake up earlier, use a better system, or want it badly enough — the attention will follow.\n\nIt will not. And the research is unambiguous about why.\n\nWhen researchers at UC Irvine measured the modern workplace, they found that the average worker sustains focus for 47 seconds before being interrupted or self-interrupting. Not 47 minutes. 47 seconds.\n\nWhen Stanford's Dr. Anna Lembke studied smartphone behavior, she found that the variable reward architecture of social media apps is neurologically identical to the compulsion mechanism of substance addiction. Your phone is not a distraction. It is a stimulus engineered by teams of behavioral scientists to be more compelling than almost anything your work can offer.\n\nWhen you pit discipline against a system that was specifically built by some of the most sophisticated engineers in human history to defeat it — discipline loses. Every time. Not because you are weak. Because that is not a fair fight.\n\nThe professionals who sustain exceptional focus are not more disciplined than you.\nThey have redesigned the conditions inside which focus either happens naturally or does not happen at all.\n\nEnvironment over willpower.\nNeurology over commitment.\nSystems over motivation.\n\nThat is the uncomfortable truth this book is built on.\n\nAgree? Disagree? I genuinely want to know.\n\n👉 The Focus Reset — Publixion.com\n\n#Focus #DeepWork #Productivity #Neuroscience #KnowledgeWork #Leadership #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Uncomfortable truth:\n\nYour focus problem is not a discipline problem.\n\nThe average worker is interrupted every 47 seconds. Recovering full cognitive depth after each interruption takes 23 minutes. And your phone was designed by behavioral scientists specifically to be more compelling than your work.\n\nDiscipline was never going to win that fight.\n\nThe professionals with exceptional focus do not have stronger willpower. They have redesigned the conditions that make focus either happen naturally or not happen at all.\n\nEnvironment over willpower.\nSystems over motivation.\nNeurology over commitment.\n\nThat is what The Focus Reset is built on.\n\nDo you agree — or do you think discipline is the answer?\n\n👉 Publixion.com\n\n#Focus #Productivity #DeepWork #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A_X7Zydi4DIDse9-upBTwRZ\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Hot take:\n\nYour focus problem is not a discipline problem.\n\nYour phone was designed by behavioral scientists to be more compelling than your work.\n\nDiscipline was never going to win that fight.\n\nThe people with great focus redesigned the conditions. Not themselves.\n\nThat is what The Focus Reset teaches.\n\nLink in bio.\n\n#FocusReset #Productivity #DeepWork #Focus #Neuroscience #Publixion #AttentionSpan #Distraction #WorkSmart #MindsetShift",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AjGBQEob3b2fHlwWy5bWfiz\"}}"
       }
     }
   },
