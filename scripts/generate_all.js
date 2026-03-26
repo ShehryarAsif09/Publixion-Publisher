@@ -6,22 +6,26 @@
  *   node scripts/generate_all.js
  *   node scripts/generate_all.js --dry-run
  *   node scripts/generate_all.js --force
+ *   node scripts/generate_all.js --skip-image-check
  */
 
 const fs   = require('fs');
 const path = require('path');
+const https = require('https');
+const http  = require('http');
 
 const args    = process.argv.slice(2);
 const FORCE   = args.includes('--force');
 const DRY_RUN = args.includes('--dry-run');
+const SKIP_IMAGE_CHECK = args.includes('--skip-image-check');
 
 const TEMPLATES_DIR = path.join(__dirname, '../posts/templates');
 const QUEUE_PATH    = path.join(__dirname, '../posts/queue.json');
 
-const REPO_OWNER = process.env.GITHUB_REPOSITORY_OWNER || 'YOUR-ORG';
+const REPO_OWNER = process.env.GITHUB_REPOSITORY_OWNER || 'ShehryarAsif09';
 const REPO_NAME  = process.env.GITHUB_REPOSITORY_NAME  || 'Publixion-Publisher';
 
-// ── SCHEDULES (identical to generate_posts.js) ────────────────────────
+// ── SCHEDULES ─────────────────────────────────────────────────────────
 const SCHEDULES = {
   book: [
     { type: 'identity_hook',      day: 0,  linkedin: true,  facebook: true,  instagram: true  },
@@ -164,12 +168,54 @@ function generateForTemplate(tmpl, slotMap) {
   return generated;
 }
 
+// ── IMAGE VALIDATION ──────────────────────────────────────────────────
+function checkUrl(url) {
+  return new Promise((resolve) => {
+    const client = url.startsWith('https') ? https : http;
+    const req = client.request(url, { method: 'HEAD', timeout: 8000 }, (res) => {
+      resolve({ ok: res.statusCode === 200, status: res.statusCode });
+    });
+    req.on('error', () => resolve({ ok: false, status: 'ERROR' }));
+    req.on('timeout', () => { req.destroy(); resolve({ ok: false, status: 'TIMEOUT' }); });
+    req.end();
+  });
+}
+
+async function validateAllImages(templates) {
+  const errors = [];
+  const checked = new Set();
+
+  for (const tmpl of templates) {
+    const urlsToCheck = [];
+
+    if (tmpl.image_url) {
+      urlsToCheck.push({ label: `[${tmpl.id}] image_url`, url: resolveUrl(tmpl.image_url) });
+    }
+    if (tmpl.carousel_images) {
+      tmpl.carousel_images.forEach((img, i) => {
+        urlsToCheck.push({ label: `[${tmpl.id}] carousel_images[${i}]`, url: resolveUrl(img) });
+      });
+    }
+
+    for (const { label, url } of urlsToCheck) {
+      if (!url || checked.has(url)) continue;
+      checked.add(url);
+      const result = await checkUrl(url);
+      if (!result.ok) {
+        errors.push(`  ✗ ${label} → HTTP ${result.status}\n    URL: ${url}`);
+      }
+    }
+  }
+  return errors;
+}
+
 // ── MAIN ──────────────────────────────────────────────────────────────
-function main() {
+async function main() {
   console.log('\n═══════════════════════════════════════════════════════');
   console.log('  PUBLIXION — BATCH POST GENERATOR');
   if (DRY_RUN) console.log('  MODE: DRY RUN (nothing written)');
   if (FORCE)   console.log('  MODE: FORCE (re-generating existing items)');
+  if (SKIP_IMAGE_CHECK) console.log('  MODE: SKIP IMAGE CHECK');
   console.log('═══════════════════════════════════════════════════════\n');
 
   const files = fs.readdirSync(TEMPLATES_DIR)
@@ -183,23 +229,48 @@ function main() {
 
   console.log(`Found ${files.length} template file(s).\n`);
 
-  let queue = fs.existsSync(QUEUE_PATH) ? JSON.parse(fs.readFileSync(QUEUE_PATH, 'utf8')) : [];
-  const existingIds = new Set(queue.map(p => p.item_id));
-  const slotMap     = buildSlotMap(queue);
-  const results     = { generated: [], skipped: [], errors: [] };
+  // Load all valid templates first
+  const validTemplates = [];
+  const loadErrors = [];
 
   for (const file of files) {
     let tmpl;
     try {
       tmpl = JSON.parse(fs.readFileSync(path.join(TEMPLATES_DIR, file), 'utf8'));
     } catch (e) {
-      results.errors.push({ file, reason: `Invalid JSON: ${e.message}` });
+      loadErrors.push({ file, reason: `Invalid JSON: ${e.message}` });
       continue;
     }
-
     const err = validateTemplate(tmpl);
-    if (err) { results.errors.push({ file, reason: err }); continue; }
+    if (err) { loadErrors.push({ file, reason: err }); continue; }
+    validTemplates.push({ file, tmpl });
+  }
 
+  // ── IMAGE VALIDATION ──────────────────────────────────────────────
+  if (!SKIP_IMAGE_CHECK) {
+    console.log('  Checking all image URLs (this may take 30-60 seconds)...\n');
+    const imageErrors = await validateAllImages(validTemplates.map(v => v.tmpl));
+
+    if (imageErrors.length > 0) {
+      console.log('═══════════════════════════════════════════════════════');
+      console.log('  ❌ IMAGE VALIDATION FAILED — Fix these before generating:');
+      console.log('═══════════════════════════════════════════════════════');
+      imageErrors.forEach(e => console.log(e));
+      console.log('\n  Fix the image filenames in your templates and run again.');
+      console.log('  To skip this check: node scripts/generate_all.js --skip-image-check\n');
+      process.exit(1);
+    } else {
+      console.log('  ✓ All image URLs verified successfully!\n');
+    }
+  }
+
+  // ── GENERATE ──────────────────────────────────────────────────────
+  let queue = fs.existsSync(QUEUE_PATH) ? JSON.parse(fs.readFileSync(QUEUE_PATH, 'utf8')) : [];
+  const existingIds = new Set(queue.map(p => p.item_id));
+  const slotMap     = buildSlotMap(queue);
+  const results     = { generated: [], skipped: [], errors: loadErrors };
+
+  for (const { file, tmpl } of validTemplates) {
     if (existingIds.has(tmpl.id) && !FORCE) {
       results.skipped.push({ file, id: tmpl.id });
       continue;
@@ -243,4 +314,4 @@ function main() {
   }
 }
 
-main();
+main().catch(err => { console.error('FATAL:', err.message); process.exit(1); });
