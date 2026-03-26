@@ -92,30 +92,31 @@
     "scheduled_date": "2026-03-05",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-05",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T13:12:20.292Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The 30-Day Digital Product Launch Plan is for a specific type of person.\n\nNot someone who's never had a business idea.\nNot someone already selling products consistently.\n\nThis is for you if:\n\n→ You have a skill, expertise, or experience that others would pay to access in a structured format\n→ You've been thinking about a guide, template pack, mini-course, or report for longer than 3 months — and haven't shipped it\n→ You're a freelancer or consultant who wants a productized income stream that doesn't require trading time for money\n→ You've tried to launch something before, got overwhelmed by the steps, and stopped\n→ You want a system that tells you exactly what to do on each of the 30 days — no guesswork, no research rabbit holes\n\nIf any of those land — this guide is your missing link.\n\n$37. 18 pages. Day-by-day execution plan.\n\n👉 https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #Solopreneur #OnlineBusiness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,50,57,58,32,84,111,111,32,77,97,110,121,32,82,101,113,117,101,115,116,115,10,70,111,114,32,109,111,114,101,32,111,110,32,115,99,114,97,112,105,110,103,32,71,105,116,72,117,98,32,97,110,100,32,104,111,119,32,105,116,32,109,97,121,32,97,102,102,101,99,116,32,121,111,117,114,32,114,105,103,104,116,115,44,32,112,108,101,97,115,101,32,114,101,118,105,101,119,32,111,117,114,32,84,101,114,109,115,32,111,102,32,83,101,114,118,105,99,101,32,40,104,116,116,112,115,58,47,47,100,111,99,115,46,103,105,116,104,117,98,46,99,111,109,47,101,110,47,115,105,116,101,45,112,111,108,105,99,121,47,103,105,116,104,117,98,45,116,101,114,109,115,47,103,105,116,104,117,98,45,116,101,114,109,115,45,111,102,45,115,101,114,118,105,99,101,41,46]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T13:12:05.388Z",
+        "post_id": "122101920866948582",
         "text": "Who is the 30-Day Digital Product Launch Plan built for?\n\n✅ You have expertise, skills, or experience others would pay to access\n✅ You've had a product idea for 3+ months and haven't launched it\n✅ You're a freelancer or consultant wanting a passive income product\n✅ You've tried to launch before, got overwhelmed, and stopped\n✅ You want someone to tell you exactly what to do each day — no guesswork\n\n❌ Not for people who already have a working digital product business\n❌ Not for people looking for passive income without putting in the initial build work\n\nIf you're in the first group — this is your system.\n\n$37. 18 pages.\n\n👉 https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #Freelancer #SideHustle",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T13:12:20.292Z",
+        "post_id": "18004015691885137",
         "text": "This guide is for the person who keeps saying \"I should create a digital product\" — and keeps not doing it.\n\nYou know your stuff. People ask for your advice. You've thought about packaging it.\n\nYou just don't have a system.\n\nThis is the system.\n\n30 days. L.A.U.N.C.H.™ Framework. Every template included.\n\n$37. Link in bio.\n\n#DigitalProducts #Solopreneur #OnlineBusiness #ProductLaunch #CreatorEconomy #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       }
@@ -339,27 +340,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is not for AI hobbyists.\n\nIt's for solopreneurs who are running real businesses — and drowning in the operational overhead of doing everything alone.\n\nThis is specifically for you if:\n\n→ You're spending 10+ hours per week on tasks that feel like they should be automated — but you don't know where to start\n→ You've tried AI tools but ended up with a pile of subscriptions and no meaningful time savings\n→ You're a freelancer, consultant, or digital creator who wants to scale output without scaling hours\n→ You've heard about Zapier, Make, or n8n but find the learning curve overwhelming without a clear starting point\n→ You want a practical, tool-specific, step-by-step guide — not another overview of \"how AI will change everything\"\n\nIf you want philosophy about AI, there are a thousand articles for that.\n\nThis guide is for people who want to install a working system this month.\n\n$45. 17 pages.\n\n👉 https://publixion.com/guides/ai-automation-solopreneurs\n\n#AI #Solopreneur #Automation #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,50,57,58,32,84,111,111,32,77,97,110,121,32,82,101,113,117,101,115,116,115,10,70,111,114,32,109,111,114,101,32,111,110,32,115,99,114,97,112,105,110,103,32,71,105,116,72,117,98,32,97,110,100,32,104,111,119,32,105,116,32,109,97,121,32,97,102,102,101,99,116,32,121,111,117,114,32,114,105,103,104,116,115,44,32,112,108,101,97,115,101,32,114,101,118,105,101,119,32,111,117,114,32,84,101,114,109,115,32,111,102,32,83,101,114,118,105,99,101,32,40,104,116,116,112,115,58,47,47,100,111,99,115,46,103,105,116,104,117,98,46,99,111,109,47,101,110,47,115,105,116,101,45,112,111,108,105,99,121,47,103,105,116,104,117,98,45,116,101,114,109,115,47,103,105,116,104,117,98,45,116,101,114,109,115,45,111,102,45,115,101,114,118,105,99,101,41,46]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Who is this guide actually built for?\n\n✅ Solopreneurs spending 10+ hours/week on tasks that should be automated\n✅ Freelancers and consultants who want to scale output without scaling hours\n✅ Creators drowning in admin, content scheduling, outreach, and follow-ups\n✅ Anyone who's tried AI tools but hasn't seen meaningful time savings\n✅ People who want a tool-specific, step-by-step system — not AI hype content\n\n❌ Not for beginners with no existing business to automate\n❌ Not for people looking for a passive income shortcut\n\nIf you're in the first list — this guide directly solves your problem.\n\n$45. 17 pages.\n\n👉 https://publixion.com/guides/ai-automation-solopreneurs\n\n#AIAutomation #Solopreneur #Freelancer",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AB46h3bON7KCzFL1wu6huso\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is for the solopreneur who is genuinely busy — and genuinely tired.\n\nYou're doing great work. But the operational overhead of running everything alone is eating your creative time, your energy, and your weekends.\n\nAI should fix this. This guide shows you exactly how.\n\nA.U.T.O.M.A.T.E.™ Framework. Real tools. Real workflows. Real hours saved.\n\n$45. Link in bio.\n\n#Solopreneur #AIAutomation #WorkSmarter #ProductivityTools #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ALPQ5Oj3T4NVUaPi-Yk02kx\"}}"
       }
     }
   },
@@ -540,27 +544,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most people use AI randomly. High performers use the A.I.R. Framework.\n\nHere's how it works — and why it's the core of our Curated AI Stack Guide:\n\n🔷 A — ANCHOR\nPick one AI tool as your command center. For most entrepreneurs, this is ChatGPT or Claude. Every workflow runs through your anchor. No anchor = no system.\n\n🔷 I — INTEGRATE\nLayer specialist tools around your anchor. Perplexity for research. Canva AI for design. Zapier for automation. Each tool has ONE job. They don't overlap. They compound.\n\n🔷 R — REVENUE\nEvery tool in your stack must connect to a revenue activity — content creation, client delivery, lead generation, or sales. If it doesn't, cut it.\n\nThe A.I.R. Framework is what separates the people saving 10+ hours per week from the people still watching YouTube tutorials about AI.\n\nThe full guide walks you through building your personal A.I.R. stack from scratch — including the exact tools, workflows, and 30-day implementation plan.\n\n→ Free at the link in comments.\n\n#AIFramework #AIProductivity #ArtificialIntelligence #DigitalStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,50,57,58,32,84,111,111,32,77,97,110,121,32,82,101,113,117,101,115,116,115,10,70,111,114,32,109,111,114,101,32,111,110,32,115,99,114,97,112,105,110,103,32,71,105,116,72,117,98,32,97,110,100,32,104,111,119,32,105,116,32,109,97,121,32,97,102,102,101,99,116,32,121,111,117,114,32,114,105,103,104,116,115,44,32,112,108,101,97,115,101,32,114,101,118,105,101,119,32,111,117,114,32,84,101,114,109,115,32,111,102,32,83,101,114,118,105,99,101,32,40,104,116,116,112,115,58,47,47,100,111,99,115,46,103,105,116,104,117,98,46,99,111,109,47,101,110,47,115,105,116,101,45,112,111,108,105,99,121,47,103,105,116,104,117,98,45,116,101,114,109,115,47,103,105,116,104,117,98,45,116,101,114,109,115,45,111,102,45,115,101,114,118,105,99,101,41,46]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There's a reason some people get incredible results from AI — and others feel more overwhelmed than before.\n\nThe difference is the A.I.R. Framework.\n\n🔷 ANCHOR — One primary AI tool as your hub\n🔷 INTEGRATE — Specialist tools layered around it, each with one job\n🔷 REVENUE — Every tool must connect to income-generating activity\n\nThis is the exact system inside the AI Overwhelm: Curated AI Stack Guide.\n\nWhen you apply A.I.R., you stop collecting tools and start running a machine. The guide includes the exact stack (8–12 tools), the workflows, and a 30-day plan to implement it all.\n\nFree download → https://publixion.com/guides/ai-overwhelm-which-tools\n\n#AITools #AIFramework #Productivity #Entrepreneurs #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ALcIcUPyYg7MDl7mnlTBMOX\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Why do some people 10x their output with AI — while others just get confused?\n\nThe A.I.R. Framework. 👇\n\n🔷 ANCHOR — One core AI tool as your hub\n🔷 INTEGRATE — Specialist tools, each with one job\n🔷 REVENUE — Every tool must tie to income\n\nThis is inside our FREE AI Overwhelm Guide. It'll show you which 8–12 tools to use and exactly how to stack them.\n\nNo more tool-hopping. Just a system that works.\n\nLink in bio 👆\n\n#AIProductivity #AIFramework #ArtificialIntelligence #Automation #WorkSmart #Entrepreneurs #ContentCreators #Publixion #FreeGuide #ProductivitySystem",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AZglK8fYY8oZLtA-RYlrPV-\"}}"
       }
     }
   },
@@ -575,30 +582,31 @@
     "scheduled_date": "2026-03-07",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-07",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T13:13:35.070Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is NOT for everyone. But if you're one of these people — it was built specifically for you.\n\n✅ You're a solopreneur or freelancer who's heard AI can save you hours — but you don't know where to start without wasting weeks testing the wrong tools.\n\n✅ You're a content creator publishing consistently but spending too long on writing, design, or editing — and you know AI should be helping more than it is.\n\n✅ You run a small business and you've tried ChatGPT, but you're still not sure how to make it part of a real workflow that actually reduces your workload.\n\n✅ You've downloaded 3+ AI tools in the last 6 months — and you're using exactly zero of them consistently.\n\n✅ You want to add $1K–$3K/month in productivity-driven income without hiring a team — you just need the right system.\n\nIf any of these describe you, the AI Overwhelm: Curated AI Stack Guide gives you the curated stack, the workflows, and the 30-day plan to get there.\n\nFree. No email required.\n\n→ Link in comments.\n\n#AIForBusiness #Solopreneurs #ContentCreators #AIProductivity #SmallBusiness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T13:13:22.441Z",
+        "post_id": "122101922780948582",
         "text": "Who is the AI Overwhelm Guide actually for? Let me be specific.\n\nIt's for you if:\n→ You've tried AI tools but can't make them stick in your routine\n→ You're a freelancer, creator, or small business owner losing hours to tasks AI should be handling\n→ You have a list of bookmarked AI tools you've never actually opened\n→ You want a clear, curated system — not another YouTube rabbit hole\n→ You're serious about saving 10+ hours per week within 30 days\n\nIf that's you, this free guide was written with your exact situation in mind.\n\nGrab it here → https://publixion.com/guides/ai-overwhelm-which-tools\n\n#AITools #Solopreneurs #Freelancers #SmallBusiness #Productivity #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T13:13:35.070Z",
+        "post_id": "18119525872622775",
         "text": "This guide is for you if... 👇\n\n☑️ You've tried AI tools but none of them stuck\n☑️ You're spending 40+ hrs/week on tasks AI could handle\n☑️ You want a system, not another tool to figure out\n☑️ You're a creator, freelancer, or small business owner\n☑️ You want 10+ hrs/week back — starting this month\n\nThe AI Overwhelm: Curated AI Stack Guide is free and built for exactly this.\n\nLink in bio 👆\n\n#AIProductivity #Freelancers #ContentCreators #Solopreneurs #WorkSmarter #AITools #Automation #FreeGuide #Entrepreneurs #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
       }
@@ -776,30 +784,31 @@
     "scheduled_date": "2026-03-06",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-06",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-26T13:12:43.096Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The A.I.M.™ Framework — the 3-step system for building a $1K/month AI side hustle:\n\n→ A — Audience: Before touching any AI tool, you identify one specific group of people with a painful, recurring problem and the willingness to pay to solve it. The guide includes an Audience Selection Matrix to score your options.\n\n→ I — Income Offer: Using the O.P.S. Offer Formula (Outcome + Process + Scale), you build a productized AI service or digital product with a clear deliverable, a set price, and a delivery process that AI handles at least 50% of. The guide shows you 7 validated AI income models across services and products.\n\n→ M — Machine: The AI stack — the specific combination of tools (ChatGPT, Claude, Midjourney, Descript, Notion AI, and more) — that automates your delivery so you can handle more clients without more hours. Plus the cold DM outreach script and discovery call playbook to bring clients in consistently.\n\nThe guide also includes a 90-day scaling roadmap that takes the model from $1K to $3K to $5K/month without adding headcount.\n\n$27. 21 pages. Every script included.\n\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #Framework #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T13:12:29.360Z",
+        "post_id": "122101921256948582",
         "text": "The A.I.M.™ Framework — 3 steps to your first $1K/month with AI:\n\nA — Audience: Pick one specific group with a painful, recurring problem. Use the Audience Selection Matrix in the guide to evaluate your options.\n\nI — Income Offer: Build a productized offer using the O.P.S. Formula (Outcome + Process + Scale). The guide walks through 7 validated AI income models.\n\nM — Machine: The AI tool stack that automates delivery. Plus the cold DM script and discovery call playbook to bring in clients consistently.\n\nAlso included: a 90-day scaling roadmap from $1K → $5K/month.\n\n$27. 21 pages.\n\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #OnlineBusiness #AI",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-26T13:12:43.096Z",
+        "post_id": "18134578777463217",
         "text": "3 steps to $1K/month with AI:\n\nA — Audience: One specific person with one specific problem\nI — Income Offer: O.P.S. Formula — Outcome + Process + Scale\nM — Machine: AI tool stack + cold DM scripts + discovery call playbook\n\nThis is the A.I.M.™ Framework.\n\n7 validated income models. 90-day scaling roadmap. Real case studies.\n\n$27. Link in bio.\n\n#AISideHustle #AITools #OnlineBusiness #SideHustleIdeas #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
       }
@@ -981,27 +990,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You know you have skills people would pay for.\n\nBut every time you try to start freelancing, you freeze.\n\nYou spend an hour on your profile. Then close the laptop.\nYou research niches for two weeks. Then do nothing.\nYou tell yourself you'll start when you're \"ready.\"\n\nYou're never ready. That's the trap.\n\nThe real problem isn't skill. It's the absence of a system.\n\nMost people try to build a freelance career backwards — starting with a portfolio or platform profile before they've defined what they're selling, to whom, and for how much.\n\nThat's why they get nowhere.\n\nI put together a free guide that gives you the exact system to go from zero to your first paying client in 30 days.\n\nNo experience required. No website needed.\n\nIt's called the C.L.I.E.N.T.™ Framework — and it covers everything from skill selection to closing your first deal.\n\n👉 Download it free: https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #SideHustle #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,50,57,58,32,84,111,111,32,77,97,110,121,32,82,101,113,117,101,115,116,115,10,70,111,114,32,109,111,114,101,32,111,110,32,115,99,114,97,112,105,110,103,32,71,105,116,72,117,98,32,97,110,100,32,104,111,119,32,105,116,32,109,97,121,32,97,102,102,101,99,116,32,121,111,117,114,32,114,105,103,104,116,115,44,32,112,108,101,97,115,101,32,114,101,118,105,101,119,32,111,117,114,32,84,101,114,109,115,32,111,102,32,83,101,114,118,105,99,101,32,40,104,116,116,112,115,58,47,47,100,111,99,115,46,103,105,116,104,117,98,46,99,111,109,47,101,110,47,115,105,116,101,45,112,111,108,105,99,121,47,103,105,116,104,117,98,45,116,101,114,109,115,47,103,105,116,104,117,98,45,116,101,114,109,115,45,111,102,45,115,101,114,118,105,99,101,41,46]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have skills. You've thought about freelancing. But every time you sit down to start — nothing happens.\n\nYou're not lazy. You don't have a system.\n\nMost people start backwards. Portfolio first. Platform profile first. Then wonder why no clients ever come.\n\nThe right order is: skill → niche → offer → outreach → close.\n\nThat's exactly what the C.L.I.E.N.T.™ Framework walks you through — in 30 days, step by step, starting today.\n\nAnd it's completely free.\n\n👉 Get it here: https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #WorkFromHome #SideHustle #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ACdIZoLjRZA5utF_YJGnCoy\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have real skills. So why haven't you started freelancing yet?\n\nBecause wanting freedom and knowing how to build it are two completely different things.\n\nMost people spend months \"getting ready\" and never send a single message to a potential client.\n\nThis free guide changes that.\n\nThe C.L.I.E.N.T.™ Framework gives you a step-by-step 30-day system — from picking your skill to closing your first paid project.\n\nNo experience. No website. No excuses.\n\nLink in bio.\n\n#Freelancing #SideHustle #WorkFromAnywhere #FreelanceLife #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AbET1oh2u189ZYi-naVivmb\"}}"
       }
     }
   },
@@ -5030,27 +5042,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is not for people who lack ideas.\n\nIt is for people who have too many unfinished ones.\n\nYou have a folder. A notebook. A voice memo from six months ago you have never transcribed.\n\nInside it is something that could have changed your income, your creative life, your professional trajectory.\n\nIt is still there. Waiting.\n\nNot because you are lazy.\nNot because you are undisciplined.\nNot because the idea was wrong.\n\nBecause you were running on the wrong fuel.\n\nMotivation is not an engine. It is a preview.\n\nIt shows you what finishing feels like and then disappears before you get there. Every time. With every project. The same cycle.\n\nStart strong. Stall in the middle. Abandon with a quiet, familiar guilt.\n\nThis is the book for the person who is done with that cycle.\n\nExecution Over Motivation is a behavioral operating system for finishing things — built on 13 chapters of peer-reviewed science, real-world stories, and 16 practical tools that replace willpower with structure.\n\nThe EXEC Framework does not ask you to feel more motivated.\nIt asks you to stop needing to.\n\nIf you have one project you have been meaning to finish — this is the system that ends the wait.\n\npublixion.com/book/execution-over-motivation\n\n#Productivity #Execution #PersonalDevelopment #DeepWork #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,50,57,58,32,84,111,111,32,77,97,110,121,32,82,101,113,117,101,115,116,115,10,70,111,114,32,109,111,114,101,32,111,110,32,115,99,114,97,112,105,110,103,32,71,105,116,72,117,98,32,97,110,100,32,104,111,119,32,105,116,32,109,97,121,32,97,102,102,101,99,116,32,121,111,117,114,32,114,105,103,104,116,115,44,32,112,108,101,97,115,101,32,114,101,118,105,101,119,32,111,117,114,32,84,101,114,109,115,32,111,102,32,83,101,114,118,105,99,101,32,40,104,116,116,112,115,58,47,47,100,111,99,115,46,103,105,116,104,117,98,46,99,111,109,47,101,110,47,115,105,116,101,45,112,111,108,105,99,121,47,103,105,116,104,117,98,45,116,101,114,109,115,47,103,105,116,104,117,98,45,116,101,114,109,115,45,111,102,45,115,101,114,118,105,99,101,41,46]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There is a folder on your desktop. A project inside it that has been almost done for longer than you want to admit.\n\nYou are not lazy. You are not undisciplined. You were relying on the wrong engine.\n\nMotivation runs out. Always. That is not a character flaw — it is neuroscience.\n\nExecution Over Motivation gives you the system that replaces motivation with structure: 16 behavioral tools, a daily execution protocol, an accountability architecture with real stakes, and a 30-Day Implementation Plan that carries you from intention to a finished, shipped project.\n\nOne project. One system. One finish line.\n\npublixion.com/book/execution-over-motivation\n\n#Productivity #Execution #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AhlFEV0xOVjt9_28C-FBMsz\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You do not have a motivation problem.\n\nYou have a system problem.\n\nThere is a difference. And that difference is the reason your best projects are still unfinished.\n\nExecution Over Motivation gives you the operating system that replaces willpower with structure — so you finish what you start, every time, regardless of how you feel that morning.\n\n16 tools. 13 chapters. 1 project you choose on page one.\n\nLink in bio.\n\n#Productivity #Execution #DeepWork #Finish #PersonalDevelopment #Publixion #GetItDone #Accountability #HabitScience #GoalSetting",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AgGpreNggSRThYIhnG8HmE7\"}}"
       }
     }
   },
@@ -9493,7 +9508,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most productivity books give you mindset. This one gives you a system. 🧠\n\nSwipe to see what is inside The Focus Reset 👉\n\nSlide 1 — The book that rebuilds your attention from the ground up\nSlide 2 — Ch 1: The Distraction Profile. Find your exact focus archetype and calculate what distraction is costing you in hours every week.\nSlide 3 — Ch 4: The Dopamine Reset. A 14-day protocol that recalibrates your reward system so deep work feels genuinely good again.\nSlide 4 — Ch 7: The Attention Gym. A 4-week progressive training plan that builds your attention span from 25 minutes to 90-minute flow sessions.\nSlide 5 — Ch 10: The Focused Identity. Build an identity so durable that focus stops requiring discipline and becomes simply who you are.\n\n30 days. 10 hours recovered per week. A focused life.\n\nLink in bio to get your copy.\n\n#FocusReset #DeepWork #Productivity #AttentionSpan #FlowState #Publixion #Focus #CognitivePerformance #HabitBuilding #KnowledgeWorker",
@@ -9504,7 +9519,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-focus-reset-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-focus-reset-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-focus-reset-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AYNmJ7J6IMLuCmThRF1qLwq\"}}"
       }
     }
   },
