@@ -1214,27 +1214,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is free right now.\n\nBut here's what's easy to forget: free resources only work if you actually use them.\n\nEvery week you delay starting your freelance business is another week of trading time for a salary someone else controls.\n\nThe math is simple:\n\nAt $1,250 per project — you need 4 clients per month for $5,000.\nThat takes 15 daily outreach messages, a 10% response rate, and a 20% close rate.\nYou could have sent your first 15 messages today.\n\nThe people who downloaded this guide on Day 1 and followed the system are on Week 3 right now — some have already closed their first client.\n\nYou can start where they started.\n\nThe guide takes 25 minutes to read. The first action takes 30 minutes.\n\n👉 Download it now before this becomes something you meant to do: https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #TakeAction #SideHustle #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Quick reminder:\n\nThis guide has been free since Day 0.\n\nBut free doesn't mean available forever at this position — we'll be introducing a full paid version of the Freelance From Zero system soon, and this guide moves into the paid funnel with it.\n\nIf you've been meaning to download it — today is the day.\n\n30 days. 6 phases. Your first client.\n\nThe only thing standing between you and your first freelance income is a system and a decision to start.\n\n👉 https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #FreeResource #NowOrNever",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AQUQAYHUdAQOXFZvU5VO8rA\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last push on this one.\n\nThis guide is free. It walks you through 6 phases of launching a freelance business from scratch — in 30 days.\n\nA marketer used it to close a $1,200 client in 18 days.\nA beginner designer used it to land $800 in 3 weeks.\n\nThe people who've already downloaded it are weeks ahead of where you are right now.\n\nLink in bio. Free. Takes 25 minutes to read.\n\nDon't let this be another thing you meant to do.\n\n#FreelanceLife #TakeAction #SideHustle #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AMify-KQzDqzNADLJlvmFF-\"}}"
       }
     }
   },
@@ -2359,22 +2362,23 @@
     "scheduled_date": "2026-03-19",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-19",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T12:44:09.913Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Let me show you how the F.O.C.U.S.™ Framework gets applied in practice.\n\nMeet Yemi. Social media manager. 3 years experience. Running: a Fiverr account, an Instagram coaching page, two affiliate programs, a newsletter, and a half-finished Notion template pack.\n\nMonthly revenue: $800 — inconsistent, stressful, spread across five channels.\n\nShe reads the guide on a Sunday morning.\n\n━━━━━━━━━━━━━━━━━━━━\nSUNDAY — She runs the Opportunity Filter\n━━━━━━━━━━━━━━━━━━━━\nShe writes down every active project. Then runs the 5-question filter on each.\n\nFiverr: Fails Q3 (doesn't use her best skill).\nInstagram coaching: Fails Q4 (needs 20+ clients to hit $1K).\nAffiliate programs: Fails Q5 (demand unproven).\nNewsletter: Fails Q1 (no revenue path for 60+ days).\nLinkedIn content management for coaches: Passes all 5.\n\nEverything else: paused.\n\n━━━━━━━━━━━━━━━━━━━━\nMONDAY — She builds the S.I.N.G.L.E. Model\n━━━━━━━━━━━━━━━━━━━━\nAudience: Coaches billing under $5K/month.\nOffer: LinkedIn content management.\nPrice: $900/month.\nChannel: LinkedIn DMs only.\nTarget: 2 clients = $1,800/month.\nRhythm: 3 posts/week + 5 DMs/day.\n\n━━━━━━━━━━━━━━━━━━━━\nWEEKS 2–4 — She executes\n━━━━━━━━━━━━━━━━━━━━\nDay 14: First discovery call.\nDay 19: First client at $900/month.\nDay 28: Second client at $950/month.\n\nMonth 1: $1,850. Month 2 with 3 clients: $2,700.\n\nYemi didn't work more. She worked on less. The income followed.\n\n👉 Read the guide: https://publixion.com/guides/burnout-monetizing-everything\n\n#SocialMediaManager #FreelanceLife #FocusedIncome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T12:44:09.913Z",
+        "post_id": "122103212918948582",
         "text": "Here's a real scenario of how the F.O.C.U.S.™ Framework changes everything.\n\nImagine you're a freelance designer running a podcast, a design service, an affiliate side project, and \"about to launch\" a digital product — for four months.\n\nYou're busy. Revenue is low. You're burned out.\n\nYou spend Sunday reading the guide.\n\n📌 STEP 1 — THE FILTER\nThree projects fail the 5 questions immediately. The freelance design service passes all five. Everything else: paused for 30 days.\n\n📌 STEP 2 — THE S.I.N.G.L.E. MODEL\nAudience: E-commerce brands under $500K revenue.\nOffer: Brand identity package.\nPrice: $1,200.\nChannel: LinkedIn DMs only.\nTarget: 2 clients/month = $2,400.\n\n📌 STEP 3 — THE RHYTHM\n5 DMs/day. 3 posts/week. 30 days straight.\n\nWeek 3: First client. Week 4: Second client.\n\nMonth 1: $2,400.\nPrevious month with 4 scattered projects: $600.\n\nSame skill. Radically different focus.\n\n📖 Read free: https://publixion.com/guides/burnout-monetizing-everything\n\n#Freelancing #DesignBusiness #FocusedIncome #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
       },
@@ -3914,30 +3918,31 @@
     "scheduled_date": "2026-03-20",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-20",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T12:45:38.195Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most freelancers price wrong because they ask the wrong question.\n\nThey ask: \"How much should I charge for this?\"\n\nThe right question is: \"What is this worth to the client?\"\n\nHere's the P.R.I.C.E.™ Framework from our free pricing guide — 5 steps that answer that question for every project:\n\n━━━━━━━━━━━━━━━━━━━━━━\nP — Position Your Value\n━━━━━━━━━━━━━━━━━━━━━━\nBefore you quote anything, identify the measurable outcome your service delivers. Not what you do — what changes for the client. Revenue earned, time saved, risk reduced. A web designer doesn't build websites. They build sales infrastructure. Price that.\n\n━━━━━━━━━━━━━━━━━━━━━━\nR — Research the Market\n━━━━━━━━━━━━━━━━━━━━━━\nMap competitor pricing — not to copy it, but to understand the floor. The goal is to position above average, not race to the bottom. Survey past clients on willingness to pay. One honest client conversation is worth more than hours of online research.\n\n━━━━━━━━━━━━━━━━━━━━━━\nI — Identify Your Structure\n━━━━━━━━━━━━━━━━━━━━━━\nHourly rates cap your income and penalise expertise. Project-based pricing gives clarity. Value-based pricing — where your fee is linked to client ROI — unlocks premium rates. The formula: Price = Client Outcome Value × 10%.\n\n━━━━━━━━━━━━━━━━━━━━━━\nC — Craft Your Proposal\n━━━━━━━━━━━━━━━━━━━━━━\nEvery proposal follows one structure: Problem → Outcome → Investment. Your price appears last — after the value is already established. The client should feel that NOT hiring you is the riskier choice.\n\n━━━━━━━━━━━━━━━━━━━━━━\nE — Execute and Negotiate\n━━━━━━━━━━━━━━━━━━━━━━\nSend the proposal confidently. When they push back — and they will — redirect from cost to value. Scripts for every objection are included in the free guide.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\nThis is the system that takes freelancers from \"I hope they accept this\" to \"I can defend this number in any conversation.\"\n\nFree. Full breakdown.\n\n👉 https://publixion.com/guides/difficulty-pricing-services\n\n#FreelancePricing #ValueBasedPricing #FreelancerTips #Consulting #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T12:45:25.649Z",
+        "post_id": "122103214916948582",
         "text": "The reason most freelancers undercharge isn't lack of confidence.\n\nIt's lack of a system.\n\nHere's the P.R.I.C.E.™ Framework — 5 steps from our free guide that change how you price permanently:\n\n🔵 P — Position Your Value: Identify the measurable outcome your service delivers. Price the result, not the time.\n\n🔵 R — Research the Market: Understand the pricing floor through competitor research and client conversations. Aim above average.\n\n🔵 I — Identify Your Structure: Choose hourly, project-based, or value-based pricing. Value-based links your fee to client ROI — and unlocks premium rates.\n\n🔵 C — Craft Your Proposal: Lead with Problem → Outcome → Investment. Price comes last, after value is clear.\n\n🔵 E — Execute and Negotiate: Use the objection scripts in the guide to hold your number without backing down.\n\nFull system. Free download.\n\n📖 https://publixion.com/guides/difficulty-pricing-services\n\n#Freelancing #PricingStrategy #FreelanceTips #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T12:45:38.195Z",
+        "post_id": "17855970399683736",
         "text": "Most freelancers ask: \"How much should I charge?\"\n\nThe right question is: \"What is this worth to the client?\"\n\nThat shift changes everything.\n\nThe P.R.I.C.E.™ Framework — 5 steps:\n\nP → Position Your Value (price the outcome)\nR → Research the Market (find the floor, aim above it)\nI → Identify Your Structure (hourly caps you, value-based frees you)\nC → Craft Your Proposal (Problem → Outcome → Investment)\nE → Execute & Negotiate (hold your number with scripts)\n\nFull system. Free guide.\n\n📖 Link in bio.\n\nLink in bio.\n\n#FreelancePricing #ValueBasedPricing #FreelancerTips #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
       }
@@ -5447,30 +5452,31 @@
     "scheduled_date": "2026-03-19",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-19",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T12:44:54.961Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You've wanted to start a YouTube channel for over a year.\n\nYou've researched equipment. Watched setup tutorials. Picked a dozen different niches in your head. Opened a new channel twice and then closed it.\n\nAnd yet — nothing has been published.\n\nHere's what's actually happening: the camera is not the barrier. The decision is.\n\nBecause here's the truth about the channels generating $5,000–$50,000 per month on YouTube: the vast majority of them never show a face. No camera. No lights. No studio. Just voiceover, screen recordings, and stock footage — assembled using free tools anyone can access today.\n\nThe F.A.C.E.L.E.S.S.™ Framework was built for exactly this moment. Eight stages. First video published in 30 minutes. No camera required. Ever.\n\nAnd it's completely free.\n\n👉 Download: https://publixion.com/guides/fear-of-starting-youtube\n\n#YouTube #ContentCreation #FacelessYouTube #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T12:44:41.976Z",
+        "post_id": "122103213896948582",
         "text": "You've been planning your YouTube channel for months.\n\nMaybe years.\n\nResearch. Tabs open. Notes written. Channel name decided. Still zero videos published.\n\nCamera anxiety is the most expensive form of procrastination in the creator economy.\n\nEvery month without a channel is a month the algorithm isn't learning what your content does. Months of compounding audience data — gone.\n\nHere's what changes everything: you don't need a camera. Full stop.\n\nThousands of faceless channels earn six figures annually using voiceover, slideshows, and stock footage. The F.A.C.E.L.E.S.S.™ Framework shows you exactly how — from niche selection to your first video published, in 30 minutes.\n\nFree guide. No email required.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube\n\n#YouTube #FacelessYouTube #ContentCreation #CreatorEconomy",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T12:44:54.961Z",
+        "post_id": "17925599985090546",
         "text": "You've been planning your YouTube channel for months. Maybe years. 😶\n\nStill zero videos published.\n\nThe camera was never the requirement. The decision was.\n\nFaceless channels earn six figures using voiceover, slideshows, and stock footage.\n\nThe F.A.C.E.L.E.S.S.™ Framework shows you how — free guide, no camera needed, first video in 30 minutes.\n\nLink in bio. 🔗\n\n#YouTube #FacelessContent #ContentCreator #CreatorEconomy #VideoMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
       }
@@ -5687,30 +5693,31 @@
     "scheduled_date": "2026-03-20",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-20",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T12:45:16.469Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have the skill. You want the clients. And somehow — nothing is moving.\n\nYou've applied on Upwork. Sent a few DMs. Maybe updated your LinkedIn bio. And the response has been either silence or \"can you do it for $200?\"\n\nHere's what nobody tells beginners about freelancing:\n\nThe skill is not the variable. The system is.\n\nThe freelancers landing consistent clients — $1,000, $1,500, $2,000 per month, per client — are not more talented than you. They have a repeatable acquisition system that most beginners have never been taught.\n\nA specific niche. A clear outcome-based offer. A daily outreach habit. A structured sales call. And a closing process that doesn't end with \"let me know if you're interested.\"\n\nWithout all five, freelancing feels like guessing. With all five, it becomes a predictable income machine.\n\nFreelance From Zero to $3K/Month is the 21-page execution system. The C.L.O.S.E.R.™ framework. Everything from niche selection to your first paid client.\n\n$9.99.\n\n👉 https://publixion.com/guides/freelance-zero-to-3k\n\n#Freelancing #ClientAcquisition #SideHustle #OnlineBusiness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelance-from-zero-to-3k-month.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelance-from-zero-to-3k-month.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T12:45:03.156Z",
+        "post_id": "122103214244948582",
         "text": "The skill isn't the problem. The system is.\n\nMost new freelancers fail not because they can't deliver — but because they never built a pipeline.\n\nThey wait for inbound. They post vague offers. They price by the hour. They get on calls with no script and end with \"let me know if you're interested.\"\n\nAnd the result is either feast or famine — a random client here and there, never knowing where the next one is coming from.\n\n$3,000/month is not a fantasy for a skilled freelancer. It is 3 clients at $1,000. Or 2 at $1,500. The math is simple. The system is what's missing.\n\nFreelance From Zero to $3K/Month is that system — from niche selection through daily outreach to a tested sales call framework and closing scripts.\n\n👉 https://publixion.com/guides/freelance-zero-to-3k\n\n#Freelancing #SideHustle #OnlineBusiness #ClientAcquisition",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelance-from-zero-to-3k-month.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T12:45:16.469Z",
+        "post_id": "18060547664395593",
         "text": "The skill isn't the problem. The system is. 🎯\n\nMost freelancers fail not because they can't deliver — but because they never built a pipeline.\n\nVague offer. Hourly pricing. No outreach system. No closing script.\n\n3 clients at $1K = $3,000/month. The math is simple.\n\nThe C.L.O.S.E.R.™ system is what fills those 3 spots.\n\nLink in bio. 🔗\n\n#Freelancing #SideHustle #ClientAcquisition #OnlineBusiness #IncomeGrowth #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelance-from-zero-to-3k-month.jpg"
       }
@@ -7982,19 +7989,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built this book because the relationship self-help genre has a problem.\n\nIt is enormous, well-intentioned, and almost entirely built for couples who are already in crisis.\n\nWalk into any bookshelf and you will find titles about surviving affairs, recovering from betrayal, rebuilding after deception.\n\nThese books are necessary. For the couples who need them, they are lifelines.\n\nBut they are emergency rooms.\n\nNot gyms.\n\nThey treat the wound after it has opened rather than building the strength that might have prevented it.\n\nWe wanted to build the gym.\n\nA system — not a sentiment.\nA protocol — not a principle.\nSomething with the same reliable logic as a workout program, where a couple can look at week three and know exactly what to do, why it matters, and what measurable change to expect.\n\nSo we spent months researching four decades of relationship science — Gottman, Johnson, Fisher, Perel, Aron — and built the W.E.E.K. Framework around what the data actually shows keeps couples strong.\n\nNot passion. Not compatibility. Not luck.\n\nIntentionality made structural.\n\nThat is Relationship Maintenance.\nAnd it is available now at publixion.com\n\n#RelationshipMaintenance #Publixion #CouplesSystem #MarriageSystem #RelationshipScience",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most relationship books are written for couples who are already broken.\n\nWe built Relationship Maintenance for couples who are not broken — and want to make sure they never get there.\n\nIt is a weekly system. Research-backed. Immediately applicable. Built around a 45-minute protocol that keeps love strong and conflict low in the ordinary weeks, the pressured weeks, and every week in between.\n\nNot therapy. Not a retreat. A system.\n\nRead more at publixion.com\n\n#RelationshipMaintenance #MarriageAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AH5eRVuEx8u_m9qHLQ3K5jS\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -9714,19 +9723,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have probably already read at least one book about focus.\n\nMaybe Deep Work. Maybe Indistractable. Maybe Stolen Focus. Maybe all three.\n\nAnd yet — you are still here. Still distracted. Still watching the gap between your intended output and your actual output stay stubbornly, frustratingly wide.\n\nThat is not a failure of those books. They are excellent. That is a failure of implementation — and implementation fails for a specific, predictable reason that most of those books do not address.\n\nThey diagnose the problem beautifully. They do not give you a complete operating system for solving it.\n\nDeep Work tells you that depth matters. It does not give you a dopamine recalibration protocol that makes depth feel rewarding again after years of digital overstimulation.\n\nIndistractable gives you a framework for managing triggers. It does not give you a four-week progressive attention training plan with a weekly scoring system.\n\nStolen Focus diagnoses a societal attention crisis with brilliant precision. It does not give you a thirty-day day-by-day implementation plan built around your personal distraction profile.\n\nThe Focus Reset does all of it. In one system. In thirty days.\n\nIt is not the book that adds to your reading list. It is the book that makes the reading list work.\n\nFive layers addressed simultaneously:\n✦ Environment redesign\n✦ Dopamine recalibration\n✦ Scheduling architecture\n✦ Attention capacity training\n✦ Focused identity construction\n\nOne protocol. Measurable results from Week One.\n\n👉 Publixion.com\n\n#DeepWork #Focus #Productivity #Indistractable #KnowledgeWork #Publixion #FocusReset #Leadership",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You may have already read Deep Work. Or Indistractable. Or Stolen Focus.\n\nAnd you are still here. Still distracted. The gap between what you intend and what you produce still wider than it should be.\n\nThat is not a failure of those books. It is a failure of implementation — and implementation fails when the system is incomplete.\n\nThe Focus Reset is the complete operating system the others point toward but do not deliver.\n\nFive layers. One protocol. Thirty days.\n\n✦ Environment redesign\n✦ Dopamine recalibration\n✦ Scheduling architecture\n✦ Attention capacity training\n✦ Focused identity construction\n\nMeasurable results from Week One.\n\n👉 Publixion.com — get it now.\n\n#Focus #DeepWork #Productivity #Publixion #FocusReset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AiU7iUm16wzDiZA-TxkDyJQ\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -9967,27 +9978,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Hot take: passive income is one of the most damaging ideas ever sold to people who want financial freedom.\n\nNot because it is impossible.\n\nBecause chasing it first is almost always wrong.\n\n78% of side income content leads with passive income strategies. Drop shipping. Print on demand. Affiliate links.\n\nAnd yet the data on these models — for people starting from zero, with limited time and no existing audience — is catastrophic. Most earn under $50 in their first three months. Most quit before month six.\n\nWhy?\n\nBecause passive income is not a starting point. It is an endpoint.\n\nThe correct sequence:\n→ Active income first. Fast to validate, fast to earn.\n→ Semi-passive second. Retainers and recurring structures.\n→ Passive third. Built on the foundation the first two layers produce.\n\nBuild in that order and the passive income you eventually earn is real and stable.\n\nBuild in the wrong order and you will spend months on a channel that earns nothing.\n\nWhich layer are you currently building?\n\nThe Side Income System 👇\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncome #PassiveIncome #SideHustle #DigitalIncome #Entrepreneurship #OnlineBusiness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Hot take: passive income is one of the most damaging ideas ever sold to people who want financial freedom.\n\nNot because it is impossible. Because chasing it first is almost always wrong.\n\nThe correct sequence:\n→ Active income first.\n→ Semi-passive second.\n→ Passive third.\n\nBuild in that order and the passive income you eventually earn is real. Build in the wrong order and you will spend months earning nothing.\n\nWhich layer are you currently building?\n\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncome #PassiveIncome #SideHustle #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AeSUSEYeh3h8YLR7ywDHR4B\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Passive income is not where you start. It is where you arrive.\n\nMost people have the sequence backwards — and that is why most people quit before they earn anything real.\n\nThe Side Income System teaches the correct order. Link in bio.\n\n#SideIncomeSystem #PassiveIncome #SideHustle #Publixion #OnlineBusiness #DigitalProducts #MakeMoneyOnline",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A8sfwgxYfmm7zQ__R7D_6xZ\"}}"
       }
     }
   },
