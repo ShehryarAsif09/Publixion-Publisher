@@ -1413,30 +1413,31 @@
     "scheduled_date": "2026-03-17",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-17",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T11:44:40.291Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"The LinkedIn algorithm is too unpredictable. No system can fix it consistently.\"\n\nI hear this a lot. Here's the reality:\n\nThe algorithm isn't random. It rewards four specific things:\n\n1. Early engagement in the first 60–90 minutes\n2. Meaningful comments (5+ words) over shallow reactions\n3. Consistent posting at predictable times\n4. High dwell time — posts people read slowly or re-read\n\nAll four are within your direct control.\n\n\"My industry is boring. No one engages with serious topics.\"\n\nWrong frame. The issue isn't the topic — it's the hook. A boring topic with a great hook outperforms an exciting topic with a weak one every time.\n\n\"I don't have time to engage before and after every post.\"\n\nThe system requires 10 minutes before posting and 60 minutes of availability after. That's not a time problem — it's a priority problem.\n\n\"I already tried posting consistently for months. Nothing changed.\"\n\nConsistency without structure is just noise. This guide adds structure to your consistency.\n\nFree. 10 pages. No catch.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #Objections #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:44:29.287Z",
+        "post_id": "122103141434948582",
         "text": "Here are the doubts people have before downloading this guide — and the honest answers:\n\n\"The algorithm is random\" — It's not. It rewards early engagement, meaningful comments, consistency, and dwell time. All controllable.\n\n\"My industry is too boring for engagement\" — The topic is irrelevant. A great hook on any topic outperforms a weak hook on an exciting one.\n\n\"I don't have time\" — The system needs 10 minutes before posting + 60 minutes of availability after. That's it.\n\n\"I've posted consistently for months and nothing changed\" — Consistency without structure is noise. This guide adds the structure.\n\n\"It's too technical\" — It's 10 pages. Written in plain language. With fill-in worksheets.\n\nAnd it's free.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #SocialMedia #ContentCreator",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:44:40.291Z",
+        "post_id": "18116545345636897",
         "text": "\"But my LinkedIn posts are already pretty good.\"\n\nMaybe. But good content + weak hook = invisible post.\n\nThe LinkedIn algorithm doesn't reward quality. It rewards expansion rate — how many people click \"see more\" in the first 90 minutes.\n\nThat's a hook problem. Not a content problem.\n\nAnd it's entirely fixable.\n\nThe free guide shows you how — with 5 proven hook types, fill-in templates, and a 30-day plan.\n\nLink in bio.\n\n#LinkedIn #ContentTips #HookWriting #PersonalBrand #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       }
@@ -1867,22 +1868,23 @@
     "scheduled_date": "2026-03-17",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-17",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T11:44:19.264Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Meet Creator A. Content strategist. 1,000 Instagram followers. No prior paid community. No email list.\n\nHere's exactly what happened when she followed the Revenue Community Framework™:\n\n——\n\n📅 WEEK 1 — Positioning\nCompleted the Niche Clarity Worksheet. Chose: \"Content strategy for solopreneurs going from $5K to $15K/month.\"\nBuilt her one-sentence pitch: \"Join [Community] to go from $5K to $15K/month in 60 days — even if you have no team.\"\n\n📅 WEEK 2 — Architecture\nSet 3 tiers: Free (newsletter) / Core ($15/month) / Premium ($49/month).\nMapped benefits to each tier using the Tier Benefit Mapping Table. Every benefit had a justified price.\n\n📅 WEEK 3 — Platform + Onboarding\nChose Circle. Set up resource vault with 5 existing content pieces. Wrote Day 1, 3, 7, and 30 onboarding emails using the guide's copy templates. Set up automation. Total setup time: 6 hours.\n\n📅 WEEK 4 — Soft Launch\nSent personal invites to 10 warm followers. Free tier first.\n17 joined in 48 hours. 4 upgraded to Core within the first week.\n\n📅 DAY 45\nThursday live Q&A running weekly without fail. First cohort challenge completed — 6 members shared wins publicly. New signups accelerated from social proof.\n\n📅 DAY 60\nFirst $5,000 MRR month: 200 paid members across Core + Premium.\n71% 90-day retention. 6 inbound leads for 1-on-1 work from community members.\n\n📅 DAY 75\nRan first quarterly workshop ($297). 28 attendees. $8,316 in a single day — separate from subscriptions.\n\n——\n\nShe started with 1,000 followers and a system. That's all this takes.\n\n→ https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #CaseStudy #RecurringRevenue #MRR #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:44:19.264Z",
+        "post_id": "122103141230948582",
         "text": "Creator B. B2B marketing consultant. 10,000 email subscribers. 800-member free Discord community. Zero monetization.\n\nHe'd been giving everything away for free for 2 years. Here's what happened when he followed the Revenue Community Framework™:\n\nWeek 1: Completed Niche Clarity Worksheet. Repositioned from \"marketing tips\" to \"B2B marketing for agency owners scaling to $50K/month.\" Wrote one-sentence community pitch. First time he'd ever defined his transformation that precisely.\n\nWeek 2: Rebuilt pricing architecture. Launched \"Founding Member\" rate of $9/month for first 100 members to reward loyalty and create urgency simultaneously.\n\nWeek 3: Deployed the Engagement Engine. Replaced ad-hoc posting with Mon–Fri structured rhythm. Engagement rate went from 4% → 23% in 8 weeks.\n\nDay 30: 500 paid members. MRR: $11,200.\n\nDay 60: Ran first quarterly workshop at $299. 47 attendees. $14,053 in a single day.\n\nDay 90: Launched referral program using the guide's script. Top referrer that month brought 14 new members. Community is now self-marketing.\n\nMonth 4: Churn dropped 35% after rebuilding Core tier benefits based on exit survey data (template in the guide). LTV tripled.\n\nHe didn't start from nothing. He started from an audience that was already there — and finally gave it a reason to pay.\n\n👉 https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RecurringRevenue #MRR #CaseStudy #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       },
@@ -2312,30 +2314,31 @@
     "scheduled_date": "2026-03-17",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-17",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T11:44:04.287Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The F.O.C.U.S.™ Framework guide is for this specific person:\n\n→ You've been \"building\" an income for 6+ months and the revenue is still inconsistent\n→ You feel productive all week but can't point to a single thing that moved toward revenue\n→ You've started at least 3 income projects in the last year — none reached $1,000/month\n→ You're good at starting things and bad at finishing them — because the next idea always seems more promising\n→ You have a half-finished product, guide, or offer sitting in a Google Doc somewhere\n→ The idea of \"choosing one thing\" feels like giving up — even though chasing everything clearly isn't working\n→ You are genuinely tired in a way that a weekend doesn't fix\n\nIf you recognized yourself in 3 or more of those — this guide is the system you've been missing.\n\nFree. No email required.\n\n👉 https://publixion.com/guides/burnout-monetizing-everything\n\n#CreatorBurnout #Freelancing #SolopreneurLife #DigitalCreator #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:43:43.831Z",
+        "post_id": "122103140996948582",
         "text": "Who is the F.O.C.U.S.™ Framework guide built for?\n\n✅ Creators who have been building for months without consistent revenue\n✅ Solopreneurs running 3+ income experiments simultaneously\n✅ Anyone who feels busy all the time but can't explain what they're actually building\n✅ Freelancers who start new offers before the last one gains traction\n✅ People exhausted in a way that has nothing to do with working too many hours\n\nThis guide doesn't add to your plate. It removes from it — strategically.\n\nFree. No signup.\n\n📖 https://publixion.com/guides/burnout-monetizing-everything\n\n#CreatorBurnout #Freelancing #Productivity #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:44:04.287Z",
+        "post_id": "17957830127936020",
         "text": "This guide is for you if:\n\n↳ You've been building for months but revenue is still inconsistent\n↳ You feel busy but can't explain what you're building\n↳ You've started 3+ income projects — none hit $1K/month\n↳ You have a half-finished product in a Google Doc right now\n↳ You're tired in a way a weekend doesn't fix\n\nF.O.C.U.S.™ Framework — free guide.\n\nOne path. 30 days. Real income.\n\n📖 Link in bio.\n\nLink in bio.\n\n#CreatorBurnout #Freelancing #SolopreneurLife #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
       }
@@ -2513,30 +2516,31 @@
     "scheduled_date": "2026-03-17",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-17",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T11:43:35.893Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most remote workers don't have a discipline problem.\n\nThey have a missing operating system.\n\nHere's the F.O.C.U.S.™ Framework — the 5-phase system inside the free Remote Focus Protocol:\n\nF — Filter Distractions\nRun a 48-hour distraction audit. Log every interruption: time, source, duration, trigger. Most professionals lose 90–150 minutes daily to distractions they don't consciously register. You can't eliminate what you haven't measured.\n\nO — Organize Day Blocks\nSplit your day into 3 non-negotiable blocks: Deep Work (90–120 min), Execution/Admin, and Communication. Never mix them. Structure removes decision fatigue.\n\nC — Commit to Output Targets\nBefore every deep work block, define the done-state. Not 'work on project' — 'complete 2,000-word draft.' Activation script: 'For the next 90 minutes, my only goal is to complete [task]. Nothing else exists.'\n\nU — Upgrade Your Environment\nEnvironment beats willpower every time. Dedicated workspace. Phone in another room. Blocker tools active. Engineer the conditions for focus — don't fight for them daily.\n\nS — Score Weekly\nEvery Friday: how many deep work hours? What was the biggest distraction? Target: 15 hours/week. Under 12 — fix one thing before Monday.\n\nFull guide with templates, worksheets, and 30-day calendar — free:\n→ https://publixion.com/guides/no-discipline-wfh\n\n#Productivity #DeepWork #RemoteWork #FocusSystem #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:43:22.978Z",
+        "post_id": "122103140456948582",
         "text": "Here's the exact framework inside our free Remote Focus Protocol guide.\n\nF.O.C.U.S.™ — 5 phases that replace willpower with architecture:\n\n🔹 F — Filter: Run a 48-hr distraction audit. Identify and permanently eliminate your top 2 leaks.\n🔹 O — Organize: Split your day into 3 protected blocks — Deep Work, Execution, Communication. Never mix them.\n🔹 C — Commit: Define the output target before every block. Use the activation script before you start.\n🔹 U — Upgrade: Set up your environment once so it supports focus automatically.\n🔹 S — Score: Every Friday, count your deep work hours. Target: 15/week. Under 12 — adjust before Monday.\n\nFree download with full templates and 30-day calendar:\n→ https://publixion.com/guides/no-discipline-wfh\n\n#Productivity #RemoteWork #DeepWork #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:43:35.893Z",
+        "post_id": "17931117834234594",
         "text": "The F.O.C.U.S.™ Framework — 5 phases to stop losing hours every day:\n\nF — Filter your distractions (48-hr audit)\nO — Organize into 3 protected day blocks\nC — Commit to a specific output target per block\nU — Upgrade your environment once, benefit forever\nS — Score your deep work hours every Friday\n\nFull free guide — link in bio.\n\n#DeepWork #Productivity #RemoteWork #FocusSystem #WorkFromHome #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg"
       }
@@ -3060,7 +3064,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "12 chapters. One complete decision system. Built for the choices that actually matter.\n\nSwipe to see what is inside 👉\n\nSlide 1 — The book that ends decision paralysis permanently.\nSlide 2 — Ch 1-2: Why smart people fail at decisions — and the Clarity Audit that fixes it at the root.\nSlide 3 — Ch 3-4: The Regret Minimization Grid and the Values Hierarchy that makes every future choice easier to make.\nSlide 4 — Ch 5-6: The Risk Reality Audit and the Consequence Map — see the full shape of your decision before you commit.\nSlide 5 — Ch 7-8: The complete CLEAR Framework Canvas + Career Crossroads — where identity and strategy finally work together.\n\nChapters 9 through 12 cover relationship decisions, financial clarity, deciding under pressure, and the Decisive Identity — the permanent shift that makes excellent decisions your default, not your effort.\n\nEvery chapter includes a framework, a real case study, an actionable challenge, and reflection prompts designed to move you forward — not just think harder.\n\nLink in bio to get your copy.\n\n#DecisionClarity #CLEARFramework #PersonalDevelopment #BookRecommendation #SelfGrowth #DecisionMaking #Publixion #MindsetShift #LifeStrategy #CareerGrowth",
@@ -3071,7 +3075,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/decision-clarity-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/decision-clarity-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/decision-clarity-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A3gzFDbOO68wv243iXPZjsZ\"}}"
       }
     }
   },
@@ -3620,30 +3625,31 @@
     "scheduled_date": "2026-03-17",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-17",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T11:43:07.605Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You've been posting for months.\n\nYou have followers. You get engagement. People like your content.\n\nYour email list has 47 subscribers.\n\nHere's what that means: every algorithm change, every platform update, every policy shift — and your audience could be gone tomorrow. Social reach is borrowed. An email list is owned.\n\nThe average monetized email list generates $1–$3 per subscriber per month. 1,000 subscribers = $12,000–$36,000 in annual revenue potential. Most creators leave this entirely untouched — not because they don't want it, but because their opt-in strategy is broken at the foundation.\n\nWeak lead magnet. Cluttered landing page. Vague copy. Wrong traffic source.\n\nFix those four things and your opt-in rate moves from 1–2% to 30–50%. That's not an optimization. That's a different system entirely.\n\nWe built a free guide around that system: the C.O.N.V.E.R.T.™ framework — 7 steps to build a high-converting lead magnet, an optimized landing page, and a repeatable opt-in machine in 30 days.\n\n👉 Download free: https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #ContentMarketing #DigitalMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-list.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:42:56.829Z",
+        "post_id": "122103140144948582",
         "text": "You have followers. You get likes. You have 47 email subscribers.\n\nSocial reach is borrowed. Email is owned.\n\nAnd the average monetized email list generates $1–$3 per subscriber per month — which most creators leave completely on the table because their opt-in strategy doesn't work.\n\nOur free guide — the C.O.N.V.E.R.T.™ System — shows you how to build a specific lead magnet, an optimized landing page, and a repeatable opt-in machine in 30 days.\n\n📖 Free download: https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #ContentMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-list.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:43:07.604Z",
+        "post_id": "18577765078053556",
         "text": "Followers: growing.\nEmail subscribers: 47.\n\nSocial reach is borrowed. Email is owned.\n\n$1–$3 per subscriber per month when monetized. 1,000 subscribers = up to $36K/year potential.\n\nThe C.O.N.V.E.R.T.™ System is a free guide to building a high-converting opt-in machine in 30 days.\n\n📖 Link in bio.\n\nLink in bio.\n\n#EmailMarketing #ListBuilding #ContentCreators #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-list.jpg"
       }
@@ -3860,30 +3866,31 @@
     "scheduled_date": "2026-03-18",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T11:45:01.021Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You just spent 6 hours on a project.\n\nYou sent the invoice.\n\nAnd the moment you hit send — you wondered if you should have charged more.\n\nThat feeling isn't imposter syndrome. It's a pricing problem.\n\nMost freelancers charge based on time, nerves, or what they think clients will accept. None of those are a strategy. All of them leave money on the table — every single project, every single month.\n\nThe fix isn't confidence. It's a framework.\n\nValue-based pricing links your fee to what the work is actually worth to the client — not to how many hours it took you. A copywriter who writes an email sequence that generates $40,000 in launch revenue isn't worth $50/hour. They're worth a percentage of that outcome.\n\nWhen you understand that, your pricing changes permanently.\n\nWe built a free guide that gives you the exact system: how to calculate client value, how to choose the right pricing model, how to write proposals that justify premium rates, and how to handle every objection without backing down.\n\nIt's called the P.R.I.C.E.™ Framework. And it's free.\n\n👉 Get it here: https://publixion.com/guides/difficulty-pricing-services\n\n#Freelancing #PricingStrategy #ValueBasedPricing #FreelancerLife #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:44:47.987Z",
+        "post_id": "122103142100948582",
         "text": "You worked hard. You delivered great work.\n\nAnd you still don't know if you charged enough.\n\nEvery freelancer knows this feeling. It lives in the gap between what you billed and what you could have billed — and it compounds every single month.\n\nThe problem isn't your skill. It's that nobody taught you how to price.\n\nHourly rates punish you for getting faster. Cost-based pricing ignores what the client actually gains. And guessing — which most freelancers do — means you're always leaving money somewhere.\n\nValue-based pricing changes the entire equation. You stop selling time and start selling outcomes. Your price becomes a reflection of what the client gains — not what it costs you to deliver.\n\nWe put the full system into a free guide: the P.R.I.C.E.™ Framework — 5 steps to price any service confidently, write proposals that get accepted, and handle objections without discounting.\n\n📖 Free download: https://publixion.com/guides/difficulty-pricing-services\n\n#Freelancing #PricingTips #FreelanceLife #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T11:45:01.021Z",
+        "post_id": "18084761360600225",
         "text": "You finished the project.\n\nSent the invoice.\n\nAnd immediately wondered if you undercharged.\n\nAgain.\n\nThat feeling has a fix — and it's not confidence. It's a pricing framework.\n\nThe P.R.I.C.E.™ Framework shows you how to charge based on client value, not your hours. Free guide, full system.\n\n📖 Link in bio.\n\nLink in bio.\n\n#Freelancing #PricingStrategy #FreelancerLife #ValueBasedPricing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
       }
@@ -7921,27 +7928,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This book is for the couple who still loves each other.\n\nAnd is quietly terrified that love might not be enough.\n\nYou are not in a bad relationship.\nYou are in an unmaintained one.\n\nAnd there is a difference.\n\nA bad relationship needs to end.\nAn unmaintained one needs a system.\n\nRelationship Maintenance gives you that system.\n\nNot a list of tips.\nNot another conversation about communication styles.\nNot a retreat or a therapist's waitlist.\n\nA 45-minute weekly protocol that keeps two people genuinely known to each other — through careers, children, financial pressure, grief, and the relentless ordinary weight of a shared life.\n\nBuilt around the W.E.E.K. Framework.\nBacked by four decades of relationship science.\nWritten for couples who are serious about what they are building.\n\nIf you have ever looked across the table at the person you chose and felt the distance without being able to name it —\n\nThis book was written for that moment.\n\nGet it now at publixion.com\n\n#RelationshipMaintenance #MarriageAdvice #CouplesGoals #Relationships #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This book is not for couples in crisis.\n\nIt is for couples who are fine — and know that fine is not what they signed up for.\n\nRelationship Maintenance is the weekly system that keeps love strong, conflict low, and connection real — without therapy, retreats, or grand gestures.\n\nJust 45 intentional minutes, every week, with the person you chose.\n\nGet it at publixion.com\n\n#RelationshipMaintenance #CouplesGoals #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A5a-oKKm4IOjHQSMQuVM9GZ\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "For the couple who still loves each other and is quietly worried that love alone might not be enough.\n\nThis is the system that makes it enough.\n\nRelationship Maintenance. Now available at Publixion.\n\nLink in bio.\n\n#RelationshipMaintenance #CouplesGoals #MarriageAdvice #LongTermRelationship #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AcCsycWupssUY7IbP24bvW_\"}}"
       }
     }
   },
