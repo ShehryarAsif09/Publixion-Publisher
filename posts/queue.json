@@ -462,30 +462,31 @@
     "scheduled_date": "2026-03-14",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-14",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T08:02:17.945Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The AI Automation for Solopreneurs guide is $45 right now.\n\nAt the end of this campaign window, it moves to $55 — when we add the Advanced Prompt Engineering Toolkit: a library of 40+ ready-to-use AI prompts specifically built for solopreneur workflows (proposals, content, outreach, client reports, and more).\n\nBuy now at $45 and receive the Prompt Toolkit free when it releases.\n\nMeanwhile — the longer you delay building your automation system, the more hours you're spending on work that AI could be handling.\n\nA freelance strategist reclaimed 12 hours per week using this guide. At $45/hr, that's $540/week recovered. The guide cost her $45.\n\nThe math is not complicated.\n\n👉 Lock in at $45: https://publixion.com/guides/ai-automation-solopreneurs\n\n#AIAutomation #PriceIncrease #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:02:06.112Z",
+        "post_id": "122102922464948582",
         "text": "Price increase incoming.\n\nAI Automation for Solopreneurs goes from $45 → $55 at the end of this week when we add the Advanced Prompt Engineering Toolkit (40+ ready-to-use AI prompts for solopreneur workflows).\n\nBuy now at $45 and get the Prompt Toolkit free on release.\n\nIf you've been waiting for a reason to act — this is it.\n\n👉 https://publixion.com/guides/ai-automation-solopreneurs\n\n#AI #Automation #PriceIncrease #Solopreneur",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:02:17.945Z",
+        "post_id": "18137473018510486",
         "text": "Last call — price on this goes up at the end of the week.\n\nAI Automation for Solopreneurs: $45 now → $55 when the Advanced Prompt Engineering Toolkit (40+ workflow prompts) is added.\n\nBuy now = get the toolkit free.\n\n17 pages. A.U.T.O.M.A.T.E.™ Framework. Real tool stack. Real workflows.\n\nLink in bio.\n\n#AIAutomation #LastChance #Solopreneur #AITools #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/ai-automation-for-solopreneurs.jpg"
       }
@@ -1366,22 +1367,23 @@
     "scheduled_date": "2026-03-14",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-14",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T08:01:41.864Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's how a consultant used this guide to go from invisible to $2,500 in new business.\n\nBefore the guide:\n→ 800 average impressions per post\n→ 1–2 likes per post\n→ 0 inbound messages from content\n\nStep 1: She ran the Engagement Diagnostic from the guide. Engagement rate: 0.3%. Below the 2% threshold — the guide flagged hooks as the issue.\n\nStep 2: She rewrote her last 3 post hooks using the 5 hook types in the framework. Repotted all 3 the following week.\n\nStep 3: She applied the pre-post routine from the guide — 10 minutes of strategic commenting before publishing. Replied to every comment within the first hour.\n\nStep 4: She added a lead CTA to every post: \"DM me 'Audit' if you want free feedback on your content.\"\n\nAfter 30 days:\n→ 6,500 average impressions\n→ 30–70 reactions per post\n→ 3 inbound leads from content\n→ 1 new client — $2,500 project\n\nThe content didn't change. The structure did.\n\n👉 Free guide: https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #ContentStrategy #CaseStudy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:01:41.864Z",
+        "post_id": "122102921780948582",
         "text": "Before and after using the V.I.S.I.B.L.E.™ Framework — a real example:\n\nBEFORE:\n• 800 avg impressions\n• 1–2 likes\n• 0 leads from content\n\nAFTER (30 days):\n• 6,500 avg impressions\n• 30–70 reactions\n• 3 inbound leads\n• 1 new $2,500 client closed\n\nAnd a corporate professional who applied the same system started getting recruiter inbound after 3 weeks — and landed 2 job interviews without applying anywhere.\n\nSame effort. Different structure.\n\nThe free guide shows you the exact system.\n\n👉 https://publixion.com/guides/linkedin-engagement-guide\n\n#LinkedIn #ContentMarketing #Results",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-posts-getting-0-engagment.jpg"
       },
@@ -1817,30 +1819,31 @@
     "scheduled_date": "2026-03-15",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-15",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T08:03:31.022Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Build a Paid Community from Scratch is not for everyone.\n\nHere is precisely who it's designed for:\n\n✅ YOU if:\n\n→ You have an existing audience — email list, social following, or client base — of any size and want to convert that trust into recurring monthly revenue\n→ You're a creator, coach, consultant, or expert who is tired of one-time launches and wants predictable MRR instead\n→ You've thought about launching a community but don't know what to charge, which platform to use, or how to keep people from cancelling\n→ You want scripts for every email, worksheets for every decision, and a calendar for every day of month one — not vague strategy\n→ You're willing to commit to a weekly engagement rhythm and 90 days of consistent execution\n→ You want a community that compounds — not one that flatlines after the launch buzz fades\n\n❌ NOT YOU if:\n\n→ You have zero existing audience or trust built with any group of people\n→ You want to launch and then disappear — communities require ongoing presence\n→ You expect $5,000 MRR in week one without following the framework\n→ You want a purely passive asset with no member interaction\n\nYour audience is already there. The Revenue Community Framework™ is the architecture that turns that attention into income.\n\n$29.99. 90 days. $5,000+ MRR.\n\n→ https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RecurringRevenue #CreatorEconomy #CommunityBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:03:15.138Z",
+        "post_id": "122102925614948582",
         "text": "Who is Build a Paid Community from Scratch for?\n\n✅ Creators, coaches, consultants, and experts with any existing audience — email, social, or clients\n✅ Anyone tired of income resetting to zero every month and wanting predictable MRR\n✅ People who've considered launching a community but are stuck on pricing, platform, and retention\n✅ Anyone who wants copy-paste scripts, worksheets, and a day-by-day calendar — not abstract strategy\n✅ People willing to commit to 90 days of structured weekly execution\n\n❌ NOT for anyone with zero audience and no existing relationship with potential members\n❌ NOT for people who want a passive asset with zero ongoing presence\n\nIf you have an audience that trusts you — the only missing piece is the architecture. This guide is that architecture.\n\n👉 https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RecurringRevenue #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:03:31.022Z",
+        "post_id": "18090894506133093",
         "text": "This guide is for you if... 👇\n\n✅ You have an audience (any size) that trusts you\n✅ You're tired of income resetting every month\n✅ You're a creator, coach, or consultant\n✅ You want scripts + worksheets + a 30-day calendar\n✅ You'll commit to 90 days of execution\n\n❌ NOT for you if you want results with zero presence.\n\n$29.99. 90 days. $5,000+ MRR.\n\nLink in bio. 🔗\n\n#PaidCommunity #RecurringRevenue #MRR #CreatorEconomy #CommunityBuilding #Publixion #OnlineBusiness #ContentCreator #PassiveIncome #BuildInPublic",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       }
@@ -2260,30 +2263,31 @@
     "scheduled_date": "2026-03-15",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-15",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T08:03:07.119Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Before you add another income stream — run this filter.\n\nThe biggest mistake creators make: pursuing opportunities without a selection system. Every new trend looks promising. Every new model seems possible. And every project they start resets the clock on the last one.\n\nThe guide includes a 5-question filter that eliminates 90% of bad opportunities in under 5 minutes:\n\n━━━━━━━━━━━━━━━━━━━━\nTHE 5-QUESTION OPPORTUNITY FILTER\n━━━━━━━━━━━━━━━━━━━━\n\n1. Can I generate first revenue within 30 days?\nIf setup requires 3+ months before income — it fails at your current stage.\n\n2. Does it require low upfront cost?\nCapital investment before validation is the wrong order of operations.\n\n3. Does it leverage a skill I already have?\nBuilding a new skill while generating income doubles your timeline and halves your probability of success.\n\n4. Can it reach $1,000/month with 1–5 clients?\nFewer conversions required = higher probability of hitting the target in month one.\n\n5. Is demand already proven?\nSomeone must already be paying for this at your target price point.\n\n━━━━━━━━━━━━━━━━━━━━\n\nFail 2 or more? Pause it. Without guilt.\n\n👉 Full F.O.C.U.S.™ framework, free: https://publixion.com/guides/burnout-monetizing-everything\n\n#CreatorEconomy #Freelancing #SolopreneurLife #FocusedWork #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:02:53.707Z",
+        "post_id": "122102925044948582",
         "text": "Most creators pursue too many income paths because they have no system to say no.\n\nHere's the 5-question filter from our free guide:\n\n🔵 Can I earn first revenue within 30 days?\n🔵 Does it require low upfront cost?\n🔵 Does it use a skill I already have?\n🔵 Can it reach $1K/month with 1–5 clients?\n🔵 Is demand already proven?\n\nFail 2 or more? Pause it. No guilt required.\n\nThis filter removes every shiny object from your plate — and leaves only the one path with the highest probability of working this month.\n\n📖 Full F.O.C.U.S.™ Framework, free: https://publixion.com/guides/burnout-monetizing-everything\n\n#Freelancing #CreatorEconomy #Productivity #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:03:07.119Z",
+        "post_id": "17881010559525682",
         "text": "Before you start another income project — run this filter.\n\n5 questions. 5 minutes. Eliminates 90% of bad ideas:\n\n1️⃣ Revenue within 30 days?\n2️⃣ Low upfront cost?\n3️⃣ Uses a skill you already have?\n4️⃣ Reaches $1K/month with 1–5 clients?\n5️⃣ Demand already proven?\n\nFail 2+ = pause it.\n\nFrom the free F.O.C.U.S.™ Framework guide.\n\n📖 Link in bio.\n\nLink in bio.\n\n#Freelancing #SolopreneurLife #FocusedWork #CreatorEconomy #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/burnout-from-trying-to-monetinze-everything.jpg"
       }
@@ -2460,30 +2464,31 @@
     "scheduled_date": "2026-03-15",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-15",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T08:02:38.995Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You sat down at 9am.\n\nIt's now 2pm.\n\nAnd you genuinely cannot account for 3 of those hours.\n\nNot because you're lazy. Not because you don't care.\n\nBecause working from home was sold as freedom — and nobody mentioned that freedom without structure is just chaos with a laptop.\n\nHere's what actually happens:\n— You check Slack \"real quick\" and lose 40 minutes\n— You switch tasks 11 times before noon\n— You work until 9pm trying to make up for it\n— You go to bed feeling guilty anyway\n\nThis isn't a willpower problem. This is an architecture problem.\n\nThe office gave you invisible structure. A commute. A manager nearby. Remote work took all of that away and replaced it with nothing.\n\nI built a free guide that installs the structure back — 5 phases, the F.O.C.U.S.™ Framework.\n\nThe Remote Focus Protocol. 30 minutes a day. 30 days. Discipline becomes automatic.\n\nFree download → https://publixion.com/guides/no-discipline-wfh\n\n#RemoteWork #Productivity #DeepWork #WorkFromHome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:02:26.073Z",
+        "post_id": "122102923112948582",
         "text": "You sat down to work at 9am.\n\nIt's now 2pm. And you have almost nothing to show for it.\n\nNot because you're lazy — but because nobody gave you a system for working from home. The office had invisible structure built in. Remote work doesn't.\n\nConstant task-switching. Phone distractions. Working late to compensate. Guilt that never fully goes away.\n\nI made a free guide that fixes this — The Remote Focus Protocol, built around the F.O.C.U.S.™ Framework. 5 phases. 30 minutes a day. Within 30 days, your discipline becomes automatic.\n\nFree download → https://publixion.com/guides/no-discipline-wfh\n\n#RemoteWork #Productivity #WorkFromHome #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T08:02:38.995Z",
+        "post_id": "17931081429237021",
         "text": "You've been 'working' for 5 hours and produced almost nothing.\n\nNot laziness. Missing architecture.\n\nThe office gave you invisible structure. Remote work gave you a couch and a WiFi password.\n\nThe F.O.C.U.S.™ Framework fixes this — 5 phases, 30 min/day, 30 days to automatic discipline.\n\nFree guide — link in bio.\n\n#RemoteWork #WorkFromHome #Productivity #DeepWork #FocusTips #Solopreneur #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/no-discipline-working-from-home.jpg"
       }
@@ -5215,27 +5220,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion:\n\nMotivation is not the solution to your unfinished projects.\n\nIt is the reason they are unfinished.\n\nHere is what actually happens when you start something new:\n\nYour brain releases dopamine in anticipation of the reward the project might bring. Not when you finish it. When you decide to start it.\n\nYou get paid neurologically for the intention. Whether you follow through or not.\n\nThis is why the first three days of any project feel electric — and why week three is where 80% of personal projects quietly die.\n\nThe motivational spike was never going to last. It was never designed to.\n\nAnd yet almost every productivity system ever written tells you to find more of it.\n\nFind your why. Get inspired. Push through with passion.\n\nThis advice is not wrong. It is simply irrelevant to the actual problem.\n\nThe people who consistently finish meaningful work do not report higher motivation than the people who do not. They report better-designed defaults.\n\nScheduled sessions. Environment-triggered habits. Accountability contracts with real stakes. Scope constraints that prevent perfectionism from expanding the project past the point of completion.\n\nExecution is an engineering problem.\n\nDesign the system. The feeling follows the work — it does not precede it.\n\nExecution Over Motivation. 16 tools. Zero motivational speeches.\n\npublixion.com/book/execution-over-motivation\n\n#Productivity #Execution #Motivation #BehavioralScience #PersonalDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Hot take: Motivation is not the solution to your unfinished projects. It is the reason they are unfinished.\n\nWhen you start a new project, your brain releases dopamine for the decision to begin — not for finishing. You get the neurological reward either way. Which is exactly why motivation peaks at launch and disappears by week three.\n\nEvery productivity book telling you to find your why is addressing the wrong variable.\n\nThe research is clear: people who finish consistently do not have more motivation. They have better-designed systems. Scheduled sessions. Real accountability. Scope constraints. Environment triggers.\n\nExecution is an engineering problem. Not a character one.\n\nDesign the system. The feeling follows the work — it does not precede it.\n\npublixion.com/book/execution-over-motivation\n\n#Productivity #Motivation #Execution #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A80bgfpvRs0q04MASnUlbR3\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Controversial take:\n\nMotivation is not your solution.\n\nIt is your problem.\n\nYour brain releases dopamine when you decide to start a project — not when you finish one. You get paid either way.\n\nThat is why every project feels exciting at launch. And why 80% of personal projects stall by week three.\n\nThe answer is not more motivation.\n\nIt is a system that runs without it.\n\nExecution Over Motivation. Link in bio.\n\n#Productivity #Motivation #ExecutionOverMotivation #Publixion #BehavioralScience #Finish #DeepWork #HabitFormation",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AUskPcWz6_k5uky1qQhnANU\"}}"
       }
     }
   },
@@ -8229,27 +8237,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This post is for the person who is doing well by every external measure and still feels like something is quietly, persistently wrong.\n\nNot broken. Not failing. Not even unhappy in any way they could easily explain.\n\nJust... misaligned.\n\nYou have a job that looks good on paper. You earn more than your parents did at your age. You are capable, competent, and frequently exhausted by work that does not feel entirely like yours.\n\nYou have rewritten your goals list. More than once. You have started the productivity system, the five-year plan, the journaling habit. And somewhere around week three, the momentum always quietly dissolves.\n\nIf this is you — this book was written for you specifically.\n\nNot for people in crisis. For people who are succeeding at the wrong things and finally ready to redesign the right ones.\n\nRedesign Your Adult Life gives you five tools that produce five written documents:\n\n→ A Life Audit across five domains that shows exactly where the misalignment lives\n→ An Identity Statement built on real, excavated values — not performed ones\n→ A Skills Inventory that maps what you have and what the market actually pays for it\n→ A Financial Baseline with a 12-month wealth acceleration plan\n→ A 5-Year Blueprint with annual milestones and a decision filter for every future choice\n\nNo motivation. No mindset fluff. No asking you to believe harder.\n\nJust the system. And the five documents you will hold when it is done.\n\nLink in bio. The book is live.\n\n#CareerRedesign #LifeStrategy #PersonalDevelopment #CareerChange #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is for the person who is doing everything right and still feels like something is off.\n\nGood job. Decent salary. Respectable life on paper.\n\nAnd a specific, low-grade dissatisfaction that another promotion has not fixed and another goals list has not solved.\n\nYou are not behind. You are misaligned. And misalignment is a structural problem — which means it has a structural solution.\n\nRedesign Your Adult Life is that solution.\n\n5 tools. 5 written deliverables. 1 complete system for resetting your career, your money, and your direction — built on your actual reality, not someone else's blueprint.\n\nThe book is live now at the link below. Read it with a pen.\n\n#PersonalDevelopment #CareerChange #LifeRedesign #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A_XwkhmSbUm655M4KJNUoSR\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is for the person doing everything right and still feeling like something is quietly wrong.\n\nNot broken. Not failing. Just misaligned.\n\nRedesign Your Adult Life is the system that fixes the structure — not the symptoms.\n\n5 tools. 5 written deliverables. Your actual life, finally mapped and moving.\n\nLink in bio.\n\n#CareerRedesign #LifeStrategy #PersonalDevelopment #SelfImprovement #CareerChange #LifeDesign #Publixion #5YearPlan #LifeAudit #QuarterLifeCrisis",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AQomskhgX3a05WO6KJSaBZW\"}}"
       }
     }
   },
@@ -9626,27 +9637,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is a passage from Chapter Nine of The Focus Reset. I am sharing it because it addresses the moment that breaks most focus systems — and most people never see it coming.\n\n---\n\nOn Day Nineteen of her thirty-day protocol, Elena had what she later described as the worst week of her professional year.\n\nHer mother was hospitalized. A product launch failed. Her sleep collapsed. Her phone — which she had placed in another room each morning without exception since Day One — was by her bed every night of that week because she was waiting for calls from the hospital.\n\nBy Friday, she had completed zero of the three deep work sessions she had planned.\n\nAnd on Friday evening, she felt something she had not expected: not just disappointment about the week, but a corrosive doubt about the whole enterprise. Maybe she was not the kind of person this worked for. Maybe the protocol was too demanding for someone with genuine adult responsibilities.\n\nThese thoughts are not unique to Elena.\n\nThey appear, with almost identical content, at some point in the journey of nearly every person who undertakes a serious behavior change program. Researchers call it the abstinence violation effect: the moment a slip occurs, the interpretation of that slip does more damage than the slip itself.\n\nElena applied the Re-Entry Protocol on Saturday. She wrote one sentence: This was a genuine emergency week and the disruption was proportionate to the circumstances. She reset Monday as Day One.\n\nOn Monday morning, she completed the longest deep work session of the entire protocol.\n\nThe week's disruption had not erased nineteen days of neurological progress. What it had threatened was her narrative. The protocol restored the narrative.\n\n---\n\nThe Relapse Map chapter of The Focus Reset is the part most productivity books leave out entirely. It is also the part that makes everything else sustainable.\n\n👉 Get the full book at Publixion.com\n\n#Focus #DeepWork #Productivity #BehaviorChange #Publixion #FocusReset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is from Chapter Nine of The Focus Reset — the chapter most productivity books never write.\n\n---\n\nOn Day Nineteen of her thirty-day protocol, Elena had what she later described as the worst week of her professional year.\n\nHer mother was hospitalized. A product launch failed. Her sleep collapsed.\n\nBy Friday: zero deep work sessions completed.\n\nAnd on Friday evening, she felt something she had not expected. Not just disappointment — but the corrosive doubt that this whole thing was not for people like her.\n\nResearchers call it the abstinence violation effect. The slip is not what breaks most behavior change attempts. The story told about the slip is.\n\nElena applied the Re-Entry Protocol on Saturday. Wrote one sentence in her journal. Reset Monday as Day One.\n\nOn Monday morning she completed the longest focus session of the entire protocol.\n\nThe nineteen days of neurological progress were still there. Only the narrative had been threatened.\n\n---\n\nThe Relapse Map is the chapter that makes the rest of the system sustainable.\n\n👉 Read it at Publixion.com\n\n#Focus #Productivity #DeepWork #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A5c4xw20FaZOi_RJWoH3oeN\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Day 19 of her 30-day focus protocol.\n\nHer mother was in hospital. A product launch collapsed. Sleep gone. Phone back by the bed.\n\nBy Friday: zero sessions. Zero.\n\nAnd that Friday evening, she felt it — the thought that this whole thing just wasn't for people like her.\n\nResearchers call it the abstinence violation effect.\n\nThe slip rarely breaks behavior change. The story you tell about the slip does.\n\nShe wrote one sentence on Saturday. Reset Monday as Day One.\n\nMonday: her longest session of the entire protocol.\n\nThe 19 days were still there. Only the narrative had been threatened.\n\nThis chapter — the Relapse Map — is the part most productivity books never write. It is the part that makes everything else last.\n\nLink in bio.\n\n#FocusReset #Productivity #DeepWork #BehaviorChange #Focus #Publixion #AttentionSpan #Motivation #Mindset #GrowthMindset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AVGIcyf9xqMI89GNXBUCiCu\"}}"
       }
     }
   },
