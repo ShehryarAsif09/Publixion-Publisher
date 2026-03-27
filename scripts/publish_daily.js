@@ -53,13 +53,18 @@ function getCurrentSlot() {
 function pickPostsForSlot(queue, date, slot) {
   return queue.filter(post => {
     if (post.status === 'done') return false;
+    // Future posts — never touch
     if (post.scheduled_date > date) return false;
+    // Today's posts — only pick if time slot matches
     if (post.scheduled_date === date && post.scheduled_time !== slot) return false;
+    // Past-dated posts — always eligible regardless of original time slot
     return Object.values(post.platforms).some(p => p.enabled && p.status === 'pending');
-  }).sort((a, b) => {
+  })
+  .sort((a, b) => {
     if (a.scheduled_date !== b.scheduled_date) return a.scheduled_date.localeCompare(b.scheduled_date);
     return a.priority - b.priority || a.post_number - b.post_number;
-  }).slice(0, 8);
+  })
+  .slice(0, 8);
 }
 
 // ── LINKEDIN ──────────────────────────────────────────────────────────
