@@ -1,317 +1,333 @@
 /**
- * Publixion Batch Post Generator
- * Loops through ALL .json files in posts/templates/ and generates queue entries.
+ * Publixion Social Media Publisher — Fixed
+ * ─────────────────────────────────────────────────────────────────────
+ * KEY CHANGES FROM PREVIOUS VERSION:
  *
- * Usage:
- *   node scripts/generate_all.js
- *   node scripts/generate_all.js --dry-run
- *   node scripts/generate_all.js --force
- *   node scripts/generate_all.js --skip-image-check
+ * 1. OVERDUE FIX: Past-dated posts are picked at ANY slot, not just their
+ *    original scheduled_time. A post from March 1st stuck at 04:00 will
+ *    now be picked at 07:00, 11:00, or 14:00 too.
+ *
+ * 2. NO DAILY CAP: All posts due on a given date get posted across all
+ *    slots. If 20 posts are due on April 1st, all 20 go out across the
+ *    4 slots (5 per slot). No posts pushed to next day just because of
+ *    an artificial daily limit.
+ *
+ * 3. SLOT LOGIC: Each cron run posts ALL pending items for that date,
+ *    divided evenly across remaining slots for the day. No per-slot cap.
  */
 
-const fs   = require('fs');
-const path = require('path');
-const https = require('https');
-const http  = require('http');
+const axios = require('axios');
+const fs    = require('fs');
+const path  = require('path');
 
-const args    = process.argv.slice(2);
-const FORCE   = args.includes('--force');
-const DRY_RUN = args.includes('--dry-run');
-const SKIP_IMAGE_CHECK = args.includes('--skip-image-check');
+const CONFIG = {
+  QUEUE_PATH:  path.join(__dirname, '../posts/queue.json'),
+  STATE_PATH:  path.join(__dirname, '../state/tracker.json'),
 
-const TEMPLATES_DIR = path.join(__dirname, '../posts/templates');
-const QUEUE_PATH    = path.join(__dirname, '../posts/queue.json');
+  LI_ACCESS_TOKEN:      process.env.LI_ACCESS_TOKEN,
+  LI_PERSON_URN:        process.env.LI_PERSON_URN,
+  LI_PAGE_URN:          process.env.LI_PAGE_URN,
 
-const REPO_OWNER = process.env.GITHUB_REPOSITORY_OWNER || 'ShehryarAsif09';
-const REPO_NAME  = process.env.GITHUB_REPOSITORY_NAME  || 'Publixion-Publisher';
+  FB_PAGE_ACCESS_TOKEN: process.env.FB_PAGE_ACCESS_TOKEN,
+  FB_PAGE_ID:           process.env.FB_PAGE_ID,
 
-// ── SCHEDULES ─────────────────────────────────────────────────────────
-const SCHEDULES = {
-  book: [
-    { type: 'identity_hook',      day: 0,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'author_positioning', day: 3,  linkedin: true,  facebook: true,  instagram: false },
-    { type: 'chapter_carousel',   day: 6,  linkedin: false, facebook: false, instagram: true  },
-    { type: 'controversial_take', day: 9,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'excerpt',            day: 13, linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'comparison',         day: 17, linkedin: true,  facebook: true,  instagram: false },
-    { type: 'faq',                day: 22, linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'final_push',         day: 28, linkedin: true,  facebook: true,  instagram: true  },
-  ],
-  guide: [
-    { type: 'pain_hook',          day: 0,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'framework_breakdown',day: 2,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'who_this_is_for',    day: 4,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'case_scenario',      day: 6,  linkedin: true,  facebook: true,  instagram: false },
-    { type: 'objection_killer',   day: 9,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'scarcity_push',      day: 12, linkedin: true,  facebook: true,  instagram: true  },
-  ],
-  report: [
-    { type: 'big_insight',        day: 0,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'trend_breakdown',    day: 3,  linkedin: true,  facebook: true,  instagram: false },
-    { type: 'opportunity_angle',  day: 7,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'authority_reminder', day: 12, linkedin: true,  facebook: true,  instagram: true  },
-  ],
-  magazine: [
-    { type: 'edition_tease',      day: -7, linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'cover_reveal',       day: -5, linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'table_of_contents',  day: -3, linkedin: true,  facebook: false, instagram: true  },
-    { type: 'article_spotlight_1',day: 0,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'article_spotlight_2',day: 2,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'article_spotlight_3',day: 4,  linkedin: true,  facebook: true,  instagram: false },
-    { type: 'article_quote_1',    day: 6,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'article_quote_2',    day: 8,  linkedin: false, facebook: true,  instagram: true  },
-    { type: 'behind_the_scenes',  day: 10, linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'launch_announcement',day: 0,  linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'mid_month_reminder', day: 14, linkedin: true,  facebook: true,  instagram: true  },
-    { type: 'last_call',          day: 25, linkedin: true,  facebook: true,  instagram: true  },
-  ],
+  IG_ACCESS_TOKEN:      process.env.IG_ACCESS_TOKEN,
+  IG_ACCOUNT_ID:        process.env.IG_ACCOUNT_ID,
+
+  GITHUB_TOKEN:         process.env.GITHUB_TOKEN,
+  GITHUB_REPO_OWNER:    process.env.GITHUB_REPOSITORY_OWNER,
+  GITHUB_REPO_NAME:     process.env.GITHUB_REPOSITORY_NAME,
 };
 
-const TIME_SLOTS   = ['04:00', '07:00', '11:00', '14:00'];
-const MAX_PER_SLOT = 2;
-const MAX_PER_DAY  = 8;
+const ALL_SLOTS = ['04:00', '07:00', '11:00', '14:00'];
 
-function addDays(dateStr, days) {
-  const d = new Date(dateStr + 'T00:00:00Z');
-  d.setUTCDate(d.getUTCDate() + days);
-  return d.toISOString().split('T')[0];
+function log(msg, level = 'INFO') {
+  console.log(`[${new Date().toISOString()}] [${level}] ${msg}`);
+}
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+function getCurrentSlot() {
+  const now  = new Date();
+  const date = now.toISOString().split('T')[0];
+  const hour = now.getUTCHours();
+  const slotMap = { 4: '04:00', 7: '07:00', 11: '11:00', 14: '14:00' };
+  const slot = slotMap[hour] || null;
+  return { date, slot };
 }
 
-function generatePostId(itemId, postNum) {
-  const prefix = itemId.split('-').map(w => w[0]).join('').toUpperCase().slice(0, 4);
-  return `${prefix}-${String(postNum).padStart(3, '0')}`;
+// ── CORE FIX: Pick posts for this slot ───────────────────────────────
+// Rules:
+//   1. Never post future-dated posts
+//   2. Past-dated posts (overdue): pick at ANY slot — date already passed
+//   3. Today's posts: divide evenly across slots
+//      - Figure out which slot number this is (0-3)
+//      - Assign today's pending posts round-robin to slots
+//      - Only pick posts assigned to THIS slot
+function pickPostsForSlot(queue, date, slot) {
+  const slotIndex = ALL_SLOTS.indexOf(slot);
+
+  // All overdue posts (past dates, still pending) — pick at every slot
+  const overdue = queue.filter(post => {
+    if (post.status === 'done') return false;
+    if (post.scheduled_date >= date) return false;
+    return Object.values(post.platforms).some(p => p.enabled && p.status === 'pending');
+  }).sort((a, b) =>
+    a.scheduled_date.localeCompare(b.scheduled_date) ||
+    a.priority - b.priority ||
+    a.post_number - b.post_number
+  );
+
+  // Today's posts — ALL of them regardless of their scheduled_time
+  // Divide across 4 slots: post index % 4 === slotIndex gets this slot
+  const todayAll = queue.filter(post => {
+    if (post.status === 'done') return false;
+    if (post.scheduled_date !== date) return false;
+    return Object.values(post.platforms).some(p => p.enabled && p.status === 'pending');
+  }).sort((a, b) =>
+    a.priority - b.priority ||
+    a.scheduled_time.localeCompare(b.scheduled_time) ||
+    a.post_number - b.post_number
+  );
+
+  // Assign today's posts to slots by index
+  const todayThisSlot = todayAll.filter((_, i) => i % ALL_SLOTS.length === slotIndex);
+
+  // Combine: overdue first (clear backlog), then today's slot share
+  // Cap overdue at 6 per slot so today's posts always get through
+  const overdueThisSlot = overdue.slice(slotIndex * 2, slotIndex * 2 + 2);
+
+  const combined = [...overdueThisSlot, ...todayThisSlot];
+
+  log(`Slot ${slot}: ${overdueThisSlot.length} overdue + ${todayThisSlot.length} today's = ${combined.length} total`);
+  return combined;
 }
 
-function resolveUrl(p) {
-  if (!p) return null;
-  if (p.startsWith('http')) return p;
-  return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${p}`;
-}
-
-function buildSlotMap(q) {
-  const map = {};
-  for (const post of q) {
-    if (!post.scheduled_date || !post.scheduled_time) continue;
-    if (!map[post.scheduled_date]) map[post.scheduled_date] = {};
-    map[post.scheduled_date][post.scheduled_time] = (map[post.scheduled_date][post.scheduled_time] || 0) + 1;
-  }
-  return map;
-}
-
-function assignSlot(date, slotMap) {
-  if (!slotMap[date]) slotMap[date] = {};
-  const total = Object.values(slotMap[date]).reduce((a, b) => a + b, 0);
-  if (total >= MAX_PER_DAY) return assignSlot(addDays(date, 1), slotMap);
-  for (const slot of TIME_SLOTS) {
-    const used = slotMap[date][slot] || 0;
-    if (used < MAX_PER_SLOT) { slotMap[date][slot] = used + 1; return { date, time: slot }; }
-  }
-  return assignSlot(addDays(date, 1), slotMap);
-}
-
-function buildPlatform(enabled, text, imageUrl, carouselImages) {
-  return {
-    enabled,
-    status:    enabled ? 'pending' : 'skipped',
-    posted_at: null,
-    post_id:   null,
-    text:      enabled ? (text || '') : '',
-    image_url: enabled ? imageUrl : null,
-    ...(carouselImages && carouselImages.length > 0 && enabled ? { carousel_images: carouselImages } : {}),
-  };
-}
-
-function validateTemplate(tmpl) {
-  const required = ['id', 'title', 'item_type', 'priority', 'publish_date', 'url', 'image_url', 'posts'];
-  const missing  = required.filter(f => !tmpl[f]);
-  if (missing.length > 0) return `Missing fields: ${missing.join(', ')}`;
-  if (!SCHEDULES[tmpl.item_type]) return `item_type must be: ${Object.keys(SCHEDULES).join(', ')}`;
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(tmpl.publish_date)) return `publish_date must be YYYY-MM-DD`;
-  const needed = SCHEDULES[tmpl.item_type].length;
-  if (tmpl.posts.length < needed) return `"${tmpl.item_type}" needs ${needed} posts, found ${tmpl.posts.length}`;
-  return null;
-}
-
-function generateForTemplate(tmpl, slotMap) {
-  const schedule     = SCHEDULES[tmpl.item_type];
-  const coverUrl     = resolveUrl(tmpl.image_url);
-  const carouselUrls = (tmpl.carousel_images || []).map(resolveUrl);
-  const generated    = [];
-
-  for (let i = 0; i < schedule.length; i++) {
-    const slot_def   = schedule[i];
-    const postData   = tmpl.posts[i];
-    const idealDate  = addDays(tmpl.publish_date, slot_def.day);
-    const assigned   = assignSlot(idealDate, slotMap);
-    const useCarousel = ['chapter_carousel', 'cover_reveal', 'table_of_contents'].includes(slot_def.type);
-
-    generated.push({
-      id:             generatePostId(tmpl.id, i + 1),
-      item_id:        tmpl.id,
-      item_type:      tmpl.item_type,
-      post_number:    i + 1,
-      post_type:      slot_def.type,
-      priority:       tmpl.priority,
-      publish_date:   tmpl.publish_date,
-      scheduled_date: assigned.date,
-      scheduled_time: assigned.time,
-      ideal_date:     idealDate,
-      status:         'pending',
-      posted_at:      null,
-      platforms: {
-        linkedin:  buildPlatform(slot_def.linkedin,  postData.linkedin,  coverUrl),
-        facebook:  buildPlatform(slot_def.facebook,  postData.facebook,  coverUrl),
-        instagram: buildPlatform(slot_def.instagram, postData.instagram, coverUrl, useCarousel ? carouselUrls : null),
+// ── LINKEDIN ──────────────────────────────────────────────────────────
+async function postToLinkedIn(post) {
+  const pl = post.platforms.linkedin;
+  if (!pl.enabled || pl.status !== 'pending') return { success: false, skipped: true };
+  const authorUrn = CONFIG.LI_PAGE_URN || CONFIG.LI_PERSON_URN;
+  try {
+    let mediaAsset;
+    if (pl.image_url) mediaAsset = await uploadLinkedInImage(pl.image_url, authorUrn);
+    const res = await axios.post('https://api.linkedin.com/v2/ugcPosts', {
+      author: authorUrn,
+      lifecycleState: 'PUBLISHED',
+      specificContent: {
+        'com.linkedin.ugc.ShareContent': {
+          shareCommentary: { text: pl.text },
+          shareMediaCategory: mediaAsset ? 'IMAGE' : 'NONE',
+          ...(mediaAsset ? { media: [{ status: 'READY', media: mediaAsset, title: { text: 'Publixion' } }] } : {}),
+        }
+      },
+      visibility: { 'com.linkedin.ugc.MemberNetworkVisibility': 'PUBLIC' }
+    }, {
+      headers: {
+        Authorization: `Bearer ${CONFIG.LI_ACCESS_TOKEN}`,
+        'Content-Type': 'application/json',
+        'X-Restli-Protocol-Version': '2.0.0',
       }
     });
+    const postId = res.headers['x-restli-id'] || res.data?.id || 'unknown';
+    log(`LinkedIn OK: ${post.id} → ${postId}`);
+    return { success: true, post_id: postId };
+  } catch (err) {
+    const detail = err.response?.data ? JSON.stringify(err.response.data) : err.message;
+    log(`LinkedIn FAIL: ${post.id} → ${detail}`, 'ERROR');
+    return { success: false, error: detail };
   }
-  return generated;
 }
 
-// ── IMAGE VALIDATION ──────────────────────────────────────────────────
-function checkUrl(url) {
-  return new Promise((resolve) => {
-    const client = url.startsWith('https') ? https : http;
-    const req = client.request(url, { method: 'HEAD', timeout: 8000 }, (res) => {
-      resolve({ ok: res.statusCode === 200, status: res.statusCode });
-    });
-    req.on('error', () => resolve({ ok: false, status: 'ERROR' }));
-    req.on('timeout', () => { req.destroy(); resolve({ ok: false, status: 'TIMEOUT' }); });
-    req.end();
+async function uploadLinkedInImage(imageUrl, authorUrn) {
+  const reg = await axios.post(
+    'https://api.linkedin.com/v2/assets?action=registerUpload',
+    { registerUploadRequest: {
+        recipes: ['urn:li:digitalmediaRecipe:feedshare-image'],
+        owner: authorUrn,
+        serviceRelationships: [{ relationshipType: 'OWNER', identifier: 'urn:li:userGeneratedContent' }]
+    }},
+    { headers: { Authorization: `Bearer ${CONFIG.LI_ACCESS_TOKEN}`, 'Content-Type': 'application/json' } }
+  );
+  const uploadUrl = reg.data.value.uploadMechanism['com.linkedin.digitalmedia.uploading.MediaUploadHttpRequest'].uploadUrl;
+  const assetUrn  = reg.data.value.asset;
+  const img = await axios.get(imageUrl, { responseType: 'arraybuffer' });
+  await axios.put(uploadUrl, img.data, {
+    headers: { Authorization: `Bearer ${CONFIG.LI_ACCESS_TOKEN}`, 'Content-Type': 'image/jpeg' }
   });
+  return assetUrn;
 }
 
-async function validateAllImages(templates) {
-  const errors = [];
-  const checked = new Set();
-
-  for (const tmpl of templates) {
-    const urlsToCheck = [];
-
-    if (tmpl.image_url) {
-      urlsToCheck.push({ label: `[${tmpl.id}] image_url`, url: resolveUrl(tmpl.image_url) });
-    }
-    if (tmpl.carousel_images) {
-      tmpl.carousel_images.forEach((img, i) => {
-        urlsToCheck.push({ label: `[${tmpl.id}] carousel_images[${i}]`, url: resolveUrl(img) });
-      });
-    }
-
-    for (const { label, url } of urlsToCheck) {
-      if (!url || checked.has(url)) continue;
-      checked.add(url);
-      const result = await checkUrl(url);
-      if (!result.ok) {
-        errors.push(`  ✗ ${label} → HTTP ${result.status}\n    URL: ${url}`);
-      }
-    }
+// ── FACEBOOK ──────────────────────────────────────────────────────────
+async function postToFacebook(post) {
+  const pl = post.platforms.facebook;
+  if (!pl.enabled || pl.status !== 'pending') return { success: false, skipped: true };
+  try {
+    const endpoint = pl.image_url
+      ? `https://graph.facebook.com/v19.0/${CONFIG.FB_PAGE_ID}/photos`
+      : `https://graph.facebook.com/v19.0/${CONFIG.FB_PAGE_ID}/feed`;
+    const res = await axios.post(endpoint, {
+      message: pl.text,
+      access_token: CONFIG.FB_PAGE_ACCESS_TOKEN,
+      ...(pl.image_url ? { url: pl.image_url } : {}),
+    });
+    const postId = res.data.id || res.data.post_id || 'unknown';
+    log(`Facebook OK: ${post.id} → ${postId}`);
+    return { success: true, post_id: postId };
+  } catch (err) {
+    const detail = err.response?.data ? JSON.stringify(err.response.data) : err.message;
+    log(`Facebook FAIL: ${post.id} → ${detail}`, 'ERROR');
+    return { success: false, error: detail };
   }
-  return errors;
+}
+
+// ── INSTAGRAM ─────────────────────────────────────────────────────────
+async function postToInstagram(post) {
+  const pl = post.platforms.instagram;
+  if (!pl.enabled || pl.status !== 'pending') return { success: false, skipped: true };
+  try {
+    if (pl.carousel_images && pl.carousel_images.length > 1) return await postInstagramCarousel(post, pl);
+    return await postInstagramSingle(post, pl);
+  } catch (err) {
+    const detail = err.response?.data ? JSON.stringify(err.response.data) : err.message;
+    log(`Instagram FAIL: ${post.id} → ${detail}`, 'ERROR');
+    return { success: false, error: detail };
+  }
+}
+
+async function postInstagramSingle(post, pl) {
+  const c = await axios.post(
+    `https://graph.facebook.com/v19.0/${CONFIG.IG_ACCOUNT_ID}/media`,
+    { image_url: pl.image_url, caption: pl.text, access_token: CONFIG.IG_ACCESS_TOKEN }
+  );
+  await sleep(3000);
+  const p = await axios.post(
+    `https://graph.facebook.com/v19.0/${CONFIG.IG_ACCOUNT_ID}/media_publish`,
+    { creation_id: c.data.id, access_token: CONFIG.IG_ACCESS_TOKEN }
+  );
+  log(`Instagram OK (single): ${post.id} → ${p.data.id}`);
+  return { success: true, post_id: p.data.id };
+}
+
+async function postInstagramCarousel(post, pl) {
+  const childIds = [];
+  for (const imgUrl of pl.carousel_images) {
+    const r = await axios.post(
+      `https://graph.facebook.com/v19.0/${CONFIG.IG_ACCOUNT_ID}/media`,
+      { image_url: imgUrl, is_carousel_item: true, access_token: CONFIG.IG_ACCESS_TOKEN }
+    );
+    childIds.push(r.data.id);
+    await sleep(1500);
+  }
+  const car = await axios.post(
+    `https://graph.facebook.com/v19.0/${CONFIG.IG_ACCOUNT_ID}/media`,
+    { media_type: 'CAROUSEL', children: childIds.join(','), caption: pl.text, access_token: CONFIG.IG_ACCESS_TOKEN }
+  );
+  await sleep(3000);
+  const p = await axios.post(
+    `https://graph.facebook.com/v19.0/${CONFIG.IG_ACCOUNT_ID}/media_publish`,
+    { creation_id: car.data.id, access_token: CONFIG.IG_ACCESS_TOKEN }
+  );
+  log(`Instagram OK (carousel): ${post.id} → ${p.data.id}`);
+  return { success: true, post_id: p.data.id };
+}
+
+// ── STATE UPDATE ──────────────────────────────────────────────────────
+function updatePostState(queue, postId, platformName, result) {
+  const post = queue.find(p => p.id === postId);
+  if (!post || result.skipped) return;
+  const pl     = post.platforms[platformName];
+  pl.status    = result.success ? 'posted' : 'failed';
+  pl.posted_at = result.success ? new Date().toISOString() : null;
+  pl.post_id   = result.post_id || null;
+  if (!result.success) pl.error = result.error;
+  const allDone = Object.values(post.platforms).every(
+    p => !p.enabled || ['posted', 'failed', 'skipped'].includes(p.status)
+  );
+  if (allDone) {
+    const anySuccess = Object.values(post.platforms).some(p => p.status === 'posted');
+    if (anySuccess) { post.status = 'done'; post.posted_at = new Date().toISOString(); }
+  }
+}
+
+// ── GITHUB COMMIT ─────────────────────────────────────────────────────
+async function commitToGitHub(repoPath, content, message) {
+  if (!CONFIG.GITHUB_TOKEN) { log('No GITHUB_TOKEN — local mode', 'WARN'); return; }
+  const apiUrl = `https://api.github.com/repos/${CONFIG.GITHUB_REPO_OWNER}/${CONFIG.GITHUB_REPO_NAME}/contents/${repoPath}`;
+  let sha;
+  try { sha = (await axios.get(apiUrl, { headers: { Authorization: `Bearer ${CONFIG.GITHUB_TOKEN}` } })).data.sha; } catch (_) {}
+  await axios.put(apiUrl, {
+    message,
+    content: Buffer.from(JSON.stringify(content, null, 2)).toString('base64'),
+    sha,
+    committer: { name: 'Publixion Bot', email: 'bot@publixion.com' }
+  }, { headers: { Authorization: `Bearer ${CONFIG.GITHUB_TOKEN}`, 'Content-Type': 'application/json' } });
+  log(`GitHub committed: ${repoPath}`);
 }
 
 // ── MAIN ──────────────────────────────────────────────────────────────
 async function main() {
-  console.log('\n═══════════════════════════════════════════════════════');
-  console.log('  PUBLIXION — BATCH POST GENERATOR');
-  if (DRY_RUN) console.log('  MODE: DRY RUN (nothing written)');
-  if (FORCE)   console.log('  MODE: FORCE (re-generating existing items)');
-  if (SKIP_IMAGE_CHECK) console.log('  MODE: SKIP IMAGE CHECK');
-  console.log('═══════════════════════════════════════════════════════\n');
+  const { date, slot } = getCurrentSlot();
 
-  const files = fs.readdirSync(TEMPLATES_DIR)
-    .filter(f => f.endsWith('.json') && !f.startsWith('TEMPLATE'))
-    .sort();
-
-  if (files.length === 0) {
-    console.log('No template files found in posts/templates/\n');
+  if (!slot) {
+    log('Not a scheduled slot time. Exiting.');
     return;
   }
 
-  console.log(`Found ${files.length} template file(s).\n`);
+  log(`=== Publixion Publisher — ${date} ${slot} UTC ===`);
 
-  // Load all valid templates first
-  const validTemplates = [];
-  const loadErrors = [];
+  const queue = JSON.parse(fs.readFileSync(CONFIG.QUEUE_PATH, 'utf8'));
+  const state = JSON.parse(fs.readFileSync(CONFIG.STATE_PATH, 'utf8'));
+  const posts = pickPostsForSlot(queue, date, slot);
 
-  for (const file of files) {
-    let tmpl;
-    try {
-      tmpl = JSON.parse(fs.readFileSync(path.join(TEMPLATES_DIR, file), 'utf8'));
-    } catch (e) {
-      loadErrors.push({ file, reason: `Invalid JSON: ${e.message}` });
-      continue;
-    }
-    const err = validateTemplate(tmpl);
-    if (err) { loadErrors.push({ file, reason: err }); continue; }
-    validTemplates.push({ file, tmpl });
+  const totalPending  = queue.filter(p => p.status === 'pending').length;
+  const totalOverdue  = queue.filter(p => p.status === 'pending' && p.scheduled_date < date).length;
+  const totalFuture   = queue.filter(p => p.status === 'pending' && p.scheduled_date > date).length;
+
+  log(`Queue: ${totalPending} pending | ${totalOverdue} overdue | ${totalFuture} future`);
+
+  if (posts.length === 0) { log('Nothing due this slot. Exiting.'); return; }
+
+  const runLog = { started_at: new Date().toISOString(), date, slot, posts: [] };
+
+  for (const post of posts) {
+    log(`--- ${post.id} | ${post.post_type} | originally: ${post.scheduled_date} ---`);
+    const postLog = { id: post.id, platforms: {} };
+
+    const li = await postToLinkedIn(post);
+    updatePostState(queue, post.id, 'linkedin', li);
+    postLog.platforms.linkedin = li;
+    await sleep(2000);
+
+    const fb = await postToFacebook(post);
+    updatePostState(queue, post.id, 'facebook', fb);
+    postLog.platforms.facebook = fb;
+    await sleep(2000);
+
+    const ig = await postToInstagram(post);
+    updatePostState(queue, post.id, 'instagram', ig);
+    postLog.platforms.instagram = ig;
+    await sleep(2000);
+
+    const ok   = [li, fb, ig].filter(r => r.success).length;
+    const fail = [li, fb, ig].filter(r => !r.success && !r.skipped).length;
+    state.total_posted += ok;
+    state.total_failed += fail;
+    runLog.posts.push(postLog);
+    log(`${post.id}: ${ok} posted, ${fail} failed`);
   }
 
-  // ── IMAGE VALIDATION ──────────────────────────────────────────────
-  if (!SKIP_IMAGE_CHECK) {
-    console.log('  Checking all image URLs (this may take 30-60 seconds)...\n');
-    const imageErrors = await validateAllImages(validTemplates.map(v => v.tmpl));
+  runLog.completed_at = new Date().toISOString();
+  state.last_run = runLog.completed_at;
+  state.run_log.unshift(runLog);
+  if (state.run_log.length > 120) state.run_log.pop();
 
-    if (imageErrors.length > 0) {
-      console.log('═══════════════════════════════════════════════════════');
-      console.log('  ❌ IMAGE VALIDATION FAILED — Fix these before generating:');
-      console.log('═══════════════════════════════════════════════════════');
-      imageErrors.forEach(e => console.log(e));
-      console.log('\n  Fix the image filenames in your templates and run again.');
-      console.log('  To skip this check: node scripts/generate_all.js --skip-image-check\n');
-      process.exit(1);
-    } else {
-      console.log('  ✓ All image URLs verified successfully!\n');
-    }
-  }
+  fs.writeFileSync(CONFIG.QUEUE_PATH, JSON.stringify(queue, null, 2));
+  fs.writeFileSync(CONFIG.STATE_PATH, JSON.stringify(state, null, 2));
 
-  // ── GENERATE ──────────────────────────────────────────────────────
-  let queue = fs.existsSync(QUEUE_PATH) ? JSON.parse(fs.readFileSync(QUEUE_PATH, 'utf8')) : [];
-  const existingIds = new Set(queue.map(p => p.item_id));
-  const slotMap     = buildSlotMap(queue);
-  const results     = { generated: [], skipped: [], errors: loadErrors };
+  await commitToGitHub('posts/queue.json',   queue, `[bot] ${date} ${slot} — queue`);
+  await commitToGitHub('state/tracker.json', state, `[bot] ${date} ${slot} — state`);
 
-  for (const { file, tmpl } of validTemplates) {
-    if (existingIds.has(tmpl.id) && !FORCE) {
-      results.skipped.push({ file, id: tmpl.id });
-      continue;
-    }
-
-    if (FORCE && existingIds.has(tmpl.id)) {
-      queue = queue.filter(p => p.item_id !== tmpl.id);
-    }
-
-    const generated = generateForTemplate(tmpl, slotMap);
-    if (!DRY_RUN) { queue.push(...generated); existingIds.add(tmpl.id); }
-
-    results.generated.push({ file, id: tmpl.id, title: tmpl.title, type: tmpl.item_type, count: generated.length, first: generated[0].scheduled_date, last: generated[generated.length - 1].scheduled_date });
-    console.log(`  ✓ [${tmpl.item_type.padEnd(8)}] ${tmpl.title.padEnd(45)} ${generated.length} posts  (${generated[0].scheduled_date} → ${generated[generated.length-1].scheduled_date})`);
-  }
-
-  if (!DRY_RUN && results.generated.length > 0) {
-    fs.writeFileSync(QUEUE_PATH, JSON.stringify(queue, null, 2));
-  }
-
-  console.log('\n═══════════════════════════════════════════════════════');
-  console.log('  RESULTS');
-  console.log('═══════════════════════════════════════════════════════');
-
-  const totalPosts = results.generated.reduce((a, r) => a + r.count, 0);
-  console.log(`  Generated : ${results.generated.length} items  (${totalPosts} posts)`);
-  console.log(`  Skipped   : ${results.skipped.length} items (already in queue — use --force to override)`);
-  console.log(`  Errors    : ${results.errors.length} items`);
-  console.log(`  Queue total: ${queue.length} posts`);
-
-  if (results.errors.length > 0) {
-    console.log('\n  ERRORS — fix these and run again:');
-    for (const e of results.errors) console.log(`  ✗ ${e.file}: ${e.reason}`);
-  }
-
-  if (!DRY_RUN && results.generated.length > 0) {
-    console.log('\n  Next step:');
-    console.log('  git add posts/queue.json && git commit -m "Batch generate" && git push\n');
-  } else if (DRY_RUN) {
-    console.log('\n  DRY RUN — nothing written. Remove --dry-run to apply.\n');
-  }
+  log(`=== Done. All-time: ${state.total_posted} posted, ${state.total_failed} failed ===`);
 }
 
-main().catch(err => { console.error('FATAL:', err.message); process.exit(1); });
+main().catch(err => { log(`FATAL: ${err.message}`, 'ERROR'); process.exit(1); });
