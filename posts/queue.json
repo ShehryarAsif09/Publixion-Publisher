@@ -216,30 +216,31 @@
     "scheduled_date": "2026-03-13",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-13",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T05:41:57.615Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The 30-Day Digital Product Launch Plan is currently $37.\n\nThat price increases to $47 at the end of this campaign window as we add a new bonus module: the Product Pricing Masterclass — covering how to price your digital product at the exact point that maximizes revenue without killing conversion.\n\nIf you grab it before the price increase, you get it at launch price and the bonus module free when it drops.\n\nHere's what's waiting on the other side of buying this guide:\n\nA step-by-step system that removes every reason to keep delaying your launch. Day-by-day tasks. Templates for every stage. A proven 6-phase framework. A real case study showing $4,089 generated in 60 days from a first digital product.\n\nYour idea has been sitting long enough.\n\n👉 Lock in $37 now: https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #LastChance #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T05:41:38.226Z",
+        "post_id": "122102748434948582",
         "text": "Heads up — the 30-Day Digital Product Launch Plan goes from $37 to $47 at the end of this week.\n\nWe're adding a bonus Product Pricing Masterclass module to the guide, and the price reflects that addition.\n\nEveryone who buys at $37 before the deadline gets the bonus module free when it launches.\n\nIf you've been on the fence — this is the window.\n\n👉 https://publixion.com/guides/30-day-digital-product-launch\n\n#DigitalProducts #PriceIncrease #OnlineBusiness",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T05:41:57.615Z",
+        "post_id": "18099842182944973",
         "text": "Price going up on this one.\n\nThe 30-Day Digital Product Launch Plan moves from $37 → $47 at the end of this week when we add the bonus Product Pricing Masterclass module.\n\nBuy now at $37 and get the bonus module free when it drops.\n\nL.A.U.N.C.H.™ Framework. 18 pages. Every template included. Day-by-day execution plan.\n\nLink in bio.\n\n#DigitalProducts #LastChance #Solopreneur #OnlineBusiness #ProductLaunch #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/30-day-digital-product-launch-plan.png"
       }
@@ -910,30 +911,31 @@
     "scheduled_date": "2026-03-13",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-13",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T05:41:28.026Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Let me clear up the hesitations.\n\n\"$1K/month sounds low. Is this worth my time?\"\n$1K/month is the floor, not the ceiling. The guide includes a 90-day roadmap that scales the same model to $3K–$5K/month using the same clients and system — just more of it.\n\n\"I don't know which niche to pick.\"\nThe guide includes the Audience Selection Matrix — a scoring tool that evaluates niches on 5 dimensions including market size, willingness to pay, and AI applicability. You'll know your niche by page 8.\n\n\"I don't know if AI can actually deliver quality for clients.\"\nThe guide focuses specifically on AI-assisted delivery — where AI handles the repeatable work and you handle quality control. Clients get faster delivery. You get scale.\n\n\"Cold DMs feel gross.\"\nThe guide's cold DM script is built on the principle of specific value, not generic pitching. It leads with a direct insight about the prospect's business — not a promotional message. The response rate is meaningful because it doesn't feel like spam.\n\n\"What if I can't find clients?\"\nThe guide includes a daily outreach cadence, a follow-up sequence, and a discovery call playbook. It's not a strategy document — it's a contact sport.\n\n$27.\n\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #Objections #AI #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T05:41:14.838Z",
+        "post_id": "122102747834948582",
         "text": "Objections — answered:\n\n\"$1K/month isn't enough\" — It's the starting floor. The 90-day roadmap in the guide scales it to $3K–$5K/month with the same model.\n\n\"I don't know my niche\" — The Audience Selection Matrix in the guide helps you score and pick one by page 8.\n\n\"Can AI really deliver quality work?\" — The framework uses AI-assisted delivery — AI does the repeatable work, you handle quality control. Clients get faster results.\n\n\"Cold DMs don't work\" — The guide's script leads with a specific insight about the prospect's business. It's not spam — it's relevance.\n\n\"What if I can't find clients?\" — The guide gives you a daily outreach cadence, follow-up sequence, and discovery call playbook. It's a contact sport.\n\n$27.\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #AI #OnlineBusiness",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T05:41:28.026Z",
+        "post_id": "17937999351188961",
         "text": "\"I don't know if I can actually make $1K/month with AI.\"\n\nFair. Here's what the math actually looks like:\n\n4 clients × $250/month = $1,000\n3 clients × $350/month = $1,050\n2 clients × $500/month = $1,000\n\nAll three are achievable with the A.I.M.™ Framework's outreach system.\n\nThe guide shows you how to build the offer, find the clients, and deliver using AI.\n\n$27. Link in bio.\n\n#AISideHustle #AIIncome #MakeMoneyOnline #Solopreneur #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
       }
@@ -1124,19 +1126,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Let me show you exactly how this guide works in real life.\n\nMeet Aisha. Corporate marketing manager. 5 years experience. Wants to freelance but has no idea where to start.\n\nDay 1: She opens the guide and runs the Skill Audit. Lists 20 skills. Applies the monetization filter. Lands on email marketing as her #1.\n\nDay 2: She uses the Niche Lock Formula: \"I help e-commerce brands increase repeat purchase revenue using automated email sequences.\"\n\nDay 3: She builds her offer — \"Email Revenue Boost Package. 6 emails + A/B subject lines + 30-day performance report. $1,200 flat.\"\n\nDay 4–5: She optimizes her LinkedIn headline using the guide's template. Creates 2 mock case studies.\n\nDay 6: She starts outreach using the exact cold DM script in the guide. Sends 15 messages.\n\nDay 18: First reply turns into a discovery call. She uses the closing script from the guide.\n\nDay 18, evening: First client. $1,200. Closed.\n\nThis is not a hypothetical. This is the case study from the guide.\n\nThe system works if you follow it.\n\n👉 Download free: https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #ClientAcquisition #RealResults #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's a real walkthrough of how the Freelance Launch Guide gets used:\n\n📌 Week 1: Skill audit + niche selection + offer creation + LinkedIn optimization\n📌 Week 2: Build 3 sample case mockups + write outreach script + send 50 messages\n📌 Week 3: Book discovery calls + refine pitch + close first client\n📌 Week 4: Deliver + request testimonial + raise rate for next client\n\nThe case study in the guide shows a marketer going from zero clients to a $1,200 first project in 18 days.\n\nA beginner designer with no portfolio targeted real estate agents, sent 40 messages, and closed an $800 client in 3 weeks.\n\nThe system is linear. Follow it in order and it works.\n\n👉 Free download: https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #SideHustle #RealResults",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A-LU33x47FsHLQ-JIfte7uQ\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -1573,27 +1577,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The C.C.A.S.™ Guide is for a specific kind of learner.\n\nNot someone who's never bought an online course.\nNot someone with a clean, focused learning plan.\n\nThis is for you if:\n\n→ You have 5+ courses in your library that you've started but not finished\n→ You spend more time researching new courses than completing existing ones\n→ You finish courses but never actually build anything with what you learn\n→ You're a solopreneur, freelancer, or professional trying to upskill quickly — but the knowledge isn't translating into income or efficiency\n→ You've felt guilty about a half-watched Udemy course for longer than you'd like to admit\n→ You know exactly what skill you need — you just can't seem to get through the course that teaches it\n\nThis guide stops the loop.\n\n5 steps. 30 days. One course completed. One measurable output.\n\nFree. No email required.\n\n👉 https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #Solopreneur #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Who is this guide actually for?\n\n✅ You own 5+ courses and have fully completed fewer than 3\n✅ You buy new courses before finishing existing ones\n✅ You complete courses but never apply the knowledge to a real project\n✅ You're a freelancer, solopreneur, or professional trying to upskill but the knowledge isn't converting into income\n✅ You feel guilty about your unfinished course backlog\n\n❌ Not for people who complete courses consistently and already apply what they learn\n❌ Not for people looking for course recommendations (this is about completion, not discovery)\n\nIf you're in the first group — this system is yours.\n\nFree guide. Download now.\n👉 https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #Productivity #Freelancer",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AsRpkjW2F_v_NrY5MIB6gdC\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide was made for the ambitious learner who buys courses faster than they finish them.\n\nThe one with 12 tabs open, 8 platforms subscribed, and 0 completed projects to show for it.\n\nIf that's you — no judgment. It's a system problem, not a you problem.\n\nThe C.C.A.S.™ Framework gives you the system.\n\n30 days. One course done. One real output built.\n\nFree. Link in bio.\n\n#OnlineCourses #Productivity #SelfImprovement #CourseCompletion #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AULXj8bYNl7UqdB1NXBqhE0\"}}"
       }
     }
   },
@@ -1769,30 +1776,31 @@
     "scheduled_date": "2026-03-13",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-13",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T05:40:53.322Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "82% of paid communities never reach 100 paying members.\n\nThe ones that do aren't luckier. They're structured differently.\n\nHere's the Revenue Community Framework™ — the 5-step circular system inside the guide:\n\n——\n\n🎯 STEP 1 — POSITION & PROMISE\nYour community must solve ONE specific, painful problem for ONE specific person. \"A community for entrepreneurs\" is a hangout. \"A community for agency owners scaling past $20K/month\" is a tool with measurable ROI.\n\nUntil you can state your transformation in one sentence — you're not ready to launch.\n\n——\n\n🏗️ STEP 2 — MEMBERSHIP ARCHITECTURE\nThree tiers. That's it.\n• Free: Lead generation pool\n• Core ($15/month): Weekly Q&A, resource vault, accountability\n• Premium ($49/month): 1-on-1 coaching, DM access, priority feedback\n\nAt 150 Core + 60 Premium members = $6,087 MRR. In month 3.\n\n——\n\n⚙️ STEP 3 — ENGAGEMENT ENGINE\nA structured Mon–Fri weekly rhythm: Mini-training, Challenge, Poll, Live Q&A, Win Showcase. Members schedule their week around your community — retention becomes automatic.\n\n——\n\n🔄 STEP 4 — RETENTION LOOP\n67% of churn happens in the first 30 days. A 4-touchpoint onboarding sequence (Days 1, 3, 7, 30) achieves 70%+ 90-day retention. Templates for every email are inside the guide.\n\n——\n\n💰 STEP 5 — REVENUE MULTIPLIER\nSubscriptions are your floor. Quarterly workshops ($199–$499), digital product drops, and referral programs stack 40–60% additional revenue on top — and turn your best members into your best marketers.\n\n——\n\nThe framework is circular: Step 5 generates testimonials that feed Step 1. The community sells itself.\n\n→ https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RevenueFramework #RecurringRevenue #MRR #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T05:40:40.623Z",
+        "post_id": "122102746814948582",
         "text": "The Revenue Community Framework™ — the 5 steps that separate $5,000 MRR communities from abandoned Discord servers:\n\n🎯 Step 1 — Position & Promise: One transformation. One specific audience. One sentence that makes the right person say \"this is exactly what I need.\"\n\n🏗️ Step 2 — Membership Architecture: 3 tiers (Free → $15 Core → $49 Premium). At 150 Core + 60 Premium = $6,087/month. Attainable in 90 days.\n\n⚙️ Step 3 — Engagement Engine: A structured weekly rhythm (training, challenge, Q&A, win showcase) that makes your community a habit — not a chore.\n\n🔄 Step 4 — Retention Loop: A 4-touchpoint Day 1/3/7/30 onboarding sequence that achieves 70%+ 90-day retention. Templates included.\n\n💰 Step 5 — Revenue Multiplier: Workshops, product drops, referral programs — stacking 40–60% additional income on top of subscriptions.\n\nAnd it's circular: Step 5 produces testimonials that fuel Step 1. The longer the system runs, the faster it grows.\n\n👉 https://publixion.com/guides/build-paid-community-from-scratch\n\n#PaidCommunity #RecurringRevenue #CommunityBuilding #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T05:40:53.322Z",
+        "post_id": "18059746802406679",
         "text": "Why 82% of paid communities fail — and the framework that fixes it 👇\n\nThe Revenue Community Framework™:\n\nStep 1 — Position: One transformation. One audience. One sentence.\nStep 2 — Architecture: Free → $15 Core → $49 Premium. $6K MRR in month 3.\nStep 3 — Engagement: Weekly rhythm members plan their week around.\nStep 4 — Retention: 4 onboarding touchpoints. 70%+ 90-day retention.\nStep 5 — Revenue Multiplier: Workshops + products = 40–60% extra income.\n\nCircular system. Compounds every month.\n\nFull guide — link in bio. 🔗\n\n#PaidCommunity #RecurringRevenue #MRR #CommunityBuilding #CreatorEconomy #Publixion #OnlineBusiness #ContentCreator #BuildInPublic #PassiveIncome",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-paid-community-from-scratch.jpg"
       }
@@ -2010,30 +2018,31 @@
     "scheduled_date": "2026-03-14",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-14",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T05:42:17.404Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most Notion creators build templates they like.\n\nSuccessful Notion sellers build templates the market demands.\n\nThe difference is the T.E.M.P.L.A.T.E™ Framework — the 8-stage system inside the guide. Here's how it works:\n\n——\n\n🔍 T — TARGET MARKET RESEARCH\nBefore building anything: validate demand. Use Gumroad search, Reddit threads, and Notion community forums to identify templates with proven buyer intent. If people are already asking \"does a template exist for X?\" — that's your signal.\n\n——\n\n🏗️ E — ENGINEER THE ARCHITECTURE\nDesign for the buyer's workflow, not your own. Map the user journey: what does someone need to do before, during, and after using this template? Every page should serve a specific functional purpose.\n\n——\n\n🎯 M — MARKET POSITIONING\nName your template around the outcome, not the format. \"The $10K Freelance Client Tracker\" outsells \"Client Management Database\" every time. Outcome-first naming converts browsers into buyers.\n\n——\n\n💰 P — PRICING ARCHITECTURE\nBuild 3 tiers: Base ($29), Pro ($59), Bundle ($99+). Each tier adds a layer of value — automations, video walkthroughs, bonus templates, community access. The Pro tier is where most revenue lives.\n\n——\n\n🚀 L — LAUNCH SEQUENCE\nA 5-post pre-launch content sequence that builds anticipation, demonstrates value, and converts followers into buyers before your listing even goes live.\n\n——\n\nThe remaining 3 stages (A, T, E) — covering automation, traffic, and expansion — are inside the full guide.\n\nThe system produces $1,000–$5,000/month from a single validated template.\n\n→ https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #TEMPLATEFramework #DigitalProducts #PassiveIncome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T05:42:05.023Z",
+        "post_id": "122102749268948582",
         "text": "Here's the core of the T.E.M.P.L.A.T.E™ Framework from the Build & Sell Notion Templates guide:\n\n🔍 T — Target Market Research: Validate demand before building. Use Gumroad search and Reddit to find problems people are already paying to solve.\n\n🏗️ E — Engineer the Architecture: Build for the buyer's workflow, not yours. Every page has a purpose.\n\n🎯 M — Market Positioning: Name around the outcome. \"The $10K Freelance Tracker\" beats \"Client Database\" every time.\n\n💰 P — Pricing Architecture: 3 tiers (Base → Pro → Bundle) at $29/$59/$99+. Most revenue lives in the Pro tier.\n\n🚀 L — Launch Sequence: A 5-post pre-launch system that builds buyers before your listing goes live.\n\nThe remaining stages cover automation, traffic, and scaling to your second and third template — all inside the guide.\n\nThis is not a creativity exercise. It's a product business system.\n\n👉 https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T05:42:17.404Z",
+        "post_id": "17858087676624995",
         "text": "The T.E.M.P.L.A.T.E™ Framework — how Notion templates actually become income 👇\n\nT — Target the RIGHT market first (demand, not guesswork)\nE — Engineer for the buyer's workflow\nM — Market around the outcome, not the tool\nP — Price in 3 tiers: $29 / $59 / $99+\nL — Launch with a 5-post pre-sell sequence\nA — Automate delivery + onboarding\nT — Traffic from organic + Gumroad SEO\nE — Expand to template bundles\n\nThis is the system. Not the vibe.\n\nFull guide — link in bio. 🔗\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Gumroad #Notion #SideHustle #Publixion #OnlineBusiness #DigitalDownloads #MakeMoneyOnline",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       }
@@ -2979,19 +2988,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built Decision Clarity because we kept watching the same thing happen.\n\nSmart people. Educated people. High-performing people.\n\nSpending months paralyzed by decisions that, in hindsight, they already knew the answer to.\n\nThe problem was never intelligence. The research on this is unambiguous.\n\nDaniel Kahneman's decades of Nobel Prize-winning work on cognitive bias. The Columbia University studies on decision fatigue. The Cornell research showing that people regret inaction at twice the rate of action — but only figure this out at the end of their lives, when the cost of that asymmetry cannot be undone.\n\nThe problem was always architecture.\n\nPeople are educated to analyze. They are never educated to decide.\n\nSo we built the system that should have existed.\n\nThe CLEAR Framework integrates five stages — Clarify, List, Evaluate, Align, Resolve — into a single executable process that works under pressure, on real decisions, with real stakes.\n\nNot a thinking model. A decision engine.\n\nWe then applied it, chapter by chapter, to the specific decision domains where architecture fails people most consistently:\n\nCareer crossroads. Relationship decisions. Financial choices. High-pressure deadlines. And the identity-level question underneath almost every major choice: who am I becoming, and is this decision building that person or eroding them?\n\nDecision Clarity is the result.\n\nIt is available now at publixion.com\n\nIf the decision sitting with you right now has been sitting there too long — this is what changes that.\n\n#DecisionMaking #BehavioralEconomics #Leadership #PersonalDevelopment #CLEARFramework #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built Decision Clarity because smart people kept failing at the same problem.\n\nNot because they lacked intelligence.\nBecause they lacked architecture.\n\nThe research is clear: people are educated to analyze. They are never educated to decide. The result is that the moment a decision actually matters — the career pivot, the relationship crossroads, the financial commitment — the same cognitive failures show up every time.\n\nAnalysis paralysis. Loss aversion. Emotional hijack. The illusion that more research will eventually produce certainty.\n\nThe CLEAR Framework was built to solve all of them.\n\nFive integrated stages. One decision engine. Works on any high-stakes choice, in any domain, under any level of pressure.\n\nDecision Clarity is available now at publixion.com\n\n#DecisionMaking #Publixion #CLEARFramework #PersonalGrowth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"As6MHvjvmr-gkcgXqn17PaA\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -4407,27 +4418,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This post is not for people who want to feel more confident.\n\nIt is for people who are done waiting to feel it.\n\nYou already know the pattern.\n\nThe meeting where you have something real to say and you say nothing.\nThe negotiation you accept without pushing back.\nThe creative work that never gets shared.\nThe conversation you have rehearsed two hundred times and never had.\n\nThis is not a discipline problem.\nThis is not a mindset problem.\nThis is a nervous system that was trained — by years of small avoidances — to treat discomfort as a stop sign.\n\nAnd a trained response can be retrained.\n\nDiscomfort Training is a 30-day behavioral protocol built on the same exposure-based principles used in clinical psychology — translated into a precise, day-by-day framework for the confidence challenges that are costing you the most right now.\n\nNot affirmations.\nNot visualization.\nNot ten habits of highly confident people.\n\nA system. With a Discomfort Audit, a seven-rung Exposure Ladder, a Rejection Training protocol, a weekly Resilience Scorecard, and a complete day-by-day implementation table.\n\nBy Day 30, you will not feel more confident.\nYou will have built it — from evidence, from reps, from the specific hard things you chose to do when avoidance was the easier option.\n\nIf that is the person you are ready to become, this book was written for you.\n\n👉 Get it now: publixion.com/book/discomfort-training\n\n#ConfidenceBuilding #MentalToughness #PersonalDevelopment #DiscomfortTraining #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is not a book for people who want to feel more confident.\n\nIt is for people who are done waiting to feel it.\n\nYou know the pattern — the meeting where you stay silent, the ask you never make, the conversation you have rehearsed for months and never had.\n\nThat pattern is not a character flaw. It is a trained neurological response. And what was trained can be retrained.\n\nDiscomfort Training is a 30-day system — backed by behavioral science — that builds real, evidence-based confidence through graduated daily action.\n\nNo affirmations. No motivation hacks. A protocol that works.\n\n👉 publixion.com/book/discomfort-training\n\n#ConfidenceBuilding #MentalToughness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AcfzUXbM5-CkXz5MPjwJpOu\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Still waiting to feel ready?\n\nThe wait ends here.\n\nDiscomfort Training is the 30-day system that builds real confidence — not from thinking differently, but from doing the specific hard things you have been avoiding.\n\nDay-by-day protocol. Backed by neuroscience. Built for people who are done waiting.\n\nLink in bio.\n\n#ConfidenceBuilding #DiscomfortTraining #MentalToughness #PersonalGrowth #SelfDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A0dkyCgeMp5XDDFiW_HyNxV\"}}"
       }
     }
   },
