@@ -708,30 +708,31 @@
     "scheduled_date": "2026-03-15",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-15",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T10:55:50.378Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is the final reminder I'll send about the AI Overwhelm Guide — and I want to be specific about why now matters.\n\nFor the next 48 hours, everyone who downloads the guide also gets access to the AI Stack Audit Worksheet — a bonus tool that scores your current setup and tells you exactly which tools to cut, keep, or add.\n\nAfter that, the worksheet moves into our paid resource library.\n\nHere's what you're getting right now:\n✅ The full AI Overwhelm: Curated AI Stack Guide (free)\n✅ The A.I.R. Framework implementation roadmap\n✅ The 30-day action plan\n✅ BONUS: AI Stack Audit Worksheet (free for 48 hours only)\n\nThis combination won't be available together after this window closes.\n\nIf you've been meaning to get your AI system sorted — this is the moment.\n\n→ Download now at the link in comments. Bonus expires in 48 hours.\n\n#AIProductivity #AITools #LimitedOffer #Entrepreneurs #FreeGuide #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T10:55:39.000Z",
+        "post_id": "122103093884948582",
         "text": "⏰ 48-hour bonus window — ending soon.\n\nThe AI Overwhelm Guide is still free. But right now, it comes with a bonus that won't be available after this weekend:\n\n🎁 BONUS: AI Stack Audit Worksheet\nA scoring tool that evaluates your current AI setup and tells you exactly what to cut, keep, or add to reach peak productivity. After this window, it moves to our paid library.\n\nWhat you get free right now:\n✅ Full Curated AI Stack Guide\n✅ A.I.R. Framework roadmap\n✅ 30-day implementation plan\n✅ AI Stack Audit Worksheet (bonus — 48 hrs only)\n\nIf you've been sitting on the fence — this is the nudge.\n\n→ https://publixion.com/guides/ai-overwhelm-which-tools\n\n#AITools #FreeGuide #LimitedOffer #AIProductivity #Entrepreneurs #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T10:55:50.378Z",
+        "post_id": "18072476645228413",
         "text": "⏰ 48 hours left to grab the bonus.\n\nThe AI Overwhelm Guide is free — always.\nBut the AI Stack Audit Worksheet bonus? That disappears this weekend.\n\nIt's a scoring tool that tells you exactly which AI tools to cut, keep, or add. After Sunday, it moves to our paid library.\n\nRight now you get:\n✅ Full guide — free\n✅ A.I.R. Framework\n✅ 30-day plan\n✅ Audit Worksheet — bonus, 48 hrs only\n\nDon't overthink it. Link in bio. 👆\n\n#AIProductivity #FreeGuide #LimitedOffer #AITools #WorkSmart #Entrepreneurs #Automation #ContentCreators #Publixion #GrabItNow",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/AI-overwhelm.jpg"
       }
@@ -953,30 +954,31 @@
     "scheduled_date": "2026-03-16",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-16",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T10:57:05.098Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The $1K/Month AI Side Hustle guide is $27 right now.\n\nAt the end of this campaign, the price increases to $37 when we bundle in the AI Client Acquisition Playbook — a complete system for landing AI service clients using LinkedIn and cold email, including 5 additional DM scripts tested across different niches.\n\nBuy now at $27 and get the Playbook free when it releases.\n\nHere's the real urgency:\n\nEvery week you don't have a monetized AI offer is a week someone else in your niche is building theirs. The AI service market is early. Solopreneurs who position now have an edge that won't exist in 12 months.\n\nThe window to be an early mover is right now. Not next month.\n\n$27. 21 pages. Lock in before the price goes up.\n\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #PriceIncrease #AI #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T10:56:52.414Z",
+        "post_id": "122103095480948582",
         "text": "Price goes up at the end of this week.\n\n$1K/Month AI Side Hustle guide: $27 now → $37 when we add the AI Client Acquisition Playbook (5 additional cold DM scripts across different niches).\n\nBuy now and get the Playbook free on release.\n\nThe AI service market is early. The solopreneurs positioning their AI offers now are building an advantage that won't be available in 12 months.\n\n👉 https://publixion.com/guides/1k-month-ai-side-hustle\n\n#AISideHustle #PriceIncrease #OnlineBusiness",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T10:57:05.098Z",
+        "post_id": "17913200004167503",
         "text": "Last push.\n\nThis guide goes from $27 → $37 at the end of the week when the AI Client Acquisition Playbook is added.\n\nBuy now = get the Playbook free.\n\nA.I.M.™ Framework. 21 pages. Cold DM scripts. Discovery call playbook. 90-day scaling roadmap.\n\nThe AI service market is early. The time to build your offer is now.\n\nLink in bio.\n\n#AISideHustle #LastChance #AITools #MakeMoneyOnline #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-a-1000-month-ai-assisted-side-hustle.jpg"
       }
@@ -1169,27 +1171,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I want to freelance but...\"\n\n— I don't have enough experience\n— I don't know what to charge\n— I don't have time to build a portfolio\n— Nobody will pay me when there are better freelancers out there\n— I tried once and it didn't work\n\nLet me address all of these directly.\n\n❌ \"Not enough experience\" — The guide shows you how to build mock case studies from scratch with zero client history. Experience is a positioning problem, not a reality problem.\n\n❌ \"Don't know what to charge\" — The guide gives you a pricing framework. Starting range: $500–$1,500 per project. Low pricing doesn't attract more clients. It attracts worse ones.\n\n❌ \"No time for a portfolio\" — You don't need one. You need 2–3 sample assets and an optimized LinkedIn headline. That takes 48 hours.\n\n❌ \"Better freelancers exist\" — Clients don't hire the best. They hire the most specific. A niche specialist beats a generalist every single time.\n\n❌ \"Tried and failed\" — You tried without a system. This time you have one.\n\nThis guide is free. There is no financial risk.\n\n👉 https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #Mindset #SideHustle #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Still on the fence about freelancing? Let's clear the air.\n\n\"I'm not experienced enough\" — The guide shows you how to build 2–3 mock case studies in 48 hours with zero client history. Positioning beats credentials.\n\n\"I don't know what to charge\" — The guide gives you a pricing framework. Starting point: $500–$1,500/project. Low prices attract bad clients.\n\n\"I don't have time\" — You need 25–30 minutes a day in week one. That's it.\n\n\"It won't work for me\" — It worked for a marketer with no freelance history ($1,200 first project, Day 18). It worked for a beginner designer with no portfolio ($800 first client, Week 3). The system is the variable — not your situation.\n\n\"It costs money\" — It's free.\n\n👉 Download now: https://publixion.com/guides/i-want-to-start-freelancing\n\n#Freelancing #SideHustle #Objections",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ADrAPMdeSnjkg634C9FfVgF\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I want to freelance but I'm not ready yet.\"\n\nHere's the truth: ready is a myth.\n\nYou don't need more experience. You need a clearer offer.\nYou don't need a portfolio. You need 2 sample mockups.\nYou don't need a website. You need an optimized LinkedIn headline.\nYou don't need years of hustle. You need 30 days of the right system.\n\nThis free guide gives you exactly that.\n\nLink in bio.\n\n#FreelancerMindset #SideHustle #JustStart #SkillsToIncome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/i-want-to-start-freelancing.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AzRKzp7N-3ZH7PcXGVwhhOz\"}}"
       }
     }
   },
@@ -1622,19 +1627,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's what using this guide looks like in real life.\n\nMeet James. Freelancer. 14 courses in his library. 2 completed. Zero income attributed to any of them.\n\nDay 1 — He opens the guide and runs the Course Audit. Scores all 14 courses on ROI potential. Archives 9. Commits to one: an email marketing course.\n\nDay 2 — He writes his output goal: \"Build a 5-email automated welcome sequence for a sample client, go live in Mailchimp by Day 30.\"\n\nDay 3 — He schedules 4 weekly 25-minute learning blocks in his calendar. Monday, Wednesday, Friday at 7am. Sunday apply session at 10am.\n\nDay 4–14 — He completes modules consistently. After every module, he opens Mailchimp and applies the lesson directly to the sample sequence.\n\nDay 30 — Output goal achieved. Sequence live. He shows it to 3 potential clients as a portfolio piece. First client interested the same week.\n\nWeek 6 — He's charging $800 per email sequence. The course paid back 80× its purchase price.\n\nThe course was the same. The system was different.\n\n👉 Free guide: https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #Freelancing #RealResults #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Three real case study outcomes from people who used the C.C.A.S.™ system:\n\n📌 Freelancer completed 3 courses in 30 days using the framework. Applied each to real client work. Landed 5 new income-generating skills in one month.\n\n📌 Marketer finished 2 advanced SEO courses with the 24h application rule. Implemented tactics directly on client sites during the course. Generated $2,000 in extra client revenue that month.\n\n📌 Developer applied a no-code course with a single output goal: build a working prototype. Launched to first 10 beta users by week 4.\n\nSame kinds of courses these people had already owned for months. Different execution system.\n\n👉 Free guide: https://publixion.com/guides/online-courses-no-results\n\n#OnlineLearning #Productivity #CaseStudy",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/overcoming-online-course-burnout-no-results.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AOCDb9RTG1bk0yDBHFtv0it\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -2062,30 +2069,31 @@
     "scheduled_date": "2026-03-16",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-16",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T10:56:37.522Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The Build & Sell Notion Templates guide is not for everyone.\n\nHere's exactly who it's designed for:\n\n✅ YOU if:\n\n→ You use Notion regularly and have built systems, dashboards, or workflows for yourself\n→ You want a digital product income stream that doesn't require a large audience or ongoing content creation\n→ You've seen others selling Notion templates and wondered why you aren't — and you want the system, not just the inspiration\n→ You're a freelancer, creator, or professional who wants a product that earns passively while you focus on client work\n→ You're willing to do 1–2 weeks of upfront build work in exchange for ongoing passive Gumroad revenue\n→ You want to validate a product idea before building — not waste time on templates nobody buys\n\n❌ NOT YOU if:\n\n→ You've never used Notion and don't want to learn it\n→ You expect $5,000/month in week one with no effort\n→ You want to build something once and never market it\n→ You're not willing to follow a validation process before building\n\nIf you're a Notion user who's been watching others monetize the same tool you use daily — this is the guide that closes the gap.\n\n$19.99. One validated template. $1,000–$5,000/month.\n\n→ https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T10:56:26.791Z",
+        "post_id": "122103094724948582",
         "text": "Who is the Build & Sell Notion Templates guide for?\n\n✅ Notion users who want to monetize the systems they've already built\n✅ Freelancers and creators who want passive income without creating daily content\n✅ Anyone who's seen Notion templates selling on Gumroad and wants to know the exact process\n✅ People willing to do focused upfront build work for long-term passive revenue\n✅ Anyone who wants to validate demand before building — not guess and hope\n\n❌ NOT for people expecting $5,000/month in week one without any work\n❌ NOT for complete Notion beginners with no interest in learning the platform\n\nIf you use Notion and you've thought even once \"I could sell this\" — this guide tells you exactly how.\n\n👉 https://publixion.com/guides/build-and-sell-notion-templates\n\n#NotionTemplates #DigitalProducts #PassiveIncome #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T10:56:37.522Z",
+        "post_id": "18343854511246342",
         "text": "This guide is for you if... 👇\n\n✅ You use Notion regularly\n✅ You've built systems or dashboards for yourself\n✅ You want passive income without a big audience\n✅ You've watched others sell templates and wondered why not you\n✅ You'll follow a validation process before building\n\n❌ NOT for you if you want results with zero effort.\n\n$19.99. One validated template. Passive Gumroad income.\n\nLink in bio. 🔗\n\n#NotionTemplates #Notion #DigitalProducts #PassiveIncome #SideHustle #Gumroad #Publixion #MakeMoneyOnline #OnlineBusiness #DigitalDownloads",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/build-and-sell-notion-templates.jpg"
       }
@@ -2705,30 +2713,31 @@
     "scheduled_date": "2026-03-16",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-16",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-27T10:56:12.436Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You post every day.\n\nAnd every day, you start from zero.\n\nNew idea. New draft. New panic at 11pm trying to fill a content calendar that never gets easier.\n\nYou're not lacking discipline. You're not lacking ideas. You're lacking a system.\n\nBecause here's the math most creators never run:\n\nDaily creation = 30 pieces per month.\nOne core asset + repurposing = 150+ pieces per month.\n\nSame time. Same expertise. Five times the output.\n\nThe creators you see everywhere — posting on LinkedIn, Instagram, Twitter, YouTube simultaneously — they're not working harder than you. They built a machine that runs while they focus on one thing.\n\nThat machine is called repurposing. And most people are doing it wrong — or not doing it at all.\n\nThe Content Repurposing Machine shows you the exact system: one core asset per week, extracted into 27+ platform-native pieces, connected to a monetization funnel, distributed in a single 90-minute session.\n\nNo more blank-page panic. No more burning out by Wednesday.\n\n👉 Get the guide: https://publixion.com/guides/content-repurposing-machine\n\n#ContentStrategy #ContentMarketing #CreatorEconomy #Repurposing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposoing-machine.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposoing-machine.png",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T10:55:59.088Z",
+        "post_id": "122103094262948582",
         "text": "You're posting every single day and still feeling behind.\n\nEvery morning: what do I post today?\nEvery evening: did that even matter?\n\nThis is what content burnout looks like. And it's not your fault — it's the model.\n\nDaily creation has a hard ceiling. You can only produce so much from scratch before the quality drops, the ideas dry up, and the joy disappears.\n\nThe solution isn't more discipline. It's a different architecture.\n\nOne piece of content per week — a long-form article, video, or podcast — becomes 27+ platform-native pieces when you run it through the right system. LinkedIn posts, Twitter threads, Instagram carousels, YouTube Shorts, email newsletters. All from the same source. All in one extraction session.\n\nThat's the Content Repurposing Machine. And it changes everything about how content creation feels.\n\n👉 Get it here: https://publixion.com/guides/content-repurposing-machine\n\n#ContentCreation #ContentStrategy #CreatorEconomy",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposoing-machine.png"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-27T10:56:12.436Z",
+        "post_id": "18131549086541958",
         "text": "You post every day and still feel behind. 😮‍💨\n\nThat's not a discipline problem. That's a system problem.\n\nOne core asset per week → 27+ pieces across every platform.\n\nSame expertise. Five times the reach. Zero blank-page panic.\n\nThe Content Repurposing Machine is the system that makes this happen.\n\nLink in bio.\n\n#ContentStrategy #ContentCreator #Repurposing #CreatorEconomy #ContentMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposoing-machine.png"
       }
@@ -4466,19 +4475,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We have published books on career strategy, financial redesign, and identity change.\n\nBut one problem kept appearing in the research across every topic:\n\nPeople knew what to do.\nThey just could not make themselves do it when it was uncomfortable.\n\nThe salary negotiation they understood but avoided.\nThe professional contribution they prepared and withheld.\nThe feedback conversation they knew was necessary and deferred for months.\n\nThis was not an information problem.\nIt was a behavioral architecture problem.\n\nSo we built Discomfort Training.\n\nNot a motivational book. A system.\n\nBuilt on three bodies of research that most confidence books either ignore or misapply:\n\n1. Exposure-based psychology — the clinical science of how feared situations lose their power through graduated, repeated approach.\n2. Hebbian neuroplasticity — how the brain literally rewires approach behavior into automatic responses through repetition.\n3. Identity-based behavior change — how consistent action becomes self-concept, and how to architect that transition deliberately.\n\nThe result is a 30-day protocol with 26 named frameworks, a day-by-day implementation table, a weekly Resilience Scorecard, and a complete Evidence Bank system that turns every completed exposure into documented proof of who you are becoming.\n\nWe built it because the gap between knowing and doing is not a willpower problem.\nIt is a structural problem. And structural problems have structural solutions.\n\nDiscomfort Training is that solution.\n\n👉 publixion.com/book/discomfort-training\n\n#Publixion #ConfidenceBuilding #BehavioralScience #PersonalDevelopment #MentalToughness",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We have published books on careers, money, and identity.\n\nBut one problem kept surfacing across all of them:\n\nPeople knew what to do. They just could not make themselves do it when it mattered most.\n\nDiscomfort Training was built to close that gap.\n\nNot with motivation. With a system — 30 days, day by day, backed by the clinical science of how the brain actually builds confidence through graduated action.\n\n26 frameworks. A full daily protocol. A Resilience Scorecard that makes your progress visible in data.\n\nThe gap between knowing and doing is not a willpower problem. It is a structural one. This is the structure.\n\n👉 publixion.com/book/discomfort-training\n\n#Publixion #ConfidenceBuilding #PersonalDevelopment",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Asc-R_6yHFk0jtXKwgIWYc0\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -9901,7 +9912,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "13 chapters. One system. Your first dollar of digital income in 30 days.\n\nSwipe to see what is inside The Side Income System 👉\n\nThis is not theory. Every chapter closes with a specific, executable action. The 30-Day Calendar maps it all into a day-by-day plan.\n\nAvailable now on Amazon and Publixion. Link in bio.\n\n#SideIncomeSystem #Publixion #SideHustle #OnlineBusiness #DigitalProducts #PassiveIncome #MakeMoneyOnline",
@@ -9912,7 +9923,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AF-qhL5cdi2c_QXKnwkXrSX\"}}"
       }
     }
   },
