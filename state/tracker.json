@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-03-27T10:57:07.101Z",
+  "last_run": "2026-03-27T11:13:59.731Z",
   "total_posted": 223,
   "total_failed": 496,
   "run_log": [
     {
-      "started_at": "2026-03-27T10:55:19.180Z",
+      "started_at": "2026-03-27T11:12:04.731Z",
       "date": "2026-03-27",
-      "slot": "04:00",
+      "slot": "11:00",
       "posts": [
         {
           "id": "TSIS-003",
@@ -21,7 +21,7 @@
             },
             "instagram": {
               "success": false,
-              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AF-qhL5cdi2c_QXKnwkXrSX\"}}"
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AolL5_fq0H2kX0yyh5oaS2j\"}}"
             }
           }
         },
@@ -34,7 +34,7 @@
             },
             "facebook": {
               "success": false,
-              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AOCDb9RTG1bk0yDBHFtv0it\"}}"
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AAn_8Jywd_P8QaCFVAqMbD8\"}}"
             },
             "instagram": {
               "success": false,
@@ -51,11 +51,11 @@
             },
             "facebook": {
               "success": true,
-              "post_id": "122103093884948582"
+              "post_id": "122103109796948582"
             },
             "instagram": {
               "success": true,
-              "post_id": "18072476645228413"
+              "post_id": "17932565913053456"
             }
           }
         },
@@ -68,11 +68,11 @@
             },
             "facebook": {
               "success": true,
-              "post_id": "122103094262948582"
+              "post_id": "122103110150948582"
             },
             "instagram": {
               "success": true,
-              "post_id": "18131549086541958"
+              "post_id": "18072261233224390"
             }
           }
         },
@@ -85,7 +85,7 @@
             },
             "facebook": {
               "success": false,
-              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Asc-R_6yHFk0jtXKwgIWYc0\"}}"
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AwqH89f3rjJQ27fnG6ZZud2\"}}"
             },
             "instagram": {
               "success": false,
@@ -102,11 +102,11 @@
             },
             "facebook": {
               "success": true,
-              "post_id": "122103094724948582"
+              "post_id": "122103110366948582"
             },
             "instagram": {
               "success": true,
-              "post_id": "18343854511246342"
+              "post_id": "17881469259528186"
             }
           }
         },
@@ -119,11 +119,11 @@
             },
             "facebook": {
               "success": false,
-              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ADrAPMdeSnjkg634C9FfVgF\"}}"
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AlEf03takevD3aL0JzKFm3X\"}}"
             },
             "instagram": {
               "success": false,
-              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AzRKzp7N-3ZH7PcXGVwhhOz\"}}"
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ANG6HKz_gycBjkcaHr6SC5O\"}}"
             }
           }
         },
@@ -136,16 +136,16 @@
             },
             "facebook": {
               "success": true,
-              "post_id": "122103095480948582"
+              "post_id": "122103111128948582"
             },
             "instagram": {
               "success": true,
-              "post_id": "17913200004167503"
+              "post_id": "18072257105643095"
             }
           }
         }
       ],
-      "completed_at": "2026-03-27T10:57:07.101Z"
+      "completed_at": "2026-03-27T11:13:59.731Z"
     },
     {
       "started_at": "2026-03-27T08:01:35.332Z",
