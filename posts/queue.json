@@ -2942,30 +2942,31 @@
     "scheduled_date": "2026-03-28",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-28",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-28T14:27:30.380Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The Content Repurposing Machine is $9.99.\n\nThat price changes soon.\n\nHere's what's included at the launch price:\n\n✅ The complete O.N.E. → E.C.O.S.Y.S.T.E.M™ framework (15 pages, fixed A4)\n✅ The 6-part core asset structure that makes extraction automatic\n✅ 3 AI extraction prompts — copy, paste, receive 27+ pieces\n✅ Platform optimization rules for LinkedIn, Twitter, Instagram, and YouTube Shorts\n✅ The 4-day weekly workflow: Create → Extract → Optimize → Schedule\n✅ Monetization funnel: Content → Lead Magnet → Email Sequence → Offer\n✅ 2 verified case studies with exact metrics\n✅ Worksheets, trackers, and a 30-day implementation calendar\n✅ Bonus: Evergreen vault system + VA handoff SOP\n\nFor $9.99 you get a system that replaces the content creation model that's been exhausting you — and connects it to a revenue path for the first time.\n\nThe launch window closes soon. After that, the price increases.\n\nIf you've been thinking about it — this is the moment.\n\n👉 Get it now: https://publixion.com/guides/content-repurposing-machine\n\n#ContentStrategy #ContentMarketing #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposoing-machine.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposoing-machine.png",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-28T14:27:16.477Z",
+        "post_id": "122103950018948582",
         "text": "Quick reminder before the launch price disappears.\n\nThe Content Repurposing Machine is currently $9.99.\n\nInside:\n📌 The O.N.E. → E.C.O.S.Y.S.T.E.M™ framework\n📌 3 AI prompts that extract 27+ pieces from one asset\n📌 Platform optimization rules for every major channel\n📌 4-day production workflow\n📌 Monetization funnel architecture\n📌 30-day implementation calendar\n📌 Bonus scaling assets and VA handoff SOP\n\nThis is the system that ends daily content creation from scratch.\n\nLaunch price ends soon. After that, it goes up.\n\n👉 https://publixion.com/guides/content-repurposing-machine",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposoing-machine.png"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-28T14:27:30.380Z",
+        "post_id": "18387144577154629",
         "text": "⏳ Launch price ending soon.\n\nThe Content Repurposing Machine — $9.99.\n\nWhat's inside:\n📌 O.N.E. → E.C.O.S.Y.S.T.E.M™ framework\n📌 3 AI extraction prompts\n📌 27+ pieces from one asset\n📌 4-day weekly workflow\n📌 Monetization funnel\n📌 30-day calendar\n\nPrice goes up when the launch window closes.\n\nLink in bio. 🔗\n\n#ContentStrategy #ContentMarketing #CreatorEconomy #Repurposing #LaunchOffer #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/content-repurposoing-machine.png"
       }
