@@ -1,8 +1,33 @@
 {
-  "last_run": "2026-03-28T11:39:02.707Z",
-  "total_posted": 331,
-  "total_failed": 618,
+  "last_run": "2026-03-28T14:27:32.383Z",
+  "total_posted": 333,
+  "total_failed": 619,
   "run_log": [
+    {
+      "started_at": "2026-03-28T14:27:02.774Z",
+      "date": "2026-03-28",
+      "slot": "14:00",
+      "posts": [
+        {
+          "id": "CRM-006",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122103950018948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18387144577154629"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-28T14:27:32.383Z"
+    },
     {
       "started_at": "2026-03-28T11:30:27.390Z",
       "date": "2026-03-28",
