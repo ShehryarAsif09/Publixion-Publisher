@@ -3198,19 +3198,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are hundreds of books on decision-making.\n\nHere is why most of them do not work — and what Decision Clarity does differently.\n\nMost decision books teach you how to think better in the abstract.\n\nThey give you mental models, cognitive bias glossaries, and frameworks that make sense in the reading and evaporate under real-world pressure.\n\nYou finish them feeling smarter.\nYou open them at the moment of a real decision and find that the insight does not transfer.\n\nBecause insight and architecture are not the same thing.\n\nDecision Clarity does not give you new ways to think about decisions in general.\n\nIt gives you a system to run on your actual decision — the specific, high-stakes, identity-level choice sitting with you right now — and walk away with written outputs that function as a completed decision rather than a better-informed one.\n\nHere is the specific difference:\n\n❌ Other books: Mental models you try to remember under pressure.\n✅ Decision Clarity: A five-stage Canvas you execute once and own for life.\n\n❌ Other books: General frameworks that apply to business decisions.\n✅ Decision Clarity: Domain-specific systems for career crossroads, relationship decisions, financial choices, and high-pressure deadlines.\n\n❌ Other books: Insights that produce reflection.\n✅ Decision Clarity: Structured tools that produce written outputs — a Clarity Audit, a Values Constitution, a Risk Reality Audit, a Consequence Map, and a committed Resolve statement.\n\n❌ Other books: You finish smarter.\n✅ Decision Clarity: You finish with a decision that is done.\n\nThe word that readers use most often to describe the experience is finished.\n\nNot relieved. Not hopeful.\n\nFinished.\n\nThat is the standard every chapter was written to meet.\n\nAvailable at publixion.com\n\n#DecisionMaking #PersonalDevelopment #CLEARFramework #Leadership #Publixion #BookRecommendation",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are hundreds of decision-making books.\n\nMost of them teach you to think better in the abstract. You finish them feeling smarter — and then face your actual decision and find the insight does not transfer.\n\nDecision Clarity is different in one specific way:\n\nIt does not give you frameworks to remember. It gives you a system to execute — on your real decision, in writing, right now.\n\nThe output is not a better-informed deliberation.\nIt is a completed decision.\n\nReaders call it the first time a major choice felt finished rather than merely committed.\n\nThat is the standard every chapter was built to meet.\n\nAvailable at publixion.com\n\n#DecisionMaking #Publixion #CLEARFramework #PersonalGrowth #BookRecommendation",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AF1M620czQpxmJRtyel07mp\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -5553,30 +5555,31 @@
     "scheduled_date": "2026-03-23",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-23",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-28T07:48:18.436Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The Fear of Starting a YouTube Channel free guide was built for a very specific person.\n\nYou'll know it's for you if:\n\n→ You've wanted to start a channel for 6+ months but haven't published a single video\n\n→ The camera is your barrier — not the topic, not the niche, not the time\n\n→ You've researched editing software and equipment for hours without producing anything\n\n→ You have knowledge worth sharing but no system for turning it into video content\n\n→ You've seen faceless channels thriving in your niche and wondered how they do it\n\n→ You want to use YouTube as a platform for building authority, growing an audience, or generating additional income — but you haven't started yet\n\nThis is not for established creators looking to scale to millions of subscribers. That's a different conversation.\n\nThis is for the professional, entrepreneur, or aspiring creator who is stuck at zero — and needs a practical, camera-free system to break through today.\n\nFree. No camera. First video publishable in 30 minutes.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube\n\n#YouTube #ContentCreation #FacelessYouTube #CreatorEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-28T07:48:07.331Z",
+        "post_id": "122103831338948582",
         "text": "Who is the F.A.C.E.L.E.S.S.™ guide for?\n\n✅ You've been planning a YouTube channel for months (or years) without publishing\n✅ The camera — not the content — is what's stopping you\n✅ You've watched setup tutorials but produced nothing\n✅ You have knowledge worth sharing but no video production system\n✅ You want YouTube income or audience growth without on-camera presence\n\nNot for: established creators already publishing consistently.\n\nFor: the stuck beginner who needs a system to break through — today, not someday.\n\nFree guide. 10 pages. Link below.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-28T07:48:18.436Z",
+        "post_id": "18027147821644748",
         "text": "This free guide is for you if… 👇\n\n✅ You've planned a YouTube channel for months without publishing\n✅ The camera — not the content — is the barrier\n✅ You want income or audience from YouTube without being on camera\n✅ You've watched setup tutorials but produced nothing\n✅ You're stuck at zero and need a system to break through\n\nFree guide. 10 pages. F.A.C.E.L.E.S.S.™ framework.\n\nLink in bio. 🔗\n\n#YouTube #FacelessContent #ContentCreator #CreatorEconomy #VideoMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
       }
@@ -6682,27 +6685,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You post on LinkedIn consistently.\n\nYou spend real time writing. You hit publish. You wait.\n\nAnd then... 4 likes. 1 comment from your mum. Zero new connections.\n\nWeeks pass. The pattern repeats.\n\nYou start wondering if LinkedIn even works anymore — or if the algorithm just hates you specifically.\n\nIt doesn't hate you. But it is ignoring you.\n\nAnd it will keep ignoring you until you understand one thing:\n\nThe algorithm doesn't reward effort. It rewards signals.\n\nSaves. Watch time. Topic consistency. Profile clarity. Engagement velocity in the first 60 minutes.\n\nNone of those happen by accident. All of them are engineered.\n\nThat's exactly what the LinkedIn Authority System teaches — a 90-day P.A.C.E.R. Framework™ that builds positioning, deploys a 4-pillar content engine, activates a daily engagement loop, and installs a revenue funnel.\n\nBy Day 90: 1,000–5,000 targeted followers. Consistent inbound DMs. A monetizable audience — without paid ads.\n\n→ Get the guide: https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #PersonalBrand #ContentMarketing #LinkedInStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You post on LinkedIn regularly. You get almost no traction.\n\nIt's not because you're a bad writer. It's not because your ideas aren't good. It's because the platform's algorithm rewards specific signals — topic consistency, saves, engagement velocity, profile clarity — and most people have no system for triggering any of them.\n\nRandom posting produces random results. Engineered authority produces compounding growth.\n\nThe LinkedIn Authority System is a 90-day P.A.C.E.R. Framework™ that gives you the exact structure: positioning, content engine, engagement loop, and revenue funnel — so LinkedIn stops being a frustration and starts being a client acquisition machine.\n\n1,000–5,000 targeted followers in 90 days. Inbound DMs. Real opportunities. No paid ads.\n\n👉 https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #PersonalBrand #ContentStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AGyISzccUT2DSO_Q9esl0q9\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You post on LinkedIn.\nYou get 4 likes and silence. 😶\n\nIt's not your fault.\nIt's your system — or the lack of one.\n\nThe algorithm doesn't reward effort.\nIt rewards specific signals most people never learn to trigger.\n\nThe LinkedIn Authority System fixes this in 90 days.\n1,000–5,000 targeted followers.\nInbound DMs. Real opportunities.\n\nLink in bio. 🔗\n\n#LinkedIn #LinkedInGrowth #PersonalBrand #ContentMarketing #ThoughtLeadership #Publixion #SocialMediaStrategy #BuildYourBrand #LinkedInTips #GrowthMindset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A8xqd8nHd20u82I5bv5AeHe\"}}"
       }
     }
   },
@@ -7524,30 +7530,31 @@
     "scheduled_date": "2026-03-28",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-28",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-28T07:48:50.392Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Personal brand vs. business brand is not a style preference.\n\nIt's a strategic decision — and making it wrong costs you months of misdirected effort.\n\nHere's the scoring tool from our free guide:\n\n━━━━━━━━━━━━━━━━━━━━\nTHE B.I.D.M.™ DECISION MATRIX\n━━━━━━━━━━━━━━━━━━━━\n\nRate each factor 1–10 by importance to your goals. Total each column. The highest score is your path.\n\nFACTOR               PERSONAL   BUSINESS   HYBRID\nNarrative control    High       Medium     High\nPersonal risk        High       Low        Medium\nLong-term longevity  Medium     High       High\nMonetization ceiling Medium     High       High\nAudience engagement  High       Medium     High\nBest for solo        Yes        Possible   Optimal\n\n━━━━━━━━━━━━━━━━━━━━\n\nFor most solo creators building toward products — Hybrid wins. Personal credibility drives the audience. The brand handles the product.\n\nReal result: A creator used the hybrid path to reach $180K in product revenue in 14 months. The audience followed the founder. The buyers purchased from the brand.\n\n👉 Full guide and matrix, free: https://publixion.com/guides/personal-brand-vs-business-brand\n\n#PersonalBranding #BrandStrategy #ContentMarketing #DigitalMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-28T07:48:39.604Z",
+        "post_id": "122103831476948582",
         "text": "Personal brand or business brand — which one should you build?\n\nThe B.I.D.M.™ Matrix from our free guide makes it objective. Score 6 factors:\n\n🔵 Narrative control\n🔵 Personal exposure risk\n🔵 Long-term brand longevity\n🔵 Monetization ceiling\n🔵 Audience engagement rate\n🔵 Fit for solo creators\n\nThe path with the highest total score is your optimal choice.\n\nFor most solo creators: Hybrid wins. Personal credibility builds the audience. The brand handles the business.\n\n📖 Full matrix and guide, free: https://publixion.com/guides/personal-brand-vs-business-brand\n\n#PersonalBranding #BrandStrategy #DigitalMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-28T07:48:50.392Z",
+        "post_id": "18058892732436140",
         "text": "Personal brand or business brand?\n\nNot a vibe choice. A scored decision.\n\nThe B.I.D.M.™ Matrix rates 6 factors:\n• Narrative control\n• Personal risk\n• Longevity\n• Monetization ceiling\n• Audience engagement\n• Solo creator fit\n\nHighest score = your path.\n\nFor most solo creators: Hybrid wins.\n\n📖 Full guide + matrix — free. Link in bio.\n\nLink in bio.\n\n#PersonalBranding #BrandStrategy #ContentMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
       }
