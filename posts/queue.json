@@ -9037,7 +9037,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most career books tell you what to think. Skill Capital tells you exactly what to do.\n\nSwipe to see what is inside 👉\n\nSlide 1: The Skill Audit Matrix — know exactly what your skills are worth on the current market before you invest another hour in the wrong ones.\n\nSlide 2: The Decay Rate Principle — every skill has a half-life. IBM puts technical skills at 2.5 years. Learn which ones compound and which ones expire.\n\nSlide 3: Skill Stacking Strategy — four skills at the 80th percentile create a market position no single expert can replicate. This is the chapter that changes how you think about your entire career.\n\nSlide 4: Human-Proof Skills — six specific capabilities AI cannot replicate, growing more valuable every year. This is where your long-term investment belongs.\n\nSlide 5: Monetization Pathways — consulting, products, salary negotiation, passive income. Every pathway mapped. Every tool provided.\n\n120 pages. One complete operating system for your professional future.\n\n📖 Link in bio.\n\n#SkillCapital #CareerStrategy #Upskilling #FutureOfWork #Publixion",
@@ -9048,7 +9048,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/skill-capital-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/skill-capital-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/skill-capital-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AUEmCwbzyig5sueTAIBjiL_\"}}"
       }
     }
   },
