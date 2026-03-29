@@ -1,8 +1,33 @@
 {
-  "last_run": "2026-03-29T07:55:29.061Z",
+  "last_run": "2026-03-29T11:31:32.683Z",
   "total_posted": 339,
-  "total_failed": 630,
+  "total_failed": 631,
   "run_log": [
+    {
+      "started_at": "2026-03-29T11:31:22.720Z",
+      "date": "2026-03-29",
+      "slot": "11:00",
+      "posts": [
+        {
+          "id": "SC-003",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "skipped": true
+            },
+            "facebook": {
+              "success": false,
+              "skipped": true
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AUEmCwbzyig5sueTAIBjiL_\"}}"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-03-29T11:31:32.683Z"
+    },
     {
       "started_at": "2026-03-29T07:54:02.781Z",
       "date": "2026-03-29",
