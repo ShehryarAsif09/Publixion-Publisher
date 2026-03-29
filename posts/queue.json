@@ -3863,30 +3863,31 @@
     "scheduled_date": "2026-03-29",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-29",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-29T07:55:27.059Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last post on the email list guide.\n\nEvery week you delay building your list is a week of potential compounding you don't get back.\n\n1,000 subscribers = $12,000–$36,000/year in revenue potential when monetized.\nYour current email list: probably not 1,000.\n\nThe C.O.N.V.E.R.T.™ guide gives you:\n→ The 7-step framework that moves opt-in rates from 1% to 30–50%\n→ The exact copy formula that converts cold traffic into subscribers\n→ A 5-section landing page wireframe — build it today\n→ The 4 highest-converting lead magnet types ranked by goal\n→ Distribution strategy: organic, community, and collaboration — zero ad spend\n→ Two case studies with real numbers\n→ A 30-day implementation calendar\n\nFree. No email. Read it today. Build the lead magnet this weekend.\n\n👉 https://publixion.com/guides/difficulty-growing-email-list\n\nShare with a creator who has an audience but no email list.\n\n#EmailMarketing #ListBuilding #ContentMarketing #DigitalMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-list.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-list.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-29T07:55:15.083Z",
+        "post_id": "122104175096948582",
         "text": "Last call on the email list growth guide.\n\nIf you've been meaning to build your list — this week is the one.\n\n🎯 What's inside:\n• 7-step C.O.N.V.E.R.T.™ framework\n• Copy formula that converts at 20–35%\n• 5-section landing page wireframe\n• Lead magnet types ranked by conversion rate\n• Distribution strategy (zero ad spend)\n• 2 case studies with real subscriber numbers\n• 30-day calendar\n\nFree. No email required.\n\nBuild the lead magnet this weekend. Start the list this week.\n\n📖 https://publixion.com/guides/difficulty-growing-email-list\n\n#EmailMarketing #ListBuilding #ContentMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-list.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-29T07:55:27.059Z",
+        "post_id": "18573725617052388",
         "text": "Last call.\n\nYour email list should be your most valuable business asset.\n\nRight now — is it?\n\nC.O.N.V.E.R.T.™ System: lead magnet, landing page, copy formula, 30-day plan.\n\nFree. Build it this weekend.\n\n📖 Link in bio.\n\nLink in bio.\n\n#EmailMarketing #ListBuilding #ContentCreators #DigitalMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-growing-email-list.jpg"
       }
@@ -5656,30 +5657,31 @@
     "scheduled_date": "2026-03-28",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-28",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-29T07:55:00.504Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The four objections I hear before people download the free YouTube guide — answered.\n\n❌ \"I don't have time to make YouTube videos.\"\n✅ The guide's batch production system produces 4 videos in one 6-hour session per week. That's 90 minutes per video. If you're spending more time than that researching how to start — you're already spending the time. Now spend it producing.\n\n❌ \"I don't know how to edit.\"\n✅ CapCut's auto-caption feature, Canva's drag-and-drop slideshow builder, and a free stock footage library (Pexels) require zero editing background. The guide's editing checklist covers every element that drives retention — all achievable without a single tutorial.\n\n❌ \"There's too much competition on YouTube.\"\n✅ There is competition for broad topics. There is almost no competition at the niche level. \"Personal finance\" is saturated. \"Free budgeting tools for freelancers in their first year\" is not. The niche validation method in the guide shows you exactly how to find the gap.\n\n❌ \"My first videos will be bad.\"\n✅ Correct. And they should be published anyway. The algorithm begins collecting Watch Time and CTR data from your first video. Bad early data is still training data — it tells you what to improve. The guide includes the two KPIs to track weekly so you always know exactly what to fix and when.\n\nThis guide is free. There is no financial barrier to downloading it.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube\n\n#YouTube #ContentCreation #FacelessYouTube #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-29T07:54:47.486Z",
+        "post_id": "122104174784948582",
         "text": "Every objection to starting a YouTube channel — answered.\n\n🚫 \"I don't have time.\"\n✅ 90 minutes per video. 4 videos batched in one Sunday session. The guide has the system.\n\n🚫 \"I can't edit.\"\n✅ CapCut + Canva + Pexels = everything you need. All free. Zero editing background required.\n\n🚫 \"Too much competition.\"\n✅ \"Personal finance\" is saturated. \"Free budgeting tools for first-year freelancers\" is not. The niche validation method in the guide finds the gap.\n\n🚫 \"My first videos will be bad.\"\n✅ Yes. Publish them anyway. Bad data is still data. The guide tells you exactly which two metrics to check weekly and what to fix.\n\nAnd the guide is free.\n\nNo email. No payment. No reason not to download it right now.\n\n👉 https://publixion.com/guides/fear-of-starting-youtube",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-29T07:55:00.504Z",
+        "post_id": "17932544025218622",
         "text": "\"My first videos will be bad.\"\n\nYes. Publish them anyway. 👇\n\nHere's why:\n\nThe algorithm collects Watch Time and CTR data from your first video.\nBad data is still training data.\nIt tells you what to fix.\n\nThe F.A.C.E.L.E.S.S.™ guide gives you the 2 KPIs to track weekly so you always know exactly what to improve.\n\nAnd the guide is free.\n\nLink in bio. 🔗\n\n#YouTube #FacelessContent #ContentCreator #VideoMarketing #CreatorEconomy #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/fear-of-starting-a-youtube-channel.jpg"
       }
@@ -6802,27 +6804,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The LinkedIn Authority System is not a general \"post more\" guide.\n\nHere is exactly who it's built for:\n\n✅ YOU if:\n\n→ You post on LinkedIn but see little to no follower growth or inbound from it\n→ You're a consultant, coach, freelancer, or founder who wants LinkedIn to generate clients — not just likes\n→ You've tried posting consistently but can't crack what the algorithm actually rewards\n→ You want to build a personal brand that attracts opportunities without cold outreach\n→ You're willing to commit to 30 minutes/day of strategic engagement for 90 days\n→ You want a monetizable audience — not just a large one\n\n❌ NOT YOU if:\n\n→ You're looking for viral tricks or follower hacks\n→ You want results without executing the 90-day plan\n→ You're not willing to optimize your profile or post consistently\n→ You expect paid results without paid advertising spend\n\nIf you're a professional who knows LinkedIn should be working harder for you — but you can't figure out why it isn't — this is your guide.\n\n$24.99. 90 days. From invisible to inbound.\n\n→ https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #PersonalBrand #B2BMarketing #LinkedInStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Who is the LinkedIn Authority System for?\n\n✅ Consultants, coaches, freelancers, and founders who want LinkedIn to generate real business opportunities — not just content engagement\n✅ Professionals who post consistently but see no follower growth or inbound leads from it\n✅ Anyone who wants to build a trusted personal brand in their niche without cold outreach\n✅ People willing to invest 30 minutes/day and follow a structured 90-day plan\n✅ Anyone who's tried LinkedIn and concluded \"it doesn't work\" — it does, just not without the right architecture\n\n❌ NOT for those looking for follower hacks, viral shortcuts, or results without execution\n\nIf LinkedIn feels like a chore that never pays off — the guide turns it into a system that compounds.\n\n👉 https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #PersonalBranding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AX271XEMpn-IDTLzlHFo-jz\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The LinkedIn Authority System is for you if... 👇\n\n✅ You post but get no traction or inbound\n✅ You're a consultant, coach, or founder\n✅ You want clients from LinkedIn — not just followers\n✅ You'll commit 30 min/day for 90 days\n✅ You want authority, not viral tricks\n\n❌ NOT for you if you want results without a plan.\n\nFrom invisible to inbound in 90 days.\nLink in bio. 🔗\n\n#LinkedIn #PersonalBrand #LinkedInTips #ContentStrategy #ThoughtLeadership #Publixion #GrowOnLinkedIn #B2BMarketing #LinkedInGrowth #BuildYourBrand",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ATeAcJqPPJ3PKldcKcy3Itr\"}}"
       }
     }
   },
@@ -7247,19 +7252,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built this book because the existing solutions were not honest about what overthinking actually is.\n\nEvery other book in this space tells you to breathe more, journal more, be more present, trust yourself.\n\nAll reasonable suggestions. None of them are sufficient.\n\nBecause overthinking is not a mood.\nIt is not a lack of mindfulness.\nIt is not an emotional problem that dissolves in the face of gratitude practice.\n\nOverthinking is a pattern — a well-myelinated neural pathway that the brain learned to use in response to uncertainty, reinforced thousands of times over years and decades, and now so efficient that it activates before conscious awareness can intervene.\n\nYou cannot fix a pattern with a mood.\nYou need to interrupt it at the neurological level.\nRestructure the distorted thinking that fuels its content.\nAnd replace it with a behavioral architecture that makes action the brain's default rather than deliberation.\n\nThat is precisely what Overthinking Ends Here is built to do.\n\nAt Publixion, we do not publish books that make people feel understood. We publish books that make people measurably more capable.\n\nThis one is grounded in:\n— The Default Mode Network research from Killingsworth and Gilbert (Harvard, 2010)\n— Nolen-Hoeksema's Yale findings that rumination reduces cognitive performance by 30%\n— Beck's original Cognitive Behavioral Therapy distortion framework\n— Baumeister's work on the Zeigarnik Effect and decision closure\n— Gollwitzer's implementation intention research on behavioral initiation\n— Damasio's somatic marker hypothesis on the body's role in the loop\n\nEvery tool in this book has a mechanism. Every mechanism has a research basis. Every research basis has been translated into something you can use in the next 90 seconds.\n\nThat is the Publixion standard.\nAnd that is why we built this.\n\nOverthinkers deserve a system, not a suggestion.\n\nOverthinking Ends Here — link in comments.\n\n#Overthinking #BehavioralScience #CBT #MentalPerformance #Publixion #DecisionMaking",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built Overthinking Ends Here because the existing advice was not honest about what overthinking actually is.\n\nBreathe more. Journal more. Trust yourself. Be present.\n\nNone of these are wrong. But none of them address the actual mechanism: a highly efficient neural pathway, reinforced thousands of times over years, that activates before conscious awareness can intervene.\n\nYou cannot fix a pattern with a mood. You need to interrupt it at the neurological level, restructure the thinking that fuels it, and install a daily architecture that makes action the brain's default.\n\nThat is what this book is built to do — grounded in Harvard, Yale, and CBT research, translated into tools that work in 90 seconds or less.\n\nOverthinking Ends Here is available now via Publixion.\n\nLink below for everyone who has been told to 'just stop overthinking' and found that advice exactly as helpful as it sounds.\n\n#Overthinking #MentalPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A_4OL0xJuuRUxmp6RJe9du-\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -7819,27 +7826,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Why do equally skilled service providers charge wildly different prices — and both get clients?\n\nBecause pricing is not about skill. It is about structure.\n\nHere's the P.R.E.S.T.I.G.E™ framework from the Premium Pricing Masterclass:\n\nP — Positioning: Shift from service provider to outcome architect. Not \"I do social media\" but \"I build revenue-generating content systems for SaaS founders.\"\n\nR — Results Definition: Define one specific, measurable, time-bound outcome. \"Generate 30 qualified leads in 60 days\" beats \"improve your marketing\" in every high-ticket sales conversation.\n\nE — Elevation of Offer: Replace hourly rates with a 3-tier value architecture. Foundation ($3K–$5K), Authority ($7K–$12K), Elite ($15K+). Tiers create anchoring — 70% of buyers select the middle tier.\n\nS — Scarcity Structuring: Premium pricing requires capacity control. \"Maximum 5 clients per quarter\" signals quality management, filters low-intent buyers, and increases perceived value.\n\nT — Transformation Packaging: Package your offer as a journey from a painful current state to a specific destination. Name each phase. Make the transformation viscerally real before the client buys.\n\nI — Investment Framing: Never justify price. Frame ROI. \"At 15% improvement on your close rate, this investment returns itself in 45 days\" is not a pitch — it's arithmetic.\n\nG — Gravitas Sales Psychology: Spend 70% of every sales call diagnosing. The expert who asks better questions commands automatic authority.\n\nE — Expansion & Scaling: Once one premium offer closes, systematize delivery, introduce referrals, build productized services.\n\nEach layer multiplies the one before it. All eight running simultaneously = 3–5× price increase with maintained close rates.\n\n👉 Full framework: https://publixion.com/guides/premium-pricing-masterclass\n\n#Pricing #HighTicketSales #Consulting #Freelancing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "8 reasons your prices are lower than they should be — and the system that fixes each one.\n\nThe P.R.E.S.T.I.G.E™ framework:\n\nP → Positioning: Outcome architect, not service provider\nR → Results Definition: Specific, measurable, time-bound\nE → Elevation of Offer: 3-tier pricing architecture\nS → Scarcity Structuring: Capacity control = perceived exclusivity\nT → Transformation Packaging: Name the journey, not the deliverable\nI → Investment Framing: ROI math, not price defense\nG → Gravitas Sales Psychology: Diagnose before prescribing\nE → Expansion & Scaling: Systematize and productize\n\nEach stage builds pricing power. Skip one and the system underperforms. Execute all eight and 3–5× price increases become structural outcomes — not hopeful experiments.\n\nPremium Pricing Masterclass — $9.99.\n\n👉 https://publixion.com/guides/premium-pricing-masterclass",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AF3_u4otvNnF_OqvMKgLDWN\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "8 layers. One framework. Price increases that stick. 👇\n\nThe P.R.E.S.T.I.G.E™ framework:\n\nP — Positioning\nR — Results Definition\nE — Elevation of Offer\nS — Scarcity Structuring\nT — Transformation Packaging\nI — Investment Framing\nG — Gravitas Sales Psychology\nE — Expansion & Scaling\n\nAll 8 explained inside the Premium Pricing Masterclass.\n\nLink in bio. 🔗\n\n#PricingStrategy #HighTicket #Consulting #Freelancing #SalesPsychology #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AZ1VcHjd9qgQz4vRPnP-x1N\"}}"
       }
     }
   },
@@ -8523,30 +8533,31 @@
     "scheduled_date": "2026-03-28",
     "scheduled_time": "14:00",
     "ideal_date": "2026-03-28",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-29T07:54:39.184Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is a real passage from Chapter 8 of Redesign Your Adult Life. I am sharing it because it describes something most people in their late 20s and 30s experience constantly — and almost nobody names directly.\n\n---\n\nAndre had been in his car for 45 minutes.\n\nHe had seen a LinkedIn notification. A colleague from his MBA cohort had been promoted to Vice President of Strategy at 31. He had done what most people do: scrolled. Cross-referenced profiles. Catalogued titles and companies and apparent trajectories with the focused attention of someone compiling evidence for a verdict he had already decided.\n\nThe verdict: he was behind.\n\nNone of the information he gathered was relevant to his actual situation. None of it told him whether his own choices were sound, whether his own trajectory was working, or whether his own redesign was progressing. All of it was noise presented in the visual language of signal.\n\nWhen he finally ran his Personal Metrics System — five internally anchored measurements based on his own values and his own blueprint — four of the five were green. He was progressing. On target. Moving.\n\nHe had not been behind. He had been measuring himself with the wrong instrument.\n\n---\n\nThe comparison trap is not a character flaw. It is an evolved mechanism that social media has systematically weaponized against the exact age group this book is written for.\n\nThe fix is not willpower. It is a Personal Metrics System — five measurements that only your actions can move, that no one else's promotion can invalidate.\n\nThe book walks you through building yours.\n\nLink in bio.\n\n#CareerDevelopment #ComparisonTrap #PersonalDevelopment #SocialMedia #LifeStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-29T07:54:24.515Z",
+        "post_id": "122104174592948582",
         "text": "This is from Chapter 8 of Redesign Your Adult Life. Read it if you have ever spent 45 minutes feeling behind after scrolling LinkedIn.\n\nAndre had catalogued his MBA cohort's titles, companies, and trajectories with the focused attention of someone building a case. The verdict: he was behind.\n\nNone of it was relevant to his actual situation. Not one piece of data told him whether his own choices were sound. It was all noise dressed as signal.\n\nWhen he ran his Personal Metrics System — five measurements anchored in his own values, his own blueprint — four of five were green.\n\nHe had not been behind. He had been using the wrong instrument.\n\nThe comparison trap is not weakness. It is an evolved mechanism that social media has turned into a permanent anxiety loop for an entire generation of capable adults.\n\nThe fix is in the book. Link below.\n\n#PersonalDevelopment #ComparisonTrap #CareerChange #LifeRedesign #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-29T07:54:39.184Z",
+        "post_id": "18167450458408746",
         "text": "He had been in his car for 45 minutes.\n\nOne LinkedIn notification. A cohort colleague promoted to VP at 31. Forty-five minutes of scrolling, cataloguing, and quietly building a verdict: I am behind.\n\nNone of it was true. Four of his five personal milestones were on track. He had not been behind. He had been measuring himself with the wrong instrument.\n\nThis is Chapter 8 of Redesign Your Adult Life.\n\nThe book gives you the right instrument — a Personal Metrics System that only your actions can move and that no one else's achievement can invalidate.\n\nLink in bio.\n\n#ComparisonTrap #PersonalDevelopment #CareerChange #LifeDesign #SelfImprovement #Publixion #LinkedIn #CareerStrategy #LifeAudit #Mindset",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
       }
