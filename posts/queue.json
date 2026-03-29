@@ -7044,30 +7044,31 @@
     "scheduled_date": "2026-03-29",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-29",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-29T14:28:59.601Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The C.O.M.M.E.N.T.S.™ System is a free guide — but it's built for a specific professional.\n\nHere's who gets the most from it:\n\n✅ YOU if:\n\n→ You're a professional — consultant, freelancer, founder, or employee — who wants to expand their network without cold outreach or DM spam\n→ You spend time on LinkedIn daily but have almost nothing to show for it in terms of meaningful connections or inbound opportunities\n→ You've been told to \"network more\" but never received a concrete, repeatable system for doing it\n→ You want to become recognized in your niche — so that opportunities come to you rather than you chasing them\n→ You're willing to invest 30 minutes/day for 30 days and track your results systematically\n→ You want to eventually convert network visibility into clients, collaborations, mentors, or career opportunities\n\n❌ NOT YOU if:\n\n→ You're not willing to comment strategically and consistently — this requires daily action for 30 days\n→ You expect connections to convert without any follow-up or relationship building\n→ You want to automate your networking with bots or mass DMs\n\nThis guide is completely free. The investment is 30 minutes/day and the discipline to track and follow up.\n\n→ https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedIn #PersonalBrand #ProfessionalGrowth #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-29T14:28:47.805Z",
+        "post_id": "122104274750948582",
         "text": "Who is the C.O.M.M.E.N.T.S.™ System for?\n\n✅ Consultants, freelancers, founders, and professionals who want to grow their network without cold outreach\n✅ Anyone who spends time on LinkedIn daily with nothing to show for it\n✅ People who've been told to \"network more\" but never given a concrete system\n✅ Professionals who want inbound opportunities rather than chasing every connection manually\n✅ Anyone willing to invest 30 minutes/day and track results over 30 days\n\n❌ NOT for people looking to automate networking with bots or mass DMs\n❌ NOT for anyone expecting results without consistent daily action\n\nFree download. 30 minutes/day. 30 days. Measurable results.\n\n👉 https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedIn #ProfessionalGrowth #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-29T14:28:59.601Z",
+        "post_id": "18101519420509053",
         "text": "This free guide is for you if... 👇\n\n✅ You want connections without cold DMs or spam\n✅ You're on LinkedIn daily with nothing to show for it\n✅ You want inbound opportunities — not chasing them\n✅ You'll commit 30 min/day for 30 days\n✅ You'll track and follow up systematically\n\n❌ NOT for people expecting results without daily action.\n\nFree. No email. Just implement.\n\nLink in bio. 🔗\n\n#Networking #LinkedIn #PersonalBrand #ProfessionalGrowth #CareerGrowth #Publixion #LinkedInTips #NetworkingTips #BuildYourNetwork #ContentCreator",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
       }
