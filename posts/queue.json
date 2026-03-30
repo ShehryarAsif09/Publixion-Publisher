@@ -4703,19 +4703,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are hundreds of books on confidence.\n\nHere is an honest comparison of what most of them do — and what Discomfort Training does instead.\n\n───────────────────────────────────\nMost confidence books:\n• Tell you to think more positively\n• Offer generic affirmations and visualization\n• Give you inspiration with no implementation architecture\n• Have no system for measuring whether it is working\n• Leave you feeling temporarily motivated and structurally unchanged\n───────────────────────────────────\nDiscomfort Training:\n• Gives you a five-domain Discomfort Audit that scores your specific fears with clinical precision\n• Builds a personalized seven-rung Exposure Ladder from your current position\n• Runs a seven-level Rejection Training protocol that desensitizes the brain's threat response to social risk\n• Installs a five-metric weekly Resilience Scorecard that measures your progress in data\n• Provides a complete day-by-day 30-Day Protocol table — every day mapped, every exposure specified\n• Produces an evidence-based Identity Statement written in present tense from what you have already done\n───────────────────────────────────\n\nThe difference is not the quality of the ideas.\n\nEvery book in this category has ideas.\n\nThe difference is the architecture of implementation.\n\nDiscomfort Training does not ask you to feel differently.\nIt gives you a system that changes what you do — and trusts that the feeling follows the evidence.\n\nBecause that is the only sequence that actually works.\n\n👉 publixion.com/book/discomfort-training\n\n#DiscomfortTraining #ConfidenceBuilding #PersonalDevelopment #BehavioralChange #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most confidence books give you motivation.\nDiscomfort Training gives you a system.\n\nMost confidence books: affirmations, visualization, generic advice, no measurement, no structure.\n\nDiscomfort Training: a five-domain fear audit, a personalized 7-rung Exposure Ladder, a Rejection Training protocol, a weekly Resilience Scorecard, and a complete 30-day day-by-day implementation table.\n\nThe difference is not the quality of ideas. Every book has ideas.\n\nThe difference is architecture. This book changes what you do — and trusts that the feeling of confidence follows the evidence you build.\n\nBecause that is the only sequence that works.\n\n👉 publixion.com/book/discomfort-training\n\n#DiscomfortTraining #ConfidenceBuilding #PersonalDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AKRiyr2ujFh2iI0IY1GR8KM\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -5902,30 +5904,31 @@
     "scheduled_date": "2026-03-29",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-29",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-30T11:55:22.557Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The four objections I hear before people buy Freelance From Zero to $3K/Month — answered directly.\n\n❌ \"Cold outreach doesn't work.\"\n✅ Cold outreach done at low volume and with generic messages doesn't work. The guide teaches personalized outreach at 20 messages/day with 90 seconds of research per prospect. At that standard, 5–15% reply rates are consistent. 10 replies/month × 25% call conversion × 30% close rate = 3 clients. The math works when the volume and personalization do.\n\n❌ \"I don't have a portfolio or testimonials.\"\n✅ The guide includes specific strategies for landing your first client without either. Your first client is not looking for a portfolio — they're looking for evidence that you understand their problem and have a plan for solving it. The diagnostic sales call does exactly that. The system works at zero proof.\n\n❌ \"I don't have time — I'm working a full-time job.\"\n✅ 20 outreach messages per day takes 30–40 minutes. The 5-stage sales call takes 30–45 minutes. You can run this system in under an hour per day, 5 days a week. The first client typically appears in 2–3 weeks at this pace — not 3 months.\n\n❌ \"My skill isn't in demand.\"\n✅ The guide includes a Niche Profitability Scoring Matrix with examples across copywriting, media buying, social media, web development, design, and more. If your skill involves helping a business acquire customers, retain them, or serve them more efficiently — there is a market. The matrix helps you find it.\n\n$9.99. 21 pages. Download today, first client within 30 days.\n\n👉 https://publixion.com/guides/freelance-zero-to-3k\n\n#Freelancing #ClientAcquisition #ColdOutreach #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelance-from-zero-to-3k-month.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelance-from-zero-to-3k-month.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-30T11:55:09.813Z",
+        "post_id": "122104564436948582",
         "text": "Every objection to buying Freelance From Zero to $3K/Month — answered.\n\n🚫 \"Cold outreach doesn't work.\"\n✅ Low-volume generic outreach doesn't. 20 personalized messages/day does. The math is proven in the guide.\n\n🚫 \"I have no portfolio.\"\n✅ Your first client doesn't need a portfolio. They need evidence you understand their problem. The diagnostic call framework provides that.\n\n🚫 \"I don't have time.\"\n✅ 40 minutes/day for outreach. 45-minute sales calls. This system runs in under 1 hour per day.\n\n🚫 \"My niche isn't profitable.\"\n✅ The Niche Profitability Scoring Matrix scores your niche across 5 criteria. If you score above 18/25 — there's a market. The matrix is in the guide.\n\n🚫 \"I've tried freelancing before and it didn't work.\"\n✅ You tried without a system. This is the system.\n\n$9.99. 30 days to your first or next client.\n\n👉 https://publixion.com/guides/freelance-zero-to-3k",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelance-from-zero-to-3k-month.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-30T11:55:22.557Z",
+        "post_id": "17862535878549025",
         "text": "\"Cold outreach doesn't work.\"\n\nLet me be direct. 👇\n\nGeneric outreach at low volume doesn't work.\n\nPersonalized outreach at 20/day does.\n\nThe math:\n400 msgs/month → 40 replies → 10 calls → 3 clients\n\nThat's $3,000/month at $1K per client.\n\nThe system works. Most people quit before the volume kicks in.\n\nFreelance From Zero to $3K/Month — $9.99. Link in bio. 🔗\n\n#Freelancing #ColdOutreach #ClientAcquisition #SideHustle #OnlineBusiness #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/freelance-from-zero-to-3k-month.jpg"
       }
@@ -6593,22 +6596,23 @@
     "scheduled_date": "2026-03-29",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-29",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-30T11:55:30.656Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A lifestyle creator with 12,000 followers watched their reach drop 60% over 8 weeks.\n\nSame niche. Same posting frequency. Just steadily less and less distribution.\n\nHere's what happened when they implemented the R.E.A.C.H. Content Mix System™:\n\n——\n\n📅 WEEK 1 — Audit\nUsed the Root Cause Diagnostic in the guide. Identified the problem: 100% single-format content (static images only). No Reels. No save-focused posts. Completion rate: unmeasured.\n\n📅 WEEK 2 — Deploy\nLaunched the 7-post weekly structure for the first time:\n• 3 Reels using the Hook → Pattern Break → Value → Loop formula\n• 2 Carousels using the 8-slide authority structure\n• 1 Save post with checklist format + \"Save this\" CTA\n• 1 Community poll\n\nFirst Reel in the new format: 43% completion rate. Previous average: 22%.\n\n📅 WEEK 3 — Optimize\nReels showing strongest performance: educational + opinion hooks. Doubled down. Added subtitles to all Reels — average completion jumped to 47%.\n\nSave post from Week 2 was still generating saves 9 days after posting.\n\n📅 WEEK 4 — Monetize\nAdded a clear bio CTA linking to a lead magnet. Three profile visitors from Reel comments converted to email subscribers in a single day.\n\n📅 DAY 30 RESULTS:\n• Reach: +120% vs baseline\n• Saves: +300%\n• Reels completion average: 45%\n• 6 inbound DMs from potential clients\n\n——\n\nNo paid promotion. No follower hack. Just the system — applied consistently for 30 days.\n\nDownload the free guide: https://publixion.com/guides/instagram-reach-dropping\n\n#InstagramReach #CaseStudy #ContentStrategy #REACHFramework #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-30T11:55:30.656Z",
+        "post_id": "122104564532948582",
         "text": "A fitness coach with 8,000 Instagram followers was experiencing reach dropping month over month. Their last 10 posts averaged 280 impressions. Six months earlier it had been 900+.\n\nThey implemented the R.E.A.C.H. Content Mix System™. Here's what happened:\n\nWeek 1: Ran the Root Cause Diagnostic. Finding: posting exclusively static images with no Reels, no save-optimized content, and no completion rate tracking. The algorithm had nothing to reward.\n\nWeek 2: Deployed full 7-post weekly structure. First Reel used the Hook → Pattern Break → Value → Loop structure. Hook: \"The reason your fat loss stalled has nothing to do with your diet.\" Completion rate: 41%. Previous Reel average: 19%.\n\nWeek 3: Added \"Save this\" CTAs to every educational post. Saves went from an average of 3/post to 47/post on the carousel that week.\n\nWeek 4: Bio updated with clear CTA. First inbound DM from a Reel comment: \"Been following you for 2 weeks. Can I book a consult?\"\n\nDay 30 results:\n• Reach: +95%\n• Saves: +280%\n• Completion rate: 43% avg\n• 4 new consultation bookings from Instagram alone\n\nThe system didn't change what they posted about. It changed how every post was structured, sequenced, and optimized.\n\nFree download: https://publixion.com/guides/instagram-reach-dropping\n\n#InstagramReach #ContentStrategy #CaseStudy #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-.jpg"
       },
@@ -7619,30 +7623,31 @@
     "scheduled_date": "2026-03-30",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-30",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-30T11:55:51.251Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The B.I.D.M.™ brand guide is for this specific person:\n\n→ You're active on social but your content doesn't feel consistent — even to you\n→ You've introduced yourself differently to different clients and aren't sure which version is \"the real one\"\n→ You're building toward a digital product or paid service but your brand isn't connected to it\n→ Someone has asked \"what do you do exactly?\" more than once after reading your bio\n→ You feel like you need a rebrand but don't know what to actually change\n→ You're a solo founder who wants to build something that outlasts your personal output\n→ You've been postponing a consistent content strategy because you're not sure what identity to build it around\n\nThe confusion isn't a creative problem. It's a missing decision.\n\nThe guide gives you the B.I.D.M.™ matrix, a positioning statement template, brand pillars for your chosen path, and a 14-day calendar.\n\nFree. No email required.\n\n👉 https://publixion.com/guides/personal-brand-vs-business-brand\n\n#PersonalBranding #BrandStrategy #Solopreneur #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-30T11:55:40.638Z",
+        "post_id": "122104564622948582",
         "text": "Who is this brand identity guide built for?\n\n✅ Entrepreneurs who post inconsistently because they're unsure of their brand identity\n✅ Freelancers who want to build an audience but don't know which version of themselves to show up as\n✅ Solo founders building toward a digital product with no clear brand foundation\n✅ Anyone told \"I'm not sure what you do\" after looking at their profile\n✅ Creators who keep postponing a content strategy because they don't know what identity to anchor it to\n\nFree. No signup.\n\n📖 https://publixion.com/guides/personal-brand-vs-business-brand\n\n#PersonalBranding #ContentMarketing #DigitalMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-30T11:55:51.251Z",
+        "post_id": "17949822543125108",
         "text": "This guide is for you if:\n\n↳ Your content feels inconsistent — even to you\n↳ You've introduced yourself differently to different people\n↳ Someone asked \"what do you do?\" after reading your bio\n↳ You want a content strategy but don't know what identity to anchor it to\n↳ You're building toward a product but your brand isn't connected yet\n\nB.I.D.M.™ Decision Matrix — free guide. 14-day implementation.\n\n📖 Link in bio.\n\nLink in bio.\n\n#PersonalBranding #BrandStrategy #ContentMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
       }
@@ -8700,27 +8705,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You applied to 50 jobs.\n\nYou have 8 years of experience. Strong reviews. Real results.\n\nYou got 2 interviews.\n\nAnd at least one of those came from a referral — not from your resume.\n\nYou're not underqualified. You're being filtered before a single human sees your application.\n\n75% of qualified candidates are rejected by Applicant Tracking Systems before a recruiter reads their resume. These systems — Workday, Greenhouse, Lever, Taleo — don't read your resume the way a person does. They run a scoring algorithm against the job description. If your language doesn't match their language, you're out. Automatically. Regardless of your actual ability.\n\nThis is not a talent problem. It's an alignment problem.\n\nWe built a free guide around the exact system to fix it: the P.A.S.S.E.R.™ Framework — 6 phases to pass ATS filters, increase interview callbacks by 2–5×, and receive offers within 30 days.\n\n👉 Download free: https://publixion.com/guides/resume-rejections-despite-experience\n\n#JobSearch #ResumeWriting #CareerAdvice #ATSTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have the experience. You're applying. You're getting rejected anyway.\n\nHere's why: 75% of qualified candidates never get seen by a human. Applicant Tracking Systems filter them out automatically — because the language on their resume doesn't match the language of the job description.\n\nNot because the experience isn't there. Because the alignment isn't there.\n\nOur free guide — the P.A.S.S.E.R.™ Framework — gives you the exact system to pass ATS filters, write proposals that justify the number, and increase interview callbacks by 2–5× in 30 days.\n\n📖 Free download: https://publixion.com/guides/resume-rejections-despite-experience\n\n#JobSearch #ResumeWriting #CareerAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Ac_LXHoCu8IyoAEdulz7t8r\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "8 years of experience.\n50 applications.\n2 interviews.\n\nYou're not underqualified. You're being filtered by a system a human never reviewed.\n\n75% of qualified candidates are rejected by ATS before anyone reads their resume.\n\nThe P.A.S.S.E.R.™ Framework is a free guide to passing those filters and increasing callbacks by 2–5× in 30 days.\n\n📖 Link in bio.\n\nLink in bio.\n\n#JobSearch #ResumeWriting #CareerAdvice #ATSTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ApEtjkM1K7TV_e8UhYAlsFk\"}}"
       }
     }
   },
@@ -9313,19 +9321,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built this book because the health industry has a dishonesty problem.\n\nNot about the science. The science is extraordinary. There has never been more robust research on sleep, movement, nutrition, and habit formation than exists right now in 2026.\n\nThe dishonesty is about who the advice is actually designed for.\n\nEvery bestselling health book assumes you have 90 minutes in the morning before your family wakes up. It assumes you have access to a gym, a meal prep service, and a calendar with negotiable commitments. It assumes your primary obstacle is information, and that if you just understood the science, you would act on it.\n\nNone of that is true for the people we build books for.\n\nAt Publixion, we build for the executive who is already performing at a high level professionally and quietly deteriorating physically. For the professional in their late 30s who has read six health books, understood them all, and still cannot make it stick. For the person who blames themselves every time a routine collapses — not realizing the routine had no disruption protocol, no minimum viable day, no mechanism for surviving the inevitable chaos of a real adult life.\n\nSo we spent months mapping the behavioral science of sustainable health change. We read the Lancet meta-analyses, the Nature Human Behaviour distributed training research, the UCBerkeley sleep architecture studies, the Stanford behavior design literature. And we built a system from the findings up — not from the ideology down.\n\nThe result is the H.E.A.L. Architecture.\n\nFour pillars. 60 minutes. Designed to work inside the life you actually have.\n\nThe 1-Hour Health Formula is live now at publixion.com.\n\nIf you know someone who has been waiting for a system that actually fits their life — send this to them today.\n\n#Publixion #HEALArchitecture #HealthSystem #BehavioralScience #ScienceBackedHealth #Longevity #ProfessionalWellness",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built this book because the health industry keeps designing for the wrong person.\n\nEvery bestselling fitness or wellness book assumes you have a flexible morning, a gym nearby, a meal prep budget, and a life that holds still long enough to build a routine.\n\nMost people's lives do not look like that.\n\nAt Publixion, we build for busy professionals in their 30s, 40s, and 50s who are performing at a high level in every visible area of life and running significantly below their physical and energetic potential.\n\nPeople who have tried the routines. Read the books. Done the programs. And still find themselves starting over every few months, quietly convinced the problem is them.\n\nIt is not them. It is the architecture.\n\nThe 1-Hour Health Formula is the architecture fix.\n\nFour pillars. 60 minutes. Built on peer-reviewed science. Designed for real life.\n\nAvailable now at the link in comments.\n\n#Publixion #HealthSystem #HEALArchitecture #BusyProfessionals",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AmKC2ZQhgRHvXyTwWuSKoTW\"}}"
       },
       "instagram": {
         "enabled": false,
