@@ -8211,27 +8211,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is a real passage from Chapter 1 of Relationship Maintenance.\n\nRead it slowly.\n\n---\n\nDrift is not the loud enemy of love. It is the quiet one. It does not arrive with warning signs or ultimatums. It arrives dressed as routine, as busyness, as 'we'll make time for that later.' It arrives looking exactly like a normal life. And by the time most couples recognize it, they are already standing in a house that feels like it belongs to two polite strangers who used to know each other very well.\n\nMost couples do not fail from explosive crises. They fail from slow drift. And the difference between the couples who reverse it and those who do not is not passion, compatibility, or the absence of hard circumstances. It is intentionality made structural.\n\n---\n\nIf that sentence landed somewhere real for you, the book is at publixion.com\n\nThe Drift Diagnostic in Chapter 1 takes ten minutes and will tell you exactly where you are standing right now.\n\n#RelationshipMaintenance #DriftEffect #LongTermRelationship #MarriageAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "From Chapter 1 of Relationship Maintenance:\n\n\"Drift is not the loud enemy of love. It is the quiet one. It does not arrive with warning signs or ultimatums. It arrives dressed as routine, as busyness, as 'we'll make time for that later.' It arrives looking exactly like a normal life.\"\n\nIf that resonates — the book has a system for exactly this.\n\nThe Drift Diagnostic in Chapter 1 takes ten minutes and will show you exactly where your relationship currently stands.\n\nGet it at publixion.com\n\n#RelationshipMaintenance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AjlKhl5FGo-h4CdEkkUuzDu\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "From Chapter 1 of Relationship Maintenance:\n\n\"Drift is not the loud enemy of love. It is the quiet one.\"\n\nIf you felt that — the book has a complete system for reversing it.\n\nLink in bio.\n\n#RelationshipMaintenance #LongTermLove #MarriageAdvice #CouplesGoals #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AxazEooeB-9hIL10hjPKyrR\"}}"
       }
     }
   },
