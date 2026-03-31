@@ -4109,30 +4109,31 @@
     "scheduled_date": "2026-03-30",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-30",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-31T11:52:40.686Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Final post on this — then I'm moving on.\n\nEvery week you spend pricing by gut feel is a week of compounding undercharges.\n\nIf you bill 3 projects a month and you're undercharging by $500 per project — that's $1,500/month you're not collecting. $18,000/year. Not because clients won't pay it. Because you never asked for it correctly.\n\nThe Value-Based Pricing for Freelancers guide gives you the system to fix that permanently:\n\n→ The P.R.I.C.E.™ Framework — 5 phases, start to close\n→ The 10% value formula — calculate what any service is worth in under 15 minutes\n→ A proposal template that leads with outcome, not cost\n→ Objection scripts for every pushback scenario\n→ A 7-day action plan to reprice your very next project\n→ 3 case studies: a designer who tripled her rates, a copywriter who 5×'d per-project revenue, a developer who closed his first $12K contract\n\nFree. No email. No paywall.\n\nThe guide doesn't expire. But your next client conversation might happen before you're ready.\n\n👉 Read it now: https://publixion.com/guides/difficulty-pricing-services\n\nIf this helped — share it with one freelancer you know who's been undercharging.\n\n#FreelancePricing #ValueBasedPricing #Freelancing #SolopreneurLife #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-31T11:52:29.050Z",
+        "post_id": "122104849034948582",
         "text": "Last post on this guide.\n\nIf you've been scrolling past this all week — here's the number that should make you stop:\n\nIf you undercharge by $300 per project and take on 3 projects per month, that's $10,800/year you're working for free.\n\nNot because clients won't pay it. Because you haven't learned to ask for it correctly.\n\nThe Value-Based Pricing for Freelancers guide fixes that — free, in under 30 minutes:\n\n✅ The P.R.I.C.E.™ Framework\n✅ The 10% value calculation formula\n✅ Proposal templates and objection scripts\n✅ 3 real case studies with results\n✅ 7-day action plan\n\nAfter today I'm moving this off my feed.\n\n📖 Read it free now: https://publixion.com/guides/difficulty-pricing-services\n\n#Freelancing #PricingStrategy #FreelanceTips #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-31T11:52:40.686Z",
+        "post_id": "18573401281033624",
         "text": "Last post on this.\n\nIf you undercharge by $300 per project and take 3 projects a month — that's $10,800/year you're leaving on the table.\n\nNot because clients won't pay.\nBecause you don't have a system to ask.\n\nThe P.R.I.C.E.™ Framework gives you that system. Free. Full guide.\n\nI'm not posting about this again after today.\n\n📖 Link in bio.\n\nLink in bio.\n\n#FreelancePricing #ValueBasedPricing #FreelancerLife #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/difficulty-pricing-services.jpg"
       }
@@ -4197,19 +4198,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We built Digital Boundaries because we kept watching brilliant, high-functioning people fail at the same thing.\n\nNot fail at their jobs. Not fail at parenting. Not fail at relationships.\n\nFail at being present inside their own lives.\n\nThey had read Newport on deep work. They had read Hari on stolen focus. They had done the detox, set the limits, deleted the apps. And within two weeks they were back where they started — scrolling at midnight, checking their phone during the school play, unable to sustain a thought for longer than it takes a notification to arrive.\n\nThe books they read diagnosed the problem with extraordinary precision. None of them installed a solution.\n\nThat is what we built.\n\nDigital Boundaries is not a critique of technology culture. It is a behavioral architecture system — five interlocking frameworks covering sleep, deep focus, relational presence, social media, professional boundaries, and emotional regulation — designed to hold under the conditions of a real, demanding, connected modern life.\n\nThe Sleep Sovereignty Protocol gives most readers the best sleep they have had in years within the first week. Not through supplements or therapy. Through one structural change to where the phone charges at night.\n\nThe Monk Mode Protocol restores the deep cognitive focus that years of fragmented attention have dismantled. Ninety-minute uninterrupted blocks. The kind of work that reminds you what you are actually capable of.\n\nThe Relational Presence System — the First 15 Last 15 Protocol, Device-Free Zones, the Listening Presence Cue — returns people to their partners and children as someone who is genuinely, measurably there.\n\nAnd the 30-Day Plan builds every piece of it sequentially, one daily action at a time, so the transformation is not something you read about. It is something you complete.\n\nWe built this for the person who already knows the problem.\n\nThis is the system that actually solves it.\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #BehavioralScience #DeepWork #SleepHealth #DigitalWellness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "We kept watching high-functioning people fail at the same thing.\n\nNot at their careers. Not at their families. At being present inside their own lives.\n\nThey had read the books. They had done the detox. They had set the limits. Two weeks later they were back where they started.\n\nBecause diagnosis is not a solution. And willpower alone has never beaten a trillion-dollar behavioral engineering industry.\n\nSo we built the solution.\n\nDigital Boundaries is a complete behavioral architecture — Sleep Sovereignty, Deep Focus, Relational Presence, Social Media Sovereignty, Emotional Regulation — with a 30-Day Plan that installs every piece of it one day at a time.\n\nNot a self-help book. A construction project.\n\nThe building starts when you open it.\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #DigitalWellness #Publixion #AttentionEconomy",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AHt24rFZtolSPJ68F3-X2qp\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -6149,30 +6152,31 @@
     "scheduled_date": "2026-03-30",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-30",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-31T11:52:59.892Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The four objections I hear before people download the niche guide — answered.\n\n❌ \"I'm afraid I'll pick the wrong niche.\"\n✅ The S.D.I.™ framework doesn't ask you to pick forever — it asks you to commit to a 90-day test. The worst niche you test produces more learning than the best niche you research indefinitely. Data from a published post tells you more than any amount of internal deliberation. And niches are not prisons — they are starting positions.\n\n❌ \"I have too many interests. I can't choose just one.\"\n✅ That's exactly what the scoring matrix is for. When you apply the same 3 criteria to all of your interests simultaneously, the scores make the decision — not your feelings. Multiple high-interest options competing for attention is a filtering problem. The framework provides the filter.\n\n❌ \"I don't know if there's an audience for my niche.\"\n✅ The demand evaluation section of the guide uses four free tools — Google Trends, YouTube search, Reddit, and Gumroad — to verify whether an audience exists before you create a single piece of content. You test demand before you commit. No guessing.\n\n❌ \"I've tried picking a niche before and pivoted after a month.\"\n✅ You pivoted because you picked based on feeling rather than data. The S.D.I.™ process ensures your niche candidate passes three objective filters before you commit. A niche that scores 22/30 doesn't feel uncertain — it feels obvious. That's the difference.\n\nThis guide is free.\n\n👉 https://publixion.com/guides/i-dont-know-my-niche\n\n#NicheSelection #PersonalBrand #ContentStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/I-dont-know-my-niche.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/I-dont-know-my-niche.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-31T11:52:48.699Z",
+        "post_id": "122104849148948582",
         "text": "Every objection to downloading the niche clarity guide — answered.\n\n🚫 \"What if I pick the wrong niche?\"\n✅ You commit to a 90-day test, not a lifetime. The data from those 90 days tells you more than 12 months of research without posting.\n\n🚫 \"I have too many interests to choose.\"\n✅ The scoring matrix applies the same criteria to all interests simultaneously. The numbers decide — not your feelings.\n\n🚫 \"What if there's no audience for my niche?\"\n✅ The guide's demand evaluation section uses 4 free tools to verify audience existence before you create a single piece of content.\n\n🚫 \"I've pivoted before and failed.\"\n✅ You pivoted because you picked emotionally. The S.D.I.™ process ensures your niche passes three objective filters before you commit.\n\nAnd the guide is free.\n\nNo reason not to. Download it.\n\n👉 https://publixion.com/guides/i-dont-know-my-niche",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/I-dont-know-my-niche.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-31T11:52:59.892Z",
+        "post_id": "17864462175666375",
         "text": "\"What if I pick the wrong niche?\"\n\nHere's the reframe. 👇\n\nYou don't pick forever.\nYou commit to a 90-day test.\n\nThe data from 90 days of publishing tells you more than 12 months of research without posting.\n\nAnd the S.D.I.™ framework ensures your niche passes 3 objective filters before you commit — so \"wrong\" becomes increasingly unlikely.\n\nFree guide — link in bio. 🔗\n\n#NicheSelection #ContentStrategy #PersonalBrand #CreatorEconomy #ContentCreator #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/I-dont-know-my-niche.jpg"
       }
@@ -6851,19 +6855,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Priya is a marketing consultant. She'd been posting on LinkedIn for 8 months.\n\n487 followers. Zero inbound. One client from a referral, nothing organic.\n\nHere's what happened when she followed the LinkedIn Authority System:\n\n——\n\n📅 WEEK 1 — Positioning\nRebuilt her headline: \"B2B Content Strategist | Helping SaaS Founders Generate Inbound Without Paid Ads | 50+ Clients\"\nRewritten About section using the 5-part structure: Hook → Problem → Credibility → Method → CTA\nAdded a lead magnet to her featured section. Profile conversion rate doubled in 7 days.\n\n📅 WEEKS 2–4 — Content Engine\nLaunched the 4-pillar weekly rotation.\nMonday: Educational breakdown. Tuesday: Case study. Wednesday: Industry insight. Thursday: Framework post. Friday: Personal story.\n\nBy end of Week 3: Average post impressions went from 300 → 1,800.\n\n📅 WEEKS 3–8 — Engagement Loop\n30 minutes daily. 10 niche comments, 3 value DMs, 100% reply rate.\nWeek 6: An influencer she'd been commenting on for 3 weeks replied to her post publicly. Her next post hit 6,400 impressions.\n\n📅 DAY 45 — First Inbound DM\n\"Saw your post on content systems. Would love to chat about working together.\"\n\nShe booked the call. Closed a $1,200/month retainer.\n\n📅 DAY 90\n2,400 targeted followers. 3 inbound clients. $3,600/month from LinkedIn alone.\n\n——\n\nPriya didn't go viral. She went systematic.\n\nThe LinkedIn Authority System is that system — fully mapped, day by day.\n\n→ https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #PersonalBrand #CaseStudy #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "James is a freelance UX consultant. Active on LinkedIn. Posting twice a week for 6 months. 310 followers. No clients from it.\n\nHe followed the LinkedIn Authority System. Here's his 90-day breakdown:\n\nWeek 1: Rebuilt his profile using the Positioning Blueprint. Headline rewritten using the Result + Audience + Proof formula. Featured section updated with a free resource. He told me his profile visits doubled in 5 days.\n\nWeeks 2–4: Launched the 4-pillar content rotation. First educational post — \"5 UX mistakes killing your SaaS conversion rate\" — hit 3,200 impressions in 48 hours. His previous posts averaged 280.\n\nWeek 5: Started the 30-minute daily engagement loop. 10 targeted comments per day. Three of the people he commented on started engaging with his content regularly.\n\nDay 52: First inbound DM from a SaaS founder who'd seen his posts. Booked a call. Closed a £1,500 project.\n\nDay 90: 1,900 followers. 4 inbound inquiries. 2 new clients. LinkedIn was now generating more leads than his referral network.\n\nHe didn't change what he was saying. He changed how he was positioned, how he posted, and how he engaged.\n\nThat's the system.\n\n👉 https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #PersonalBrand #FreelanceSuccess #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A114ZjZhYydtBoWF5UMXHEd\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -7089,22 +7095,23 @@
     "scheduled_date": "2026-03-31",
     "scheduled_time": "07:00",
     "ideal_date": "2026-03-31",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-31T11:53:14.757Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A marketing consultant decided to try the C.O.M.M.E.N.T.S.™ System for 30 days.\n\nStarting point: active on LinkedIn, posting twice a week, 340 followers, zero inbound inquiries in 4 months.\n\nHere's what happened:\n\n——\n\n📅 WEEK 1 — Curate + Observe\nUsed the Target Audience Tracker from the guide to identify 12 niche influencers in B2B marketing. Mapped 4 topic pillars: content strategy, lead generation, agency scaling, LinkedIn growth.\n\nPrepared 3 comment angles for each pillar. First time she'd ever sat down and prepared comments before opening LinkedIn.\n\n📅 WEEK 2 — Make + Engage\n7 comments/day using the Observation → Insight → Question structure.\n\nDay 9: A 45,000-follower B2B marketing influencer replied to her comment. Her comment thread generated 14 additional replies from their audience.\n\nProfile visits that day: 34. Normal daily visits: 2–3.\n\n📅 WEEK 3 — Note + Track\nUsed the Connection & Lead Tracker to record all replies and profile visits. Sent 6 personalized connection requests to influencers who had replied. 5 accepted.\n\nDay 18: First DM from a connection: \"Saw your comments on [Influencer]'s posts. Really sharp perspective on agency content. Are you taking on clients?\"\n\nBooked the discovery call. Closed a $1,500/month retainer.\n\n📅 WEEK 4 — Scale\nDoubled down on the 2 comment angles generating the most replies. Refined the others.\n\n📅 DAY 30 RESULTS:\n• 18 new high-quality connections\n• 3 freelance project inquiries\n• 1 closed retainer ($1,500/month)\n• Profile views: +410% vs baseline\n\n——\n\nShe didn't change what she knew. She changed how visible she was.\n\nDownload the free guide: https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #CaseStudy #LinkedInGrowth #COMMENTSFramework #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-31T11:53:14.757Z",
+        "post_id": "122104849322948582",
         "text": "A SaaS founder had been on LinkedIn for 3 years. 800 followers. Active poster. Zero inbound.\n\nHe tried the C.O.M.M.E.N.T.S.™ System. Here's his 30-day breakdown:\n\nWeek 1: Identified 10 SaaS and B2B founder influencers. Mapped 3 topic pillars: product-led growth, SaaS pricing, founder content. Prepared comment angles before opening LinkedIn for the first time in his career.\n\nWeek 2: 6–8 comments/day using Observation → Insight → Question. Posted within 60 minutes of influencer posts going live. Day 11: Two influencers replied to his comments on the same day. One tagged him in their next post.\n\nWeek 3: That tag drove 280 new profile visits in 48 hours. He gained 94 new followers — more than in any previous 3-month period.\n\nUsed the guide's connection request script to follow up with everyone who'd engaged with his comments. 7 new meaningful connections made.\n\nWeek 4: First collaboration inquiry: \"I've noticed your comments everywhere in my feed. We should do a joint webinar.\"\n\nDay 30 results:\n• 22 new connections\n• 5 collaboration conversations\n• 2 confirmed joint webinars\n• Product waitlist sign-ups from LinkedIn: +340%\n\nHe built more network in 30 days than in 3 years of passive LinkedIn activity.\n\nFree download: https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedIn #CaseStudy #ProfessionalGrowth #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
       },
@@ -8751,27 +8758,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most experienced professionals have the same resume problem.\n\nThey describe what they did. The job description describes what the company needs. Those two languages rarely match — and ATS systems only score matches.\n\nHere's the 6-phase framework from our free resume guide:\n\n━━━━━━━━━━━━━━━━━━━━\nTHE P.A.S.S.E.R.™ FRAMEWORK\n━━━━━━━━━━━━━━━━━━━━\n\nP — Position Deconstruction\nCopy every job description before applying. Highlight required skills, tools, certifications, repeated phrases. Any term appearing 3+ times is a priority keyword — it must appear in your resume at least twice.\n\nA — Alignment Mapping\nBuild a two-column table: JD requirement on the left, your matching experience on the right. Gaps must be addressed before applying. If you can't match a requirement — reframe adjacent experience or address it in the cover letter.\n\nS — Structure Optimization\nStrip all ATS-breaking formatting. No tables. No columns. No text boxes. No graphics. Standard headings only: Summary, Experience, Skills, Education, Certifications. Save as .docx for ATS upload.\n\nS — Strength Amplification (A.R.I. Formula™)\nEvery bullet: Action Verb + Result + Impact. Every bullet answers: How much? How fast? How often? Compared to what?\n\nBefore: \"Managed team projects.\"\nAfter: \"Led cross-functional team of 6 to deliver product launch 2 weeks early, generating $120K in Q1 revenue.\"\n\nE — Evaluation Testing\nRun your resume through Jobscan, ResumeWorded, or SkillSyncer against the specific JD. Target: 75%+ match score. Do not apply below 70%.\n\nR — Refinement Loop\nNever send the same resume to two different roles. Each application gets its own version. Track versions, callback rates, and ATS scores in the Interview Conversion Tracker (included in the guide).\n\n━━━━━━━━━━━━━━━━━━━━\n\nCase study: A senior marketing manager went from 3 callbacks in 60 applications to 9 callbacks in 22 applications — after applying P.A.S.S.E.R.™. Average ATS score: 41% → 83%. Two offers in 30 days.\n\n👉 Full guide, free: https://publixion.com/guides/resume-rejections-despite-experience\n\n#ResumeWriting #JobSearch #CareerAdvice #ATSTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Your resume is being rejected before a human ever reads it.\n\nHere's the 6-phase P.A.S.S.E.R.™ framework from our free guide that fixes it:\n\n🔵 P — Deconstruct every job description. Extract 15–20 keywords before opening your resume.\n🔵 A — Map JD requirements to your experience in a two-column table.\n🔵 S — Strip ATS-breaking formatting. No tables, graphics, or columns.\n🔵 S — Rewrite every bullet using Action Verb + Result + Impact.\n🔵 E — Test your resume against the JD using Jobscan. Target 75%+.\n🔵 R — Never send the same version twice. Every application is its own optimization.\n\nCase study: Marketing manager went from 3 callbacks in 60 applications to 9 in 22 — with an ATS score jump from 41% to 83%. Two offers in 30 days.\n\n📖 Full guide, free: https://publixion.com/guides/resume-rejections-despite-experience\n\n#ResumeWriting #JobSearch #CareerAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AC9smwGoPawVC0XcyPyxqvd\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Your resume is rejected before anyone reads it.\n\nThe P.A.S.S.E.R.™ Framework fixes that in 6 phases:\n\nP — Deconstruct the job description\nA — Map requirements to your experience\nS — Strip ATS-breaking formatting\nS — Rewrite every bullet (Action + Result + Impact)\nE — Test with Jobscan — target 75%+\nR — New version for every application\n\nResult: 3 callbacks in 60 apps → 9 in 22 apps. Two offers in 30 days.\n\n📖 Full guide — free. Link in bio.\n\nLink in bio.\n\n#ResumeWriting #JobSearch #CareerAdvice #ATSTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AnbBPcei3DaRjlXu1dkv132\"}}"
       }
     }
   },
@@ -9382,7 +9392,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most health books give you motivation.\n\nThis one gives you a system.\n\nSwipe to see what is inside The 1-Hour Health Formula 👉\n\nSlide 1 — Why every previous routine failed (it was never you)\nSlide 2 — H: How identity change makes healthy behavior automatic\nSlide 3 — E: The 20-min movement protocol that needs no gym\nSlide 4 — A: Fueling without dieting or counting anything\nSlide 5 — L: The sleep protocol that repairs everything else\n\nPlus: stress management, longevity science, a disruption-proof bounce-back protocol, and a complete 30-day implementation plan.\n\nOne hour. Four pillars. A body worth inhabiting at every age.\n\nLink in bio to get your copy.\n\n#HEALArchitecture #HealthFormula #Publixion #HealthyHabits #SleepScience #Longevity #NutritionSystem #BodyweightFitness #BusyProfessionals #EnergyBoost #DailyProtocol #ScienceBackedHealth",
@@ -9393,7 +9403,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-1-hour-health-formula-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-1-hour-health-formula-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-1-hour-health-formula-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ALg9cP0B77iRtMKYwshZoEY\"}}"
       }
     }
   },
