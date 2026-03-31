@@ -7322,7 +7322,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "12 chapters. One loop, permanently interrupted. Swipe to see what is inside. 👉\n\nSlide 1: The book that ends the loop.\nSlide 2: Ch.1 — The Overthinking Trap. Why your brain keeps replaying. The neuroscience of the loop and why willpower cannot fix it.\nSlide 3: Ch.4 — The STOP Method. A 4-step neurological interruption protocol. Breaks any loop in 90 seconds. Works anywhere.\nSlide 4: Ch.5 — Decision Deadlines. The Tier System that closes every open decision in your life. No more indefinite deferral.\nSlide 5: The 30-Day Plan. A day-by-day implementation protocol. Under 20 minutes daily. Full transformation in one month.\n\nEvery chapter. Every tool. Every framework — built for people who are done watching their best hours disappear into thinking that produces nothing but more thinking.\n\nLink in bio.\n\n#Overthinking #StopOverthinking #SelfDevelopment #MentalHealth #Books #Productivity #DecisiveAction #Publixion #BookstagramAsia #NonFiction",
@@ -7333,7 +7333,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/overthinking-ends-here-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/overthinking-ends-here-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/overthinking-ends-here-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AbaMJYtA2ROAmCHsnKuwulP\"}}"
       }
     }
   },
@@ -7882,27 +7883,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The Premium Pricing Masterclass was built for a very specific person.\n\nYou'll know it's for you if:\n\n→ You're a freelancer, consultant, coach, or agency owner currently charging $500–$2,000 per client — and you know your results are worth more\n\n→ You write custom proposals for every single inquiry because you have no standardized offer, and every conversation starts from scratch\n\n→ You've thought about raising your prices but the fear of losing clients has kept your rates frozen for 12+ months\n\n→ You get on sales calls and leave them feeling like you were auditioning for the job rather than evaluating whether you want to take it\n\n→ You deliver excellent results — clients stay, refer, and thank you — but you're not charging in proportion to the value you create\n\n→ You've tried raising prices once, got one objection, and immediately dropped back to your old rate\n\nThis guide is not a mindset guide. It is not about \"believing in your worth.\"\n\nIt is a structural blueprint — offer architecture, sales psychology, proposal framework, objection scripts, and a 30-day implementation calendar — for the service provider who is ready to be paid what their results are actually worth.\n\n👉 https://publixion.com/guides/premium-pricing-masterclass\n\n#Pricing #Freelancing #Consulting #HighTicketSales #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Who is the Premium Pricing Masterclass for?\n\nExactly these people:\n\n✅ Freelancers stuck at $500–$1,500 per project who can't seem to break through\n✅ Consultants and coaches who write bespoke proposals for every client — and lose most of them to budget objections\n✅ Agency owners competing on price when they know their results justify premium rates\n✅ Service providers who've delivered real results but never documented them into case studies and proof\n✅ Anyone who gets on a sales call and hears \"it's expensive\" and doesn't know exactly what to say next\n\nThis is NOT for people who haven't started their service business yet. That's a different guide.\n\nThis is for the skilled professional who is already working, already delivering, and already undercharging.\n\n👉 https://publixion.com/guides/premium-pricing-masterclass",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AD_RMdxQ2wvdKhIn_s7BcYf\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is for you if… 👇\n\n✅ You're charging $500–$2K per client and know you're worth more\n✅ You write custom proposals for every single lead\n✅ You've frozen your prices for 12+ months out of fear\n✅ You leave sales calls feeling like you auditioned\n✅ Clients stay, refer, and thank you — but you're still undercharging\n\nThe Premium Pricing Masterclass is the structural fix.\n\nLink in bio. 🔗\n\n#Freelancing #Consulting #PricingStrategy #HighTicket #ServiceProvider #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"At2lHnkEsUy2N0F5jFRVMK5\"}}"
       }
     }
   },
@@ -9086,32 +9090,34 @@
     "scheduled_date": "2026-03-31",
     "scheduled_time": "11:00",
     "ideal_date": "2026-03-30",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-03-31T14:56:36.284Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion:\n\nYour years of experience are not protecting you.\nThey may actually be working against you.\n\nHere is why.\n\nThe professionals most resistant to reskilling are the ones with the most invested in their current skill set. The sunk cost of fifteen years in a discipline makes it psychologically difficult to acknowledge that the discipline's market value is declining.\n\nBehavioral economists call this sunk cost bias.\nCareer strategists call it the Competence Comfort Trap.\nI call it the most common reason experienced professionals get left behind.\n\nThe most dangerous career move in 2026 is not changing jobs.\nIt is staying loyal to a skill set that the market is quietly devaluing.\n\nIBM's research shows that the average technical skill now loses half its market premium within 2.5 years.\nYet the average professional reviews their skill development strategy approximately never.\n\nSkill Capital introduces the Decay Rate Principle: a framework for scoring every skill you hold on its automation vulnerability, its demand trajectory, and its expected half-life — so you can make development decisions based on future value, not past investment.\n\nThe professionals who run this analysis are not abandoning their expertise.\nThey are protecting it.\n\nDo you know the half-life of your most valuable skill?\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #CareerStrategy #FutureOfWork #Reskilling #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-03-31T14:56:23.701Z",
+        "post_id": "122104898648948582",
         "text": "Hot take: your experience might be your biggest liability right now.\n\nNot because it is not real. But because the professionals most resistant to reskilling are the ones who have invested the most in skills that the market is quietly devaluing.\n\nIBM research shows the average technical skill has a half-life of 2.5 years.\n\nMost professionals have not audited their skills in years.\n\nSkill Capital gives you the Decay Rate Principle — a framework that tells you which of your skills are compounding and which are expiring, before the market tells you first.\n\nKnowing is the difference between pivoting by design and being restructured by surprise.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #CareerDevelopment #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Your experience is not protecting you.\n\nThe average technical skill loses half its market value in 2.5 years.\nMost professionals have never audited theirs.\n\nSkill Capital gives you the framework to know exactly which skills are compounding — and which ones are quietly expiring.\n\nKnowing now is the difference between pivoting by design and being surprised by a restructuring.\n\n📖 Link in bio.\n\n#SkillCapital #CareerStrategy #FutureOfWork #AIAndCareers #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg",
+        "error": "{\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"A3oGYbbHyX2CxjQEmyRDFDH\"}}"
       }
     }
   },
