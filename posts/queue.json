@@ -6397,30 +6397,31 @@
     "scheduled_date": "2026-03-31",
     "scheduled_time": "04:00",
     "ideal_date": "2026-03-31",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-01T11:54:25.319Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Every time I share this guide, I get some version of these four objections. Let me answer all of them.\n\n❌ \"I don't have enough experience to charge premium prices.\"\n\nYou don't need 20 years. You need specificity. A focused offer from someone with 3 years of targeted experience outsells a vague pitch from someone with 15. The guide shows you how to identify the specific slice of your skill set that commands premium pricing — regardless of how long you've been doing it.\n\n❌ \"I've tried freelancing before and it didn't work.\"\n\nThat's almost certainly a packaging failure, not a you failure. If your offer was vague (\"I do social media\"), if your pricing was hourly, if your outreach was cold and generic — none of those are skill problems. They're structure problems. This guide fixes the structure.\n\n❌ \"I don't have time to go through a whole system right now.\"\n\nThe guide is 10 pages. The first worksheet takes 30 minutes. The 30-Minute Quick Win on page 2 gives you your first monetization statement before you even finish reading. You don't need a month — you need a Tuesday evening.\n\n❌ \"Free guides are never actually useful.\"\n\nFair skepticism. Here's what's actually inside: the full P.A.C.K.A.G.E.™ Framework explained with real steps, a Skill Extraction Worksheet you fill in, a Market Pain Mapping tool, an Outcome Formula with examples, a 3-tier offer structure, a ready-to-send outreach script, two detailed case studies with numbers, and a 30-day implementation plan.\n\nNo fluff. No upsell walls. Just the system.\n\n👉 publixion.com/guides/skills-what-to-sell\n\n#SkillMonetization #FreelanceAdvice #OfferDesign #Solopreneur #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/I-have-skills-but-dont-know-what-to-sell.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/I-have-skills-but-dont-know-what-to-sell.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-01T11:54:11.227Z",
+        "post_id": "122105110040948582",
         "text": "Let me answer the doubts before they stop you.\n\n\"I'm not experienced enough.\"\n→ Specificity matters more than seniority. A narrow, precise offer from someone with 3 focused years outperforms a broad pitch from someone with 15. The guide shows you which slice of your skill set to lead with.\n\n\"I tried freelancing — it didn't work.\"\n→ It probably wasn't a skill failure. It was a packaging failure. Vague offer + hourly pricing + cold generic outreach = no traction. The guide fixes all three.\n\n\"I don't have time for a whole system.\"\n→ It's 10 pages. The first quick win takes 30 minutes. That's one focused evening.\n\n\"Free guides are useless.\"\n→ Check the table of contents: skill extraction worksheet, market pain mapping tool, outcome formula, offer builder template, outreach script, two real case studies, and a 30-day plan. It's not a teaser. It's the actual system.\n\nStill skeptical? Fair. The only way to know is to read it.\n\n👉 publixion.com/guides/skills-what-to-sell\n\n#Freelancing #SkillMonetization #OfferDesign #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/I-have-skills-but-dont-know-what-to-sell.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-01T11:54:25.319Z",
+        "post_id": "18077183528563846",
         "text": "Still on the fence? Let me handle the doubts.\n\n\"I'm not experienced enough.\"\nSpecificity > seniority. Always.\n\n\"I tried this before — it didn't work.\"\nThat was a packaging problem. Not a you problem.\n\n\"I don't have time.\"\n10 pages. 30 minutes for the first win.\n\n\"Free guides are never useful.\"\nThis one has: worksheets, templates, case studies, outreach scripts, and a 30-day plan. Judge it after you read it.\n\nFree guide. No catch.\nLink in bio.\n\n#SkillMonetization #Freelancing #PackageYourSkills #Solopreneur #OfferDesign #Publixion #FreeGuide #OnlineBusiness",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/I-have-skills-but-dont-know-what-to-sell.jpg"
       }
@@ -8805,27 +8806,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The P.A.S.S.E.R.™ resume guide is for a very specific professional.\n\nNot a recent graduate. This person:\n\n→ Has 3–15 years of experience and is not getting the interview rate their background should produce\n→ Has been in the job market for more than 60 days with fewer than 3 callbacks from direct applications\n→ Has lost at least one role to a candidate they believe was less qualified\n→ Sends the same resume (or a lightly edited version) to every application\n→ Has never run their resume through an ATS testing tool\n→ Uses a resume template with columns, icons, or a designed header — and doesn't know that this is causing parsing failures\n→ Writes experience bullets that start with \"Responsible for\" or \"Assisted with\"\n→ Is preparing for a job search in the next 30 days and wants to enter it with a fully optimized document\n\nIf 3 or more of those are true — your resume is the bottleneck. The P.A.S.S.E.R.™ guide gives you the system to fix it.\n\nFree. No email required.\n\n👉 https://publixion.com/guides/resume-rejections-despite-experience\n\n#JobSearch #ResumeWriting #CareerAdvice #ProfessionalDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Who is the P.A.S.S.E.R.™ resume guide built for?\n\n✅ Mid-career professionals with 3–15 years of experience not getting callbacks\n✅ Anyone who has been job searching for 60+ days with fewer results than expected\n✅ Professionals using a designed resume template (columns, icons, graphics) without realizing it breaks ATS parsing\n✅ Anyone still writing bullets that start with \"Responsible for\" or \"Managed\"\n✅ People preparing for a job search in the next 30 days who want to enter it correctly\n\nFree. No signup.\n\n📖 https://publixion.com/guides/resume-rejections-despite-experience\n\n#JobSearch #ResumeWriting #CareerAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AJ_5eW5yE6Cni0Dgm2gAGY3\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This guide is for you if:\n\n↳ 3–15 years of experience, low callback rate\n↳ Job searching 60+ days with fewer results than expected\n↳ Using a designed resume with columns or icons\n↳ Writing bullets that start with \"Responsible for\"\n↳ Never tested your resume through an ATS tool\n↳ Preparing for a job search in the next 30 days\n\nP.A.S.S.E.R.™ Framework — free guide. Your resume is the bottleneck.\n\n📖 Link in bio.\n\nLink in bio.\n\n#JobSearch #ResumeWriting #CareerAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Af1-DLPZiVNoC_0Tg4rlo81\"}}"
       }
     }
   },
@@ -9891,27 +9895,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The five questions we get most often about The Focus Reset. Answered honestly.\n\n──\n\nQ: I have tried productivity systems before and they never stick. Why would this be different?\n\nA: Because every previous system was built on willpower — and willpower consistently loses to a phone engineered by behavioral scientists to defeat it. The Focus Reset does not ask you to be stronger. It redesigns your environment, recalibrates your dopamine system, and builds a focused identity. Those three changes make the right behavior the default rather than the effortful choice. That is structurally different from everything you have tried before.\n\n──\n\nQ: I am genuinely busy. Do I have time for a 30-day protocol?\n\nA: The protocol does not add time to your day — it reclaims it. Daily implementation actions run 15 to 45 minutes. By Day Seven, most readers report recovering more time per day than the protocol costs. The people most convinced they cannot afford it are typically the people losing the most time to the problem it solves.\n\n──\n\nQ: I work in a meeting-heavy, always-on environment. Can this actually work for me?\n\nA: Yes — and it was specifically designed for you. The book addresses meeting culture directly in Chapter Five with batching protocols, calendar protection strategies, and communication windows that maintain responsiveness without sacrificing protected focus time. The readers who report the largest gains are typically in the most chaotic environments.\n\n──\n\nQ: Does the dopamine chapter require me to quit social media?\n\nA: No. The Dopamine Recalibration Protocol reduces high-stimulation input during specific windows — primarily the first sixty minutes of the morning — without requiring deletion of any platform. The goal is not abstinence. It is recalibration. You keep the tools. You change the relationship with them.\n\n──\n\nQ: I already consider myself fairly productive. Is this book for people who are struggling?\n\nA: The majority of readers perform well by external measures. They are competent, employed, and successful. They carry a specific, low-grade awareness that a significant portion of their cognitive capacity is going to waste every day. The gap between adequate and exceptional output, sustained across a career, is enormous. This book is precisely for the person who wants to close it.\n\n──\n\n👉 Get The Focus Reset at Publixion.com\n\n#Focus #Productivity #DeepWork #FAQ #Publixion #FocusReset #KnowledgeWork",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 honest answers to the questions we hear most about The Focus Reset.\n\nQ: I have tried systems before. Why would this stick?\nA: Because this one does not rely on willpower. It redesigns the conditions that make focus happen naturally.\n\nQ: I am too busy for a 30-day protocol.\nA: By Day 7 you will recover more time per day than the protocol costs. The busiest people gain the most.\n\nQ: My workplace is meeting-heavy and always-on.\nA: Chapter 5 addresses this directly. Communication windows + calendar protection. It works in chaotic environments.\n\nQ: Does the dopamine reset mean quitting social media?\nA: No. It means protecting the first 60 minutes of your morning. You keep all your platforms.\n\nQ: I am already productive. Is this for me?\nA: Yes. The biggest gains go to high-performers who know their output is still below their actual ceiling.\n\n👉 Publixion.com\n\n#Focus #Productivity #Publixion #DeepWork #FocusReset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AsIRtgLMkas5-dCHpPA3PzN\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 questions. Honest answers. 👇\n\nQ: I have tried focus systems. They never stick.\nA: They ran on willpower. This one redesigns the conditions so willpower is not required.\n\nQ: I am too busy for 30 days.\nA: By Day 7 you recover more time than the protocol costs.\n\nQ: My job is meetings and email all day.\nA: Chapter 5 is built for exactly your environment.\n\nQ: Does the dopamine reset mean no social media?\nA: No. Just protect your first 60 minutes. Keep everything else.\n\nQ: I am already fairly productive.\nA: The gap between adequate and exceptional, across a career, is enormous. This closes it.\n\nThe Focus Reset. Link in bio.\n\n#FocusReset #Productivity #DeepWork #Focus #Publixion #AttentionSpan #FAQ #KnowledgeWorker #FlowState #WorkSmart",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Ae8XtahVDrNYBB2PqSrDzqy\"}}"
       }
     }
   },
