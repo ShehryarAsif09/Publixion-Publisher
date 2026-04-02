@@ -4256,7 +4256,7 @@
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most people know they use their phone too much.\n\nAlmost no one knows exactly what it is costing them — or has a complete system to change it.\n\nSwipe to see what is inside Digital Boundaries 👉\n\nSlide 1 — The book that puts you back in control\nSlide 2 — The Hijacked Brain: how your attention is being extracted by design\nSlide 3 — The Sleep Sovereignty Protocol: the fastest transformation in the book\nSlide 4 — Deep Work and the Monk Mode Protocol: your focus, rebuilt\nSlide 5 — The 30-Day Plan: one action per day, every domain of your life\n\nThis is not a screen time limit.\nThis is the architecture your willpower was never designed to be.\n\nLink in bio.\n\n#DigitalBoundaries #DigitalDetox #DeepWork #SleepBetter #PhoneAddiction #ScreenTime #DigitalWellness #Publixion #AttentionManagement #IntentionalLiving",
@@ -4267,7 +4267,8 @@
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/digital-boundaries-slide-3.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/digital-boundaries-slide-4.jpg",
           "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/digital-boundaries-slide-5.jpg"
-        ]
+        ],
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AmTZd2bWQp5pmv6uoCzO4WQ\"}}"
       }
     }
   },
@@ -6899,27 +6900,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I want the LinkedIn Authority System — but I'm not sure it'll work for me.\"\n\nLet me address the doubts directly.\n\n——\n\n❓ \"$24.99 is a lot for a guide.\"\n\nOne inbound client from LinkedIn pays for 90 days of the guide many times over in the first month. You're not buying information — you're buying a system with a measurable ROI.\n\n——\n\n❓ \"I don't have time for a 90-day program.\"\n\nThe daily requirement is 30 minutes. That's one coffee break. The 90-day structure exists because authority compounds slowly at first and fast later — but the daily input is minimal by design.\n\n——\n\n❓ \"I've tried LinkedIn growth advice before and it didn't work.\"\n\nMost LinkedIn advice is tactical without being structural. \"Post more\" or \"use hooks\" doesn't work without positioning clarity, topic consistency, and a defined revenue funnel. This guide gives you all three in sequence — not just tips.\n\n——\n\n❓ \"I'm not a writer or content creator.\"\n\nYou don't need to be. The guide includes post frameworks, weekly calendar structure, and content templates for each of the 4 pillars. You fill in your expertise — the structure is provided.\n\n——\n\n❓ \"What if my niche is too competitive?\"\n\nCompetition on LinkedIn is largely a positioning problem. The guide's Phase 1 — Positioning — is specifically designed to make you the obvious choice for your specific audience, regardless of how crowded the broader niche appears.\n\n——\n\nThe doubts are understandable. The system removes them.\n\n→ https://publixion.com/guides/linkedin-authority-system\n\n#LinkedIn #PersonalBrand #LinkedInGrowth #AuthorityBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Common doubts about the LinkedIn Authority System — answered directly:\n\n💬 \"$24.99 is a lot.\"\nOne inbound client from LinkedIn pays for this guide 40–50× over in the first month. This is a system investment, not a content purchase.\n\n💬 \"90 days sounds like a big commitment.\"\n30 minutes/day. That's the daily input. The 90-day structure is because authority compounds — slow at first, fast later.\n\n💬 \"I've tried LinkedIn strategies before and got nowhere.\"\nMost advice is tips without structure. This guide builds the architecture first — positioning, content system, engagement loop — before optimizing anything.\n\n💬 \"I'm not a writer.\"\nPost frameworks, weekly templates, and content structures are included. You don't need to be a writer. You need to know your expertise.\n\n💬 \"My niche is too competitive.\"\nCompetition is a positioning problem. Phase 1 of the guide is entirely focused on making you the obvious choice for one specific buyer — regardless of the noise around you.\n\nThe system works. The only requirement is following it.\n\n👉 https://publixion.com/guides/linkedin-authority-system\n\n#LinkedIn #PersonalBrand #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AyiJZl8meKB33bZFMjJkAIY\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"But will it actually work for me?\" 🤔\n\nLet me kill the doubts 👇\n\n💬 \"$24.99 is steep.\"\nOne LinkedIn client = $1K+/month. Do the math.\n\n💬 \"90 days is too long.\"\n30 minutes/day. That's it. Authority compounds — it just takes time to start.\n\n💬 \"I've tried LinkedIn advice before.\"\nTips don't work without structure. This is the structure.\n\n💬 \"I'm not a writer.\"\nFrameworks and templates are included. You bring the expertise.\n\n💬 \"My niche is too competitive.\"\nCompetition is a positioning problem. Phase 1 solves it.\n\nThe system works. Link in bio. 🔗\n\n#LinkedIn #LinkedInGrowth #PersonalBrand #ContentCreator #ThoughtLeadership #Publixion #GrowOnLinkedIn #BuildYourBrand #LinkedInTips #AuthorityBuilding",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AfgdyGn3v63bxS2h_zNEJHe\"}}"
       }
     }
   },
@@ -7929,19 +7933,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's what a 30-day pricing restructure looks like in practice.\n\nMeet Daniel. Marketing consultant. 5 years in. Charging $1,500 per client. Averaging 4 clients per month = $6,000/month. Working 55 hours per week.\n\nHe applied the Premium Pricing Masterclass over 30 days. Here's exactly what he did:\n\nWEEK 1 — Positioning & Transformation\n\nDay 3: Rewrote his one-sentence offer. Changed from \"I manage marketing for small businesses\" to \"I help SaaS companies under $2M ARR generate 20+ qualified demos per month using a content-driven acquisition system.\"\n\nDay 5: Updated LinkedIn headline, bio, and featured section with outcome language.\n\nDay 7: Completed the Pricing Confidence Self-Assessment. Scored 38/80. Identified his two lowest dimensions: Investment Framing (3/10) and Authority Posture on calls (4/10).\n\nWEEK 2 — Offer Packaging\n\nDay 9: Built his 3-tier offer. Foundation ($3,500), Authority ($8,000), Elite ($14,000). Named each tier. Defined deliverables for each.\n\nDay 12: Built his premium proposal template using the 7-section framework.\n\nDay 14: Practiced all 5 objection scripts out loud. Recorded himself. Fixed the 2 that sounded defensive.\n\nWEEK 3 — Sales Call Mastery\n\nDay 17: Ran his first diagnostic call using the 5-stage framework. Prospect said \"how do we move forward?\" before he finished the presentation. Closed at $8,000.\n\nWEEK 4 — Close & Optimize\n\nDay 24: Second premium close. $8,000 Authority tier.\nDay 28: Third prospect chose the Elite tier. $14,000.\n\nMonth 1 result: 3 clients. $30,000. Down from 4 clients at $6,000.\n\nSame expertise. Different architecture.\n\n👉 Get the Masterclass: https://publixion.com/guides/premium-pricing-masterclass\n\n#Pricing #HighTicketSales #Consulting #Freelancing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Here's a before and after from applying the Premium Pricing Masterclass.\n\nBEFORE:\nSarah — freelance copywriter\n→ $1,200 per project\n→ Writing 5+ custom proposals per month\n→ Closing 2 of them\n→ $2,400/month. Exhausted.\n\nThe problem wasn't her writing. It was her positioning. She described herself as a copywriter — which positioned her against every other copywriter on the market.\n\nWHAT SHE CHANGED (Week 1–2):\n→ New offer: \"I write email onboarding sequences for SaaS companies that reduce trial-to-paid churn by 15–20% in 60 days\"\n→ New price: $4,500 per project (Foundation tier)\n→ Stopped writing custom proposals. Built one standardized proposal using the 7-section template\n→ Added a capacity limit: \"I take 3 projects per month maximum\"\n\nWHAT HAPPENED (Week 3–4):\n→ Sent 8 outreach messages using the premium framing\n→ Booked 4 calls\n→ Closed 2 at $4,500 each = $9,000\n\nSame skill. Same market. 3.75× the revenue.\n\nThe guide that produced this result is $9.99.\n\n👉 https://publixion.com/guides/premium-pricing-masterclass",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AbBsDw4jzdbDZv7ozYFapMW\"}}"
       },
       "instagram": {
         "enabled": false,
