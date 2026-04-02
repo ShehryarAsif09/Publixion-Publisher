@@ -8597,22 +8597,23 @@
     "scheduled_date": "2026-04-01",
     "scheduled_time": "07:00",
     "ideal_date": "2026-04-01",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-02T11:48:22.909Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "I have read every major book in this category so I can tell you exactly where they stop — and why that matters.\n\nDesigning Your Life (Burnett and Evans): Excellent reframing of career as experimentation. Stops before any financial integration. No skills mapping. No blueprint with milestones. The identity work is light. You finish it feeling more open — but holding nothing.\n\nAtomic Habits (Clear): Outstanding system for behavioral change at the habit level. Has nothing to say about which direction to build your habits toward. Optimizes the vehicle without addressing the destination.\n\nThe Start-Up of You (Hoffman and Casnocha): Strong on professional network strategy. Primarily career-focused. Minimal personal development depth. No financial architecture at all. No health infrastructure. No comparison trap framework.\n\nI Will Teach You To Be Rich (Sethi): Best behavioral personal finance book written. Has nothing to say about career strategy, skills positioning, or the identity work that determines what you are building toward financially.\n\nAll of these are genuinely good books. None of them are a system.\n\nRedesign Your Adult Life is the only book in this category that integrates career architecture, financial baseline, skills positioning, relationship audit, health infrastructure, comparison trap tools, and a 5-year blueprint with milestones into a single, coherent system with a day-by-day Sprint for completing every tool.\n\nIt is not better than those books. It is the thing those books cannot do individually: it connects them.\n\nIf you have read two or three of the above and still feel stuck, that is not because you failed to absorb the insight. It is because insight without integration does not produce a life that moves.\n\nThis does.\n\nLink in bio.\n\n#PersonalDevelopment #CareerStrategy #LifeDesign #BookRecommendations #CareerChange #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-02T11:48:22.909Z",
+        "post_id": "122105400464948582",
         "text": "Here is what the most popular books in this category do well — and where every one of them stops short.\n\nDesigning Your Life: Great reframing. No financial integration. No skills map. You finish it feeling more open and holding nothing.\n\nAtomic Habits: Perfect habit system. Nothing about which direction to point it.\n\nThe Start-Up of You: Strong on networks. No identity work. No financial architecture.\n\nI Will Teach You To Be Rich: Best personal finance book available. Completely silent on career strategy and skills positioning.\n\nAll great. None of them a system.\n\nRedesign Your Adult Life connects them. Career architecture. Financial baseline. Skills inventory. Identity excavation. Relationship audit. Health infrastructure. Comparison tools. 5-year blueprint. One integrated system with a Sprint to build all of it.\n\nIf you have read two of the above and still feel stuck, this is why — and this is what fills the gap.\n\nLink below.\n\n#PersonalDevelopment #CareerChange #LifeRedesign #BookRecommendations #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
       },
@@ -9943,27 +9944,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A year from now, one of two things will be true.\n\nYou will still be losing 10 to 14 hours every week to distraction — starting each day intending to do deep, important work and ending it having spent most of it in reactive noise. The output below the capability. The gap still there.\n\nOr you will have rebuilt the system.\n\nNot through a resolution or a stronger commitment to discipline. Through a thirty-day cognitive reconstruction that changed your environment, recalibrated your reward system, trained your attention capacity, and anchored the whole thing in an identity that makes deep work the natural expression of who you are — not the effortful performance of who you are trying to be.\n\nThe Focus Reset is that thirty days.\n\nWe built it on the neuroscience of how attention actually works. Grounded in research from UC Irvine, Stanford, Harvard, and McKinsey. Built around real professionals — the product manager who finished her book, the software architect who shipped his three-year project, the executive who reclaimed his mornings — who ran the protocol and documented what changed.\n\nThe C.L.E.A.R. Protocol.\nFive layers. One system. Thirty days.\nTen hours per week recovered. Measurable from Week One.\n\nIf you have been on the edge about this — this is the moment.\n\nNot because of a deadline. Because the gap between what you are currently producing and what you are actually capable of has been there long enough.\n\n👉 The Focus Reset is available now at Publixion.com\n\n#FocusReset #DeepWork #Focus #Productivity #CognitivePerformance #Publixion #KnowledgeWork #Attention #FlowState #Leadership",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A year from now, one of two things will be true.\n\nYou are still losing 10+ hours per week to distraction — busy, capable, and privately frustrated that your output does not reflect what you know you are capable of.\n\nOr you ran the protocol. And the ten hours are yours again.\n\nThe Focus Reset is 30 days. Five layers. One complete system built on real neuroscience and tested on real professionals.\n\nThe gap between adequate and exceptional output, across a career, is not small.\n\nNow is the moment to close it.\n\n👉 Publixion.com — get your copy now.\n\n#FocusReset #Focus #DeepWork #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A5hUTHDh3Yc3qb7HZtQlsr7\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A year from now, one of two things will be true.\n\nStill losing 10+ hours a week to distraction.\n\nOr you ran the protocol and they are yours again.\n\n30 days.\n5 layers.\n1 system that rebuilds your focus from the ground up.\n\nThe Focus Reset.\n\nThe gap between what you produce and what you are capable of has been there long enough.\n\nLink in bio.\n\n#FocusReset #DeepWork #Focus #Productivity #Publixion #AttentionSpan #FlowState #KnowledgeWorker #CognitivePerformance #NowOrNever",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-Focus-Reset.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A3Ol21X6JDsPXnZ26UTg0_d\"}}"
       }
     }
   },
@@ -10202,19 +10206,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are 4,000 side hustle books on Amazon.\n\nHere is why most of them make the problem worse.\n\nMost side income books do one of three things:\n1. Give you a list of income stream ideas and call it a system.\n2. Inspire you with other people's success stories and leave the mechanics vague.\n3. Sell you a specific model without telling you it only works under conditions most beginners do not have.\n\nNone of them answer the question that actually determines whether you earn money: what do I do first, what do I do second, and how do I know if it is working?\n\nThe Side Income System is built differently:\n\n→ It does not start with a list of ideas. It starts with a ten-question filter that produces ONE specific income stream matched to your skills, time, and income target. Not a menu. A recommendation.\n\n→ It does not end with an inspiring story. It ends with a 30-Day Implementation Calendar that maps every strategy to a specific day and a specific output. Not motivation. A schedule.\n\n→ It is built around one principle almost no other book applies: validate before you build. Test real demand in 48 hours before investing a single hour of creation.\n\nIf you have read books like this before and not followed through, this is why: the architecture of follow-through was never built into the book.\n\nIn The Side Income System, it is.\n\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncomeSystem #OnlineBusiness #Entrepreneurship #DigitalIncome #SideHustle #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are 4,000 side hustle books on Amazon. Here is why most of them make the problem worse.\n\nThey do not tell you what to do first. They do not give you a schedule. And they do not make you validate before you build.\n\nThe Side Income System does all three.\n\nIf you have read books like this before and not followed through — the architecture of follow-through was never built into the book. In this one, it is.\n\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncomeSystem #SideHustle #Publixion #OnlineBusiness",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AnvBVGjzVW983VOaiB0gwO5\"}}"
       },
       "instagram": {
         "enabled": false,
