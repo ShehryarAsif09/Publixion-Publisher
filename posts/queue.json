@@ -3249,27 +3249,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 questions I hear most often about Decision Clarity — answered honestly.\n\nQ: I have read books like this before and never followed through. Why would this be different?\n\nA: Because it produces deliverables, not insights. Every chapter ends with a written output you complete on your actual decision. You do not finish this book having learned something. You finish it holding something — a Clarity Audit, a Risk Reality Audit, a Consequence Map, a Values Constitution, a committed Resolve statement. The architecture of follow-through is built into the book, not left to motivation.\n\nQ: I already know what I should do. I just cannot make myself do it. Will this help?\n\nA: That is precisely the situation the CLEAR Framework is designed for. Knowing what you should do and being able to decide it are different problems. The first is an information problem. The second is an architecture problem. This book solves the second one.\n\nQ: I am not stuck on a specific decision right now. Is it still worth reading?\n\nA: The best time to build a decision system is before you need it urgently. The CLEAR Framework and the Values Hierarchy are tools you use for the rest of your life. The readers who get the most from this book are often building the architecture in advance — so that when the career crossroads or the relationship decision arrives, the system is already installed.\n\nQ: Does it cover relationship and financial decisions or only career ones?\n\nA: All three receive dedicated chapters with domain-specific CLEAR applications. The relationship chapter addresses how to use emotional signals as data rather than verdicts. The financial chapter addresses money scripts, the enough threshold, and the behavioral gap that costs most people two to four percent annually on their investments. Career decisions receive the most extensive treatment.\n\nQ: I tend to make decisions and then immediately second-guess them. Will this help with that?\n\nA: The Resolve stage includes a post-decision stabilization protocol specifically for this pattern — a written commitment statement, a first-action deadline within 48 hours, and a pre-committed period during which the decision is not re-evaluated. It does not suppress doubt. It gives doubt a designated structure so it stops running continuously in the background.\n\nDecision Clarity is available at publixion.com\n\n#DecisionMaking #FAQ #CLEARFramework #PersonalDevelopment #Publixion #Leadership",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 honest answers to the questions I hear most about Decision Clarity:\n\nQ: Why would I follow through on this one when I have not followed through on other books?\nA: Because this one produces written deliverables, not just insights. You finish holding actual outputs, not a better-informed paralysis.\n\nQ: I know what I should do. I just cannot decide. Will this help?\nA: Yes. That is specifically what the CLEAR Framework was built for. Knowing and deciding are different problems. This solves the second.\n\nQ: Does it cover relationships and money or just career decisions?\nA: Three dedicated domain chapters — career, relationships, and finances — each with their own CLEAR application, their own frameworks, and their own case studies.\n\nQ: I second-guess every decision I make. Will this help with that?\nA: The Resolve stage includes a post-decision stabilization protocol designed exactly for this. It does not remove doubt. It contains it so it stops running in the background indefinitely.\n\nQ: I am not stuck right now. Is it still worth it?\nA: Build the system before the pressure arrives. The CLEAR Framework is a life tool, not a crisis one.\n\nAvailable at publixion.com\n\n#DecisionMaking #Publixion #FAQ #PersonalGrowth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Ah9tqCayy8aFLu-K4McH0YA\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The 3 things people ask most before buying Decision Clarity:\n\n\"Will I actually follow through?\"\nYes — because you produce written outputs, not just read insights. The architecture of follow-through is inside the book.\n\n\"I know what I should do. I just cannot decide.\"\nThat is exactly what this system is for. Knowing and deciding are different problems. CLEAR solves the second one.\n\n\"I second-guess everything after I decide.\"\nThe Resolve stage has a stabilization protocol for this. It does not remove doubt. It contains it.\n\nLink in bio.\n\n#DecisionMaking #CLEARFramework #PersonalDevelopment #Publixion #SelfGrowth #MindsetShift #Leadership #LifeStrategy #DecisionClarity #CareerGrowth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A1F9FNlA_NXtGubAiELfm3L\"}}"
       }
     }
   },
@@ -5459,30 +5462,31 @@
     "scheduled_date": "2026-04-02",
     "scheduled_time": "07:00",
     "ideal_date": "2026-04-02",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-03T11:39:13.891Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The project you have been meaning to finish has been waiting long enough.\n\nNot for a better season.\nNot for more motivation.\nNot for the version of you who finally feels ready.\n\nThat version is not coming. The feeling of readiness is a myth constructed by a brain that releases dopamine for starting and withholds it for continuing.\n\nWhat is real: the EXEC Framework.\nWhat is real: a 30-Day Implementation Plan with a day-by-day sequence.\nWhat is real: a system that 16 tools and 13 chapters of peer-reviewed science built specifically to carry you from almost done to actually done.\n\nHere is what happens when you run it:\n\nYou do a Project Autopsy on your last three failures and identify the structural cause. You scope your project to its minimum viable commitment — the version that is genuinely completable. You design constraints that make quitting more expensive than finishing. You install a daily protocol that runs on schedule, not on feeling. You build an accountability contract with a consequence clause the brain cannot comfortably ignore. You hit the three resistance walls and execute the pre-designed response for each instead of abandoning the project.\n\nAnd then you ship it.\n\nNot a perfect version. A real one. In the world. Finished.\n\nEvery person who has finished something they were proud of will tell you the same thing: the system that carried them there was more important than any amount of motivation they ever felt.\n\nBuild the system. Ship the project. Start the next one.\n\npublixion.com/book/execution-over-motivation\n\n#Productivity #Execution #Finish #Publixion #PersonalDevelopment #DeepWork #Ship #EXEC",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-03T11:38:59.980Z",
+        "post_id": "122105671142948582",
         "text": "The project sitting in your folder right now has been waiting long enough.\n\nNot for motivation. Not for better conditions. Not for the version of you who finally feels ready.\n\nExecution Over Motivation gives you the system that replaces all of that with structure:\n\n✅ Project Autopsy — diagnose exactly why you fail\n✅ Minimum Viable Commitment — scope for completion, not aspiration\n✅ Constraint Design — make quitting more expensive than finishing\n✅ Daily Execution Protocol — work on schedule, not on feeling\n✅ Accountability Contract — real stakes, real partner, real consequence\n✅ Resistance Forecast — three walls mapped and pre-responded to\n✅ Completion Checklist — done defined before perfectionism activates\n✅ 30-Day Plan — day by day from first session to shipped project\n\n16 tools. 13 chapters. One project you choose on page one.\n\nThe work has been waiting long enough.\n\npublixion.com/book/execution-over-motivation\n\n#Productivity #Execution #Finish #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-03T11:39:13.891Z",
+        "post_id": "18075143006645863",
         "text": "The project in that folder?\n\nIt is not waiting for motivation.\n\nIt is waiting for a system.\n\nExecution Over Motivation is 13 chapters, 16 tools, and a 30-Day Plan that carries one real project — yours — from intention to finished.\n\nNo motivational speeches.\nNo hustle rhetoric.\nNo waiting to feel ready.\n\nJust a system that runs when motivation does not.\n\nShip the project. Start the next one.\n\nLink in bio.\n\n#Productivity #Finish #ExecutionOverMotivation #Publixion #DeepWork #Ship #ProjectCompletion #Accountability #GetItDone #HabitScience",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Execution-Over-Motivation.jpg"
       }
@@ -10254,27 +10258,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 questions people ask before buying The Side Income System — answered honestly.\n\nQ: Do I need an existing audience?\nNo. The 48-Hour Validation Sprint and Perfect DM Formula are direct outreach strategies. Your first clients come from your existing network — not from followers.\n\nQ: I have a full-time job and limited time. Is this realistic?\nThe entire system runs on 3.5 to 4 hours per week, broken into five specific time blocks designed around a full-time job.\n\nQ: I do not know what to sell. Does the book help?\nYes. The Knowledge Inventory Method reveals the commercially valuable expertise already sitting inside your professional history. Most readers discover they have been sitting on it for years.\n\nQ: I have tried side income before and nothing stuck. Why would this be different?\nBecause it produces documents, not insights. Every chapter ends with a specific written output. The follow-through architecture is built into the system.\n\nQ: What is a realistic income expectation in 30 days?\nMinimum: your first dollar — proof of concept. Target: $150 to $500. Stretch: $500+ with a retainer conversation in progress. The 30-day result is your baseline, not your ceiling.\n\nThe Side Income System 👇\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncomeSystem #SideHustle #OnlineBusiness #DigitalIncome #Entrepreneurship #PassiveIncome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 questions people ask before buying The Side Income System — answered honestly.\n\n→ Do I need an audience? No.\n→ Do I need lots of time? No. 3.5 to 4 hours per week.\n→ Do I need to know what to sell? No. The book finds that for you.\n→ Will I actually follow through? Yes — the architecture is built in.\n→ What can I earn in 30 days? Your first dollar minimum. $500 stretch.\n\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncomeSystem #SideHustle #Publixion #OnlineBusiness",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AS7W3Q3xIvu-EXLOFqHSvSA\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Still on the fence? Here are the 5 questions most people ask before getting this book — answered with full honesty. No hype.\n\nThe Side Income System. Available now. Link in bio.\n\n#SideIncomeSystem #Publixion #OnlineBusiness #SideHustle #FAQ #DigitalIncome",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A1vlRdMQI9rUDHhvZjM3o3H\"}}"
       }
     }
   },
