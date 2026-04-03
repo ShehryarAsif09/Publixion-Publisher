@@ -34,7 +34,7 @@ const CONFIG = {
 };
 
 const ALL_SLOTS    = ['04:00', '07:00', '11:00', '14:00'];
-const POSTS_PER_SLOT = 3; // 3 × 4 slots = 12/day minimum
+const POSTS_PER_SLOT = 8; // 3 × 4 slots = 12/day minimum
 
 function log(msg, level = 'INFO') {
   console.log(`[${new Date().toISOString()}] [${level}] ${msg}`);
