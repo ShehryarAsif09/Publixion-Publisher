@@ -4752,27 +4752,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Five questions people ask before buying Discomfort Training. Answered honestly.\n\n─────────────────────────────────\nQ: Is this a motivation book or a practical system?\n\nA: It is entirely a system. There are no affirmations and no instructions to believe in yourself harder. Every chapter produces a written output — a scored audit, a built ladder, a completed rejection attempt, a Feedback Log entry, an Identity Statement. By Day 30 you are holding documented evidence of 30 days of real behavioral change. The confidence is not the product of reading. It is the product of doing.\n─────────────────────────────────\nQ: I am not clinically anxious. Is this for me?\n\nA: Most readers are not. They are capable, functioning professionals who are privately aware that specific avoidances — the meeting they stay silent in, the negotiation they defer, the creative work they do not share — are costing them more than they admit. This protocol was built precisely for that experience.\n─────────────────────────────────\nQ: I have tried 30-day challenges before and not completed them. Why would this be different?\n\nA: Because it includes a Bounce-Back Protocol for missed days and a weekly Resilience Scorecard that makes your progress visible in data rather than feeling. You cannot talk yourself out of progress when the metrics show it is happening. The architecture of follow-through is built in.\n─────────────────────────────────\nQ: How much time does it actually require each day?\n\nA: Under fifteen minutes for the five structural elements — Identity Statement reading, cold exposure, the scheduled exposure rep, Evidence Bank entry, and SUDS log. Most exposures themselves take five to twenty minutes. The system was designed for demanding professional lives, not sabbaticals.\n─────────────────────────────────\nQ: What happens after Day 30?\n\nA: The book addresses this directly. The indicators of a genuine transformation are behavioral: you approach situations you previously avoided without deliberate effort, recovery from setbacks is measured in hours rather than days, and your Month 2 Scorecard is higher than Week 4 without additional structured work. The Monthly Review protocol keeps the practice self-sustaining indefinitely.\n─────────────────────────────────\n\nIf there is a question I have not answered, drop it below.\n\n👉 publixion.com/book/discomfort-training\n\n#DiscomfortTraining #ConfidenceBuilding #PersonalDevelopment #FAQ #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Five honest answers to the most common questions about Discomfort Training:\n\nQ: Is this a motivation book?\nA: No. Every chapter produces a written deliverable. By Day 30 you hold documented proof of 30 days of behavioral change.\n\nQ: I am not clinically anxious — is this relevant?\nA: Most readers are not. They are capable professionals who are privately aware that specific avoidances are costing them more than they admit. That is exactly who this was built for.\n\nQ: I never finish 30-day programs. Why would this be different?\nA: A Bounce-Back Protocol is built in. A weekly Resilience Scorecard makes progress visible in data. You cannot argue yourself out of what the numbers show.\n\nQ: How much time per day does it require?\nA: Under 15 minutes for the structural elements. Designed for demanding professional lives.\n\nQ: What happens after Day 30?\nA: The Monthly Review protocol keeps the practice self-sustaining. This is designed to become permanent, not to expire.\n\n👉 publixion.com/book/discomfort-training\n\n#DiscomfortTraining #ConfidenceBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AthWsmx9dW5Urnaz8xBB8kT\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The 5 questions people ask before buying Discomfort Training:\n\n1. Is it practical or motivational?\nPractical. Every chapter produces a written output. No affirmations.\n\n2. Is it for anxious people?\nNo. It is for capable people whose specific avoidances are quietly costing them more than they admit.\n\n3. Will I actually finish it?\nThe Bounce-Back Protocol and weekly data tracking are built precisely for this. You will.\n\n4. How long does it take each day?\nUnder 15 minutes of structure. Built for real professional lives.\n\n5. What happens after Day 30?\nA Monthly Review protocol keeps it running indefinitely. This is not a program. It is a permanent practice.\n\nLink in bio.\n\n#DiscomfortTraining #ConfidenceBuilding #SelfDevelopment #PersonalGrowth #FAQ #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A3dSaji8xn8RcZt3kb2WAy_\"}}"
       }
     }
   },
@@ -6692,30 +6695,31 @@
     "scheduled_date": "2026-04-04",
     "scheduled_time": "04:00",
     "ideal_date": "2026-04-04",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-04T07:51:26.607Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Your reach dropped last month.\n\nAnd every week you wait, the algorithm compounds that signal further.\n\nSlow-start accounts that don't reverse the trend in 30–60 days can take 4–6 months to recover organic distribution. The hole gets deeper the longer you don't address the structural cause.\n\nThe R.E.A.C.H. Content Mix System™ is free. There is no price barrier. The only question is whether you start this week — or keep posting the same way and watching the numbers decline.\n\nHere's what you get when you download today:\n\n✅ The full R.E.A.C.H. Framework (5 content roles explained)\n✅ The 7-post weekly structure with day-by-day breakdown\n✅ Reels Hook formula + 12 high-performance hooks\n✅ 8-slide Carousel Authority Structure\n✅ Save Post templates with proven CTAs\n✅ Completion Rate Optimization Checklist\n✅ Monetization Layer: reach → leads → clients\n✅ 30-Day Implementation Calendar\n\nFree. No email required. Download and implement this week.\n\n→ https://publixion.com/guides/instagram-reach-dropping\n\nAnd when you're ready to turn that reach into a full income system — our premium LinkedIn Authority System and AI Side Hustle guides are waiting.\n\n#InstagramReach #ContentStrategy #InstagramGrowth #Publixion #FreeGuide",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-04T07:51:13.695Z",
+        "post_id": "122105861714948582",
         "text": "Your Instagram reach dropped. And every week without a structural fix, the algorithm compounds that signal further.\n\nThe R.E.A.C.H. Content Mix System™ is completely free. The only cost is implementation.\n\nWait another month and the recovery gets harder. Start this week and you see measurable results by Day 30.\n\nWhat you get on download:\n\n📌 Full R.E.A.C.H. Framework (5 content roles)\n📌 7-post weekly structure breakdown\n📌 Reels Hook formula + 12 proven hooks\n📌 8-slide Carousel Authority Structure\n📌 Save Post templates + CTAs\n📌 Completion Rate Checklist\n📌 Monetization Layer map\n📌 30-Day Implementation Calendar\n\nFree. No email. Download now and start this week.\n\n👉 https://publixion.com/guides/instagram-reach-dropping\n\nWhen you're ready to scale that reach into income — our paid guides on LinkedIn Authority and AI Side Hustles take you the rest of the way.\n\n#InstagramReach #FreeGuide #ContentStrategy #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-04T07:51:26.607Z",
+        "post_id": "18125046322594492",
         "text": "Every week you wait = the algorithm compounds the drop. ⬇️\n\nThe R.E.A.C.H. free guide reverses it in 30 days.\n\nWhat's inside (free, no email):\n\n✅ 5-role content framework\n✅ 7-post weekly structure\n✅ Reels hook formula\n✅ 12 proven hooks\n✅ Carousel authority structure\n✅ Save CTAs that work\n✅ 30-day calendar\n✅ Monetization layer\n\nDownload this week. Start today.\n\n🔗 Link in bio — it's free.\n\n#InstagramReach #FreeGuide #InstagramGrowth #ContentStrategy #Reels #Publixion #GrowOnInstagram #ContentCreator #InstagramAlgorithm #SocialMediaTips",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/instagram-reach-dropping-.jpg"
       }
@@ -7150,30 +7154,31 @@
     "scheduled_date": "2026-04-03",
     "scheduled_time": "04:00",
     "ideal_date": "2026-04-03",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-04T07:51:05.166Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I want to try the C.O.M.M.E.N.T.S.™ System — but I'm not sure.\"\n\nHere are every doubt I hear — answered:\n\n——\n\n❓ \"It's free — is it actually valuable or just surface-level content?\"\n\nThe guide includes the full 8-step C.O.M.M.E.N.T.S.™ Framework, 5 comment templates with use-case notes, a Target Audience Tracker worksheet, a Connection & Lead Tracker spreadsheet, a 30-day implementation calendar, and a daily Comment Quality Checklist. The depth is at the level of a paid guide. It's free because Publixion builds trust through content quality.\n\n——\n\n❓ \"I don't know what to say in comments — I'll come across as generic.\"\n\nThat's exactly what the templates solve. The Observation → Insight → Question structure means you never write a blank comment again. The guide also gives you 5 ready-to-use templates for different post types — thought leadership, opinion, frameworks, case studies, and data posts.\n\n——\n\n❓ \"30 minutes/day sounds like a lot on top of everything else.\"\n\nThe 30-minute session includes curating 5–10 posts, writing 5–10 comments, and logging 2–3 follow-ups. The first week takes the most effort (setup). By Week 2, the daily routine takes 25 minutes.\n\n——\n\n❓ \"Will commenting actually lead to real opportunities — or just likes on my comments?\"\n\nThe conversion path is inside the guide: comment → influencer reply → profile visit → connection request → DM → discovery call. The case studies show this path producing retainers, collaborations, and project inquiries — within 30 days, not 6 months.\n\n——\n\n❓ \"What if the influencers I target never reply?\"\n\nThe guide teaches you to target posts with 50–200 comments and to post within 60 minutes of publication — both factors dramatically increase reply probability. Even without a direct reply, your comment is visible to hundreds of the influencer's followers — each one a potential profile visitor.\n\n——\n\nFree guide. Full system. Zero barriers.\n\n→ https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedIn #ProfessionalGrowth #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-04T07:50:55.317Z",
+        "post_id": "122105861516948582",
         "text": "Common questions about the C.O.M.M.E.N.T.S.™ free guide — answered:\n\n💬 \"Is it actually valuable or just filler content?\"\nFull 8-step framework, 5 comment templates, tracking worksheets, 30-day calendar, and quality checklist. At the depth of a paid guide — free because Publixion proves value first.\n\n💬 \"I don't know what to say.\"\nThe templates eliminate this permanently. Observation → Insight → Question. 5 ready-to-use templates for every post type.\n\n💬 \"30 minutes/day is a lot.\"\nBy Week 2 it's 25 minutes. The setup (Week 1) is the heaviest lift. After that, it's a repeatable routine.\n\n💬 \"Will this actually produce opportunities?\"\nThe case studies in the guide show retainers, collaborations, and inquiries within 30 days — not 6 months. The conversion path is mapped step by step.\n\n💬 \"What if nobody replies to my comments?\"\nTarget 50–200 comment posts. Post within 60 minutes of publication. Even without a direct reply, your comment is visible to hundreds of followers who are your next potential connections.\n\nFree. Full system. Download now.\n\n👉 https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedIn #ProfessionalGrowth #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-04T07:51:05.166Z",
+        "post_id": "18110669950826633",
         "text": "\"But will it actually work?\" 🤔\n\nTop doubts — killed 👇\n\n💬 \"It's free — is it any good?\"\nFull framework + templates + worksheets + calendar. Paid-guide depth. Free.\n\n💬 \"I don't know what to say.\"\nObservation → Insight → Question. 5 templates. Done.\n\n💬 \"30 min/day is too much.\"\nWeek 2 onwards = 25 minutes. Routine, not effort.\n\n💬 \"Will it produce real opportunities?\"\nRetainers + collabs within 30 days. Case studies inside.\n\n💬 \"What if no one replies?\"\nTarget right posts. Post in first 60 min. Your comment is visible to hundreds regardless.\n\nFree. No email. Link in bio. 🔗\n\n#Networking #LinkedIn #PersonalBrand #ProfessionalGrowth #CareerGrowth #Publixion #LinkedInTips #NetworkingTips #BuildYourNetwork #OnlineBusiness",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
       }
@@ -7730,30 +7735,31 @@
     "scheduled_date": "2026-04-04",
     "scheduled_time": "07:00",
     "ideal_date": "2026-04-04",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-04T07:50:35.513Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I've thought about my brand before — I still can't figure it out.\"\n\nLet me address the real blockers.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"This feels too abstract.\"\n━━━━━━━━━━━━━━━━━━━━\nThe guide outputs a score — a specific number — that tells you your path. The 14-day calendar then tells you exactly what to do each day. Abstract to actionable in one sitting.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"I don't want to expose my personal life.\"\n━━━━━━━━━━━━━━━━━━━━\nThe hybrid path uses your professional identity without requiring personal disclosure. The matrix helps you calibrate the right level of exposure for your comfort and goals.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"What if I choose the wrong path?\"\n━━━━━━━━━━━━━━━━━━━━\nThe matrix is built on your actual goals — monetization, audience, scalability. You're not guessing. And the case studies show measurable results within 2–4 weeks of implementation. You're not locking in permanently.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"I already have a brand.\"\n━━━━━━━━━━━━━━━━━━━━\nIf your brand generates consistent inbound leads — skip this. If it doesn't — the matrix is worth 20 minutes. Most established brands discover they're on the wrong path. Cheaper to find out now.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"Does it cost anything?\"\n━━━━━━━━━━━━━━━━━━━━\nFree. No email required.\n\n👉 https://publixion.com/guides/personal-brand-vs-business-brand\n\n#PersonalBranding #BrandStrategy #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-04T07:50:24.204Z",
+        "post_id": "122105861378948582",
         "text": "Brand identity hesitations — answered:\n\n❓ \"Too abstract.\" → Outputs a score. Then a 14-day action plan.\n\n❓ \"I don't want personal exposure.\" → Hybrid path doesn't require it. Matrix calibrates the right level.\n\n❓ \"What if I choose wrong?\" → You're scoring your actual goals. Results visible in 2–4 weeks.\n\n❓ \"I already have a brand.\" → If it's generating leads, skip this. If not — 20 minutes.\n\n❓ \"Is it free?\" → Yes.\n\n📖 https://publixion.com/guides/personal-brand-vs-business-brand\n\n#PersonalBranding #BrandStrategy #DigitalMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-04T07:50:35.513Z",
+        "post_id": "17919793647125828",
         "text": "Objections to sorting out your brand — answered:\n\n\"Too abstract.\" → Outputs a score. Then a 14-day plan.\n\n\"Don't want personal exposure.\" → Hybrid path doesn't require it.\n\n\"What if I choose wrong?\" → Results visible in 2–4 weeks. Not permanent.\n\n\"I have a brand already.\" → If it's generating leads, skip this. If not — 20 minutes.\n\n\"Is it free?\" → Yes.\n\n📖 B.I.D.M.™ guide — link in bio.\n\nLink in bio.\n\n#PersonalBranding #BrandStrategy #ContentMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
       }
