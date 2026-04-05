@@ -4291,27 +4291,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion:\n\nYou do not have a phone problem.\n\nYou have an engineering problem that the phone is producing.\n\nThe smartphone you carry was built by some of the most gifted behavioral psychologists in human history, working with a single mandate: keep you engaged at any psychological cost necessary.\n\nThe infinite scroll was designed to eliminate every natural stopping point from content consumption.\n\nThe notification badge was designed to trigger the Zeigarnik effect — the specific neurological discomfort of an open, unresolved loop — so your brain cannot rest until you check it.\n\nThe variable reward cycle of the social feed was modeled on the same reinforcement structure as a slot machine. Not accidentally. Deliberately.\n\nSimply having a smartphone face-down on your desk — not in your hand, not being used, just present — reduces your available working memory by 26%.\n\nYou are not weak for struggling with this.\n\nYou are a normal human being whose neurological architecture is being deliberately targeted by tools specifically engineered to defeat your self-control.\n\nThe solution is not more willpower.\n\nThe solution is architecture — an environment redesigned so that the right behavior is the path of least resistance rather than the road of maximum resistance.\n\nThat is the entire premise of Digital Boundaries.\n\nAnd it works because it stops asking willpower to win a fight it was never designed to win.\n\nAgree? Disagree? Tell me below.\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalWellness #AttentionEconomy #DeepWork #BehavioralScience #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Unpopular opinion:\n\nYou do not have a phone problem.\n\nYou have an engineering problem that the phone is producing.\n\nThe infinite scroll was designed to eliminate every natural stopping point. The notification badge was engineered to trigger neurological discomfort until you check it. The social feed runs on the same variable reward structure as a slot machine — not accidentally, deliberately.\n\nYou are not weak for struggling with this. You are a normal human being whose brain is being deliberately targeted by tools designed to defeat your self-control.\n\nWillpower never wins that fight.\n\nArchitecture does.\n\nThat is what Digital Boundaries builds.\n\nDo you agree — or do you think self-discipline is still the answer? Drop your take below 👇\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #AttentionEconomy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AaNPdMmzcJ94reWiXZYNMLr\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Hot take:\n\nYou do not have a phone problem.\n\nYou have an engineering problem.\n\nThe infinite scroll. The notification badge. The variable reward feed.\n\nThese were not accidents.\nThey were designed by behavioral psychologists whose entire job was to make you unable to put the device down.\n\nYou are not weak.\nYou are targeted.\n\nWillpower does not beat a trillion-dollar engineering industry.\n\nArchitecture does.\n\nDigital Boundaries is the architecture.\n\nLink in bio.\n\n#DigitalBoundaries #HotTake #AttentionEconomy #PhoneAddiction #DigitalWellness #SocialMedia #Publixion #IntentionalLiving #ScreenTime #MindfulTech",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AtFqOZ70akxQfwvq3mH3SYu\"}}"
       }
     }
   },
@@ -6955,27 +6958,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The launch window for the LinkedIn Authority System closes in 48 hours.\n\nAfter Day 14, the price increases. The early-access bonus bundle expires with it.\n\nHere's everything included at $24.99 — right now:\n\n✅ The full P.A.C.E.R. Authority Framework™ — all 5 layers built out\n✅ Profile Optimization Blueprint (headline, banner, About section formulas)\n✅ 4-Pillar Content Engine with weekly calendar structure\n✅ The 30-minute daily Engagement Loop with comment framework\n✅ Revenue Funnel — Content → DM → Discovery Call → Offer\n✅ Offer Ladder ($0 to $2,000+ monetization tiers)\n✅ DM conversion scripts and discovery call close framework\n✅ 30-60-90 Day Execution Roadmap — day by day\n✅ KPI Dashboard — 6 weekly metrics to track authority growth\n✅ 50 Hook Templates + Authority Headline Generator\n\nThis is a 90-day system with a measurable output: 1,000–5,000 targeted followers and a consistent inbound pipeline.\n\nIf you've been thinking about it — the window is closing.\n\n→ Lock in launch pricing: https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #LaunchOffer #PersonalBrand #Publixion #LimitedTime",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "48 hours left at the launch price.\n\nThe LinkedIn Authority System — the complete P.A.C.E.R. Framework™ for building 1,000–5,000 targeted followers and a consistent inbound pipeline in 90 days — goes up in price after Day 14.\n\nWhat you're getting at $24.99:\n\n📌 Full P.A.C.E.R. Framework™ (5 layers, fully built out)\n📌 Profile optimization formulas (headline, banner, About)\n📌 4-Pillar Content Engine + weekly calendar\n📌 30-minute daily Engagement Loop\n📌 Revenue Funnel + DM and discovery call scripts\n📌 30-60-90 Day Execution Roadmap\n📌 KPI Dashboard + 50 Hook Templates\n\nOne inbound client from LinkedIn = $1,000–$5,000+. The guide is $24.99.\n\nIf you've been on the fence — now is the moment.\n\n👉 https://publixion.com/guides/linkedin-authority-system\n\n#LinkedInGrowth #LimitedOffer #PersonalBrand #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AVyb_pVO0LTiaB4vhLPi-9N\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "⏰ 48 hours left at launch price.\n\nLinkedIn Authority System goes up in price on Day 14.\n\nEverything included at $24.99:\n\n✅ P.A.C.E.R. Framework™ — all 5 layers\n✅ Profile optimization formulas\n✅ 4-Pillar Content Engine\n✅ Daily Engagement Loop\n✅ Revenue Funnel + DM scripts\n✅ 90-day execution roadmap\n✅ 50 Hook Templates\n\n1,000–5,000 targeted followers in 90 days.\nConsistent inbound. No paid ads.\n\n🔗 Link in bio — before midnight.\n\n#LinkedIn #LinkedInGrowth #LimitedOffer #PersonalBrand #Publixion #ContentMarketing #BuildYourBrand #LaunchPrice #ThoughtLeadership #GrowOnLinkedIn",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/linkedin-authority-system..jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AqRcy0iHnKmdq2eatgiPgbf\"}}"
       }
     }
   },
@@ -7992,27 +7998,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Every time I talk about raising prices, I get four objections. Let me address them honestly.\n\n❌ \"My clients won't pay that much.\"\n✅ Your current clients won't — because you've trained them to expect low prices. New clients, positioned correctly with the right offer language and ROI framing, make buying decisions differently. The guide shows you how to attract the client who compares your fee to the value of the result, not to the cost of the task.\n\n❌ \"I don't have enough proof or case studies to justify higher prices.\"\n✅ You have more proof than you think — you've just never documented it. The guide includes a framework for building your first case study from any successful engagement, regardless of whether you have formal testimonials. Your results exist. The system surfaces them.\n\n❌ \"I'll lose my current clients if I raise my rates.\"\n✅ Some will leave. The ones who leave were never your premium clients — they were budget buyers who happened to find you before you found your real market. The guide includes a Pricing Increase Script specifically for raising rates with existing clients after delivering documented results.\n\n❌ \"I'm not confident enough to charge premium rates yet.\"\n✅ Confidence follows structure, not the other way around. The guide gives you a tested 5-stage sales call framework, word-for-word closing scripts, and 5 objection responses. You don't need confidence to use a script. You need a script until confidence arrives.\n\nPremium Pricing Masterclass — $9.99.\n\n👉 https://publixion.com/guides/premium-pricing-masterclass\n\n#Pricing #Freelancing #Consulting #HighTicket #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The 4 objections people have before buying the Premium Pricing Masterclass — answered.\n\n🚫 \"My market won't pay premium prices.\"\n✅ Every market has premium buyers. The guide teaches you how to position yourself so they find you — instead of the budget buyers who currently dominate your pipeline.\n\n🚫 \"I need more experience before I can charge more.\"\n✅ Experience is not the variable. Positioning is. The guide shows you how to price based on the outcome you deliver — not the years on your CV.\n\n🚫 \"I already tried raising my prices and it didn't work.\"\n✅ Raising a price without changing the offer structure is just charging more for the same thing. The P.R.E.S.T.I.G.E™ framework changes the architecture first — so the higher price feels inevitable, not arbitrary.\n\n🚫 \"$9.99 seems cheap for a pricing guide. Is it actually good?\"\n✅ Yes. 18 pages. Complete offer restructuring system. Sales call framework. Objection scripts. Proposal template. Case studies. 30-day calendar. The low price is intentional — so there's no barrier to the system that removes all the other barriers.\n\n👉 https://publixion.com/guides/premium-pricing-masterclass",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ACvHguIzsqX7SjBcBPMJAL5\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"I can't charge more. My clients won't pay it.\"\n\nLet me push back on that. 👇\n\nYour current clients won't — because you've trained them to expect low prices.\n\nNew clients, positioned with outcome language and ROI framing, decide differently.\n\nThey compare your fee to the value of the result.\nNot to the cost of the task.\n\nThat's the shift the Premium Pricing Masterclass teaches.\n\n$9.99. Link in bio. 🔗\n\n#PricingStrategy #HighTicket #Freelancing #Consulting #SalesScripts #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ArWWHli24PkeCi7eYSXiLwQ\"}}"
       }
     }
   },
@@ -9508,27 +9517,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is a passage from Chapter 10 of The 1-Hour Health Formula. I am sharing it in full because it contains something that might change how you think about your health progress today.\n\n---\n\nNadia has been on the H.E.A.L. system for three weeks when she messages with a question I have come to recognize as one of the most important indicators of where someone is in the transformation process.\n\nThe question is: 'Nothing is changing. Should I be worried?'\n\nI ask her what she means by nothing.\n\nShe tells me her weight is the same. She pulls up the number from three weeks ago and reads it out, then reads the current number. Identical to within 200 grams. She has been sleeping better and her energy is higher, but she dismisses these as possibly coincidental.\n\nI ask her to rate her energy at 2pm on a scale of 1 to 10 now compared to three weeks ago.\n\nAfter a moment: 'Seven. It was probably a four before.'\n\nI ask how many days she has completed the full protocol in the past 21 days.\n\nAfter checking: 'Nineteen out of twenty-one.'\n\nI ask how her strength sessions compare to day one.\n\nAnother pause: 'I can do twelve push-ups. I could barely do five at the start.'\n\nShe has doubled her push-up capacity. Improved her afternoon energy by 75 percent on her own scale. Completed 90 percent of her protocol days in three weeks.\n\nHer transformation is significant, measurable, and exactly on track.\n\nThe scale has not moved.\n\nShe almost stopped.\n\n---\n\nThe bathroom scale is one of the most widely used and most behaviorally destructive health measurement tools ever devised. It tells you your gravitational weight. It tells you nothing about your energy, your strength, your cardiovascular adaptation, your sleep quality, or the biological age changes already occurring beneath the surface.\n\nNadia did not need a better routine. She needed a better measurement system.\n\nThe book gives you both.\n\nThe 1-Hour Health Formula is available now at publixion.com\n\nHave you ever almost quit something that was actually working?\n\n#HealthTransformation #VitalityMetrics #HEALArchitecture #Publixion #ProgressNotPerfection #HealthMeasurement #Mindset",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Nadia had been on the health system for three weeks.\n\nShe messaged: 'Nothing is changing. Should I be worried?'\n\nI asked what she meant by nothing.\n\nShe said the scale was the same.\n\nSo I asked a different question: rate your 2pm energy now versus three weeks ago.\n\n'Seven. It was probably a four before.'\n\nHow many protocol days in the past 21?\n\n'Nineteen out of twenty-one.'\n\nHow do your push-ups compare to day one?\n\n'I can do twelve. I could barely do five at the start.'\n\nShe had doubled her push-up count. Improved her afternoon energy by 75 percent. Completed 90 percent of her protocol days.\n\nThe scale had not moved.\n\nShe almost stopped.\n\nThe problem was not her progress. It was her measurement system.\n\nThe 1-Hour Health Formula gives you a Vitality Scorecard that tracks the things that actually change — so you never almost quit something that is working.\n\nLink in comments.\n\nHave you ever been close to quitting something that was actually working?\n\n#HealthProgress #VitalityMetrics #Publixion #HEALArchitecture",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AMCgImHJe1U4wMXbFTUv04o\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "She almost quit after 3 weeks.\n\nBecause the scale had not moved.\n\nBut her push-up count had doubled.\nHer 2pm energy had gone from a 4 to a 7.\nShe had completed 19 of 21 protocol days.\n\nHer transformation was real.\nHer measurement system was broken.\n\nThe 1-Hour Health Formula replaces the scale with 5 vitality metrics that actually show what is changing — before the mirror does.\n\nLink in bio.\n\n#HealthProgress #VitalityMetrics #HEALArchitecture #Publixion #DontQuit #HealthTransformation #EnergyLevels #FunctionalFitness #ScienceBackedHealth #TrackWhatMatters",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"APmtSttYc2G_HosxqN_XJmh\"}}"
       }
     }
   },
@@ -10319,27 +10331,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A month from now, two kinds of people will exist.\n\nThose who started. And those who are still thinking about it.\n\nThe person who reads this post and acts will have:\n\n→ Run a 48-hour validation sprint and collected their first real buyer signal.\n→ Built their Minimum Viable Offer in under 72 hours.\n→ Sent 40 targeted outreach messages using the Perfect DM Formula.\n→ Set up a complete digital storefront in a single afternoon. For free.\n→ Earned their first dollar of validated, self-generated digital income.\n\nThat person is not exceptional. They are not a natural entrepreneur. They are not working longer hours or betting their career on a gamble.\n\nThey have a system. And they started.\n\nThe Side Income System is available right now on Amazon and Publixion.\n\n13 chapters. A 30-Day Implementation Calendar. Real case studies. A framework that works from where you are right now.\n\nThe only question is whether you start today or spend another month watching someone else explain how they did it.\n\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncomeSystem #SideHustle #DigitalIncome #OnlineBusiness #Entrepreneurship #PassiveIncome #Publixion #MakeMoneyOnline",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A month from now, two kinds of people will exist.\n\nThose who started. And those who are still thinking about it.\n\nThe Side Income System. 13 chapters. A 30-Day Calendar. Your first dollar of digital income.\n\nAvailable now 👇\nhttps://publixion.com/books/the-side-income-system\n\n#SideIncomeSystem #SideHustle #DigitalIncome #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A-vWcvW6VYCZelSOt7_pg3D\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "A month from now you will either have started, or still be thinking about it.\n\nThe system is ready. The calendar is mapped. The only variable is you.\n\nThe Side Income System. Get it now. Link in bio.\n\n#SideIncomeSystem #Publixion #SideHustle #DigitalIncome #Entrepreneurship #OnlineBusiness #30DayChallenge",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/the-side-income-system.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ACGZ3P20dyWA316mWlPQ3uX\"}}"
       }
     }
   }
