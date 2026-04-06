@@ -7201,30 +7201,31 @@
     "scheduled_date": "2026-04-06",
     "scheduled_time": "04:00",
     "ideal_date": "2026-04-06",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-06T11:51:14.967Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Every week you spend passively browsing LinkedIn is a week your competitors are building relationships you're not.\n\nStrategic commenting compounds. Professionals who start now build 3–6 months of relationship equity by the time casual scrollers decide to take it seriously.\n\nThe C.O.M.M.E.N.T.S.™ System is free. There is no price barrier between you and a more visible, connected professional presence.\n\nHere's everything inside:\n\n✅ Full 8-step C.O.M.M.E.N.T.S.™ Framework\n✅ 5 comment templates (with use-case notes per template)\n✅ Target Audience Tracker worksheet\n✅ Connection & Lead Tracker spreadsheet\n✅ Comment Quality Checklist (per comment)\n✅ 30-Day Implementation Calendar\n✅ Online Visibility Scorecard (baseline + Day 30 comparison)\n✅ Personalized connection request script\n✅ Comment-to-Opportunity Conversion tracker\n\nDownload this week. Start Monday. 30 minutes/day.\n\nAnd when you're ready to scale that visibility into a full revenue system — the LinkedIn Authority System guide ($24.99) takes you the rest of the way.\n\n→ Free download: https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedIn #ProfessionalGrowth #FreeGuide #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-06T11:51:03.676Z",
+        "post_id": "122106366716948582",
         "text": "The cost of not starting this week is 30 more days of invisible platform activity.\n\nStrategic commenting compounds. The professionals who start building relationships through comments now have a 3-month head start on everyone who decides to \"try it later.\"\n\nThe C.O.M.M.E.N.T.S.™ System is completely free. No email. No barrier. Just a system that works.\n\nWhat's inside:\n\n📌 Full 8-step C.O.M.M.E.N.T.S.™ Framework\n📌 5 comment templates with use-case notes\n📌 Target Audience Tracker\n📌 Connection & Lead Tracker\n📌 Comment Quality Checklist\n📌 30-Day Implementation Calendar\n📌 Visibility Scorecard\n📌 Connection request script\n\nDownload now. Start this week.\n\nWhen you're ready to scale visibility into a full income system — our LinkedIn Authority System guide takes you from networker to inbound revenue engine.\n\n👉 Free download: https://publixion.com/guides/networking-strategic-commenting\n\n#Networking #LinkedIn #FreeGuide #ProfessionalGrowth #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-06T11:51:14.967Z",
+        "post_id": "18086919170462358",
         "text": "Every week you wait = your competitors build relationships you don't. 📈\n\nThe C.O.M.M.E.N.T.S.™ System is free.\nNo email. No barrier. Just start.\n\nWhat's inside:\n\n✅ 8-step framework\n✅ 5 comment templates\n✅ Target + lead tracker\n✅ Quality checklist\n✅ 30-day calendar\n✅ Connection request script\n\n30 min/day. 30 days. Visible results.\n\n🔗 Link in bio — free download.\n\n#Networking #LinkedIn #FreeGuide #PersonalBrand #ProfessionalGrowth #Publixion #LinkedInTips #NetworkingTips #CareerGrowth #BuildYourNetwork",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/lack-of-networking.jpg"
       }
@@ -8672,30 +8673,31 @@
     "scheduled_date": "2026-04-06",
     "scheduled_time": "04:00",
     "ideal_date": "2026-04-06",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-06T11:50:55.031Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The five questions I get asked most about this book — answered honestly.\n\nQ: Is this a motivational book or a practical one?\nA: Entirely practical. There is no content asking you to believe in yourself harder or visualize a better future. Every chapter produces a written deliverable. By the end of the 30-Day Sprint, you hold five documents. Not five new ideas. Five documents.\n\nQ: I already have a decent job. Is this for people who are struggling?\nA: The majority of readers are not struggling in any conventional sense. They earn well, perform well, and carry a specific low-grade dissatisfaction that success has not resolved. This book was written precisely for that experience. External achievement and internal misalignment are not mutually exclusive.\n\nQ: I have read books like this before and never followed through. Why would this be different?\nA: Because it does not end with insight. It ends with infrastructure. The 30-Day Sprint is a day-by-day schedule for completing every tool in the book alongside your existing responsibilities. The architecture of follow-through is built in — not left to willpower.\n\nQ: Does it cover money in real depth or just mention it?\nA: Two full chapters. You will calculate your real net worth, build a prioritized debt map sorted by interest rate, calculate your financial runway, and install a 12-month Wealth Acceleration Plan including specific strategies for career transition periods. It goes further than most standalone finance books.\n\nQ: I am in my mid-to-late 30s. Is it too late for this to matter?\nA: The research throughout the book makes this case directly. Career satisfaction peaks at 42. The average founder of a billion-dollar company is 45. 61 percent of adults report figuring out what they actually want after 30. You are not late. You are measuring yourself with the wrong timeline. The book replaces it.\n\nGet it at publixion.com — link in bio.\n\n#CareerDevelopment #PersonalDevelopment #FAQ #LifeStrategy #CareerChange #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-06T11:50:44.173Z",
+        "post_id": "122106366608948582",
         "text": "Five questions I hear most before people buy this book:\n\nQ: Is this motivational or practical?\nA: Purely practical. Every chapter produces a written deliverable. No visualization. No mindset work. Five documents by the end.\n\nQ: I have a decent job. Is this for struggling people?\nA: Most readers are not struggling. They are succeeding at the wrong things. This book was written exactly for that.\n\nQ: I never follow through on books like this. Why would this be different?\nA: The 30-Day Sprint is a day-by-day schedule built into the book. The follow-through architecture is not left to your willpower.\n\nQ: How deep does it go on money?\nA: Two full chapters. Net worth, cash flow, debt map, financial runway, and a 12-month Wealth Acceleration Plan.\n\nQ: I am in my late 30s. Am I too late?\nA: Career satisfaction peaks at 42. The average billion-dollar founder is 45. You are not late. You are using the wrong measuring stick.\n\nLink below. Get the book.\n\n#PersonalDevelopment #CareerChange #FAQ #LifeRedesign #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-06T11:50:55.031Z",
+        "post_id": "18084981356343797",
         "text": "5 questions. 5 honest answers.\n\nIs it practical or motivational? Purely practical. Five written documents by the end. No visualization.\n\nI have a good job. Is this for me? Yes. It was written for people succeeding at the wrong things.\n\nI never finish books like this. What's different? The 30-Day Sprint builds the follow-through in. You do not rely on willpower.\n\nHow deep does money go? Two full chapters. Net worth, debt map, runway, 12-month plan.\n\nI'm in my late 30s. Too late? Career satisfaction peaks at 42. You are not late.\n\nLink in bio. Read it with a pen.\n\n#PersonalDevelopment #CareerChange #LifeDesign #Publixion #FAQ #SelfImprovement #CareerStrategy #LifeAudit #5YearPlan #Mindset",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
       }
@@ -8928,27 +8930,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "\"My resume is already good. I don't think this is the problem.\"\n\nThat's the most common thing I hear from professionals who are getting rejected. Let me work through it.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"My resume looks professional — it can't be the issue.\"\n━━━━━━━━━━━━━━━━━━━━\nA resume that looks professional to a human can be completely unreadable to an ATS. Tables, columns, and graphics — all common in professionally designed templates — cause ATS parsers to skip your skills section entirely. The content might be excellent. The system never sees it.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"I've tailored my resume before — it didn't help.\"\n━━━━━━━━━━━━━━━━━━━━\nMost tailoring means changing a few words in the summary. The P.A.S.S.E.R.™ system requires extracting 15–20 keywords from the JD, mapping them to your experience, and confirming your ATS score is above 70% before applying. That level of specificity is different from a light edit.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"The job market is just bad right now.\"\n━━━━━━━━━━━━━━━━━━━━\nIt may be. But the case studies in the guide — all in the current market — show professionals with 6–14 years of experience increasing their callback rates by 3–5× within 30 days. The market hasn't changed. Their ATS alignment scores have.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"This takes too much time for every application.\"\n━━━━━━━━━━━━━━━━━━━━\nThe keyword extraction takes 15 minutes. The mapping takes 15 minutes. The ATS test takes 5 minutes. 35 minutes per application — to avoid being filtered by a system that takes 35 seconds to reject you.\n\n━━━━━━━━━━━━━━━━━━━━\n❌ \"Is the guide free?\"\n━━━━━━━━━━━━━━━━━━━━\nFree. No email required.\n\n👉 https://publixion.com/guides/resume-rejections-despite-experience\n\n#ResumeWriting #JobSearch #CareerAdvice #ATSTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The most common objections to fixing your resume — addressed:\n\n❓ \"My resume looks professional.\"\nProfessional design breaks ATS parsers. Tables, columns, and graphics cause systems to skip your skills section entirely. Beautiful to humans. Invisible to machines.\n\n❓ \"I've tailored my resume before.\"\nChanging a few summary words is not the P.A.S.S.E.R.™ system. The guide requires extracting 15–20 JD keywords, mapping them, and confirming 70%+ ATS score before applying.\n\n❓ \"The job market is just bad.\"\nThe case studies in this guide were conducted in the current market. Callback rates improved 3–5× within 30 days of applying the framework.\n\n❓ \"Too much work per application.\"\n35 minutes per application. To avoid a 35-second automatic rejection.\n\n❓ \"Is it free?\"\nYes.\n\n📖 https://publixion.com/guides/resume-rejections-despite-experience\n\n#ResumeWriting #JobSearch #CareerAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AlKjjyIMNBCXEZhVhwP-l64\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Reasons you think your resume is fine — reframed:\n\n\"It looks professional.\" → Beautiful design breaks ATS parsers. Columns and tables make your skills invisible.\n\n\"I've tailored it before.\" → Changing the summary is not the P.A.S.S.E.R.™ system. 15–20 keyword extractions. 70%+ ATS score. That's tailoring.\n\n\"The market is just bad.\" → Case studies in this guide: 3–5× callback increase in the current market.\n\n\"Too much work.\" → 35 minutes per application. To avoid a 35-second rejection.\n\n\"Is it free?\" → Yes.\n\n📖 P.A.S.S.E.R.™ — link in bio.\n\nLink in bio.\n\n#ResumeWriting #JobSearch #CareerAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"Aid5hBYIug4b_13tGGTy74a\"}}"
       }
     }
   },
