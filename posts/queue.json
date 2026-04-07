@@ -7423,27 +7423,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is a real story from Chapter 1 of Overthinking Ends Here.\n\nI am sharing it because it is probably the most honest description of what overthinking actually costs that I have read.\n\nRead it slowly.\n\n---\n\nMichael is a senior software architect in Toronto. Precise mind. Gift for systems design. His code is clean. His colleagues trust him with the complex problems.\n\nFor fourteen months, he has been working on a product of his own. A project management tool for freelance developers. He has identified the gap in the market. He has outlined the features. He has a domain name, a color palette, and a Notion board with 237 cards.\n\nHe has written zero lines of code.\n\nEvery time he sits down to begin building, the thinking starts. What if the market has already shifted? What if a better-funded team is already building the same thing? What if he launches and the early users find a critical flaw in his core assumption?\n\nNone of these are unreasonable questions. Every one of them deserves a brief, honest answer before work begins. But for Michael, the questions do not get brief answers. They get spirals. Each question leads to three more. Each scenario invites a counter-scenario. The Notion board grows. The code editor stays empty.\n\nMichael tells himself he is being diligent. He tells himself thorough preparation is what separates successful products from failures.\n\nBut on his most honest nights, lying in the dark before sleep, he knows.\n\nHe is afraid. And the thinking is not preparation. It is protection.\n\n---\n\nFourteen months.\n237 Notion cards.\nZero lines of code.\n\nThe thinking was not protecting Michael from failure.\nIt was producing it, quietly, one deferred day at a time.\n\nThis is what overthinking costs when you do not see it clearly enough to name it.\n\nIf this story landed, the full book — and the system that got Michael shipping — is linked in the comments.\n\n#Overthinking #AnalysisParalysis #Entrepreneur #SoftwareDevelopment #MentalPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This story from Chapter 1 of Overthinking Ends Here is the most honest description of what analysis paralysis actually looks like in real life.\n\nMichael is a senior software architect. Precise mind. His colleagues trust him with the complex problems.\n\nFor fourteen months, he has been working on a product of his own. He has a domain name, a color palette, and a Notion board with 237 cards.\n\nHe has written zero lines of code.\n\nEvery time he sits down to begin, the thinking starts. What if the market has shifted? What if a better-funded team is already building this? Each question leads to three more. The Notion board grows. The code editor stays empty.\n\nHe tells himself he is being diligent. On his most honest nights, he knows the truth: he is afraid. And the thinking is not preparation. It is protection.\n\nFourteen months. 237 cards. Zero lines of code.\n\nThe thinking was not protecting Michael from failure. It was producing it, one deferred day at a time.\n\nIf this story resonated, the link to the full book is in the comments.\n\n#Overthinking #AnalysisParalysis #MentalPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AuzmjyER9HQxD8nXAK-Dbm7\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "14 months. 237 Notion cards. Zero lines of code.\n\nMichael is a senior software architect. His colleagues trust him with the complex problems. For over a year, he had a product idea, a market gap identified, a color palette, and a domain name.\n\nAnd a code editor that was never opened.\n\nEvery time he sat down to begin, the thinking started. The questions multiplied. Each scenario invited a counter-scenario. The Notion board grew. The work never began.\n\nHe told himself he was being diligent.\n\nOn his most honest nights, he knew: he was afraid. The thinking was not preparation. It was protection.\n\nThe thinking was not protecting him from failure. It was producing it, one deferred day at a time.\n\nThis is what overthinking costs when you cannot see it clearly enough to name it.\n\nFull story — and the system that got Michael shipping — in the book. Link in bio.\n\n#Overthinking #AnalysisParalysis #Entrepreneur #Productivity #StopOverthinking #MentalPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ACv5SWk_LuS3Aa65m2-Tsz0\"}}"
       }
     }
   },
@@ -7783,30 +7786,31 @@
     "scheduled_date": "2026-04-07",
     "scheduled_time": "04:00",
     "ideal_date": "2026-04-07",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-07T11:55:25.027Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last post on the brand identity guide.\n\nEvery week without brand clarity is a week your content builds nothing. No compounding authority. No inbound recognition. No clear audience forming around a clear identity.\n\nThe B.I.D.M.™ guide gives you:\n→ Scored matrix — 6 factors, 3 paths, one clear answer\n→ Positioning statement template\n→ Brand pillars for your chosen path\n→ Three case studies: +200% consulting leads, +50% SaaS signups, $180K product revenue\n→ Brand clarity self-assessment scoring 5 dimensions\n→ 14-day implementation calendar\n\nFree. 20 minutes to complete the matrix. 14 days to implement.\n\nThe decision takes less time than the confusion it replaces.\n\n👉 https://publixion.com/guides/personal-brand-vs-business-brand\n\nShare with a creator still posting as two different people.\n\n#PersonalBranding #BrandStrategy #ContentMarketing #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-07T11:55:08.426Z",
+        "post_id": "122106646286948582",
         "text": "Last call on the brand identity guide.\n\nBrand confusion compounds silently. Every week without a clear identity is a week your content builds the wrong thing.\n\n🎯 Inside:\n• B.I.D.M.™ scoring matrix\n• Positioning statement template\n• Brand pillars for each path\n• 3 case studies with real results\n• 14-day implementation calendar\n\nFree. No email. 20 minutes.\n\nMake the decision today.\n\n📖 https://publixion.com/guides/personal-brand-vs-business-brand\n\n#PersonalBranding #BrandStrategy #ContentMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-07T11:55:25.027Z",
+        "post_id": "18043312430542126",
         "text": "Last call.\n\nEvery week without brand clarity is a week your content builds nothing.\n\nB.I.D.M.™ guide — 20 minutes to decide. 14 days to implement.\n\nMatrix. Template. Pillars. Calendar. Free.\n\n📖 Link in bio.\n\nLink in bio.\n\n#PersonalBranding #BrandStrategy #ContentMarketing #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/confusion-between-personal-vs-business-brand.jpg"
       }
@@ -9221,22 +9225,23 @@
     "scheduled_date": "2026-04-07",
     "scheduled_time": "07:00",
     "ideal_date": "2026-04-07",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-07T11:55:39.930Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are hundreds of career development books.\n\nHere is what almost all of them have in common:\n\nThey tell you to network more.\nThey encourage you to stay curious.\nThey remind you that your mindset matters.\n\nAnd they send you back into the world with a notebook full of highlights and no clear idea what to do on Monday morning.\n\nSkill Capital is structured around a different premise: that the only career advice worth giving is advice that produces a specific, usable output.\n\nSo every chapter does.\n\nChapter 1 produces a completed Skill Audit Matrix with proficiency and demand ratings for every skill you hold.\nChapter 2 produces a Market Value Map with demand zone classifications and your top development priorities for the next 90 days.\nChapter 4 produces your Stack Signature: a single sentence that describes your unique combination of skills in a way that commands a premium.\nChapter 8 produces your Monetization Pathway: the specific route from your skill stack to income, whether that is a salary negotiation, a consulting launch, or a digital product.\n\nBy the time you finish the 30-Day Implementation Plan, you will have built a complete professional architecture: audited, mapped, stacked, branded, and monetized.\n\nMost career books give you permission to think about your career differently.\nSkill Capital gives you the tools to run it differently.\n\nThat is the difference.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #CareerStrategy #ProfessionalDevelopment #FutureOfWork #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-07T11:55:39.930Z",
+        "post_id": "122106646394948582",
         "text": "Most career books give you inspiration.\nSkill Capital gives you infrastructure.\n\nEvery chapter in this book produces a specific written output:\n\n✅ A Skill Audit Matrix that shows what your skills are worth right now\n✅ A Market Value Map that shows where to invest next\n✅ A Stack Signature that makes you rare and premium in your market\n✅ A Monetization Pathway that converts your expertise into income\n\nBy Day 30 of the included implementation plan, you will have built a complete professional system — not a list of good intentions.\n\nThis is not motivation. It is methodology.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #Publixion #CareerDevelopment",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       },
