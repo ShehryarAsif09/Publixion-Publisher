@@ -3292,27 +3292,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The decision sitting with you right now has been there long enough.\n\nYou have researched it. You have talked about it. You have written lists about it. You have given it your Sunday evenings and your 3am hours and your best thinking.\n\nAnd it is still not done.\n\nNot because you are not smart enough to decide.\nBecause you have been applying intelligence to a problem that requires architecture.\n\nDecision Clarity gives you that architecture.\n\nThe CLEAR Framework — five integrated stages that move any high-stakes decision from paralyzing complexity to structured, values-aligned, committed action.\n\nThe Clarity Audit that drills to the real question beneath the surface one.\nThe Risk Reality Audit that replaces inflated fear with honest evidence.\nThe Consequence Map that shows you the full trajectory of each option before you commit.\nThe Values Constitution that makes every future decision easier to make.\nThe Resolve ritual that produces a finished decision — not a temporarily committed one.\n\nPlus dedicated chapters for career crossroads, relationship decisions, financial choices, and decisions made when time, pressure, and stakes converge.\n\n12 chapters. One complete operating system. One decision, finally done.\n\nEvery day this decision stays open is a day its cognitive tax is being paid — in Sunday dread, in background noise, in the quiet accumulation of a life being half-inhabited while the big question stays unresolved.\n\nDecision Clarity is available now at publixion.com\n\nThe process takes 24 hours.\nThe decision takes the rest.\n\n#DecisionMaking #CLEARFramework #PersonalDevelopment #Leadership #Publixion #DecisionClarity #LifeStrategy",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The decision sitting with you right now has been there long enough.\n\nYou have done all the research. Talked to all the right people. Written all the lists.\n\nAnd it is still not finished.\n\nNot because you lack intelligence. Because you lack architecture.\n\nDecision Clarity gives you the system that changes that — permanently.\n\nThe CLEAR Framework. 12 chapters. Every domain that matters: career, relationships, finances, high-pressure deadlines, and the decisive identity that makes excellent decisions your default rather than your effort.\n\nOne decision, finally done.\n\nAvailable now at publixion.com\n\nEvery day the decision stays open, its cognitive tax is being paid. End that today.\n\n#DecisionMaking #DecisionClarity #Publixion #CLEARFramework #PersonalGrowth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AF0eGhmNbfv6vp0zCy0xotZ\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The decision has been sitting with you long enough.\n\nYou have researched it.\nTalked about it.\nLost sleep to it.\n\nIt is not unresolved because you are not ready.\n\nIt is unresolved because you have never had the right system.\n\nDecision Clarity gives you that system.\n\n24 hours to run it.\nA lifetime to use it.\n\nGet it now — link in bio.\n\n#DecisionMaking #DecisionClarity #CLEARFramework #Publixion #PersonalDevelopment #MindsetShift #SelfGrowth #Leadership #LifeStrategy #TimeToDecide",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Decision-Clarity_social.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AvpssJx191fLchUy-mErxku\"}}"
       }
     }
   },
@@ -8046,27 +8049,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The launch price for the Premium Pricing Masterclass ends soon.\n\nCurrently $9.99. That changes.\n\nHere's exactly what you get at the launch price:\n\n✅ The complete P.R.E.S.T.I.G.E™ framework — all 8 layers, fully explained with implementation instructions (18 pages, fixed A4)\n✅ 3-tier offer architecture — Foundation, Authority, Elite — with full deliverable lists and pricing guidance\n✅ 5-stage diagnostic sales call framework — time-allocated, with discovery questions and what to listen for\n✅ 5 core objection scripts — word-for-word, with the psychological mechanism explained for each\n✅ 7-section premium proposal template — populated with example copy\n✅ Pricing Confidence Self-Assessment — 8 dimensions, scored with interpretation bands\n✅ Revenue model calculator — exact client numbers at each pricing tier\n✅ Two case studies with verified revenue results\n✅ 30-day implementation calendar — day by day\n✅ Bonus: Extended objection swipe file + annotated proposal example\n\nFor $9.99, you get the system that replaces undercharging permanently.\n\nIf you've been sitting on this — the window is closing.\n\n👉 Get it now: https://publixion.com/guides/premium-pricing-masterclass\n\n#Pricing #HighTicketSales #Freelancing #Consulting #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last reminder before the launch price is gone.\n\nPremium Pricing Masterclass — currently $9.99.\n\nWhat's inside:\n📌 P.R.E.S.T.I.G.E™ framework — 8 layers, fully actionable\n📌 3-tier offer architecture with deliverable lists\n📌 5-stage diagnostic sales call framework\n📌 5 objection scripts (word-for-word)\n📌 7-section premium proposal template\n📌 Pricing Confidence Self-Assessment\n📌 Revenue model calculator\n📌 30-day implementation calendar\n📌 2 case studies with real revenue numbers\n\nThe price increases when the launch window closes.\n\nIf you're a service provider who knows you're undercharging — this is the guide that fixes it.\n\n👉 https://publixion.com/guides/premium-pricing-masterclass",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AcODXpp4jPf9uw8VKqGPD3R\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "⏳ Launch price ending soon.\n\nPremium Pricing Masterclass — $9.99.\n\nInside:\n📌 P.R.E.S.T.I.G.E™ framework\n📌 3-tier offer architecture\n📌 Sales call framework\n📌 5 objection scripts\n📌 Proposal template\n📌 30-day calendar\n📌 Revenue calculator\n\nPrice goes up when the launch window closes.\n\nLink in bio. 🔗\n\n#PricingStrategy #Freelancing #Consulting #HighTicket #LaunchOffer #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/premium-pricing-masterclass.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AX08gkaVzHGiNfEC_X0lHgy\"}}"
       }
     }
   },
@@ -8347,27 +8353,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Five questions we get about Relationship Maintenance. Answered honestly.\n\nQ: Our relationship is not in crisis. Is this book for us?\nA: It was written specifically for you. The majority of readers describe their relationship as good or fine — and privately feel that fine is not what they signed up for. This is a maintenance system, not a rescue kit. It is most powerful before the damage is visible.\n\nQ: My partner is resistant to relationship books. What do I do?\nA: Start with Chapter 2. Ask your partner to agree to 45 minutes of structured conversation — not a book club, a conversation. Most resistant partners are engaged participants by week three, when the results speak for themselves.\n\nQ: How much time does this actually require each week?\nA: 45 minutes for the weekly check-in. 5 to 8 minutes of daily micro-practices. Under two hours total across a full week. Most couples spend more time than that on a single episode of television they watch together.\n\nQ: We already argue a lot. Will this make it worse?\nA: The first four weeks can surface tensions that have been building without a container. This is not the system making things worse — it is the system giving existing issues somewhere to go. Chapter 4's C.A.L.M. framework is built specifically for this transition period.\n\nQ: How long before we see a real difference?\nA: Most couples report a measurable shift in emotional connection within three to four weeks of consistent practice. The Drift Diagnostic, retaken at Day 30, typically shows a 15 to 30 point improvement.\n\nGet the book at publixion.com\n\n#RelationshipMaintenance #CouplesAdvice #MarriageSystem #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The five questions we hear most about Relationship Maintenance:\n\nQ: Our relationship is fine. Is this for us?\nA: Fine is exactly who this is for. Maintenance works best before the crisis.\n\nQ: My partner will not read relationship books.\nA: Do not frame it as a book. Frame it as a 45-minute weekly conversation you want to try for a month.\n\nQ: How much time does it take?\nA: 45 minutes per week for the core practice. Less time than one episode of most shows you are currently watching.\n\nQ: Will it make our arguments worse at first?\nA: It may surface things that have been sitting unaddressed. The book includes a specific protocol for exactly this.\n\nQ: How fast will we see results?\nA: Most couples report feeling genuinely closer within three to four weeks of consistent practice.\n\nGet it at publixion.com\n\n#RelationshipMaintenance #Publixion #CouplesGoals",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AUDOnCuEOwrlkYqKz1ylX0v\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The question we hear most:\n\n\"Our relationship is fine. Do we really need this?\"\n\nFine is exactly who this is for.\n\nMaintenance is most powerful before the crisis — not after it.\n\nRelationship Maintenance. Link in bio.\n\n#RelationshipMaintenance #CouplesGoals #MarriageAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AmlRMW3daY2DUAnovgDr9E6\"}}"
       }
     }
   },
