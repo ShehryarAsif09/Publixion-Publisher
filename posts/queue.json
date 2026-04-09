@@ -4337,27 +4337,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is a real story from Digital Boundaries. Chapter 7.\n\nI am sharing it in full because it is the story most people in this book recognize the fastest — and it costs nothing to read.\n\n---\n\nRachel came to her first coaching session with a problem she described as stress management.\n\nIn the second session, twenty minutes in, she mentioned in passing that her youngest daughter, Nia, had stopped telling her things.\n\nNot dramatically. Not with an argument or a withdrawal. Nia had simply, gradually, ceased bringing Rachel the stories and worries and small excitements that had once been a continuous presence in their evenings together.\n\nRachel had not fully noticed until her older daughter, fourteen, said it in the plainest possible way during a car ride:\n\n\"Mom, Nia doesn't tell you stuff anymore because you're always on your phone.\"\n\nNia had not made a decision to stop confiding in her mother.\n\nShe had made an adaptation.\n\nChildren are extraordinarily sensitive to the quality of adult attention. Nia had learned, through dozens of small experiences of beginning a story and losing her mother's eyes to a phone screen, that the investment of emotional disclosure was not a reliable return.\n\nSo she had stopped investing.\n\n---\n\nRachel implemented one change in the week that followed.\n\nNot a screen time limit. Not an app blocker.\n\nShe stopped holding her phone during family conversations. She put it on the counter when she came home. She made eye contact before responding when her children spoke.\n\nIn week three, Nia climbed onto the couch, leaned against her mother's shoulder, and started telling her a story.\n\nThat is the whole story. Nothing dramatic.\n\nJust a nine-year-old returning to a mother she had learned, again, to trust with the small and essential things.\n\n---\n\nThe most important relationships in your life are not asking you to be perfect.\n\nThey are asking you to be present.\n\nDigital Boundaries shows you exactly how.\n\n📖 publixion.com/book/digital-boundaries\n\n#Parenting #DigitalWellness #RelationalPresence #DigitalBoundaries #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This happened in a real coaching session. It is Chapter 7 of Digital Boundaries.\n\nRachel's youngest daughter, Nia, had stopped telling her things.\n\nNot with anger. Not with a withdrawal. She had simply adapted — learned, through dozens of evenings of starting a story and losing her mother's eyes to a phone screen, that the investment was not worth making.\n\nShe stopped investing.\n\nRachel made one change. Not an app blocker. Not a screen time limit.\n\nShe stopped holding her phone when her children were talking. She put it on the counter when she came home. She made eye contact before responding.\n\nThree weeks later, Nia climbed onto the couch and started a story.\n\nNothing dramatic. Just a nine-year-old returning to a mother she had learned, again, to trust.\n\nThe people you love are not asking you to be perfect.\n\nThey are asking you to be there.\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #Parenting #FamilyFirst #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A3hsrzC9N9pijQQ0nlMG8_m\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Her daughter had stopped telling her things.\n\nNot with anger. Not with a scene.\n\nShe had just quietly adapted — stopped offering the small, essential stories to a mother whose eyes kept finding the phone.\n\nRachel made one change.\n\nNot a limit. Not an app blocker.\n\nShe stopped holding her phone when her kids were talking.\n\nThree weeks later, her daughter climbed onto the couch and started a story unprompted.\n\nThat is the whole story.\n\nThe people you love are not asking for perfection.\n\nThey are asking you to be in the room.\n\nThis is Chapter 7 of Digital Boundaries.\n\nLink in bio.\n\n#DigitalBoundaries #Parenting #FamilyFirst #PhoneAddiction #BePresent #DigitalWellness #Publixion #RelationshipGoals #ScreenTime #IntentionalLiving",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AU-mFAkXuTiWkStArqJ3FYi\"}}"
       }
     }
   },
@@ -8986,27 +8989,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last post on the resume guide.\n\nEvery week you spend applying with an unoptimized resume is a week of rejections that the system produces automatically — not because you're not good enough.\n\nThe P.A.S.S.E.R.™ guide gives you:\n→ A 6-phase framework to pass ATS filters and increase callbacks 2–5×\n→ Keyword extraction protocol with a worked example\n→ The A.R.I. Formula™ with 4 full before/after bullet rewrites\n→ A resume summary template — with a completed example\n→ 3 real case studies: 3 callbacks → 9, 5% interview rate → 28%, 6-month search ended in 45 days\n→ A Keyword Alignment Score Card (/25) to evaluate before every application\n→ Interview Conversion Tracker\n→ 30-day implementation calendar\n\nFree. No email. Your next application is the test case.\n\n👉 https://publixion.com/guides/resume-rejections-despite-experience\n\nShare this with someone who deserves more interviews than they're getting.\n\n#ResumeWriting #JobSearch #CareerAdvice #ATSTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last call on the resume guide.\n\nIf your callback rate doesn't reflect your experience — this is the fix.\n\n🎯 Inside:\n• P.A.S.S.E.R.™ 6-phase ATS optimization system\n• Keyword extraction protocol\n• A.R.I. bullet formula with 4 before/after rewrites\n• Resume summary template with completed example\n• 3 case studies with callback rate numbers\n• Score card, tracker, and 30-day calendar\n\nFree. No email. Apply this to your next submission.\n\n📖 https://publixion.com/guides/resume-rejections-despite-experience\n\n#ResumeWriting #JobSearch #CareerAdvice #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AgR-zzGLgbR9Ab61jUsI-SY\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last call.\n\nYour experience deserves more interviews than it's getting.\n\nP.A.S.S.E.R.™ Framework: 6 phases, 30 days, 2–5× more callbacks.\n\n6-phase system. Bullet formula. Templates. Score card. Calendar.\n\nFree. Apply it to your next submission.\n\n📖 Link in bio.\n\nLink in bio.\n\n#ResumeWriting #JobSearch #CareerAdvice #ATSTips #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/guides/resume-rejections-despite-experience.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: .Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AC-GPrfnHqXjjpYdt47YUkT\"}}"
       }
     }
   },
@@ -9579,19 +9585,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "There are more health books published each year than any human being could read in a lifetime.\n\nHere is why most of them fail the people who read them — and what we did differently.\n\nMost health books are built around a single variable: exercise, or diet, or sleep, or mindset. They go deep on that variable. They provide excellent information about it. And then readers improve that one dimension of their health while the others continue to undermine it — because health is not a single-variable problem.\n\nThe person who trains hard but sleeps poorly cannot adapt. The person who eats well but carries a chronic cortisol load cannot metabolize food effectively. The person who builds a morning routine but has no disruption protocol loses it the first time life becomes difficult. Single-variable health advice produces single-variable results, and single-variable results do not hold.\n\nMost health books are also written for an imaginary reader: someone with a flexible schedule, a willing household, and the cognitive bandwidth to implement a complex new protocol on top of a demanding professional and personal life. That reader does not represent the majority of people who need this information most.\n\nHere is what The 1-Hour Health Formula does differently:\n\nIt treats health as an integrated system. All four pillars work together because the body works as a whole. Sleep improves movement performance. Movement improves nutritional choices. Nutrition improves sleep quality. The system is a closed loop.\n\nIt was designed for the hard days. The Minimal Viable Day protocol, the Bounce-Back sequence, and the disruption architecture were built because every sustainable system must account for the reality that life regularly becomes difficult.\n\nIt produces a personalized blueprint, not a prescribed routine. Chapter 12 walks you through designing your own protocol calibrated to your chronotype, schedule, and biology. You do not borrow someone else's system. You build yours.\n\nIt gives you a measurement system that works. The H.E.A.L. Daily Scorecard tracks behavioral adherence, not vanity outcomes — because adherence is what you control, and what you control is what you can improve.\n\nThe 1-Hour Health Formula. Available now at publixion.com\n\nWhat is the biggest gap you have seen in health books you have read?\n\n#HealthSystem #HEALArchitecture #Publixion #IntegratedHealth #ScienceBackedHealth #HealthBookReview #BusyProfessionals #Longevity",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Most health books cover one thing deeply: sleep, or exercise, or diet, or mindset.\n\nAnd they work — until life gets hard.\n\nBecause a single-variable solution cannot survive a multi-variable life.\n\nThe 1-Hour Health Formula is different in four specific ways:\n\n1. It is an integrated system. All four pillars reinforce each other the way your body actually works — as a whole.\n\n2. It was designed for the hard days, not just the motivated ones. The Minimal Viable Day and Bounce-Back Protocol keep the system running through travel, illness, and family emergencies.\n\n3. It produces your personalized blueprint, not someone else's routine. You design the protocol for your schedule, your chronotype, your life.\n\n4. It tracks what you can actually control. The H.E.A.L. Daily Scorecard measures behavioral consistency — not body weight or mirror reflection.\n\nOne hour. Four pillars. A system built for the life you actually live.\n\nLink in comments.\n\n#HealthSystem #HEALArchitecture #Publixion #IntegratedHealth",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AuIh_possxfHMz5KutU07C_\"}}"
       },
       "instagram": {
         "enabled": false,
