@@ -4804,27 +4804,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "This is the last time I will say this for a while.\n\nIf you have been in the comments, reading the excerpts, saving the posts — and you still have not picked up Discomfort Training — let me ask you something directly.\n\nHow long have you been meaning to do something about this?\n\nNot the book. The pattern the book addresses.\n\nThe meeting where you have something real to say and say nothing.\nThe negotiation you accept without pushing back.\nThe ask you have been drafting and deleting for longer than you would like to admit.\n\nMost people who experience that pattern spend years with it. They read about it. They recognize themselves in the description. They feel the cost of it, quietly, every week.\n\nAnd they wait for something to change the calculus before they act.\n\nNothing changes the calculus. You change the calculus. By doing one thing today that you would usually defer — and writing it in your Evidence Bank — and doing it again tomorrow.\n\nDiscomfort Training gives you the exact architecture for that process: a 30-day protocol, a Discomfort Audit, a seven-rung Exposure Ladder, a Rejection Training system, a weekly Resilience Scorecard, and an Identity Statement built from evidence rather than hope.\n\nBy Day 30, you will not feel more confident.\nYou will have built it.\n\nAnd what is built cannot be taken away.\n\n👉 Get it now: publixion.com/book/discomfort-training\n\n#DiscomfortTraining #ConfidenceBuilding #PersonalDevelopment #MentalToughness #NowOrNever #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last call.\n\nIf you have been reading these posts and recognizing yourself in them — the pattern of staying silent when you should speak, deferring what you should pursue, rehearsing what you should say and never saying it — this is the moment to decide.\n\nNot tomorrow. Today.\n\nDiscomfort Training gives you a 30-day system, a day-by-day protocol, and 26 proven frameworks that turn the pattern around — one exposure rep at a time.\n\nBy Day 30 you will not feel more confident.\nYou will have built it from evidence.\n\nAnd what is built cannot be taken away.\n\n👉 publixion.com/book/discomfort-training\n\n#DiscomfortTraining #ConfidenceBuilding #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Avvp9Q4hqkBjOs4ewTVqrUu\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "You have been here before.\n\nYou recognize the pattern.\nYou know what it is costing you.\nYou have been meaning to do something about it.\n\nToday is the day you stop meaning to.\n\n30 days. 26 frameworks. One system that builds the confidence you have been waiting to feel.\n\nBy Day 30 you will not feel more confident.\nYou will have built it.\n\nAnd what is built cannot be taken away.\n\nLink in bio.\n\n#DiscomfortTraining #ConfidenceBuilding #MentalToughness #PersonalGrowth #30DayChallenge #NowOrNever #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Discomfort-Training.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ABPtF_BCEEcPD3GLEK1gmyc\"}}"
       }
     }
   },
