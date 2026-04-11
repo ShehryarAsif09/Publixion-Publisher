@@ -7475,19 +7475,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Every book on overthinking tells you to be more present.\n\nThis one tells you why your brain is physically incapable of being present when the Default Mode Network is dominant — and gives you the neurological mechanism to shut it down in 90 seconds.\n\nHere is the honest difference between Overthinking Ends Here and everything else in this category:\n\nOTHER BOOKS SAY: \"Breathe deeply and observe your thoughts without judgment.\"\nTHIS BOOK GIVES YOU: The STOP Method — a four-step affect labeling and grounding sequence that reduces amygdala activation and shifts the brain from the Default Mode Network to the Task Positive Network in under 90 seconds. Based on Lieberman et al., UCLA, 2007.\n\nOTHER BOOKS SAY: \"Stop procrastinating. Just start.\"\nTHIS BOOK GIVES YOU: The Decision Tier System — four tiers of decisions with assigned maximum deliberation windows, the 70% information principle, and a Regret Minimization Protocol for the moment the deadline arrives and you are still uncertain.\n\nOTHER BOOKS SAY: \"Challenge your negative thoughts.\"\nTHIS BOOK GIVES YOU: The Three-Column Thought Audit and the Courtroom Method — clinical CBT tools that identify the specific distortion driving your loop, test it against available evidence, and produce a replacement thought that is accurate rather than optimistic.\n\nOTHER BOOKS SAY: \"Trust yourself more.\"\nTHIS BOOK GIVES YOU: The Overthinking Profile Assessment — a 20-question diagnostic that identifies your primary pattern across four archetypes and maps every tool in the book to your specific profile so nothing is generic.\n\nOTHER BOOKS SAY: \"Build better habits.\"\nTHIS BOOK GIVES YOU: The Daily Momentum Stack — a three-window daily architecture with a Morning Anchor, Mid-Day Decision Close, and Evening Audit that eliminates the morning negotiation and makes action the path of least resistance before the loop can engage.\n\nThe difference is not tone or intention.\nThe difference is mechanism versus suggestion.\n\nSuggestions require willpower to maintain.\nMechanisms run on their own once installed.\n\nOverthinking Ends Here installs the mechanisms.\n\nLink in comments.\n\n#Overthinking #SelfHelp #CBT #DecisionMaking #MentalPerformance #Books #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Every book on overthinking tells you to be more present.\n\nThis one tells you why your brain is physically incapable of being present when the Default Mode Network is dominant — and gives you the neurological mechanism to interrupt it in 90 seconds.\n\nHere is the honest difference:\n\nOther books: \"Breathe and observe your thoughts.\"\nThis book: The STOP Method — a neurological interruption sequence that shifts the brain from the rumination network to the task-engagement network in under 90 seconds. Research-based. Deployable anywhere.\n\nOther books: \"Challenge your negative thoughts.\"\nThis book: The Three-Column Thought Audit — a clinical CBT tool that identifies the exact distortion driving your loop and replaces it with evidence-based thinking, not forced positivity.\n\nOther books: \"Stop procrastinating.\"\nThis book: The Decision Tier System — four tiers, defined deliberation windows, and a protocol for what to do when the deadline arrives and you are still uncertain.\n\nThe difference is not tone. It is mechanism versus suggestion.\n\nSuggestions require willpower. Mechanisms run on their own once installed.\n\nLink to the book below.\n\n#Overthinking #CBT #DecisionMaking #MentalPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AYF1I25xWUlLIDkcENXTpG3\"}}"
       },
       "instagram": {
         "enabled": false,
