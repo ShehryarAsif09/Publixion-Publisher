@@ -8735,30 +8735,31 @@
     "scheduled_date": "2026-04-12",
     "scheduled_time": "04:00",
     "ideal_date": "2026-04-12",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-12T11:36:07.468Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Last call.\n\nIf you have been reading these posts for the past month and still have not picked up the book, let me tell you exactly what you are leaving on the table.\n\nNot inspiration. Not ideas. Actual documents.\n\nA written Life Audit across five domains that finally names the misalignment you have been feeling without being able to locate.\n\nA written Identity Statement with five operational values that makes every major decision dramatically easier to make — permanently.\n\nA Skills Inventory and Skill Stack that positions you for the roles you actually want and gives you the language to negotiate for what you are actually worth.\n\nA Financial Baseline with your real net worth, your real cash flow, and a 12-month Wealth Acceleration Plan that works whether your income is stable or in transition.\n\nA 5-Year Blueprint with annual milestones across four pillars and a Decision Filter you can apply to every choice you face from this point forward.\n\nThis is what one month of deliberate work produces. Not a feeling. Not a highlight. A new operating platform for your professional and personal life.\n\nThe book is $14.99. The 30-Day Sprint is included. The Quarterly Review system is included. The Fuel System, the Accountability Architecture, the Personal Metrics System — all included.\n\nFor the cost of a lunch, you get the system most people spend their entire adult life wishing they had started building earlier.\n\nGet it now at publixion.com — link in bio.\n\nThe compounding starts today.\n\n#CareerRedesign #LifeStrategy #PersonalDevelopment #5YearPlan #LifeAudit #CareerChange #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-12T11:35:55.328Z",
+        "post_id": "122107684796948582",
         "text": "This is the last post in this series. So let me be direct.\n\nIf you have been feeling the specific dissatisfaction of a life that is fine but not quite right — this book is the most actionable investment you can make in changing that.\n\nNot because it will inspire you. Because it will make you build five documents you do not currently have: a Life Audit, an Identity Statement, a Skills Inventory, a Financial Baseline, and a 5-Year Blueprint.\n\nFive documents. One month. A completely different operating platform for your career and your life.\n\n$14.99. Everything included. Available now at publixion.com.\n\nThe compounding starts today. Get it at the link below.\n\n#PersonalDevelopment #CareerChange #LifeRedesign #FinalCall #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-12T11:36:07.468Z",
+        "post_id": "18097452083046157",
         "text": "Last call.\n\nOne month. Five documents. A completely different relationship with your career, your money, and your direction.\n\nLife Audit. Identity Statement. Skills Inventory. Financial Baseline. 5-Year Blueprint.\n\nNot ideas. Not highlights. Documents you built yourself, using your real numbers and your real values.\n\n$14.99. Everything included.\n\nLink in bio. Start today.\n\nThe compounding starts the moment you decide to stop drifting and start building.\n\n#CareerRedesign #LifeStrategy #PersonalDevelopment #5YearPlan #FinalCall #Publixion #LifeAudit #CareerChange #SelfImprovement #LifeDesign",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/redesign-your-adult-life.jpg"
       }
@@ -9286,30 +9287,31 @@
     "scheduled_date": "2026-04-12",
     "scheduled_time": "04:00",
     "ideal_date": "2026-04-12",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-12T11:35:44.590Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The five questions I hear most before people buy Skill Capital. Answered honestly.\n\nQ: Is this relevant if I am not in tech?\nA: Completely. The framework is built on economic principles that apply across every industry — finance, law, healthcare, marketing, operations, consulting. The disruption reshaping careers is not a tech problem. It is a labor market problem. Every sector is navigating it.\n\nQ: I have years of experience. Will this still add value?\nA: Especially so. The professionals who benefit most are those with substantial experience who have noticed that experience alone is no longer the career protection it once was. The framework is specifically designed to convert deep but potentially narrowing expertise into a diversified, compounding professional asset base.\n\nQ: How is this different from other career books I have read?\nA: Every chapter produces a specific written output. There are no reflection questions without action steps. By Day 30 of the implementation plan, you will have a completed Skill Audit, a Market Value Map, a Stack Signature, an active Skill Brand presence, and a primary Monetization Pathway in motion. Output, not insight.\n\nQ: I am worried about AI replacing my role. Will this actually help?\nA: Chapter 6 covers the six Human-Proof Skills — the capabilities AI cannot replicate — with enough granularity to turn vague anxiety into a concrete investment strategy. Chapter 3 gives you the Automation Vulnerability Index for scoring any skill on its five-year disruption risk. And the entire Skill Stack strategy is designed to position you at the intersection of human capability and AI fluency, where the highest salary premiums in the current market are being paid.\n\nQ: How long does it take?\nA: The book reads in 4 to 6 hours. The 30-Day Plan requires 20 to 45 minutes per day. Multiple readers have reported salary negotiations and consulting engagements initiated within 30 days of completing the exercises.\n\nAny other questions? Drop them in the comments.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #CareerStrategy #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-12T11:35:31.687Z",
+        "post_id": "122107684640948582",
         "text": "Answering the five questions people ask before buying Skill Capital:\n\n❓ Is this only for tech professionals?\nNo. It applies across every industry. The disruption is economy-wide.\n\n❓ I already have years of experience. Is this still useful?\nEspecially useful. Deep expertise plus the wrong strategy is still a risk. This book is built for exactly that situation.\n\n❓ How is it different from other career books?\nEvery chapter produces a real written output. By Day 30 you have a full professional system, not just notes.\n\n❓ Will it actually help with AI anxiety?\nYes. Chapter 6 on Human-Proof Skills and Chapter 3 on the Decay Rate Principle were written specifically for this concern.\n\n❓ How long does it take to complete?\n4 to 6 hours to read. 30 days to implement fully. Most readers report measurable outcomes within that window.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #Publixion #CareerDevelopment",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-12T11:35:44.590Z",
+        "post_id": "18070191038294737",
         "text": "Five questions. Five honest answers.\n\n1. Is this only for tech people? No. Every industry. Every role.\n\n2. I have years of experience. Still useful? Most useful for exactly that situation.\n\n3. How is it different? Every chapter produces a real output. Not just insights.\n\n4. Will it help with AI anxiety? Chapters 3 and 6 were built for that specific fear.\n\n5. How long? 4 to 6 hours to read. 30 days to change your career trajectory.\n\nAny other questions? Drop them below.\n\n📖 Link in bio.\n\n#SkillCapital #CareerStrategy #FutureOfWork #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       }
