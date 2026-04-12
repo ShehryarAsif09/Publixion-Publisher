@@ -1,8 +1,50 @@
 {
-  "last_run": "2026-04-11T07:53:43.297Z",
-  "total_posted": 383,
-  "total_failed": 758,
+  "last_run": "2026-04-12T11:36:09.470Z",
+  "total_posted": 387,
+  "total_failed": 760,
   "run_log": [
+    {
+      "started_at": "2026-04-12T11:35:19.270Z",
+      "date": "2026-04-12",
+      "slot": "11:00",
+      "posts": [
+        {
+          "id": "SC-007",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122107684640948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18070191038294737"
+            }
+          }
+        },
+        {
+          "id": "RYAL-008",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
+            },
+            "facebook": {
+              "success": true,
+              "post_id": "122107684796948582"
+            },
+            "instagram": {
+              "success": true,
+              "post_id": "18097452083046157"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-04-12T11:36:09.470Z"
+    },
     {
       "started_at": "2026-04-11T07:53:36.329Z",
       "date": "2026-04-11",
