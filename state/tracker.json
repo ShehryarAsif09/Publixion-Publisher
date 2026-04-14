@@ -1,8 +1,67 @@
 {
-  "last_run": "2026-04-12T11:36:09.470Z",
+  "last_run": "2026-04-14T11:58:18.752Z",
   "total_posted": 387,
-  "total_failed": 760,
+  "total_failed": 768,
   "run_log": [
+    {
+      "started_at": "2026-04-14T11:57:56.527Z",
+      "date": "2026-04-14",
+      "slot": "11:00",
+      "posts": [
+        {
+          "id": "DB-006",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AhCipGmnat4V-SnE5eKPbMb\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "skipped": true
+            }
+          }
+        },
+        {
+          "id": "T1HH-007",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Ada2nnZx2axdlI_7QACwy2m\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AL6747TXE_YjoF35X1dZFuz\"}}"
+            }
+          }
+        },
+        {
+          "id": "RM-008",
+          "platforms": {
+            "linkedin": {
+              "success": false,
+              "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
+            },
+            "facebook": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A0rFKVWgWxLRO-xZQ7Oqw95\"}}"
+            },
+            "instagram": {
+              "success": false,
+              "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"APPLf1plLJxJjWL4D_ZZn4g\"}}"
+            }
+          }
+        }
+      ],
+      "completed_at": "2026-04-14T11:58:18.752Z"
+    },
     {
       "started_at": "2026-04-12T11:35:19.270Z",
       "date": "2026-04-12",
