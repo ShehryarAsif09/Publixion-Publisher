@@ -4380,19 +4380,21 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Every book in the digital wellness space is brilliant at the same thing:\n\nTelling you exactly how bad the problem is.\n\nCal Newport maps the cost of distraction with surgical precision.\nJohann Hari traces the theft of attention across culture and economics.\nNir Eyal decodes the behavioral engineering behind every hook and trigger.\n\nAll three are exceptional books. I have read all three.\n\nNone of them left me holding a system I could begin using the following morning.\n\nThat is the gap Digital Boundaries was built to close.\n\nNot another diagnosis. An installation.\n\nHere is what that difference looks like in practice:\n\nDeep Work tells you that focus is valuable and fragmented attention costs you dearly. Digital Boundaries gives you the Monk Mode Protocol — a specific pre-decided environmental configuration, an entry ritual, and a communication batching system — that you can implement tomorrow morning and produce your best work by noon.\n\nStolen Focus tells you that the attention economy is systematically extracting your cognitive life. Digital Boundaries gives you the CAPTURE Cycle breakdown, the SFLA Framework, and a day-by-day 30-day plan that installs every boundary sequentially so that by Day 30 you have not just understood the system. You have built it.\n\nIndistractable tells you that you can learn to manage your internal triggers. Digital Boundaries gives you the STOP Protocol, the Emotion-Action Map, and a Boredom Tolerance Training sequence that addresses the emotional substrate driving compulsive phone use at its psychological root.\n\nThe books you have already read told you what is wrong.\n\nDigital Boundaries gives you what comes next.\n\n📖 publixion.com/book/digital-boundaries\n\n#DeepWork #DigitalWellness #Productivity #AttentionManagement #DigitalBoundaries #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Deep Work told you focus is valuable.\nStolen Focus told you it is being taken.\nIndistractable told you to manage your triggers.\n\nAll brilliant. All diagnosis.\n\nNone of them left you holding a system you could use the following morning.\n\nDigital Boundaries is what comes after the diagnosis.\n\nThe Monk Mode Protocol. The Sleep Sovereignty Protocol. The SFLA Framework. The STOP Protocol. A 30-Day Plan that builds everything from the ground up.\n\nNot another book about why screens are a problem.\n\nThe system that solves it.\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #DeepWork #DigitalWellness #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AhCipGmnat4V-SnE5eKPbMb\"}}"
       },
       "instagram": {
         "enabled": false,
@@ -8404,27 +8406,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "One month from today, you could have:\n\nA weekly check-in practice that keeps you and your partner genuinely known to each other.\n\nA communication script that turns the conversation you have been avoiding into the one that finally changes things.\n\nA conflict protocol that ends arguments without the damage that used to linger for days.\n\nA repair ritual with a name that both of you know how to use.\n\nA shared five-year vision written in both your handwriting.\n\nA Drift Diagnostic score 20 points higher than where you started.\n\nOr you could have exactly what you have right now.\n\nThe gap between those two outcomes is not luck, compatibility, or circumstance.\n\nIt is 45 minutes a week and the decision to spend them intentionally.\n\nRelationship Maintenance is available now at publixion.com\n\nThe 30-Day Implementation Plan begins the morning after you finish reading.\n\nStart on Sunday.\n\n#RelationshipMaintenance #MarriageGoals #CouplesSystem #Publixion #StartOnSunday",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "One month from today, you could have a weekly system that keeps your relationship strong — not by luck, not by grand gestures, but by 45 intentional minutes every week with the person you chose.\n\nOr you could have exactly what you have right now.\n\nRelationship Maintenance is available now at publixion.com\n\nThe 30-Day Plan starts the morning after you finish reading.\n\nStart on Sunday.\n\n#RelationshipMaintenance #Publixion #StartOnSunday",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"A0rFKVWgWxLRO-xZQ7Oqw95\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "One month from today.\n\nYou could have a system.\nOr you could have the same Sunday you had last week.\n\nRelationship Maintenance. The choice is simple.\n\nLink in bio.\n\nStart on Sunday.\n\n#RelationshipMaintenance #CouplesGoals #MarriageAdvice #Publixion #StartOnSunday",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/relationship-maintaince.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"APPLf1plLJxJjWL4D_ZZn4g\"}}"
       }
     }
   },
@@ -9634,27 +9639,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The five questions I get asked most before someone picks up The 1-Hour Health Formula. Answered honestly.\n\nQ: I always start strong and quit by week three. Why would this be different?\n\nA: Because this system was designed around that exact pattern. The research shows 78 percent of adults abandon health routines within 21 days — not from lack of motivation, but from system overload and zero disruption protocol. The H.E.A.L. Architecture includes a Minimal Viable Day that takes 15 minutes, a Bounce-Back Sequence for when life interrupts, and a Never Miss Twice rule grounded in UCL habit formation research. You do not need more discipline. You need a system that survives your life.\n\nQ: Do I need a gym or any equipment?\n\nA: No. Aaron built the best physical condition of his adult life in 6 feet of apartment floor space using the Resistance Protocol in Chapter 8. The Energy pillar has three modes — Strength, Zone 2 Cardio, and Mobility — all executable with no equipment. A Lancet analysis of 1.8 million people found that 22 minutes of daily movement eliminates cardiovascular mortality risk. You do not need a gym. You need 20 minutes and a body.\n\nQ: Is one hour actually enough to make a real difference?\n\nA: More than enough. A 2025 Nature Human Behaviour study found that distributed daily sessions produce 31 percent greater metabolic adaptation than a single equivalent session. The hour is also not added to your day — it is redistributed within it. The book shows you precisely where it already exists.\n\nQ: I am in my 40s or 50s. Is this still relevant?\n\nA: It is particularly relevant. A 12-month H.E.A.L.-aligned lifestyle intervention reversed biological age by 3.23 years in a 2023 Aging Cell study. Muscle mass data from a 400,000-participant JAMA Network Open analysis shows the highest longevity return window is 40 to 65. You are not behind. You are at the most high-leverage moment available to you.\n\nQ: What do I actually walk away with?\n\nA: A complete personalized H.E.A.L. Protocol designed for your chronotype and schedule. A Daily Scorecard that tracks the right metrics. A Minimal Viable Day for hard days. A Bounce-Back Protocol for disruption. A 30-day day-by-day implementation plan that begins the morning after you finish the book. Not intentions. A system.\n\nThe 1-Hour Health Formula. Link in bio.\n\nAny other questions before you decide? Drop them in the comments.\n\n#HealthSystem #HEALArchitecture #Publixion #FAQ #ScienceBackedHealth #Longevity #BusyProfessionals #HealthTransformation",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Five honest answers to the most common questions about The 1-Hour Health Formula:\n\nQ: I always quit by week three. Why would this be different?\nA: Because this system was built around that pattern. It includes a Minimal Viable Day (15 minutes), a Bounce-Back Protocol, and the Never Miss Twice rule — all grounded in behavioral research. You need a better system, not more discipline.\n\nQ: Do I need a gym?\nA: No. Aaron built the best physical condition of his adult life from 6 feet of apartment floor. All movement modes require only your body. A Lancet study of 1.8 million people confirmed 22 minutes of daily movement eliminates cardiovascular mortality risk.\n\nQ: Is one hour actually enough?\nA: A 2025 Nature Human Behaviour study found distributed daily sessions produce 31% greater metabolic adaptation than longer single sessions. The hour also already exists in your day — the book shows you where.\n\nQ: I am in my 40s or 50s. Too late?\nA: A 12-month lifestyle intervention reversed biological age by 3.23 years (Aging Cell, 2023). The 40-65 window is the most high-leverage period available for longevity investment.\n\nQ: What do I actually get?\nA: A personalized protocol, a Daily Scorecard, a Minimal Viable Day, a Bounce-Back Protocol, and a 30-day implementation plan. Not insights. A complete working system.\n\nLink in comments. Any other questions, drop them below.\n\n#HEALArchitecture #Publixion #HealthSystem #FAQ",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Ada2nnZx2axdlI_7QACwy2m\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The 5 questions people ask before getting The 1-Hour Health Formula:\n\n❓ I always quit by week 3. Why is this different?\n✅ Built-in Minimal Viable Day + Bounce-Back Protocol. The system survives your life.\n\n❓ Do I need a gym?\n✅ No. All 3 movement modes require only your body. A Lancet study of 1.8M people confirmed 22 minutes daily is enough.\n\n❓ Is one hour actually enough?\n✅ Yes. Research shows distributed sessions beat longer single ones by 31% in metabolic adaptation.\n\n❓ I'm in my 40s. Too late?\n✅ This is your highest-leverage window. A 12-month lifestyle intervention reversed biological age by 3.23 years.\n\n❓ What do I actually walk away with?\n✅ A personalized protocol, daily scorecard, and a 30-day plan. Not motivation. A system.\n\nLink in bio.\n\n#HEALArchitecture #HealthFormula #Publixion #HealthFAQ #ScienceBackedHealth #Longevity #NoGymRequired #DailyHabits #EnergyBoost #HealthSystem",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AL6747TXE_YjoF35X1dZFuz\"}}"
       }
     }
   },
