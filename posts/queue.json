@@ -7519,27 +7519,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Before you decide whether this book is for you, here are the five questions we get asked most often — answered honestly.\n\nQ1: Is this a mindfulness book?\n\nNo. There is no instruction to observe your thoughts without judgment or trust the process. Every chapter delivers a specific, deployable tool with a named protocol and a step-by-step implementation guide. The STOP Method runs in 90 seconds. The Decision Tier System closes every open decision in your life in a single session. These are instruments, not suggestions.\n\nQ2: I have tried to stop overthinking before and it never sticks. Why would this be different?\n\nBecause this book does not ask you to stop overthinking through willpower. It addresses the problem at three levels simultaneously: the neurological interruption level with the STOP Method, the cognitive content level with Restructuring tools, and the behavioral architecture level with the Momentum Stack and Decisive Identity installation. Most approaches address one level. This system addresses all three, which is why the changes are durable rather than temporary.\n\nQ3: I am a high performer. Is this for people who are struggling?\n\nThe majority of our readers are high performers. Overthinking is disproportionately an intelligence problem. The Researcher and Perfectionist profiles are almost exclusively populated by capable, driven people whose cognitive capacity has become the engine of their own paralysis. This book was built with your specific experience as the primary reference point.\n\nQ4: How quickly will I see results?\n\nMost readers report a measurable shift in loop intensity within the first 48 hours of applying the STOP Method — because the affect labeling mechanism it uses has been documented in brain imaging studies to produce near-immediate amygdala downregulation. The Decision Tier System produces results the first time you apply it. The identity-level changes take 21 days of consistent practice. The 30-Day Plan produces all layers within one month.\n\nQ5: How much time does it require?\n\nThe book reads in 6 to 8 hours. The 30-Day Implementation Plan requires under 20 minutes of deliberate daily practice. The highest-leverage tools — the Profile Assessment, the Thought Audit, and the Decisive Identity Installation — take between 15 and 45 minutes each.\n\nIf any of these answers moved you from hesitation to interest, the link is in the comments.\n\n#Overthinking #SelfHelp #FAQ #DecisionMaking #MentalPerformance #Books #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Five questions we get asked most often about Overthinking Ends Here — answered honestly.\n\nQ: Is this a mindfulness book?\nA: No. Every chapter delivers a specific protocol with a step-by-step guide. Tools that work in 90 seconds, not suggestions that require ongoing willpower.\n\nQ: I have tried before and it never sticks. Why is this different?\nA: Because it addresses three levels at once: neurological interruption, cognitive restructuring, and behavioral architecture. Most approaches hit one. This hits all three.\n\nQ: I am a high performer. Is this for people who are struggling?\nA: Most readers are high performers. Overthinking is disproportionately an intelligence problem. The book was built with your experience as the reference point.\n\nQ: How quickly will I see results?\nA: Most readers notice a shift in loop intensity within 48 hours of applying the STOP Method. The 30-Day Plan delivers all layers of change within one month.\n\nQ: How much time does it take?\nA: 6-8 hours to read. Under 20 minutes of daily practice for the 30-Day Plan.\n\nAnything else stopping you? Drop it in the comments and we will answer directly.\n\n#Overthinking #SelfHelp #FAQ #MentalPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AVh7a49h-j86eyoBvZM899l\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Five questions about this book — answered without the marketing spin.\n\nIs it a mindfulness book? No. It is a system with named protocols and 90-second tools.\n\nWill it actually stick this time? Yes — because it addresses three levels at once: neurological, cognitive, and behavioral. Most approaches hit one.\n\nIs it for high performers or people who are struggling? Both. Overthinking is disproportionately an intelligence problem.\n\nHow fast will I notice a difference? Most readers notice a shift within 48 hours of the STOP Method.\n\nHow much time does it take? 6-8 hours to read. Under 20 minutes a day for the 30-Day Plan.\n\nStill have a question? Drop it in the comments.\n\nLink in bio.\n\n#Overthinking #SelfHelp #MentalHealth #DecisionMaking #FAQ #Books #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A9XGXoycevYlEnmpPC4EIsI\"}}"
       }
     }
   },
