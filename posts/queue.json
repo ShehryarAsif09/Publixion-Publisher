@@ -4422,27 +4422,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The five questions I get asked most about Digital Boundaries — answered honestly.\n\nQ: Is this just another book telling me to delete Instagram and go for walks?\n\nA: No. The book does not ask you to quit technology or disconnect from the connected world. Every protocol inside it is designed for people who need to remain professionally and socially present. The goal is not less technology. It is technology used on your terms, serving your life rather than directing it.\n\nQ: I have tried screen time limits before and they last about four days. Why would this be different?\n\nA: Because screen time limits are rules. Rules depend on willpower. And willpower is exactly what the platforms are engineered to defeat. The SFLA Framework is architecture — environmental redesign that makes the right behavior the path of least resistance before the moment of temptation arrives. The decisions are pre-made. Willpower is rarely consulted.\n\nQ: I read Deep Work and Stolen Focus. Do I need this too?\n\nA: Those books diagnose the problem with extraordinary precision. Digital Boundaries installs the solution. It gives you the specific protocols, the environmental configurations, and the 30-day sequential plan that translate the diagnosis into daily behavior change. They are complementary, not redundant. Most readers of Newport and Hari report that Digital Boundaries is what finally made the ideas stick.\n\nQ: How quickly will I actually notice something different?\n\nA: The Sleep Sovereignty Protocol produces measurable results for most readers within three to five days. The Monk Mode Protocol produces its first deep work session on the first day you run it. Relational changes — partners and children responding differently — are typically reported within two weeks of consistent presence protocols. The 30-Day Scorecard gives you your own before-and-after data across every domain.\n\nQ: I work remotely and I am expected to be always available. Can I actually use this professionally?\n\nA: Chapter 10 covers this in full. Harvard Business Review research cited in the chapter found that professionals who practice deliberate digital disconnection produce higher-quality output and make fewer errors — and their response times are indistinguishable to clients and colleagues. The Communication Architecture Protocol gives you the exact structure, the auto-responder language, and the managing-up strategy to implement professional boundaries without career risk.\n\nAny other questions? Drop them below.\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #FAQ #DigitalWellness #DeepWork #Productivity #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Five questions people ask before buying Digital Boundaries:\n\nQ: Is this just a digital detox book?\nA: No. Every protocol is designed for people who need to stay connected professionally and socially. It is about technology on your terms — not less technology.\n\nQ: I have tried screen time limits. They never stick.\nA: Because limits depend on willpower, and willpower loses to engineering. This is architecture — the decision is made before the temptation arrives.\n\nQ: I already read Deep Work and Stolen Focus. Do I need this?\nA: Those books diagnose the problem. This one installs the solution. Most readers of both report that Digital Boundaries is what finally made the ideas translate into actual behavior change.\n\nQ: How fast will I notice results?\nA: Sleep protocol: three to five days for most readers. Deep focus: first session. Relational changes: within two weeks. The 30-Day Scorecard measures everything with your own data.\n\nQ: I am expected to be always available at work. Can I actually implement this?\nA: Chapter 10 answers this in full — including the exact auto-responder language and the managing-up strategy that protects your career while you protect your focus.\n\nAny other questions? Ask below 👇\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #FAQ #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AGuQrtLFrLeUYscXlvRh3CT\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "5 questions people ask before buying Digital Boundaries:\n\n1. Is this a digital detox book?\nNo. It is a system for using technology on your own terms — not quitting it.\n\n2. Screen time limits never work for me.\nThat is because limits use willpower. This uses architecture. The decision is made before the temptation.\n\n3. I already read Deep Work. Do I need this too?\nThat book diagnoses. This one installs. Most readers say this is what made Newport's ideas actually stick.\n\n4. How fast will I notice something?\nSleep: within 3-5 days. Focus: first session. Relationships: within 2 weeks.\n\n5. I have to be always on for work.\nChapter 10 handles this — including the exact language to set professional limits without career risk.\n\nStill have a question? Drop it below 👇\n\nLink in bio.\n\n#DigitalBoundaries #FAQ #DigitalWellness #Productivity #DeepWork #Publixion #ScreenTime #WorkLifeBalance #MindfulTech #IntentionalLiving",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A4GISxkuf3u2J--z8kdUrmG\"}}"
       }
     }
   },
@@ -9336,30 +9339,31 @@
     "scheduled_date": "2026-04-18",
     "scheduled_time": "04:00",
     "ideal_date": "2026-04-18",
-    "status": "pending",
-    "posted_at": null,
+    "status": "done",
+    "posted_at": "2026-04-18T11:36:44.098Z",
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "30 days from now, one of two things will be true.\n\nEither you will have a completed Skill Audit that tells you exactly what your professional assets are worth in the current market.\nA Market Value Map with your top development priorities clearly identified.\nA Stack Signature that makes your expertise rare and premium.\nA Skill Brand that makes the right opportunities find you.\nA Monetization Pathway actively in motion.\n\nOr you will be in the exact same position you are in today, with one more month of the market having moved without you.\n\nSkill Capital is 120 pages.\nIt reads in an afternoon.\nThe 30-Day Plan takes 20 to 45 minutes a day.\n\nThe professionals who have already built with this framework have negotiated salary increases of 22 to 31 percent, launched consulting practices, and generated income streams that outlasted the employers who initially triggered the need for them.\n\nYou already know the ground is shifting.\nYou already know that experience alone is not enough.\nYou already know you need a system.\n\nHere it is.\n\n📖 Get Skill Capital now at publixion.com/book/skill-capital\n\nYou are the asset. It is time to invest accordingly.\n\n#SkillCapital #CareerStrategy #FutureOfWork #ProfessionalDevelopment #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg",
+        "error": "{\"status\":403,\"serviceErrorCode\":100,\"code\":\"ACCESS_DENIED\",\"message\":\"Field Value validation failed in REQUEST_BODY: Data Processing Exception while processing fields [/author]\"}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-18T11:36:32.097Z",
+        "post_id": "122108865806948582",
         "text": "30 days from now, you could have a complete professional system:\n\n✅ A Skill Audit that shows what you are actually worth\n✅ A Market Value Map with your next 90-day development priorities\n✅ A Stack Signature that makes you premium and rare\n✅ A Skill Brand attracting inbound opportunities\n✅ A Monetization Pathway generating income beyond your salary\n\nOr you could be in the same position you are in today.\n\nSkill Capital is 120 pages. Reads in an afternoon. Changes your professional trajectory in 30 days.\n\nThe economy is not waiting. Neither should you.\n\n📖 publixion.com/book/skill-capital\n\n#SkillCapital #Publixion #CareerDevelopment",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
-        "posted_at": null,
-        "post_id": null,
+        "status": "posted",
+        "posted_at": "2026-04-18T11:36:44.098Z",
+        "post_id": "18074958719648055",
         "text": "30 days from now, one of two things will be true.\n\nYou built the system. Or you are still thinking about it.\n\nSkill Capital is 120 pages.\nOne afternoon to read.\n30 days to activate.\n\nThe economy is already moving.\n\nYou are the asset. Invest accordingly.\n\n📖 Link in bio.\n\n#SkillCapital #CareerStrategy #FutureOfWork #Upskilling #Publixion",
         "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Skill-Capital.jpg"
       }
