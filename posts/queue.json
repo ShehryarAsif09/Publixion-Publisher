@@ -7565,27 +7565,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Let me be direct with you.\n\nIf you have been following these posts and something in them has been landing — the story about the email that expired, the architect with 237 Notion cards, the analyst who has not slept a full night in seven weeks — that recognition is not an accident.\n\nYou know this loop. You have been living in it, in some form, for longer than you want to say out loud.\n\nAnd the cost of staying in it is not abstract.\n\nIt is the compounding hours — 1,000 to 1,400 per year, on average, for a chronic overthinker. It is the confidence that erodes quietly every time deliberation replaces action. It is the opportunity that had a window, and the window that closed while the analysis was still running. It is the identity you have been holding, that says you are someone who needs more time than other people, that is actively generating the pattern it describes.\n\nYou do not need more time.\nYou need a different system.\n\nOverthinking Ends Here gives you that system. All of it. In one book. In 30 days of under 20 minutes daily.\n\nThe STOP Method. The Decision Tier System. The Thought Audit. The Information Diet. The Somatic Reset Protocols. The Daily Momentum Stack. The Decisive Identity. The Relapse Response Plan.\n\nEvery tool has a mechanism. Every mechanism has a research basis. Every research basis has been translated into something you can use in the next 90 seconds.\n\nThis is not the book that makes you feel understood.\nThis is the book that makes you different.\n\nGet it now at the link in the comments.\n\nThe loop ends when you decide it does.\n\n#Overthinking #DecisiveAction #MentalPerformance #SelfDevelopment #Publixion #OverthinkingEndsHere",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "If any of these posts have been landing — the stories, the data, the tools — this is the moment.\n\nThe cost of the overthinking loop is not abstract. It is 1,000+ hours per year of cognitive energy spent in circles. It is confidence eroding every time deliberation replaces action. It is the window that was open, and the analysis that was still running when it closed.\n\nYou do not need more time. You need a different system.\n\nOverthinking Ends Here gives you the STOP Method, the Decision Tier System, the Thought Audit, the Daily Momentum Stack, the Decisive Identity, and a complete 30-Day Implementation Plan — all grounded in behavioral neuroscience and clinical CBT.\n\nUnder 20 minutes a day. 30 days. One loop, permanently interrupted.\n\nGet it now. Link in the comments.\n\nThe loop ends when you decide it does.\n\n#Overthinking #DecisiveAction #MentalPerformance #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Ak1wZgdLtQL5Xy4h3fvS2XU\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "The loop has been running long enough.\n\nYou already know what it has cost you. The hours. The opportunities. The mornings that began with negotiation instead of action. The decisions that expired while you were still preparing to make them.\n\nYou do not need more motivation.\nYou need a system that interrupts the loop at the neurological level, restructures the thinking that fuels it, and installs momentum that runs on its own.\n\nThat system is inside this book.\n\n30 days. Under 20 minutes daily. One loop, permanently interrupted.\n\nOverthinking Ends Here — out now via Publixion.\n\nLink in bio.\n\nGet it today.\n\n#Overthinking #StopOverthinking #DecisiveAction #MentalHealth #SelfDevelopment #Books #Productivity #CBT #MentalPerformance #OverthinkingEndsHere #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/vverthinking-end-here.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AcngTwnaNJdETKcaf9qb3I8\"}}"
       }
     }
   },
@@ -9689,27 +9692,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "It is 2:17 in the afternoon.\n\nYour third coffee has gone cold. Your back is tight. Your energy left somewhere around noon.\n\nYou are not sick. You are not broken. You are not lazy.\n\nYou are running a body without a system.\n\nIn the past 30 days, the people who picked up The 1-Hour Health Formula have:\n\n— Doubled their push-up count in six weeks\n— Moved their 2pm energy from a 4 to a 7 without changing their coffee intake\n— Built their best physical condition in years from an apartment floor with no equipment\n— Reversed the exhaustion that 12-hour nursing shifts had normalized for two years\n— Reduced their resting heart rate by 8 to 11 beats per minute\n— Survived three life crises without restarting their protocol once\n\nNone of them found a perfect window. None of them cleared their schedule. None of them waited until Monday.\n\nThey started with a system that was built for the life they already had.\n\nThe 1-Hour Health Formula is that system.\n\nOne hour. Four pillars. A protocol backed by peer-reviewed science from The Lancet, Nature Human Behaviour, Cell Metabolism, and UCBerkeley's Sleep Science Center.\n\nDesigned for executives, professionals, parents, and high-output adults who need health to work inside real life — not alongside an imaginary one.\n\nThe book is live at publixion.com right now.\n\nThe version of you at 80 is being built by the decisions you make this week.\n\nGive it an hour.\n\n#HEALArchitecture #Publixion #HealthSystem #OneHourHealth #Longevity #ScienceBackedHealth #DailyHabits #EnergyManagement #BusyProfessionals #HealthTransformation #TakeAction",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "It is 2:17pm. Your third coffee is cold. Your energy left hours ago.\n\nYou are not broken. You are running a body without a system.\n\nIn the past 30 days, readers of The 1-Hour Health Formula have doubled their functional strength, moved their afternoon energy from a 4 to a 7, and built the best physical condition of their adult lives — some from an apartment floor with zero equipment.\n\nNone of them waited for perfect conditions.\nThey started with a system designed for the life they already had.\n\nThe 1-Hour Health Formula is live now.\n\nOne hour. Four pillars. A protocol that works on the hard days, the travel days, the exhausted days, and the days when motivation is completely absent.\n\nLink in the first comment.\n\nThe version of you at 80 is being built right now. Give it an hour.\n\n#HEALArchitecture #Publixion #HealthSystem #Longevity #TakeAction",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Agzqgh4CHnD0HD6PRS-Nv6C\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "It is 2:17pm.\n\nThird coffee cold. Energy gone. Back tight.\n\nYou are not broken.\nYou are running a body without a system.\n\nIn 30 days, readers of The 1-Hour Health Formula have:\n\n✅ Doubled their push-up count\n✅ Moved afternoon energy from 4 to 7\n✅ Built their best physical condition from an apartment floor\n✅ Survived three life crises without a single restart\n\nNo gym. No diet. No perfect morning.\n\nJust a system that works inside the life you already have.\n\nOne hour. Four pillars. Your body at its best.\n\nLink in bio. Start now.\n\n#HEALArchitecture #Publixion #HealthFormula #OneHourHealth #Longevity #EnergyBoost #NoGymRequired #HealthTransformation #ScienceBackedHealth #DailySystem #TakeAction #BusyProfessionals",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/The-1-hour-health-formula.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AXXs0PShhC5h2MTRMf2qSE2\"}}"
       }
     }
   },
