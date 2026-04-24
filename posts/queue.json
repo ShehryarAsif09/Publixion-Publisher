@@ -4465,27 +4465,30 @@
     "platforms": {
       "linkedin": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Thirty days from now, one of two things will be true.\n\nOption one: everything is the same.\n\nYour phone is still on your nightstand. You are still waking to notifications before your feet touch the floor. Your best professional work is still being deferred by an environment that will not allow the focus it requires. The person you love most is still competing with a screen for your attention — and the screen is still winning most evenings.\n\nOption two: you built the system.\n\nYour bedroom is a sanctuary. You are sleeping ninety minutes more than you were a month ago and waking with the clarity you thought you had permanently lost to age. You are producing ninety-minute blocks of focused, uninterrupted deep work that remind you what you are actually capable of. The first fifteen minutes after you come home from work belong to the people who were waiting for you. Your phone is a tool you use deliberately rather than a current you live inside of.\n\nBoth options cost you thirty days.\n\nOne of them costs you nothing else.\n\nDigital Boundaries is the 30-day system that builds Option Two from the ground up — one daily action, one protocol, one reclaimed domain at a time.\n\nThe Sleep Sovereignty Protocol. The Monk Mode Protocol. The Relational Presence System. The Social Media Sovereignty System. The STOP Protocol. The Personal Anchor Menu. Twelve chapters. A 30-Day Plan. Your own before-and-after data to prove it worked.\n\nThis is the architecture your willpower was never designed to be.\n\nYour attention is yours to give. Not to surrender. Not to have extracted.\n\nTo give, deliberately, to the things and people and work and moments that deserve it.\n\nAvailable now.\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #DigitalWellness #DeepWork #SleepBetter #AttentionManagement #IntentionalLiving #Publixion",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"type\":\"Buffer\",\"data\":[52,48,52,58,32,78,111,116,32,70,111,117,110,100]}"
       },
       "facebook": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Thirty days from now, one of two things will be true.\n\nEverything is the same — phone on the nightstand, attention fragmented, the people you love still competing with a screen and losing.\n\nOr you built the system.\n\nDeep sleep. Genuine focus. Real presence with the people who matter. A phone that serves you instead of directing you.\n\nBoth options take thirty days.\n\nOne of them builds something that holds for life.\n\nDigital Boundaries. Available now.\n\nThe Sleep Sovereignty Protocol. The Monk Mode Protocol. The Relational Presence System. A 30-Day Plan. Your own before-and-after data.\n\nThe architecture your willpower was never designed to be.\n\n📖 publixion.com/book/digital-boundaries\n\n#DigitalBoundaries #DigitalWellness #Publixion #IntentionalLiving",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Ae3TrcKd-1HUnoO00xBHsqB\"}}"
       },
       "instagram": {
         "enabled": true,
-        "status": "pending",
+        "status": "failed",
         "posted_at": null,
         "post_id": null,
         "text": "Thirty days from now, one of two things will be true.\n\nEverything the same.\n\nOr:\n\nYou are sleeping the way you slept before screens owned your bedroom.\nYou are thinking the way you thought before notifications owned your mornings.\nYou are present in the way the people you love deserve you to be.\n\nBoth options take thirty days.\n\nOnly one of them builds something.\n\nDigital Boundaries. Available now.\n\nLink in bio.\n\n#DigitalBoundaries #DigitalWellness #IntentionalLiving #DeepWork #SleepBetter #PhoneAddiction #ScreenTime #BePresent #Publixion #AttentionManagement",
-        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png"
+        "image_url": "https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png",
+        "error": "{\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://raw.githubusercontent.com/ShehryarAsif09/Publixion-Publisher/main/images/books/Digital-Boundaries.png.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ATijQifwBKZWcIT3heFWava\"}}"
       }
     }
   },
